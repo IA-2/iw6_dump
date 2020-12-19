@@ -1,0 +1,14 @@
+{
+    "name": "ncs_loc_eng_mp_alien_beacon",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "ALIEN_PILLAGE_INTEL_ALREADY_HAVE_INTEL"
+        },
+        {
+            "string": "ALIEN_PILLAGE_INTEL_PICKUP_INTEL"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "name": "ncs_anm_common_alien_mp",
+    "stringType": 18,
+    "sourceType": 2,
+    "entryCount": 25,
+    "strings": [
+        {
+            "string": "alien_goon_sentry_attack_sentry_f_enter"
+        },
+        {
+            "string": "alien_goon_sentry_attack_sentry_f_exit"
+        },
+        {
+            "string": "alien_goon_sentry_attack_sentry_f_loop"
+        },
+        {
+            "string": "alien_goon_sentry_attack_sentry_l_enter"
+        },
+        {
+            "string": "alien_goon_sentry_attack_sentry_l_exit"
+        },
+        {
+            "string": "alien_goon_sentry_attack_sentry_l_loop"
+        },
+        {
+            "string": "alien_goon_sentry_attack_sentry_r_enter"
+        },
+        {
+            "string": "alien_goon_sentry_attack_sentry_r_exit"
+        },
+        {
+            "string": "alien_goon_sentry_attack_sentry_r_loop"
+        },
+        {
+            "string": "alien_sentry_attack_sentry_front_enter"
+        },
+        {
+            "string": "alien_sentry_attack_sentry_front_exit"
+        },
+        {
+            "string": "alien_sentry_attack_sentry_front_loop"
+        },
+        {
+            "string": "alien_sentry_attack_sentry_side_l_enter"
+        },
+        {
+            "string": "alien_sentry_attack_sentry_side_l_exit"
+        },
+        {
+            "string": "alien_sentry_attack_sentry_side_l_loop"
+        },
+        {
+            "string": "alien_sentry_attack_sentry_side_r_enter"
+        },
+        {
+            "string": "alien_sentry_attack_sentry_side_r_exit"
+        },
+        {
+            "string": "alien_sentry_attack_sentry_side_r_loop"
+        },
+        {
+            "string": "ims_scorpion_1_opened"
+        },
+        {
+            "string": "ims_scorpion_2_opened"
+        },
+        {
+            "string": "ims_scorpion_3_opened"
+        },
+        {
+            "string": "ims_scorpion_door_1"
+        },
+        {
+            "string": "ims_scorpion_door_2"
+        },
+        {
+            "string": "ims_scorpion_door_3"
+        },
+        {
+            "string": "ims_scorpion_door_4"
+        }
+    ]
+}

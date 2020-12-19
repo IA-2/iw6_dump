@@ -1,0 +1,122 @@
+{
+    "name": "ncs_loc_eng_patch_common_alien_mp",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 38,
+    "strings": [
+        {
+            "string": "ALIENS_PATCH_CANCEL_USE"
+        },
+        {
+            "string": "ALIENS_PATCH_CHANGE_STANCE"
+        },
+        {
+            "string": "ALIENS_PATCH_COMBINED_AMMO_PICKUP"
+        },
+        {
+            "string": "ALIENS_PATCH_ELECTRIC_TRAP_OFFLINE"
+        },
+        {
+            "string": "ALIENS_PATCH_FOUND_ARK"
+        },
+        {
+            "string": "ALIENS_PATCH_FOUND_XMAGS"
+        },
+        {
+            "string": "ALIENS_PATCH_LEASH_MAX"
+        },
+        {
+            "string": "ALIENS_PATCH_PICKUP_COMBINED_AMMO"
+        },
+        {
+            "string": "ALIENS_PATCH_PRESS_TO_CARRY"
+        },
+        {
+            "string": "ALIENS_PATCH_STUN_AMMO_TAKEN"
+        },
+        {
+            "string": "ALIEN_CHAOS_BONUS_PICKUP"
+        },
+        {
+            "string": "ALIEN_CHAOS_BONUS_TAKING"
+        },
+        {
+            "string": "ALIEN_CHAOS_CANT_PICKUP_BONUS"
+        },
+        {
+            "string": "ALIEN_CHAOS_DOUBLE_KILL"
+        },
+        {
+            "string": "ALIEN_CHAOS_MEGA_KILL"
+        },
+        {
+            "string": "ALIEN_CHAOS_NEW_WEAPON_PICKUP"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_AGILITY"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_BULLET_DAMAGE_1"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_BULLET_DAMAGE_2"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_FASTRELOAD"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_FAST_REGEN"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_FERAL_VISION"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_GAS_MASK"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_MARATHON"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_MORE_CASH"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_MORE_HEALTH"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_QUICKDRAW"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_QUICK_REVIVE"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_STALKER"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_STEADY_AIM"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_STRONGER_MELEE"
+        },
+        {
+            "string": "ALIEN_CHAOS_PERK_TRAP_MASTER"
+        },
+        {
+            "string": "ALIEN_CHAOS_QUAD_KILL"
+        },
+        {
+            "string": "ALIEN_CHAOS_SKILL_IN_USE"
+        },
+        {
+            "string": "ALIEN_CHAOS_SOFLAM_HINT"
+        },
+        {
+            "string": "ALIEN_CHAOS_TRIPLE_KILL"
+        },
+        {
+            "string": "ALIEN_CHAOS_USE_DEPLOYABLE"
+        },
+        {
+            "string": "ALIEN_CHAOS_WEAPON_PICKUP_HINT"
+        }
+    ]
+}

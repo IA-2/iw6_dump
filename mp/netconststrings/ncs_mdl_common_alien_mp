@@ -1,0 +1,101 @@
+{
+    "name": "ncs_mdl_common_alien_mp",
+    "stringType": 0,
+    "sourceType": 2,
+    "entryCount": 31,
+    "strings": [
+        {
+            "string": "defaultvehicle"
+        },
+        {
+            "string": "head_mp_head_a"
+        },
+        {
+            "string": "ims_scorpion_body_iw6"
+        },
+        {
+            "string": "ims_scorpion_body_iw6_bombsquad"
+        },
+        {
+            "string": "ims_scorpion_body_iw6_placement"
+        },
+        {
+            "string": "ims_scorpion_body_iw6_placement_failed"
+        },
+        {
+            "string": "ims_scorpion_explosive_iw6"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_arctic"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_desert"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_elite"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_urban"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_woodland"
+        },
+        {
+            "string": "mp_ext_alien_hive03_collision"
+        },
+        {
+            "string": "mp_weapon_alien_crate"
+        },
+        {
+            "string": "vehicle_drone_backup_buddy"
+        },
+        {
+            "string": "vehicle_drone_backup_buddy_gun"
+        },
+        {
+            "string": "viewhands_us_rangers_arctic"
+        },
+        {
+            "string": "viewhands_us_rangers_desert"
+        },
+        {
+            "string": "viewhands_us_rangers_elite"
+        },
+        {
+            "string": "viewhands_us_rangers_urban"
+        },
+        {
+            "string": "viewhands_us_rangers_woodland"
+        },
+        {
+            "string": "viewmodel_riot_shield_mp"
+        },
+        {
+            "string": "weapon_riot_shield_iw6"
+        },
+        {
+            "string": "weapon_riot_shield_jug_iw6"
+        },
+        {
+            "string": "weapon_sentry_chaingun"
+        },
+        {
+            "string": "weapon_sentry_chaingun_destroyed"
+        },
+        {
+            "string": "weapon_sentry_chaingun_obj"
+        },
+        {
+            "string": "weapon_sentry_chaingun_obj_red"
+        },
+        {
+            "string": "weapon_standing_turret_grenade_launcher"
+        },
+        {
+            "string": "weapon_standing_turret_grenade_launcher_obj"
+        },
+        {
+            "string": "weapon_standing_turret_grenade_launcher_obj_red"
+        }
+    ]
+}

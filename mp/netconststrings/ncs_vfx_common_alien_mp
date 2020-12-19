@@ -1,0 +1,107 @@
+{
+    "name": "ncs_vfx_common_alien_mp",
+    "stringType": 4,
+    "sourceType": 2,
+    "entryCount": 33,
+    "strings": [
+        {
+            "string": "fx/explosions/aerial_explosion"
+        },
+        {
+            "string": "fx/explosions/alien_hive_explosion"
+        },
+        {
+            "string": "fx/explosions/transformer_sparks_b_sound"
+        },
+        {
+            "string": "fx/explosions/transformer_sparks_f_sound"
+        },
+        {
+            "string": "fx/explosions/uav_advanced_death"
+        },
+        {
+            "string": "fx/impacts/footstep_alien_default"
+        },
+        {
+            "string": "fx/impacts/footstep_alien_small_default"
+        },
+        {
+            "string": "vfx/ambient/sparks/electrical_sparks"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_chopper_escape_ring"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_drill_laser"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_drill_laser_contact"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_gas_fire"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_lightning_bolt"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_mortar_explosion"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_on_fire"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_on_fire_noloop"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_propane_tank_exp_cheaper"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_propane_tank_exp_cheapest"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_propane_tank_explosion"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_trap_fire"
+        },
+        {
+            "string": "vfx/gameplay/impacts/small/impact_alien_flesh_hit_b_fatal"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_ims_explosion"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_ims_sparks"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_light_detonator_blink"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_sentry_gun_explosion"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_sg_damage_blacksmoke"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_sg_overheat_smoke"
+        },
+        {
+            "string": "vfx/gameplay/screen_effects/vfx_scrnfx_alien_blood"
+        },
+        {
+            "string": "vfx/moments/alien/fence_lightning_ambient"
+        },
+        {
+            "string": "vfx/moments/alien/fence_lightning_shock"
+        },
+        {
+            "string": "vfx/moments/alien/fence_lightning_turn_on"
+        },
+        {
+            "string": "vfx/test/vfx_alien_teleport"
+        },
+        {
+            "string": "vfx/test/vfx_alien_teleport_dist"
+        }
+    ]
+}

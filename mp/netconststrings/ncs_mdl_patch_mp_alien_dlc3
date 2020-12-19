@@ -1,0 +1,11 @@
+{
+    "name": "ncs_mdl_patch_mp_alien_dlc3",
+    "stringType": 0,
+    "sourceType": 1,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "dct_alien_plant01_top"
+        }
+    ]
+}

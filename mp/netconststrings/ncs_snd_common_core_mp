@@ -1,0 +1,1985 @@
+{
+    "name": "ncs_snd_common_core_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "entryCount": 659,
+    "strings": [
+        {
+            "string": "MP_bomb_defuse"
+        },
+        {
+            "string": "MP_bomb_plant"
+        },
+        {
+            "string": "MP_hit_alert"
+        },
+        {
+            "string": "a10p_gatling_tail"
+        },
+        {
+            "string": "a10p_impact"
+        },
+        {
+            "string": "a10p_missile_launch"
+        },
+        {
+            "string": "aas72x_helicopter_bounce_destroy"
+        },
+        {
+            "string": "aas72x_helicopter_dirtsplash"
+        },
+        {
+            "string": "aas72x_helicopter_dirtsplash_small"
+        },
+        {
+            "string": "aas72x_helicopter_explosion"
+        },
+        {
+            "string": "aas72x_helicopter_explosion_boom"
+        },
+        {
+            "string": "aas72x_helicopter_explosion_hit"
+        },
+        {
+            "string": "aas72x_helicopter_explosion_layer"
+        },
+        {
+            "string": "aas72x_helicopter_explosion_metal"
+        },
+        {
+            "string": "aas72x_helicopter_spin"
+        },
+        {
+            "string": "aas72x_helicopter_watersplash_small"
+        },
+        {
+            "string": "aascout72x_helicopter_crash"
+        },
+        {
+            "string": "aascout72x_helicopter_crash_close"
+        },
+        {
+            "string": "aascout72x_helicopter_crash_detail"
+        },
+        {
+            "string": "aascout72x_helicopter_crash_dist"
+        },
+        {
+            "string": "aascout72x_helicopter_hit"
+        },
+        {
+            "string": "aascout72x_helicopter_hit_2"
+        },
+        {
+            "string": "aascout72x_helicopter_secondary_exp"
+        },
+        {
+            "string": "aascout72x_helicopter_secondary_exp_boom"
+        },
+        {
+            "string": "aascout72x_helicopter_secondary_exp_close"
+        },
+        {
+            "string": "ab_defeat_music"
+        },
+        {
+            "string": "ab_losing_music"
+        },
+        {
+            "string": "ab_spawn_music"
+        },
+        {
+            "string": "ab_victory_music"
+        },
+        {
+            "string": "ab_winning_music"
+        },
+        {
+            "string": "ac130_105mm_fire"
+        },
+        {
+            "string": "ac130_105mm_fire_npc"
+        },
+        {
+            "string": "ac130_105mm_reload"
+        },
+        {
+            "string": "ac130_40mm_fire"
+        },
+        {
+            "string": "ac130_40mm_fire_npc"
+        },
+        {
+            "string": "ac130_40mm_reload"
+        },
+        {
+            "string": "af_defeat_music"
+        },
+        {
+            "string": "af_losing_music"
+        },
+        {
+            "string": "af_spawn_music"
+        },
+        {
+            "string": "af_victory_music"
+        },
+        {
+            "string": "af_winning_music"
+        },
+        {
+            "string": "amb_ceiling_debris"
+        },
+        {
+            "string": "ammo_crate_use"
+        },
+        {
+            "string": "anml_dog_angry_growl_npc"
+        },
+        {
+            "string": "anml_dog_attack_fence"
+        },
+        {
+            "string": "anml_dog_attack_jump"
+        },
+        {
+            "string": "anml_dog_attack_jump_collar"
+        },
+        {
+            "string": "anml_dog_attack_kill_player"
+        },
+        {
+            "string": "anml_dog_attack_kill_player_npc"
+        },
+        {
+            "string": "anml_dog_attack_miss"
+        },
+        {
+            "string": "anml_dog_attack_miss_collar"
+        },
+        {
+            "string": "anml_dog_attack_npc_idle"
+        },
+        {
+            "string": "anml_dog_attack_npc_idle_collar"
+        },
+        {
+            "string": "anml_dog_attack_npc_jump"
+        },
+        {
+            "string": "anml_dog_attack_npc_jump_collar"
+        },
+        {
+            "string": "anml_dog_attack_npc_kill"
+        },
+        {
+            "string": "anml_dog_attack_npc_kill_collar"
+        },
+        {
+            "string": "anml_dog_attack_npc_middle"
+        },
+        {
+            "string": "anml_dog_attack_npc_middle_collar"
+        },
+        {
+            "string": "anml_dog_attack_npc_pushed"
+        },
+        {
+            "string": "anml_dog_attack_npc_pushed_collar"
+        },
+        {
+            "string": "anml_dog_bark"
+        },
+        {
+            "string": "anml_dog_bark_attack_start_npc"
+        },
+        {
+            "string": "anml_dog_bark_attention"
+        },
+        {
+            "string": "anml_dog_bark_attention_npc"
+        },
+        {
+            "string": "anml_dog_bark_collar"
+        },
+        {
+            "string": "anml_dog_bark_collar_plr"
+        },
+        {
+            "string": "anml_dog_bark_plr"
+        },
+        {
+            "string": "anml_dog_bite"
+        },
+        {
+            "string": "anml_dog_collar_foley_npc"
+        },
+        {
+            "string": "anml_dog_collar_foley_plr"
+        },
+        {
+            "string": "anml_dog_die_front"
+        },
+        {
+            "string": "anml_dog_die_front_collar"
+        },
+        {
+            "string": "anml_dog_excited_distant"
+        },
+        {
+            "string": "anml_dog_foley_death"
+        },
+        {
+            "string": "anml_dog_foley_pain_alert"
+        },
+        {
+            "string": "anml_dog_foley_pain_run"
+        },
+        {
+            "string": "anml_dog_growl"
+        },
+        {
+            "string": "anml_dog_hit_fence"
+        },
+        {
+            "string": "anml_dog_idle_look"
+        },
+        {
+            "string": "anml_dog_jump_over"
+        },
+        {
+            "string": "anml_dog_jump_over_collar"
+        },
+        {
+            "string": "anml_dog_mvmt_accent_npc"
+        },
+        {
+            "string": "anml_dog_mvmt_accent_plr"
+        },
+        {
+            "string": "anml_dog_mvmt_accent_run_npc"
+        },
+        {
+            "string": "anml_dog_mvmt_accent_run_plr"
+        },
+        {
+            "string": "anml_dog_mvmt_vest_npc"
+        },
+        {
+            "string": "anml_dog_mvmt_vest_plr"
+        },
+        {
+            "string": "anml_dog_mvmt_vest_run_npc"
+        },
+        {
+            "string": "anml_dog_mvmt_vest_run_plr"
+        },
+        {
+            "string": "anml_dog_neckbreak_collar"
+        },
+        {
+            "string": "anml_dog_neckbreak_pain"
+        },
+        {
+            "string": "anml_dog_pant_hvy_0"
+        },
+        {
+            "string": "anml_dog_pant_hvy_1"
+        },
+        {
+            "string": "anml_dog_pant_hvy_10"
+        },
+        {
+            "string": "anml_dog_pant_hvy_11"
+        },
+        {
+            "string": "anml_dog_pant_hvy_12"
+        },
+        {
+            "string": "anml_dog_pant_hvy_13"
+        },
+        {
+            "string": "anml_dog_pant_hvy_2"
+        },
+        {
+            "string": "anml_dog_pant_hvy_3"
+        },
+        {
+            "string": "anml_dog_pant_hvy_4"
+        },
+        {
+            "string": "anml_dog_pant_hvy_5"
+        },
+        {
+            "string": "anml_dog_pant_hvy_6"
+        },
+        {
+            "string": "anml_dog_pant_hvy_7"
+        },
+        {
+            "string": "anml_dog_pant_hvy_8"
+        },
+        {
+            "string": "anml_dog_pant_hvy_9"
+        },
+        {
+            "string": "anml_dog_pant_med_0"
+        },
+        {
+            "string": "anml_dog_pant_med_1"
+        },
+        {
+            "string": "anml_dog_pant_med_10"
+        },
+        {
+            "string": "anml_dog_pant_med_11"
+        },
+        {
+            "string": "anml_dog_pant_med_12"
+        },
+        {
+            "string": "anml_dog_pant_med_2"
+        },
+        {
+            "string": "anml_dog_pant_med_3"
+        },
+        {
+            "string": "anml_dog_pant_med_4"
+        },
+        {
+            "string": "anml_dog_pant_med_5"
+        },
+        {
+            "string": "anml_dog_pant_med_6"
+        },
+        {
+            "string": "anml_dog_pant_med_7"
+        },
+        {
+            "string": "anml_dog_pant_med_8"
+        },
+        {
+            "string": "anml_dog_pant_med_9"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_0"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_1"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_10"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_11"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_12"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_13"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_2"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_3"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_4"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_5"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_6"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_7"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_8"
+        },
+        {
+            "string": "anml_dog_pant_plr_hvy_9"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_0"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_1"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_10"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_11"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_12"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_2"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_3"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_4"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_5"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_6"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_7"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_8"
+        },
+        {
+            "string": "anml_dog_pant_plr_med_9"
+        },
+        {
+            "string": "anml_dog_pants_fast"
+        },
+        {
+            "string": "anml_dog_pants_fast_plr"
+        },
+        {
+            "string": "anml_dog_pants_med"
+        },
+        {
+            "string": "anml_dog_pants_med_plr"
+        },
+        {
+            "string": "anml_dog_pants_mp_fast"
+        },
+        {
+            "string": "anml_dog_pants_mp_med"
+        },
+        {
+            "string": "anml_dog_run_hurt"
+        },
+        {
+            "string": "anml_dog_run_hurt_collar"
+        },
+        {
+            "string": "anml_dog_run_stop"
+        },
+        {
+            "string": "anml_dog_run_stop_collar"
+        },
+        {
+            "string": "anml_dog_shot_death"
+        },
+        {
+            "string": "anml_dog_shot_death_collar"
+        },
+        {
+            "string": "anml_dog_shot_death_plr"
+        },
+        {
+            "string": "anml_dog_shot_pain"
+        },
+        {
+            "string": "anml_dog_shot_pain_collar"
+        },
+        {
+            "string": "anml_dog_whine"
+        },
+        {
+            "string": "ball_drone_3Dping"
+        },
+        {
+            "string": "ball_drone_explode"
+        },
+        {
+            "string": "ball_drone_lockon"
+        },
+        {
+            "string": "ball_drone_targeting"
+        },
+        {
+            "string": "battle_hind_bomb_release"
+        },
+        {
+            "string": "battle_hind_missile_fire"
+        },
+        {
+            "string": "breach_beep"
+        },
+        {
+            "string": "bullet_small_auto_glass"
+        },
+        {
+            "string": "car_alarm_off"
+        },
+        {
+            "string": "car_explode"
+        },
+        {
+            "string": "car_explode_boom"
+        },
+        {
+            "string": "car_explode_boom2"
+        },
+        {
+            "string": "car_explode_detail"
+        },
+        {
+            "string": "car_explode_dist"
+        },
+        {
+            "string": "car_explode_donut"
+        },
+        {
+            "string": "car_explode_police"
+        },
+        {
+            "string": "car_explode_police_boom"
+        },
+        {
+            "string": "car_explode_police_boom2"
+        },
+        {
+            "string": "car_explode_police_detail"
+        },
+        {
+            "string": "car_explode_police_dist"
+        },
+        {
+            "string": "car_explode_police_donut"
+        },
+        {
+            "string": "cobra_helicopter_crash"
+        },
+        {
+            "string": "cobra_helicopter_crash_close"
+        },
+        {
+            "string": "cobra_helicopter_crash_detail"
+        },
+        {
+            "string": "cobra_helicopter_crash_dist"
+        },
+        {
+            "string": "cobra_helicopter_damaged"
+        },
+        {
+            "string": "cobra_helicopter_hit"
+        },
+        {
+            "string": "cobra_helicopter_hit_2"
+        },
+        {
+            "string": "cobra_helicopter_secondary_exp"
+        },
+        {
+            "string": "cobra_helicopter_secondary_exp_boom"
+        },
+        {
+            "string": "cobra_helicopter_secondary_exp_close"
+        },
+        {
+            "string": "conf_killconfirmed_drop_tags"
+        },
+        {
+            "string": "conf_killconfirmed_pickup_tags"
+        },
+        {
+            "string": "copycat_steal_class"
+        },
+        {
+            "string": "counter_uav_activate"
+        },
+        {
+            "string": "counter_uav_deactivate"
+        },
+        {
+            "string": "crate_teleport_safeguard"
+        },
+        {
+            "string": "disable_activeperk"
+        },
+        {
+            "string": "dog_neckbreak"
+        },
+        {
+            "string": "dog_neckbreak_layer"
+        },
+        {
+            "string": "dogcall_whistle"
+        },
+        {
+            "string": "dogcall_whistle_npc"
+        },
+        {
+            "string": "dogstep_land_cement"
+        },
+        {
+            "string": "dogstep_land_dirt"
+        },
+        {
+            "string": "dogstep_land_metal"
+        },
+        {
+            "string": "dogstep_land_wood"
+        },
+        {
+            "string": "dogstep_plr_land_cement"
+        },
+        {
+            "string": "dogstep_plr_land_dirt"
+        },
+        {
+            "string": "dogstep_plr_land_metal"
+        },
+        {
+            "string": "dogstep_plr_land_wood"
+        },
+        {
+            "string": "dogstep_plr_run_cement"
+        },
+        {
+            "string": "dogstep_plr_run_default"
+        },
+        {
+            "string": "dogstep_plr_run_dirt"
+        },
+        {
+            "string": "dogstep_plr_run_metal"
+        },
+        {
+            "string": "dogstep_plr_run_wood"
+        },
+        {
+            "string": "dogstep_plr_sprint_cement"
+        },
+        {
+            "string": "dogstep_plr_sprint_dirt"
+        },
+        {
+            "string": "dogstep_plr_sprint_metal"
+        },
+        {
+            "string": "dogstep_plr_sprint_wood"
+        },
+        {
+            "string": "dogstep_plr_walk_cement"
+        },
+        {
+            "string": "dogstep_plr_walk_dirt"
+        },
+        {
+            "string": "dogstep_plr_walk_metal"
+        },
+        {
+            "string": "dogstep_plr_walk_wood"
+        },
+        {
+            "string": "dogstep_run_cement"
+        },
+        {
+            "string": "dogstep_run_default"
+        },
+        {
+            "string": "dogstep_run_dirt"
+        },
+        {
+            "string": "dogstep_run_metal"
+        },
+        {
+            "string": "dogstep_run_wood"
+        },
+        {
+            "string": "dogstep_sprint_cement"
+        },
+        {
+            "string": "dogstep_sprint_dirt"
+        },
+        {
+            "string": "dogstep_sprint_metal"
+        },
+        {
+            "string": "dogstep_sprint_wood"
+        },
+        {
+            "string": "dogstep_walk_cement"
+        },
+        {
+            "string": "dogstep_walk_dirt"
+        },
+        {
+            "string": "dogstep_walk_metal"
+        },
+        {
+            "string": "dogstep_walk_wood"
+        },
+        {
+            "string": "earn_perk"
+        },
+        {
+            "string": "earn_superbonus"
+        },
+        {
+            "string": "emp_activate"
+        },
+        {
+            "string": "enable_activeperk"
+        },
+        {
+            "string": "exp_9_bang"
+        },
+        {
+            "string": "exp_9_bang_dist"
+        },
+        {
+            "string": "exp_9_bang_layer"
+        },
+        {
+            "string": "exp_a10_missile"
+        },
+        {
+            "string": "exp_a10_missile_boom"
+        },
+        {
+            "string": "exp_a10_missile_debris"
+        },
+        {
+            "string": "exp_a10_missile_dist_sub"
+        },
+        {
+            "string": "exp_ac130_105mm"
+        },
+        {
+            "string": "exp_ac130_105mm_boom"
+        },
+        {
+            "string": "exp_ac130_105mm_debris"
+        },
+        {
+            "string": "exp_ac130_105mm_dist"
+        },
+        {
+            "string": "exp_ac130_105mm_flash"
+        },
+        {
+            "string": "exp_ac130_105mm_sub"
+        },
+        {
+            "string": "exp_ac130_40mm"
+        },
+        {
+            "string": "exp_ac130_40mm_boom"
+        },
+        {
+            "string": "exp_ac130_40mm_close"
+        },
+        {
+            "string": "exp_ac130_40mm_dist"
+        },
+        {
+            "string": "exp_ac130_40mm_flash"
+        },
+        {
+            "string": "exp_ac130_40mm_sub"
+        },
+        {
+            "string": "exp_airstrike_bomb"
+        },
+        {
+            "string": "exp_airstrike_bomb_dirt"
+        },
+        {
+            "string": "exp_airstrike_bomb_distant"
+        },
+        {
+            "string": "exp_airstrike_bomb_layer"
+        },
+        {
+            "string": "exp_hind_bomb"
+        },
+        {
+            "string": "exp_hind_bomb_close"
+        },
+        {
+            "string": "exp_hind_bomb_dist"
+        },
+        {
+            "string": "exp_hind_bomb_layer"
+        },
+        {
+            "string": "exp_hind_missile"
+        },
+        {
+            "string": "exp_hind_missile_close"
+        },
+        {
+            "string": "exp_hind_missile_dist"
+        },
+        {
+            "string": "exp_hind_missile_layer"
+        },
+        {
+            "string": "exp_suitcase_bomb_main"
+        },
+        {
+            "string": "exp_suitcase_bomb_secondary"
+        },
+        {
+            "string": "exp_suitcase_bomb_stereo"
+        },
+        {
+            "string": "exp_suitcase_bomb_sweet"
+        },
+        {
+            "string": "fire_vehicle_flareup_med"
+        },
+        {
+            "string": "fire_vehicle_flareup_med_layer"
+        },
+        {
+            "string": "flag_spawned"
+        },
+        {
+            "string": "fr_defeat_music"
+        },
+        {
+            "string": "fr_losing_music"
+        },
+        {
+            "string": "fr_spawn_music"
+        },
+        {
+            "string": "fr_victory_music"
+        },
+        {
+            "string": "fr_winning_music"
+        },
+        {
+            "string": "hind_gatling_cooldown"
+        },
+        {
+            "string": "hind_helicopter_bounce_destroy"
+        },
+        {
+            "string": "hind_helicopter_dirtsplash"
+        },
+        {
+            "string": "hind_helicopter_dirtsplash_small"
+        },
+        {
+            "string": "hind_helicopter_explosion"
+        },
+        {
+            "string": "hind_helicopter_explosion_boom"
+        },
+        {
+            "string": "hind_helicopter_explosion_hit"
+        },
+        {
+            "string": "hind_helicopter_explosion_layer"
+        },
+        {
+            "string": "hind_helicopter_explosion_metal"
+        },
+        {
+            "string": "hind_helicopter_spin"
+        },
+        {
+            "string": "hind_helicopter_watersplash_small"
+        },
+        {
+            "string": "ic_defeat_music"
+        },
+        {
+            "string": "ic_losing_music"
+        },
+        {
+            "string": "ic_spawn_music"
+        },
+        {
+            "string": "ic_victory_music"
+        },
+        {
+            "string": "ic_winning_music"
+        },
+        {
+            "string": "ims_destroyed"
+        },
+        {
+            "string": "ims_destroyed_sparks"
+        },
+        {
+            "string": "ims_fire"
+        },
+        {
+            "string": "ims_launch"
+        },
+        {
+            "string": "ims_plant"
+        },
+        {
+            "string": "ims_rocket_fire_npc"
+        },
+        {
+            "string": "ims_trigger"
+        },
+        {
+            "string": "item_blast_shield_off"
+        },
+        {
+            "string": "item_blast_shield_on"
+        },
+        {
+            "string": "juggernaut_breathing_player"
+        },
+        {
+            "string": "juggernaut_breathing_sound"
+        },
+        {
+            "string": "kem_explosion"
+        },
+        {
+            "string": "kem_explosion_boom"
+        },
+        {
+            "string": "kem_explosion_debris"
+        },
+        {
+            "string": "kem_explosion_dist_sub"
+        },
+        {
+            "string": "kem_incoming"
+        },
+        {
+            "string": "kem_launch"
+        },
+        {
+            "string": "maaws_reticle_locked"
+        },
+        {
+            "string": "maaws_reticle_tracking"
+        },
+        {
+            "string": "missile_incoming"
+        },
+        {
+            "string": "motion_click"
+        },
+        {
+            "string": "motion_explode_default"
+        },
+        {
+            "string": "motion_explode_pop"
+        },
+        {
+            "string": "motion_explode_pulse"
+        },
+        {
+            "string": "motion_spin"
+        },
+        {
+            "string": "mp_become_infected"
+        },
+        {
+            "string": "mp_blitz_enemy_score"
+        },
+        {
+            "string": "mp_blitz_friendly_score"
+        },
+        {
+            "string": "mp_bomb_start_defusing"
+        },
+        {
+            "string": "mp_bonus_end"
+        },
+        {
+            "string": "mp_bonus_start"
+        },
+        {
+            "string": "mp_bounty_target_killed"
+        },
+        {
+            "string": "mp_box_guns_ammo"
+        },
+        {
+            "string": "mp_capture_flag"
+        },
+        {
+            "string": "mp_card_slide"
+        },
+        {
+            "string": "mp_challenge_complete"
+        },
+        {
+            "string": "mp_cranked_assist_boost"
+        },
+        {
+            "string": "mp_cranked_begin"
+        },
+        {
+            "string": "mp_cranked_boost"
+        },
+        {
+            "string": "mp_cranked_countdown"
+        },
+        {
+            "string": "mp_defcon_down"
+        },
+        {
+            "string": "mp_defcon_one"
+        },
+        {
+            "string": "mp_defcon_text_slide"
+        },
+        {
+            "string": "mp_dog_attack_front_npc"
+        },
+        {
+            "string": "mp_dog_attack_quick_back_npc"
+        },
+        {
+            "string": "mp_dog_attack_short_npc"
+        },
+        {
+            "string": "mp_dog_run_attack"
+        },
+        {
+            "string": "mp_dom_flag_captured"
+        },
+        {
+            "string": "mp_dom_flag_lost"
+        },
+        {
+            "string": "mp_enemy_dog_killed"
+        },
+        {
+            "string": "mp_enemy_hvt_killed"
+        },
+        {
+            "string": "mp_enemy_obj_captured"
+        },
+        {
+            "string": "mp_enemy_obj_returned"
+        },
+        {
+            "string": "mp_enemy_obj_taken"
+        },
+        {
+            "string": "mp_enemy_squadmem_killed"
+        },
+        {
+            "string": "mp_grind_token_banked"
+        },
+        {
+            "string": "mp_grind_token_deny"
+        },
+        {
+            "string": "mp_grind_token_drop"
+        },
+        {
+            "string": "mp_grind_token_pickup"
+        },
+        {
+            "string": "mp_ingame_summary"
+        },
+        {
+            "string": "mp_intel_fail"
+        },
+        {
+            "string": "mp_intel_received"
+        },
+        {
+            "string": "mp_intel_success"
+        },
+        {
+            "string": "mp_killconfirm_tags_deny"
+        },
+        {
+            "string": "mp_killconfirm_tags_drop"
+        },
+        {
+            "string": "mp_killconfirm_tags_pickup"
+        },
+        {
+            "string": "mp_killstreak_a10"
+        },
+        {
+            "string": "mp_killstreak_ac130"
+        },
+        {
+            "string": "mp_killstreak_adv_uav"
+        },
+        {
+            "string": "mp_killstreak_air_superiority"
+        },
+        {
+            "string": "mp_killstreak_airdrop"
+        },
+        {
+            "string": "mp_killstreak_ballistic_vest"
+        },
+        {
+            "string": "mp_killstreak_battle_hind"
+        },
+        {
+            "string": "mp_killstreak_box_guns"
+        },
+        {
+            "string": "mp_killstreak_carepackage"
+        },
+        {
+            "string": "mp_killstreak_choppergunner"
+        },
+        {
+            "string": "mp_killstreak_counteruav"
+        },
+        {
+            "string": "mp_killstreak_disappear"
+        },
+        {
+            "string": "mp_killstreak_disappear_layer"
+        },
+        {
+            "string": "mp_killstreak_emp"
+        },
+        {
+            "string": "mp_killstreak_ground_jammer"
+        },
+        {
+            "string": "mp_killstreak_gryphon"
+        },
+        {
+            "string": "mp_killstreak_guard_dog"
+        },
+        {
+            "string": "mp_killstreak_harrier"
+        },
+        {
+            "string": "mp_killstreak_heli"
+        },
+        {
+            "string": "mp_killstreak_hellfire"
+        },
+        {
+            "string": "mp_killstreak_helo_scout"
+        },
+        {
+            "string": "mp_killstreak_helopilot"
+        },
+        {
+            "string": "mp_killstreak_ims"
+        },
+        {
+            "string": "mp_killstreak_jet"
+        },
+        {
+            "string": "mp_killstreak_jugg_assault"
+        },
+        {
+            "string": "mp_killstreak_jugg_maniac"
+        },
+        {
+            "string": "mp_killstreak_jugg_recon"
+        },
+        {
+            "string": "mp_killstreak_juggernaut"
+        },
+        {
+            "string": "mp_killstreak_kem"
+        },
+        {
+            "string": "mp_killstreak_lbguard"
+        },
+        {
+            "string": "mp_killstreak_loki"
+        },
+        {
+            "string": "mp_killstreak_maaws"
+        },
+        {
+            "string": "mp_killstreak_moab"
+        },
+        {
+            "string": "mp_killstreak_nightowl"
+        },
+        {
+            "string": "mp_killstreak_nuclearstrike"
+        },
+        {
+            "string": "mp_killstreak_odin"
+        },
+        {
+            "string": "mp_killstreak_oracle"
+        },
+        {
+            "string": "mp_killstreak_osprey"
+        },
+        {
+            "string": "mp_killstreak_pavelow"
+        },
+        {
+            "string": "mp_killstreak_radar"
+        },
+        {
+            "string": "mp_killstreak_reaper"
+        },
+        {
+            "string": "mp_killstreak_recon_drone"
+        },
+        {
+            "string": "mp_killstreak_remote_turret"
+        },
+        {
+            "string": "mp_killstreak_satcom_assault"
+        },
+        {
+            "string": "mp_killstreak_satcom_deploy"
+        },
+        {
+            "string": "mp_killstreak_satcom_pullout_npc"
+        },
+        {
+            "string": "mp_killstreak_satcom_pullout_plr"
+        },
+        {
+            "string": "mp_killstreak_satcom_support"
+        },
+        {
+            "string": "mp_killstreak_satcom_throw_npc"
+        },
+        {
+            "string": "mp_killstreak_satcom_throw_plr"
+        },
+        {
+            "string": "mp_killstreak_sentrygun"
+        },
+        {
+            "string": "mp_killstreak_squad_member"
+        },
+        {
+            "string": "mp_killstreak_squad_support"
+        },
+        {
+            "string": "mp_killstreak_stealthbomber"
+        },
+        {
+            "string": "mp_killstreak_strafe_run"
+        },
+        {
+            "string": "mp_killstreak_talon"
+        },
+        {
+            "string": "mp_killstreak_trinity_rocket"
+        },
+        {
+            "string": "mp_killstreak_vest"
+        },
+        {
+            "string": "mp_killstreak_vulture"
+        },
+        {
+            "string": "mp_last_stand"
+        },
+        {
+            "string": "mp_level_up"
+        },
+        {
+            "string": "mp_lose_flag"
+        },
+        {
+            "string": "mp_obj_captured"
+        },
+        {
+            "string": "mp_obj_returned"
+        },
+        {
+            "string": "mp_obj_taken"
+        },
+        {
+            "string": "mp_prestige"
+        },
+        {
+            "string": "mp_safe_air_support"
+        },
+        {
+            "string": "mp_safe_round_boss"
+        },
+        {
+            "string": "mp_safe_round_end"
+        },
+        {
+            "string": "mp_safe_round_loot"
+        },
+        {
+            "string": "mp_safe_round_start"
+        },
+        {
+            "string": "mp_safe_team_ammo"
+        },
+        {
+            "string": "mp_safe_team_last_stand"
+        },
+        {
+            "string": "mp_safe_weapon_up"
+        },
+        {
+            "string": "mp_sar_enemy_eliminated"
+        },
+        {
+            "string": "mp_sar_enemy_rescued"
+        },
+        {
+            "string": "mp_sar_friendly_eliminated"
+        },
+        {
+            "string": "mp_sar_friendly_rescued"
+        },
+        {
+            "string": "mp_splash_screen_default"
+        },
+        {
+            "string": "mp_suitcase_pickup"
+        },
+        {
+            "string": "mp_suspense_01"
+        },
+        {
+            "string": "mp_suspense_02"
+        },
+        {
+            "string": "mp_suspense_03"
+        },
+        {
+            "string": "mp_suspense_04"
+        },
+        {
+            "string": "mp_suspense_05"
+        },
+        {
+            "string": "mp_suspense_06"
+        },
+        {
+            "string": "mp_time_running_out_losing"
+        },
+        {
+            "string": "mp_token_earned"
+        },
+        {
+            "string": "mp_vest_deployed_ui"
+        },
+        {
+            "string": "mp_war_objective_lost"
+        },
+        {
+            "string": "mp_war_objective_taken"
+        },
+        {
+            "string": "mus_emt_portable_radio_01"
+        },
+        {
+            "string": "mus_emt_portable_radio_02"
+        },
+        {
+            "string": "mus_emt_portable_radio_03"
+        },
+        {
+            "string": "mus_fd_defeat"
+        },
+        {
+            "string": "mus_fd_draw"
+        },
+        {
+            "string": "mus_fd_losing"
+        },
+        {
+            "string": "mus_fd_nuke_fired"
+        },
+        {
+            "string": "mus_fd_nuke_hit"
+        },
+        {
+            "string": "mus_fd_spawn"
+        },
+        {
+            "string": "mus_fd_suspense_01"
+        },
+        {
+            "string": "mus_fd_suspense_02"
+        },
+        {
+            "string": "mus_fd_suspense_03"
+        },
+        {
+            "string": "mus_fd_suspense_04"
+        },
+        {
+            "string": "mus_fd_suspense_05"
+        },
+        {
+            "string": "mus_fd_suspense_06"
+        },
+        {
+            "string": "mus_fd_victory"
+        },
+        {
+            "string": "mus_fd_winning"
+        },
+        {
+            "string": "mus_us_defeat"
+        },
+        {
+            "string": "mus_us_draw"
+        },
+        {
+            "string": "mus_us_losing"
+        },
+        {
+            "string": "mus_us_nuke_fired"
+        },
+        {
+            "string": "mus_us_nuke_hit"
+        },
+        {
+            "string": "mus_us_spawn"
+        },
+        {
+            "string": "mus_us_suspense_01"
+        },
+        {
+            "string": "mus_us_suspense_02"
+        },
+        {
+            "string": "mus_us_suspense_03"
+        },
+        {
+            "string": "mus_us_suspense_04"
+        },
+        {
+            "string": "mus_us_suspense_05"
+        },
+        {
+            "string": "mus_us_suspense_06"
+        },
+        {
+            "string": "mus_us_victory"
+        },
+        {
+            "string": "mus_us_winning"
+        },
+        {
+            "string": "new_emblem_unlocks"
+        },
+        {
+            "string": "new_feature_unlocks"
+        },
+        {
+            "string": "new_perk_unlocks"
+        },
+        {
+            "string": "new_title_unlocks"
+        },
+        {
+            "string": "new_weapon_unlocks"
+        },
+        {
+            "string": "ns_defeat_music"
+        },
+        {
+            "string": "ns_losing_music"
+        },
+        {
+            "string": "ns_spawn_music"
+        },
+        {
+            "string": "ns_victory_music"
+        },
+        {
+            "string": "ns_winning_music"
+        },
+        {
+            "string": "nuke_explosion"
+        },
+        {
+            "string": "nuke_incoming"
+        },
+        {
+            "string": "nuke_music"
+        },
+        {
+            "string": "nuke_wave"
+        },
+        {
+            "string": "odin_carepack_launch"
+        },
+        {
+            "string": "odin_carepack_ready"
+        },
+        {
+            "string": "odin_flash_launch"
+        },
+        {
+            "string": "odin_flash_ready"
+        },
+        {
+            "string": "odin_jugg_launch"
+        },
+        {
+            "string": "odin_marking_ping"
+        },
+        {
+            "string": "odin_negative_action"
+        },
+        {
+            "string": "odin_positive_action"
+        },
+        {
+            "string": "odin_slamzoom_out"
+        },
+        {
+            "string": "odin_smoke_launch"
+        },
+        {
+            "string": "odin_smoke_ready"
+        },
+        {
+            "string": "oldschool_pickup"
+        },
+        {
+            "string": "oldschool_return"
+        },
+        {
+            "string": "oracle_radar_pulse_npc"
+        },
+        {
+            "string": "oracle_radar_pulse_plr"
+        },
+        {
+            "string": "painkiller_on"
+        },
+        {
+            "string": "pc_defeat_music"
+        },
+        {
+            "string": "pc_losing_music"
+        },
+        {
+            "string": "pc_spawn_music"
+        },
+        {
+            "string": "pc_victory_music"
+        },
+        {
+            "string": "pc_winning_music"
+        },
+        {
+            "string": "pg_defeat_music"
+        },
+        {
+            "string": "pg_losing_music"
+        },
+        {
+            "string": "pg_spawn_music"
+        },
+        {
+            "string": "pg_victory_music"
+        },
+        {
+            "string": "pg_winning_music"
+        },
+        {
+            "string": "plr_new_rank"
+        },
+        {
+            "string": "police_siren_destroy"
+        },
+        {
+            "string": "radio_destroyed_static"
+        },
+        {
+            "string": "re_pickup_paper"
+        },
+        {
+            "string": "recondrone_damaged"
+        },
+        {
+            "string": "recondrone_destroyed"
+        },
+        {
+            "string": "recondrone_destroyed_sparks"
+        },
+        {
+            "string": "recondrone_lockon"
+        },
+        {
+            "string": "recondrone_tag"
+        },
+        {
+            "string": "ru_defeat_music"
+        },
+        {
+            "string": "ru_losing_music"
+        },
+        {
+            "string": "ru_spawn_music"
+        },
+        {
+            "string": "ru_victory_music"
+        },
+        {
+            "string": "ru_winning_music"
+        },
+        {
+            "string": "sam_earned"
+        },
+        {
+            "string": "saved_from_dog"
+        },
+        {
+            "string": "scavenger_pack_pickup"
+        },
+        {
+            "string": "scn_dog_nml_hurt_long"
+        },
+        {
+            "string": "scn_dog_nml_hurt_short"
+        },
+        {
+            "string": "scn_dog_vegas_hurt"
+        },
+        {
+            "string": "scn_dog_vegas_hurt_down"
+        },
+        {
+            "string": "scn_nml_dog_attack_front_npc"
+        },
+        {
+            "string": "scn_nml_dog_attack_front_plr"
+        },
+        {
+            "string": "scn_nml_dog_attack_quick_back_npc"
+        },
+        {
+            "string": "scn_nml_dog_attack_quick_back_plr"
+        },
+        {
+            "string": "scn_nml_dog_attack_short"
+        },
+        {
+            "string": "scn_nml_dog_attack_short_npc"
+        },
+        {
+            "string": "scn_nml_dog_crater_growl"
+        },
+        {
+            "string": "scn_nml_dog_growl_fuss"
+        },
+        {
+            "string": "scn_nml_dog_growl_fuss_final"
+        },
+        {
+            "string": "scn_wolf_nml_hurt"
+        },
+        {
+            "string": "scrambler_pullout_lift_npc"
+        },
+        {
+            "string": "scrambler_pullout_lift_plr"
+        },
+        {
+            "string": "sentry_drop"
+        },
+        {
+            "string": "sentry_explode"
+        },
+        {
+            "string": "sentry_explode_smoke"
+        },
+        {
+            "string": "sentry_explode_sparks"
+        },
+        {
+            "string": "sentry_gun_beep"
+        },
+        {
+            "string": "sentry_gun_plant"
+        },
+        {
+            "string": "sentry_minigun_spin"
+        },
+        {
+            "string": "sentry_minigun_spindown1"
+        },
+        {
+            "string": "sentry_minigun_spindown2"
+        },
+        {
+            "string": "sentry_minigun_spindown3"
+        },
+        {
+            "string": "sentry_minigun_spindown4"
+        },
+        {
+            "string": "sentry_minigun_spinup1"
+        },
+        {
+            "string": "sentry_minigun_spinup2"
+        },
+        {
+            "string": "sentry_minigun_spinup3"
+        },
+        {
+            "string": "sentry_minigun_spinup4"
+        },
+        {
+            "string": "sentry_pickup"
+        },
+        {
+            "string": "sentry_steam"
+        },
+        {
+            "string": "sentry_steam_body"
+        },
+        {
+            "string": "sentry_steam_burst_decay"
+        },
+        {
+            "string": "sp_defeat_music"
+        },
+        {
+            "string": "sp_losing_music"
+        },
+        {
+            "string": "sp_spawn_music"
+        },
+        {
+            "string": "sp_victory_music"
+        },
+        {
+            "string": "sp_winning_music"
+        },
+        {
+            "string": "tactical_insert_flare_ignite_npc"
+        },
+        {
+            "string": "tactical_insert_flare_ignite_plr"
+        },
+        {
+            "string": "tactical_insert_flare_lift_npc"
+        },
+        {
+            "string": "tactical_insert_flare_lift_plr"
+        },
+        {
+            "string": "tactical_insert_flare_pu"
+        },
+        {
+            "string": "tactical_insert_iw5_flare_ignite_npc"
+        },
+        {
+            "string": "tactical_insert_iw5_flare_ignite_plr"
+        },
+        {
+            "string": "tactical_insert_iw5_flare_lift_npc"
+        },
+        {
+            "string": "tactical_insert_iw5_flare_lift_plr"
+        },
+        {
+            "string": "tactical_insert_iw5_flare_strike_npc"
+        },
+        {
+            "string": "tactical_insert_iw5_flare_strike_plr"
+        },
+        {
+            "string": "tactical_spawn"
+        },
+        {
+            "string": "trophy_turret_plant_npc"
+        },
+        {
+            "string": "trophy_turret_plant_plr"
+        },
+        {
+            "string": "trophy_turret_pullout_npc"
+        },
+        {
+            "string": "trophy_turret_pullout_plr"
+        },
+        {
+            "string": "ui_mp_kem_timer"
+        },
+        {
+            "string": "ui_mp_nukebomb_timer"
+        },
+        {
+            "string": "ui_mp_suitcasebomb_double_timer"
+        },
+        {
+            "string": "ui_mp_suitcasebomb_timer"
+        },
+        {
+            "string": "ui_mp_timer_countdown"
+        },
+        {
+            "string": "uk_defeat_music"
+        },
+        {
+            "string": "uk_losing_music"
+        },
+        {
+            "string": "uk_spawn_music"
+        },
+        {
+            "string": "uk_victory_music"
+        },
+        {
+            "string": "uk_winning_music"
+        },
+        {
+            "string": "us_defeat_music"
+        },
+        {
+            "string": "us_losing_music"
+        },
+        {
+            "string": "us_spawn_music"
+        },
+        {
+            "string": "us_victory_music"
+        },
+        {
+            "string": "us_winning_music"
+        },
+        {
+            "string": "veh_ac130_sonic_boom"
+        },
+        {
+            "string": "veh_glass_break_large"
+        },
+        {
+            "string": "veh_glass_break_small"
+        },
+        {
+            "string": "veh_helo_flares_npc"
+        },
+        {
+            "string": "veh_helo_flares_plr"
+        },
+        {
+            "string": "veh_mig29_sonic_boom"
+        },
+        {
+            "string": "veh_tire_deflate"
+        },
+        {
+            "string": "veh_tire_deflate_decay"
+        },
+        {
+            "string": "veh_tire_deflate_layer"
+        },
+        {
+            "string": "vest_deployed"
+        },
+        {
+            "string": "vest_deployed_boom"
+        },
+        {
+            "string": "vest_deployed_gear"
+        },
+        {
+            "string": "vest_pull_out"
+        },
+        {
+            "string": "weap_a10_npc_missile_fire"
+        },
+        {
+            "string": "weap_ballistic_vest_pullout_npc"
+        },
+        {
+            "string": "weap_ballistic_vest_pullout_plr"
+        },
+        {
+            "string": "weap_ballistic_vest_putaway_npc"
+        },
+        {
+            "string": "weap_ballistic_vest_putaway_plr"
+        },
+        {
+            "string": "weap_chopgunner_20mm_fire_layer"
+        },
+        {
+            "string": "weap_chopgunner_20mm_fire_npc"
+        },
+        {
+            "string": "weap_chopgunner_20mm_fire_npc_mid"
+        },
+        {
+            "string": "weap_chopgunner_20mm_fire_plr"
+        },
+        {
+            "string": "weap_emp_explode"
+        },
+        {
+            "string": "weap_sentry_gun_fardist"
+        },
+        {
+            "string": "weap_sentry_gun_fire"
+        },
+        {
+            "string": "weap_sentry_gun_fire_lyr"
+        },
+        {
+            "string": "weap_sentry_gun_meddist"
+        },
+        {
+            "string": "weap_suitcase_button_beep_plr"
+        },
+        {
+            "string": "weap_suitcase_button_press_plr"
+        },
+        {
+            "string": "weap_suitcase_defuse_beeps"
+        },
+        {
+            "string": "weap_suitcase_defuse_button"
+        },
+        {
+            "string": "weap_suitcase_defuse_npc"
+        },
+        {
+            "string": "weap_suitcase_defuse_plr"
+        },
+        {
+            "string": "weap_suitcase_drop_npc"
+        },
+        {
+            "string": "weap_suitcase_drop_plr"
+        },
+        {
+            "string": "weap_suitcase_interrupt_npc"
+        },
+        {
+            "string": "weap_suitcase_interrupt_plr"
+        },
+        {
+            "string": "weap_suitcase_raise_beeps"
+        },
+        {
+            "string": "weap_suitcase_raise_button"
+        },
+        {
+            "string": "weap_suitcase_raise_npc"
+        },
+        {
+            "string": "weap_suitcase_raise_plr"
+        },
+        {
+            "string": "weap_vanguard_fire_deny"
+        }
+    ]
+}

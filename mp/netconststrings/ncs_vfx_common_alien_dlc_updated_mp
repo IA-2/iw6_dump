@@ -1,0 +1,41 @@
+{
+    "name": "ncs_vfx_common_alien_dlc_updated_mp",
+    "stringType": 4,
+    "sourceType": 2,
+    "entryCount": 11,
+    "strings": [
+        {
+            "string": "vfx/_requests/chaos/vfx_chaos_prebonus_drop"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_ark_gib_01"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_cskill_engnr_ff_01"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_cskill_medic_smk_01"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_cskill_tank_01"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_cskill_wspecial_01"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_cskill_wspecial_02"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_lightning_bolt_02"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_lightning_impact_debris_01"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_stun_ammo_attack"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_tesla_shock"
+        }
+    ]
+}

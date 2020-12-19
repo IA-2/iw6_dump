@@ -1,0 +1,11 @@
+{
+    "name": "ncs_shk_common_alien_mp",
+    "stringType": 8,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "alien_spitter_gas_cloud"
+        }
+    ]
+}

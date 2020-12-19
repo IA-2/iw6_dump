@@ -1,0 +1,26 @@
+{
+    "name": "ncs_hnt_eng_mp_zulu",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 6,
+    "strings": [
+        {
+            "string": "MP_ZULU_DEFAULT_TXT_01"
+        },
+        {
+            "string": "MP_ZULU_DEFAULT_TXT_02"
+        },
+        {
+            "string": "MP_ZULU_HIJACKED_DEATH_MARIACHI"
+        },
+        {
+            "string": "MP_ZULU_INSTRUCTION"
+        },
+        {
+            "string": "MP_ZULU_JUGGERNAUT_DEATH_PICKUP"
+        },
+        {
+            "string": "MP_ZULU_NO_KILLSTREAKS"
+        }
+    ]
+}

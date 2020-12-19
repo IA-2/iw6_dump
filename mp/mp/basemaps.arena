@@ -1,0 +1,393 @@
+{
+	map			"mp_prisonbreak"
+	longname	"LUA_MENU_MAPNAME_PRISONBREAK"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_PRISONBREAK"
+	mapimage    "preview_mp_prisonbreak"
+	camoally	"elite"
+	camoopforce	"woodland"
+	mappack		"0"
+}
+
+{
+	map			"mp_dart"
+	longname	"LUA_MENU_MAPNAME_DART"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_DART"
+	mapimage    "preview_mp_dart"
+	camoally	"desert"
+	camoopforce	"elite"
+	mappack		"0"
+}
+
+{
+	map			"mp_lonestar"
+	longname	"LUA_MENU_MAPNAME_LONESTAR"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_LONESTAR"
+	mapimage    "preview_mp_lonestar"
+	camoally	"desert"
+	camoopforce	"elite"
+	mappack		"0"
+}
+
+{
+	map			"mp_frag"
+	longname	"LUA_MENU_MAPNAME_FRAG"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_FRAG"
+	mapimage    "preview_mp_frag"
+	camoally	"arctic"
+	camoopforce	"urban"
+	mappack		"0"
+}
+
+{
+	map			"mp_snow"
+	longname	"LUA_MENU_MAPNAME_SNOW"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_SNOW"
+	mapimage    "preview_mp_snow"
+	camoally	"elite"
+	camoopforce	"arctic"
+	mappack		"0"
+}
+
+{
+	map			"mp_fahrenheit"
+	longname	"LUA_MENU_MAPNAME_FAHRENHEIT"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_FAHRENHEIT"
+	mapimage    "preview_mp_fahrenheit"
+	camoally	"urban"
+	camoopforce	"woodland"
+	mappack		"0"
+}
+
+{
+	map			"mp_hashima"
+	longname	"LUA_MENU_MAPNAME_HASHIMA"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_HASHIMA"
+	mapimage    "preview_mp_hashima"
+	camoally	"urban"
+	camoopforce	"woodland"
+	mappack		"0"
+}
+
+{
+	map			"mp_warhawk"
+	longname	"LUA_MENU_MAPNAME_WARHAWK"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_WARHAWK"
+	mapimage    "preview_mp_warhawk"
+	camoally	"woodland"
+	camoopforce	"elite"
+	mappack		"0"
+}
+
+{
+	map			"mp_sovereign"
+	longname	"LUA_MENU_MAPNAME_SOVEREIGN"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_SOVEREIGN"
+	mapimage    "preview_mp_sovereign"
+	camoally	"urban"
+	camoopforce	"woodland"
+	mappack		"0"
+}
+
+{
+	map			"mp_zebra"
+	longname	"LUA_MENU_MAPNAME_ZEBRA"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_ZEBRA"
+	mapimage    "preview_mp_zebra"
+	camoally	"desert"
+	camoopforce	"elite"
+	mappack		"0"
+}
+
+{
+	map			"mp_skeleton"
+	longname	"LUA_MENU_MAPNAME_SKELETON"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_SKELETON"
+	mapimage    "preview_mp_skeleton"
+	camoally	"elite"
+	camoopforce	"woodland"
+	mappack		"0"
+}
+
+{
+	map			"mp_chasm"
+	longname	"LUA_MENU_MAPNAME_CHASM"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_CHASM"
+	mapimage    "preview_mp_chasm"
+	mappack		"0"
+	camoally	"urban"
+	camoopforce	"desert"
+}
+
+{
+	map			"mp_flooded"
+	longname	"LUA_MENU_MAPNAME_FLOODED"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_FLOODED"
+	mapimage    "preview_mp_flooded"
+	camoally	"urban"
+	camoopforce	"elite"
+	mappack		"0"
+}
+
+{
+	map			"mp_strikezone"
+	longname	"LUA_MENU_MAPNAME_STRIKEZONE"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_STRIKEZONE"
+	mapimage    "preview_mp_strikezone"
+	camoally	"woodland"
+	camoopforce	"urban"
+	mappack		"0"
+}
+
+{
+	map			"mp_alien_town"
+	longname	"MPUI_ALIEN_TOWN"
+	gametype	"Aliens"
+	description "MPUI_DESC_ALIEN_TOWN"
+	mapimage    "preview_mp_alien_town"
+	mappack		"0"
+}
+
+{
+	map			"mp_alien_armory"
+	longname	"MPUI_ALIEN_ARMORY"
+	gametype	"Aliens"
+	description "MPUI_DESC_ALIEN_ARMORY"
+	mapimage    "preview_mp_alien_armory"
+	camoally	"arctic"
+	camoopforce	"arctic"
+	mappack		"3"
+}
+
+{
+	map			"mp_alien_beacon"
+	longname	"MPUI_ALIEN_BEACON"
+	gametype	"Aliens"
+	description "MPUI_DESC_ALIEN_BEACON"
+	mapimage    "preview_mp_alien_beacon"
+	camoally	"elite"
+	camoopforce	"elite"
+	mappack		"4"
+}
+
+{
+	map			"mp_alien_dlc3"
+	longname	"MPUI_ALIEN_DESCENT"
+	gametype	"Aliens"
+	description "MPUI_DESC_ALIEN_DESCENT"
+	mapimage    "preview_mp_alien_descent"
+	camoally	"elite"
+	camoopforce	"elite"
+	mappack		"5"
+}
+
+{
+	map			"mp_alien_last"
+	longname	"MPUI_ALIEN_LAST"
+	gametype	"Aliens"
+	description "MPUI_DESC_ALIEN_LAST"
+	mapimage    "preview_mp_alien_last"
+	camoally	"elite"
+	camoopforce	"elite"
+	mappack		"6"
+}
+
+{
+	map			"mp_descent_new"
+	longname	"LUA_MENU_MAPNAME_DESCENT"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "LUA_MENU_DESC_MAP_DESCENT"
+	mapimage    "preview_mp_descent"
+	camoally	"urban"
+	camoopforce	"desert"
+	mappack		"0"
+}
+
+{
+	map			"mp_ca_red_river"
+	longname	"DLC_MAP_3"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_3_DESC"
+	mapimage    "preview_mp_ca_red_river"
+	camoally	"urban"
+	camoopforce	"desert"
+	mappack		"3"
+}
+
+{
+	map			"mp_ca_rumble"
+	longname	"DLC_MAP_4"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_4_DESC"
+	mapimage    "preview_mp_ca_rumble"
+	camoally	"urban"
+	camoopforce	"desert"
+	mappack		"3"
+}
+
+{
+	map			"mp_swamp"
+	longname	"DLC_MAP_2"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_2_DESC"
+	mapimage    "preview_mp_swamp"
+	camoally	"urban"
+	camoopforce	"desert"
+	mappack		"3"
+}
+
+{
+	map			"mp_boneyard_ns"
+	longname	"DLC_MAP_1"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_1_DESC"
+	mapimage    "preview_mp_boneyard_ns"
+	camoally	"urban"
+	camoopforce	"desert"
+	mappack		"3"
+}
+
+{
+	map			"mp_dome_ns"
+	longname	"DLC_MAP_5"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_5_DESC"
+	mapimage    "preview_mp_dome_ns"
+	camoally	"urban"
+	camoopforce	"desert"
+	mappack		"4"
+}
+
+{
+	map			"mp_battery3"
+	longname	"DLC_MAP_6"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_6_DESC"
+	mapimage    "preview_mp_battery3"
+	camoally	"urban"
+	camoopforce	"woodland"
+	mappack		"4"
+}
+
+{
+	map			"mp_ca_impact"
+	longname	"DLC_MAP_7"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_7_DESC"
+	mapimage    "preview_mp_ca_impact"
+	camoally	"urban"
+	camoopforce	"desert"
+	mappack		"4"
+}
+
+{
+	map			"mp_ca_behemoth"
+	longname	"DLC_MAP_8"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_8_DESC"
+	mapimage    "preview_mp_ca_behemoth"
+	camoally	"urban"
+	camoopforce	"desert"
+	mappack		"4"
+}
+
+{
+	map			"mp_dig"
+	longname	"DLC_MAP_9"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_9_DESC"
+	mapimage    "preview_mp_dig"
+	camoally	"urban"
+	camoopforce	"woodland"
+	mappack		"5"
+}
+
+{
+	map			"mp_zulu"
+	longname	"DLC_MAP_10"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_10_DESC"
+	mapimage    "preview_mp_zulu"
+	camoally	"elite"
+	camoopforce	"desert"
+	mappack		"5"
+}
+
+{
+	map			"mp_pirate"
+	longname	"DLC_MAP_11"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_11_DESC"
+	mapimage    "preview_mp_pirate"
+	camoally	"urban"
+	camoopforce	"woodland"
+	mappack		"5"
+}
+
+{
+	map			"mp_favela_iw6"
+	longname	"DLC_MAP_12"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_12_DESC"
+	mapimage    "preview_mp_favela_iw6"
+	camoally	"urban"
+	camoopforce	"desert"
+	mappack		"5"
+}
+
+{
+	map			"mp_zerosub"
+	longname	"DLC_MAP_13"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_13_DESC"
+	mapimage    "preview_mp_zerosub"
+	camoally	"elite"
+	camoopforce	"arctic"
+	mappack		"6"
+}
+
+{
+	map			"mp_conflict"
+	longname	"DLC_MAP_14"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_14_DESC"
+	mapimage    "preview_mp_conflict"
+	camoally	"woodland"
+	camoopforce	"urban"
+	mappack		"6"
+}
+
+{
+	map			"mp_mine"
+	longname	"DLC_MAP_15"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_15_DESC"
+	mapimage    "preview_mp_mine"
+	camoally	"urban"
+	camoopforce	"woodland"
+	mappack		"6"
+}
+
+{
+	map			"mp_shipment_ns"
+	longname	"DLC_MAP_16"
+	gametype	"dm war dom sd conf sr grind infect blitz cranked sotf sotf_ffa horde hc thc gun grnd siege"
+	description "DLC_MAP_16_DESC"
+	mapimage    "preview_mp_shipment_ns"
+	camoally	"desert"
+	camoopforce	"elite"
+	mappack		"6"
+}

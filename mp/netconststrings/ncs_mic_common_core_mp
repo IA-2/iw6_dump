@@ -1,0 +1,20 @@
+{
+    "name": "ncs_mic_common_core_mp",
+    "stringType": 14,
+    "sourceType": 2,
+    "entryCount": 4,
+    "strings": [
+        {
+            "string": "compass_objpoint_airstrike_busy"
+        },
+        {
+            "string": "compass_objpoint_airstrike_friendly"
+        },
+        {
+            "string": "compass_objpoint_c130_enemy"
+        },
+        {
+            "string": "compass_objpoint_c130_friendly"
+        }
+    ]
+}

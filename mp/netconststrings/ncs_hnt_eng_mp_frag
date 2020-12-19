@@ -1,0 +1,14 @@
+{
+    "name": "ncs_hnt_eng_mp_frag",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "MP_FRAG_MOVE_HOPPER"
+        },
+        {
+            "string": "MP_FRAG_OPERATE_DOOR"
+        }
+    ]
+}

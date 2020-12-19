@@ -1,0 +1,254 @@
+{
+    "name": "ncs_fxt_mp_character_room_bodies_updated",
+    "stringType": 19,
+    "sourceType": 2,
+    "entryCount": 82,
+    "strings": [
+        {
+            "string": "back_low"
+        },
+        {
+            "string": "back_mid"
+        },
+        {
+            "string": "j_ankle_le"
+        },
+        {
+            "string": "j_ankle_ri"
+        },
+        {
+            "string": "j_ball_le"
+        },
+        {
+            "string": "j_ball_ri"
+        },
+        {
+            "string": "j_clavicle_le"
+        },
+        {
+            "string": "j_clavicle_ri"
+        },
+        {
+            "string": "j_elbow_le"
+        },
+        {
+            "string": "j_elbow_ri"
+        },
+        {
+            "string": "j_groinprotector"
+        },
+        {
+            "string": "j_gun"
+        },
+        {
+            "string": "j_hip_le"
+        },
+        {
+            "string": "j_hip_ri"
+        },
+        {
+            "string": "j_hiptwist_le"
+        },
+        {
+            "string": "j_hiptwist_ri"
+        },
+        {
+            "string": "j_index_le_1"
+        },
+        {
+            "string": "j_index_le_2"
+        },
+        {
+            "string": "j_index_le_3"
+        },
+        {
+            "string": "j_index_ri_1"
+        },
+        {
+            "string": "j_index_ri_2"
+        },
+        {
+            "string": "j_index_ri_3"
+        },
+        {
+            "string": "j_knee_le"
+        },
+        {
+            "string": "j_knee_ri"
+        },
+        {
+            "string": "j_kneehelper_le"
+        },
+        {
+            "string": "j_kneehelper_ri"
+        },
+        {
+            "string": "j_latiss_le"
+        },
+        {
+            "string": "j_latiss_ri"
+        },
+        {
+            "string": "j_mainroot"
+        },
+        {
+            "string": "j_mid_le_1"
+        },
+        {
+            "string": "j_mid_le_2"
+        },
+        {
+            "string": "j_mid_le_3"
+        },
+        {
+            "string": "j_mid_ri_1"
+        },
+        {
+            "string": "j_mid_ri_2"
+        },
+        {
+            "string": "j_mid_ri_3"
+        },
+        {
+            "string": "j_pectoral_le"
+        },
+        {
+            "string": "j_pectoral_ri"
+        },
+        {
+            "string": "j_pelvishelper_le"
+        },
+        {
+            "string": "j_pelvishelper_ri"
+        },
+        {
+            "string": "j_pinky_le_1"
+        },
+        {
+            "string": "j_pinky_le_2"
+        },
+        {
+            "string": "j_pinky_le_3"
+        },
+        {
+            "string": "j_pinky_ri_1"
+        },
+        {
+            "string": "j_pinky_ri_2"
+        },
+        {
+            "string": "j_pinky_ri_3"
+        },
+        {
+            "string": "j_ring_le_1"
+        },
+        {
+            "string": "j_ring_le_2"
+        },
+        {
+            "string": "j_ring_le_3"
+        },
+        {
+            "string": "j_ring_ri_1"
+        },
+        {
+            "string": "j_ring_ri_2"
+        },
+        {
+            "string": "j_ring_ri_3"
+        },
+        {
+            "string": "j_shoulder_le"
+        },
+        {
+            "string": "j_shoulder_ri"
+        },
+        {
+            "string": "j_shouldertwist_le"
+        },
+        {
+            "string": "j_shouldertwist_ri"
+        },
+        {
+            "string": "j_spinelower"
+        },
+        {
+            "string": "j_spineupper"
+        },
+        {
+            "string": "j_teres_le"
+        },
+        {
+            "string": "j_teres_ri"
+        },
+        {
+            "string": "j_thumb_le_1"
+        },
+        {
+            "string": "j_thumb_le_2"
+        },
+        {
+            "string": "j_thumb_le_3"
+        },
+        {
+            "string": "j_thumb_ri_1"
+        },
+        {
+            "string": "j_thumb_ri_2"
+        },
+        {
+            "string": "j_thumb_ri_3"
+        },
+        {
+            "string": "j_wrist_le"
+        },
+        {
+            "string": "j_wrist_ri"
+        },
+        {
+            "string": "j_wristfronttwist1_le"
+        },
+        {
+            "string": "j_wristfronttwist1_ri"
+        },
+        {
+            "string": "pelvis"
+        },
+        {
+            "string": "tag_inhand"
+        },
+        {
+            "string": "tag_origin"
+        },
+        {
+            "string": "tag_reflector_arm_le"
+        },
+        {
+            "string": "tag_reflector_arm_ri"
+        },
+        {
+            "string": "tag_shield_back"
+        },
+        {
+            "string": "tag_stowed_back"
+        },
+        {
+            "string": "tag_stowed_hip_rear"
+        },
+        {
+            "string": "tag_sync"
+        },
+        {
+            "string": "tag_weapon_chest"
+        },
+        {
+            "string": "tag_weapon_left"
+        },
+        {
+            "string": "tag_weapon_right"
+        },
+        {
+            "string": "torso_stabilizer"
+        }
+    ]
+}

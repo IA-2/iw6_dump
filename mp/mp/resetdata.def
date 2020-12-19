@@ -1,0 +1,820 @@
+{
+    "name": "mp/resetdata.def",
+    "version": 2,
+    "formatChecksum": 1203475069,
+    "enumCount": 2,
+    "enums": [
+        {
+            "entryCount": 55,
+            "reservedEntryCount": 55,
+            "entries": [
+                {
+                    "string": "streaktype_assault",
+                    "index": 15
+                },
+                {
+                    "string": "streaktype_support",
+                    "index": 16
+                },
+                {
+                    "string": "streaktype_specialist",
+                    "index": 17
+                },
+                {
+                    "string": "specialty_null",
+                    "index": 0
+                },
+                {
+                    "string": "c4_mp",
+                    "index": 1
+                },
+                {
+                    "string": "claymore_mp",
+                    "index": 2
+                },
+                {
+                    "string": "throwingknife_mp",
+                    "index": 3
+                },
+                {
+                    "string": "semtex_mp",
+                    "index": 4
+                },
+                {
+                    "string": "frag_grenade_mp",
+                    "index": 5
+                },
+                {
+                    "string": "thermobaric_grenade_mp",
+                    "index": 6
+                },
+                {
+                    "string": "mortar_shell_mp",
+                    "index": 7
+                },
+                {
+                    "string": "proximity_explosive_mp",
+                    "index": 8
+                },
+                {
+                    "string": "motion_sensor_mp",
+                    "index": 9
+                },
+                {
+                    "string": "flash_grenade_mp",
+                    "index": 10
+                },
+                {
+                    "string": "smoke_grenade_mp",
+                    "index": 11
+                },
+                {
+                    "string": "concussion_grenade_mp",
+                    "index": 12
+                },
+                {
+                    "string": "tacticalinsertion_mp",
+                    "index": 13
+                },
+                {
+                    "string": "trophy_mp",
+                    "index": 14
+                },
+                {
+                    "string": "specialty_fastsprintrecovery",
+                    "index": 18
+                },
+                {
+                    "string": "specialty_fastreload",
+                    "index": 19
+                },
+                {
+                    "string": "specialty_lightweight",
+                    "index": 20
+                },
+                {
+                    "string": "specialty_marathon",
+                    "index": 21
+                },
+                {
+                    "string": "specialty_stalker",
+                    "index": 22
+                },
+                {
+                    "string": "specialty_reducedsway",
+                    "index": 23
+                },
+                {
+                    "string": "specialty_quickswap",
+                    "index": 24
+                },
+                {
+                    "string": "specialty_pitcher",
+                    "index": 25
+                },
+                {
+                    "string": "specialty_bulletaccuracy",
+                    "index": 26
+                },
+                {
+                    "string": "specialty_quickdraw",
+                    "index": 27
+                },
+                {
+                    "string": "specialty_sprintreload",
+                    "index": 28
+                },
+                {
+                    "string": "specialty_silentkill",
+                    "index": 29
+                },
+                {
+                    "string": "specialty_blindeye",
+                    "index": 30
+                },
+                {
+                    "string": "specialty_gpsjammer",
+                    "index": 31
+                },
+                {
+                    "string": "specialty_quieter",
+                    "index": 32
+                },
+                {
+                    "string": "specialty_incog",
+                    "index": 33
+                },
+                {
+                    "string": "specialty_paint",
+                    "index": 34
+                },
+                {
+                    "string": "specialty_scavenger",
+                    "index": 35
+                },
+                {
+                    "string": "specialty_detectexplosive",
+                    "index": 36
+                },
+                {
+                    "string": "specialty_selectivehearing",
+                    "index": 37
+                },
+                {
+                    "string": "specialty_comexp",
+                    "index": 38
+                },
+                {
+                    "string": "specialty_falldamage",
+                    "index": 39
+                },
+                {
+                    "string": "specialty_regenfaster",
+                    "index": 40
+                },
+                {
+                    "string": "specialty_sharp_focus",
+                    "index": 41
+                },
+                {
+                    "string": "specialty_stun_resistance",
+                    "index": 42
+                },
+                {
+                    "string": "_specialty_blastshield",
+                    "index": 43
+                },
+                {
+                    "string": "specialty_gunsmith",
+                    "index": 44
+                },
+                {
+                    "string": "specialty_extraammo",
+                    "index": 45
+                },
+                {
+                    "string": "specialty_extra_equipment",
+                    "index": 46
+                },
+                {
+                    "string": "specialty_extra_deadly",
+                    "index": 47
+                },
+                {
+                    "string": "specialty_extra_attachment",
+                    "index": 48
+                },
+                {
+                    "string": "specialty_explosivedamage",
+                    "index": 49
+                },
+                {
+                    "string": "specialty_gambler",
+                    "index": 50
+                },
+                {
+                    "string": "specialty_hardline",
+                    "index": 51
+                },
+                {
+                    "string": "specialty_twoprimaries",
+                    "index": 52
+                },
+                {
+                    "string": "specialty_boom",
+                    "index": 53
+                },
+                {
+                    "string": "specialty_deadeye",
+                    "index": 54
+                }
+            ]
+        },
+        {
+            "entryCount": 91,
+            "reservedEntryCount": 91,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "uav_3dping",
+                    "index": 29
+                },
+                {
+                    "string": "c4_mp",
+                    "index": 1
+                },
+                {
+                    "string": "claymore_mp",
+                    "index": 2
+                },
+                {
+                    "string": "throwingknife_mp",
+                    "index": 8
+                },
+                {
+                    "string": "semtex_mp",
+                    "index": 6
+                },
+                {
+                    "string": "frag_grenade_mp",
+                    "index": 3
+                },
+                {
+                    "string": "thermobaric_grenade_mp",
+                    "index": 7
+                },
+                {
+                    "string": "mortar_shell_mp",
+                    "index": 4
+                },
+                {
+                    "string": "proximity_explosive_mp",
+                    "index": 5
+                },
+                {
+                    "string": "motion_sensor_mp",
+                    "index": 12
+                },
+                {
+                    "string": "flash_grenade_mp",
+                    "index": 11
+                },
+                {
+                    "string": "smoke_grenade_mp",
+                    "index": 13
+                },
+                {
+                    "string": "concussion_grenade_mp",
+                    "index": 9
+                },
+                {
+                    "string": "trophy_mp",
+                    "index": 14
+                },
+                {
+                    "string": "emp_grenade_mp",
+                    "index": 10
+                },
+                {
+                    "string": "frag_scavenger_grenade",
+                    "index": 15
+                },
+                {
+                    "string": "uav",
+                    "index": 16
+                },
+                {
+                    "string": "directional_uav",
+                    "index": 17
+                },
+                {
+                    "string": "laser_designator",
+                    "index": 18
+                },
+                {
+                    "string": "manned_minigun_turret",
+                    "index": 19
+                },
+                {
+                    "string": "manned_gl_turret",
+                    "index": 20
+                },
+                {
+                    "string": "manned_littlebird_minigun",
+                    "index": 21
+                },
+                {
+                    "string": "manned_littlebird_sniper",
+                    "index": 22
+                },
+                {
+                    "string": "uav_remote_mp",
+                    "index": 23
+                },
+                {
+                    "string": "mortar_remote_mp",
+                    "index": 24
+                },
+                {
+                    "string": "mortar_remote_zoom_mp",
+                    "index": 25
+                },
+                {
+                    "string": "specialty_tacticalinsertion",
+                    "index": 26
+                },
+                {
+                    "string": "specialty_scrambler",
+                    "index": 27
+                },
+                {
+                    "string": "specialty_portable_radar",
+                    "index": 28
+                },
+                {
+                    "string": "iw6_m9a1",
+                    "index": 30
+                },
+                {
+                    "string": "iw6_p226",
+                    "index": 31
+                },
+                {
+                    "string": "iw6_mp443",
+                    "index": 32
+                },
+                {
+                    "string": "iw6_magnum",
+                    "index": 33
+                },
+                {
+                    "string": "iw6_magnumhorde",
+                    "index": 34
+                },
+                {
+                    "string": "iw6_cbjms",
+                    "index": 35
+                },
+                {
+                    "string": "iw6_pp19",
+                    "index": 36
+                },
+                {
+                    "string": "iw6_vepr",
+                    "index": 37
+                },
+                {
+                    "string": "iw6_kriss",
+                    "index": 38
+                },
+                {
+                    "string": "iw6_microtar",
+                    "index": 39
+                },
+                {
+                    "string": "iw6_k7",
+                    "index": 40
+                },
+                {
+                    "string": "iw6_pdw",
+                    "index": 41
+                },
+                {
+                    "string": "iw6_bren",
+                    "index": 42
+                },
+                {
+                    "string": "iw6_ak12",
+                    "index": 43
+                },
+                {
+                    "string": "iw6_sc2010",
+                    "index": 44
+                },
+                {
+                    "string": "iw6_honeybadger",
+                    "index": 45
+                },
+                {
+                    "string": "iw6_arx160",
+                    "index": 46
+                },
+                {
+                    "string": "iw6_fads",
+                    "index": 47
+                },
+                {
+                    "string": "iw6_msbs",
+                    "index": 48
+                },
+                {
+                    "string": "iw6_r5rgp",
+                    "index": 49
+                },
+                {
+                    "string": "iw6_mk32",
+                    "index": 50
+                },
+                {
+                    "string": "iw6_rgm",
+                    "index": 51
+                },
+                {
+                    "string": "iw6_panzerfaust3",
+                    "index": 52
+                },
+                {
+                    "string": "iw6_vks",
+                    "index": 53
+                },
+                {
+                    "string": "iw6_l115a3",
+                    "index": 54
+                },
+                {
+                    "string": "iw6_usr",
+                    "index": 55
+                },
+                {
+                    "string": "iw6_gm6",
+                    "index": 56
+                },
+                {
+                    "string": "iw6_imbel",
+                    "index": 57
+                },
+                {
+                    "string": "iw6_g28",
+                    "index": 58
+                },
+                {
+                    "string": "iw6_mk14",
+                    "index": 59
+                },
+                {
+                    "string": "iw6_svu",
+                    "index": 60
+                },
+                {
+                    "string": "iw6_mts255",
+                    "index": 61
+                },
+                {
+                    "string": "iw6_fp6",
+                    "index": 62
+                },
+                {
+                    "string": "iw6_maul",
+                    "index": 63
+                },
+                {
+                    "string": "iw6_uts15",
+                    "index": 64
+                },
+                {
+                    "string": "iw6_m27",
+                    "index": 65
+                },
+                {
+                    "string": "iw6_ameli",
+                    "index": 66
+                },
+                {
+                    "string": "iw6_lsat",
+                    "index": 67
+                },
+                {
+                    "string": "iw6_kac",
+                    "index": 68
+                },
+                {
+                    "string": "iw6_minigun",
+                    "index": 69
+                },
+                {
+                    "string": "iw6_riotshield",
+                    "index": 70
+                },
+                {
+                    "string": "iw6_knifeonly",
+                    "index": 71
+                },
+                {
+                    "string": "guard_dog_mp",
+                    "index": 72
+                },
+                {
+                    "string": "alienaxe",
+                    "index": 73
+                },
+                {
+                    "string": "deployable_ammo_mp",
+                    "index": 74
+                },
+                {
+                    "string": "deployable_grenades_mp",
+                    "index": 75
+                },
+                {
+                    "string": "a10_30mm_turret_mp",
+                    "index": 76
+                },
+                {
+                    "string": "maverick_projectile_mp",
+                    "index": 77
+                },
+                {
+                    "string": "heli_pilot_turret_mp",
+                    "index": 78
+                },
+                {
+                    "string": "killstreak_uplink",
+                    "index": 79
+                },
+                {
+                    "string": "aamissile_projectile_mp",
+                    "index": 80
+                },
+                {
+                    "string": "odin_projectile_large_rod_mp",
+                    "index": 81
+                },
+                {
+                    "string": "odin_projectile_small_rod_mp",
+                    "index": 82
+                },
+                {
+                    "string": "iw6_gm6helisnipe",
+                    "index": 83
+                },
+                {
+                    "string": "remote_mortar_missile",
+                    "index": 84
+                },
+                {
+                    "string": "remote_turret_mp",
+                    "index": 85
+                },
+                {
+                    "string": "turret_remote_mp",
+                    "index": 86
+                },
+                {
+                    "string": "iw6_dlcweap01",
+                    "index": 87
+                },
+                {
+                    "string": "iw6_dlcweap02",
+                    "index": 88
+                },
+                {
+                    "string": "iw6_dlcweap03",
+                    "index": 89
+                },
+                {
+                    "string": "iw6_dlcweap04",
+                    "index": 90
+                }
+            ]
+        }
+    ],
+    "structCount": 1,
+    "structs": [
+        {
+            "propertyCount": 17,
+            "properties": [
+                {
+                    "name": "prestigeShopTokensEntitlement",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 20,
+                    "validation": 0
+                },
+                {
+                    "name": "xpMultiplier",
+                    "type": 6,
+                    "index": 2,
+                    "offset": 45,
+                    "validation": 0
+                },
+                {
+                    "name": "xpMaxMultiplierTimePlayed",
+                    "type": 6,
+                    "index": 3,
+                    "offset": 57,
+                    "validation": 0
+                },
+                {
+                    "name": "xpMultiplierTimePlayed",
+                    "type": 6,
+                    "index": 4,
+                    "offset": 69,
+                    "validation": 0
+                },
+                {
+                    "name": "challengeXPMultiplier",
+                    "type": 6,
+                    "index": 5,
+                    "offset": 81,
+                    "validation": 0
+                },
+                {
+                    "name": "challengeXPMaxMultiplierTimePlayed",
+                    "type": 6,
+                    "index": 6,
+                    "offset": 85,
+                    "validation": 0
+                },
+                {
+                    "name": "challengeXPMultiplierTimePlayed",
+                    "type": 6,
+                    "index": 7,
+                    "offset": 89,
+                    "validation": 0
+                },
+                {
+                    "name": "weaponXPMultiplier",
+                    "type": 6,
+                    "index": 8,
+                    "offset": 93,
+                    "validation": 0
+                },
+                {
+                    "name": "weaponXPMaxMultiplierTimePlayed",
+                    "type": 6,
+                    "index": 9,
+                    "offset": 97,
+                    "validation": 0
+                },
+                {
+                    "name": "weaponXPMultiplierTimePlayed",
+                    "type": 6,
+                    "index": 10,
+                    "offset": 101,
+                    "validation": 0
+                },
+                {
+                    "name": "playerXuidHigh",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 12,
+                    "validation": 0
+                },
+                {
+                    "name": "playerXuidLow",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 16,
+                    "validation": 0
+                },
+                {
+                    "name": "extraCustomClassesEntitlement",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 8,
+                    "validation": 0
+                },
+                {
+                    "name": "persistentWeaponsUnlocked",
+                    "type": 7,
+                    "index": 0,
+                    "offset": 24,
+                    "validation": 0
+                },
+                {
+                    "name": "persistentPerksUnlocked",
+                    "type": 7,
+                    "index": 1,
+                    "offset": 36,
+                    "validation": 0
+                },
+                {
+                    "name": "unlockedReticles",
+                    "type": 6,
+                    "index": 1,
+                    "offset": 44,
+                    "validation": 0
+                },
+                {
+                    "name": "unlockedCamo",
+                    "type": 6,
+                    "index": 0,
+                    "offset": 43,
+                    "validation": 0
+                }
+            ],
+            "size": 105,
+            "bitOffset": 0
+        }
+    ],
+    "indexedArrayCount": 11,
+    "indexedArrays": [
+        {
+            "arraySize": 5,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 5,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 3,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 3,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 3,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        }
+    ],
+    "enumedArrayCount": 2,
+    "enumedArrays": [
+        {
+            "enumIndex": 1,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "enumIndex": 0,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        }
+    ],
+    "type": 5,
+    "index": 0,
+    "size": 105
+}

@@ -1,0 +1,671 @@
+{
+    "name": "ncs_loc_eng_common_core_mp",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 221,
+    "strings": [
+        {
+            "string": "HORDE_AIR_DROP"
+        },
+        {
+            "string": "HORDE_BLASTER"
+        },
+        {
+            "string": "HORDE_BUDDY"
+        },
+        {
+            "string": "HORDE_ENFORCER"
+        },
+        {
+            "string": "HORDE_EQUIPMENT_INTEL_RECEIVED_DESC"
+        },
+        {
+            "string": "HORDE_HAMMER"
+        },
+        {
+            "string": "HORDE_HEADSHOT_INTEL_RECEIVED_DESC"
+        },
+        {
+            "string": "HORDE_INFECTED"
+        },
+        {
+            "string": "HORDE_KILLSTREAK_INTEL_RECEIVED_DESC"
+        },
+        {
+            "string": "HORDE_KILLSTREAK_LIMIT"
+        },
+        {
+            "string": "HORDE_LOOT_ROUND"
+        },
+        {
+            "string": "HORDE_LOOT_ROUND_DESC"
+        },
+        {
+            "string": "HORDE_MELEE_INTEL_RECEIVED_DESC"
+        },
+        {
+            "string": "HORDE_OBJECTIVE"
+        },
+        {
+            "string": "HORDE_OBJECTIVE_HINT"
+        },
+        {
+            "string": "HORDE_OBJECTIVE_SCORE"
+        },
+        {
+            "string": "HORDE_QUAD"
+        },
+        {
+            "string": "HORDE_RAVAGER"
+        },
+        {
+            "string": "HORDE_RECYCLE"
+        },
+        {
+            "string": "HORDE_RECYCLE_DESC"
+        },
+        {
+            "string": "HORDE_REVIVER_DESC"
+        },
+        {
+            "string": "HORDE_STRIKER"
+        },
+        {
+            "string": "HORDE_TEAM_INTEL_COMPLETE_DESC"
+        },
+        {
+            "string": "HORDE_TEAM_RESTOCK"
+        },
+        {
+            "string": "HORDE_TEAM_RESTOCK_DESC"
+        },
+        {
+            "string": "HORDE_WEAPON_LEVEL"
+        },
+        {
+            "string": "HORDE_WEAPON_LEVEL_DESC"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_AA_LAUNCHER_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_AGENT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_AIR_SUPERIORITY_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_BALL_DRONE_BACKUP_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_BALL_DRONE_RADAR_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_DEPLOYABLE_AMMO_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_DEPLOYABLE_AMMO_USE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_DEPLOYABLE_VEST_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_DOUBLE_TAP_TO_CARRY"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_DRONE_HIVE_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_GUARD_DOG_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_HASHIMA_MISSILES"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_HELICOPTER_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_HELI_PILOT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_HELI_SNIPER_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_HVT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_IMS_CANNOT_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_IMS_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_IMS_PICKUP_TO_MOVE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_IMS_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_JAMMER_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_JUGGERNAUT_MANIAC_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_JUGGERNAUT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_JUGGERNAUT_RECON_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_LIGHT_ARMOR_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_ODIN_ASSAULT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_ODIN_SUPPORT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_RECON_AGENT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_REMOTE_TANK_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_SAM_TURRET_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_SENTRY_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_SNOW_SATELLITE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_SOVEREIGN_GAS"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_STRIKEZONE_ROG"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_TURRET_CANNOT_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_TURRET_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_UAV_3DPING_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_UPLINK_CANNOT_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_UPLINK_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_UPLINK_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_VANGUARD_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_WARHAWK_MORTARS"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_WEAPON_PICKUP"
+        },
+        {
+            "string": "OBJECTIVES_BLITZ"
+        },
+        {
+            "string": "OBJECTIVES_BLITZ_ATTACKER"
+        },
+        {
+            "string": "OBJECTIVES_BLITZ_ATTACKER_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_BLITZ_DEFENDER"
+        },
+        {
+            "string": "OBJECTIVES_BLITZ_DEFENDER_HINT"
+        },
+        {
+            "string": "OBJECTIVES_BLITZ_DEFENDER_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_BLITZ_HINT"
+        },
+        {
+            "string": "OBJECTIVES_CONF"
+        },
+        {
+            "string": "OBJECTIVES_CONF_HINT"
+        },
+        {
+            "string": "OBJECTIVES_CONF_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_DD_ATTACKER"
+        },
+        {
+            "string": "OBJECTIVES_DD_ATTACKER_HINT"
+        },
+        {
+            "string": "OBJECTIVES_DD_ATTACKER_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_DD_DEFENDER"
+        },
+        {
+            "string": "OBJECTIVES_DD_DEFENDER_HINT"
+        },
+        {
+            "string": "OBJECTIVES_DD_DEFENDER_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_DD_OVERTIME_HINT"
+        },
+        {
+            "string": "OBJECTIVES_DM"
+        },
+        {
+            "string": "OBJECTIVES_DM_HINT"
+        },
+        {
+            "string": "OBJECTIVES_DM_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_DOM"
+        },
+        {
+            "string": "OBJECTIVES_DOM_HINT"
+        },
+        {
+            "string": "OBJECTIVES_DOM_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_FLAG_AWAY"
+        },
+        {
+            "string": "OBJECTIVES_FLAG_HOME"
+        },
+        {
+            "string": "OBJECTIVES_FLAG_NAME"
+        },
+        {
+            "string": "OBJECTIVES_GRND"
+        },
+        {
+            "string": "OBJECTIVES_GRND_CONFIRM"
+        },
+        {
+            "string": "OBJECTIVES_GRND_HINT"
+        },
+        {
+            "string": "OBJECTIVES_GRND_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_INFECT"
+        },
+        {
+            "string": "OBJECTIVES_INFECT_HINT"
+        },
+        {
+            "string": "OBJECTIVES_INFECT_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_JUGG"
+        },
+        {
+            "string": "OBJECTIVES_JUGG_HINT"
+        },
+        {
+            "string": "OBJECTIVES_JUGG_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_KOTH"
+        },
+        {
+            "string": "OBJECTIVES_KOTH_HINT"
+        },
+        {
+            "string": "OBJECTIVES_KOTH_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_MUGGER"
+        },
+        {
+            "string": "OBJECTIVES_MUGGER_HINT"
+        },
+        {
+            "string": "OBJECTIVES_MUGGER_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_OIC"
+        },
+        {
+            "string": "OBJECTIVES_OIC_HINT"
+        },
+        {
+            "string": "OBJECTIVES_OIC_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_SAB"
+        },
+        {
+            "string": "OBJECTIVES_SAB_HINT"
+        },
+        {
+            "string": "OBJECTIVES_SAB_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_SD_ATTACKER"
+        },
+        {
+            "string": "OBJECTIVES_SD_ATTACKER_HINT"
+        },
+        {
+            "string": "OBJECTIVES_SD_ATTACKER_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_SD_DEFENDER"
+        },
+        {
+            "string": "OBJECTIVES_SD_DEFENDER_HINT"
+        },
+        {
+            "string": "OBJECTIVES_SD_DEFENDER_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_TDEF"
+        },
+        {
+            "string": "OBJECTIVES_TDEF_ATTACKER_HINT"
+        },
+        {
+            "string": "OBJECTIVES_TDEF_DEFENDER_HINT"
+        },
+        {
+            "string": "OBJECTIVES_TDEF_HINT"
+        },
+        {
+            "string": "OBJECTIVES_TDEF_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_TJUGG"
+        },
+        {
+            "string": "OBJECTIVES_TJUGG_HINT"
+        },
+        {
+            "string": "OBJECTIVES_TJUGG_SCORE"
+        },
+        {
+            "string": "OBJECTIVES_WAR"
+        },
+        {
+            "string": "OBJECTIVES_WAR_HINT"
+        },
+        {
+            "string": "OBJECTIVES_WAR_SCORE"
+        },
+        {
+            "string": "SPLASHES_ASSIST"
+        },
+        {
+            "string": "SPLASHES_ASSISTEDSUICIDE"
+        },
+        {
+            "string": "SPLASHES_ASSIST_CRANKED"
+        },
+        {
+            "string": "SPLASHES_ASSIST_TO_KILL"
+        },
+        {
+            "string": "SPLASHES_AVENGER"
+        },
+        {
+            "string": "SPLASHES_BANKED_TAG"
+        },
+        {
+            "string": "SPLASHES_BANKED_TAG_DESC"
+        },
+        {
+            "string": "SPLASHES_BUZZKILL"
+        },
+        {
+            "string": "SPLASHES_COMEBACK"
+        },
+        {
+            "string": "SPLASHES_CRANKED"
+        },
+        {
+            "string": "SPLASHES_DEFENDER"
+        },
+        {
+            "string": "SPLASHES_DENIED_KILL"
+        },
+        {
+            "string": "SPLASHES_DEPLOYED_VEST"
+        },
+        {
+            "string": "SPLASHES_DEPLOYED_WEAPON_CRATE"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_A10_STRAFE"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_AIR_DROP"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_AIR_SUPERIORITY"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_BALL_DRONE"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_BALL_DRONE_RADAR"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_GUARD_DOG"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_HELICOPTER"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_HELO_PILOT"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_HELO_SCOUT"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_IMS"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_PREDATOR_MISSILE"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_SQUAD_MATE"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_UAV"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_UPLINK"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_VANGUARD"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_VEST"
+        },
+        {
+            "string": "SPLASHES_DESTROYED_WEAPON_CRATE"
+        },
+        {
+            "string": "SPLASHES_DOG_AVENGER"
+        },
+        {
+            "string": "SPLASHES_DOUBLEKILL"
+        },
+        {
+            "string": "SPLASHES_EARNED_UNLOCK"
+        },
+        {
+            "string": "SPLASHES_EARNED_UNLOCK_DESC"
+        },
+        {
+            "string": "SPLASHES_EXECUTION"
+        },
+        {
+            "string": "SPLASHES_FINAL_SURVIVOR"
+        },
+        {
+            "string": "SPLASHES_FIRSTBLOOD"
+        },
+        {
+            "string": "SPLASHES_FIRST_INFECTED"
+        },
+        {
+            "string": "SPLASHES_FIRST_INFECTED_DESC"
+        },
+        {
+            "string": "SPLASHES_FIRST_PLACE_KILL"
+        },
+        {
+            "string": "SPLASHES_GOT_INFECTED"
+        },
+        {
+            "string": "SPLASHES_HEADSHOT"
+        },
+        {
+            "string": "SPLASHES_HIJACKER"
+        },
+        {
+            "string": "SPLASHES_HVT"
+        },
+        {
+            "string": "SPLASHES_HVT_KILLED"
+        },
+        {
+            "string": "SPLASHES_INFECTED"
+        },
+        {
+            "string": "SPLASHES_INFECTED_STARTS_IN"
+        },
+        {
+            "string": "SPLASHES_INFECTED_SURVIVOR"
+        },
+        {
+            "string": "SPLASHES_KEY_PICKUP"
+        },
+        {
+            "string": "SPLASHES_KILL"
+        },
+        {
+            "string": "SPLASHES_KILLSTREAK_PICKUP"
+        },
+        {
+            "string": "SPLASHES_KILL_CONFIRMED"
+        },
+        {
+            "string": "SPLASHES_KILL_CRANKED"
+        },
+        {
+            "string": "SPLASHES_KILL_DENIED"
+        },
+        {
+            "string": "SPLASHES_KNIFETHROW"
+        },
+        {
+            "string": "SPLASHES_LONGSHOT"
+        },
+        {
+            "string": "SPLASHES_MARTYRDOG"
+        },
+        {
+            "string": "SPLASHES_MUGGED"
+        },
+        {
+            "string": "SPLASHES_MUGGED_DESC"
+        },
+        {
+            "string": "SPLASHES_MUGGER"
+        },
+        {
+            "string": "SPLASHES_MUGGERNAUT"
+        },
+        {
+            "string": "SPLASHES_MUGGERNAUT_DESC"
+        },
+        {
+            "string": "SPLASHES_MUGGER_AIRDROP"
+        },
+        {
+            "string": "SPLASHES_MUGGER_DESC"
+        },
+        {
+            "string": "SPLASHES_MUGGER_JACKPOT"
+        },
+        {
+            "string": "SPLASHES_MUGGER_JACKPOT_DESC"
+        },
+        {
+            "string": "SPLASHES_MUGGER_MEGADROP"
+        },
+        {
+            "string": "SPLASHES_MUGGER_SUICIDE"
+        },
+        {
+            "string": "SPLASHES_MULTIKILL"
+        },
+        {
+            "string": "SPLASHES_ONE_SHOT_KILL"
+        },
+        {
+            "string": "SPLASHES_POINTBLANK"
+        },
+        {
+            "string": "SPLASHES_POSTHUMOUS"
+        },
+        {
+            "string": "SPLASHES_PROXIMITYASSIST"
+        },
+        {
+            "string": "SPLASHES_PROXIMITYKILL"
+        },
+        {
+            "string": "SPLASHES_RANKED_UP"
+        },
+        {
+            "string": "SPLASHES_RANKED_UP_DESC"
+        },
+        {
+            "string": "SPLASHES_RECON_AGENT"
+        },
+        {
+            "string": "SPLASHES_REVENGE"
+        },
+        {
+            "string": "SPLASHES_SECOND_PLACE_KILL"
+        },
+        {
+            "string": "SPLASHES_SPECIALIST_STREAKING_XP"
+        },
+        {
+            "string": "SPLASHES_SURVIVOR"
+        },
+        {
+            "string": "SPLASHES_TAGS_BANKED"
+        },
+        {
+            "string": "SPLASHES_TAGS_RETRIEVED"
+        },
+        {
+            "string": "SPLASHES_THIRD_PLACE_KILL"
+        },
+        {
+            "string": "SPLASHES_TRIPLEKILL"
+        }
+    ]
+}

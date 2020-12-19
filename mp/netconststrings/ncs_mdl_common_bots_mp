@@ -1,0 +1,11 @@
+{
+    "name": "ncs_mdl_common_bots_mp",
+    "stringType": 0,
+    "sourceType": 1,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "mp_fullbody_dog_a"
+        }
+    ]
+}

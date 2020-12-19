@@ -1,0 +1,19 @@
+a0,b1,c2,d3,e4,f5,g6,h7,i8,j9,k10,l11,m12,n13
+0,A,1,brute cloaker,8 2,brute cloaker spitter,8 2 2,,,,,,,
+1,A,2,brute spitter cloaker,6 2 4,brute cloaker spitter elite,5 5 2 2,,,,,,,
+2,A,3,brute cloaker spitter elite,5 5 2 2,brute cloaker spitter elite,5 5 3 3,brute cloaker spitter elite,6 6 3 2,,,,,
+3,A,4,brute cloaker spitter elite,6 6 3 2,brute cloaker spitter elite,6 6 3 2,brute cloaker spitter elite,6 6 3 2,,,,,
+4,A,5,brute cloaker spitter elite,6 6 3 2,brute cloaker spitter elite,6 6 3 2,brute cloaker spitter elite,6 6 3 2,,,,,
+5,A,6,brute cloaker spitter elite,6 6 3 2,brute cloaker spitter elite,6 6 3 2,brute cloaker spitter elite,6 6 3 2,brute cloaker spitter elite,6 6 3 2,,,1
+6,B,1,brute,3,brute,3,brute,4,,,,,
+7,B,2,cloaker,4,cloaker,4,spitter,5,,,,,
+8,B,3,cloaker,5,brute,5,brute,6,,,,,
+9,B,4,spitter,6,cloaker,6,cloaker,7,,,,,
+10,B,5,brute,7,brute,7,cloaker,8,,,,,
+11,B,6,brute,8,cloaker,8,brute,10,spitter,16,,,1
+12,C,1,spitter,3,spitter,3,spitter,4,,,,,
+13,C,2,brute,4,brute,4,brute,5,,,,,
+14,C,3,cloaker,5,cloaker,5,spitter,6,,,,,
+15,C,4,brute,6,brute,6,brute,7,,,,,
+16,C,5,brute,7,brute,7,brute,8,,,,,
+17,C,6,spitter,8,spitter,8,spitter,10,spitter,16,,,1

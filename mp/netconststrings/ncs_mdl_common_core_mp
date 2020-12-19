@@ -1,0 +1,260 @@
+{
+    "name": "ncs_mdl_common_core_mp",
+    "stringType": 0,
+    "sourceType": 2,
+    "entryCount": 84,
+    "strings": [
+        {
+            "string": "carepackage_dummy_iw6"
+        },
+        {
+            "string": "carepackage_enemy_iw6"
+        },
+        {
+            "string": "carepackage_friendly_iw6"
+        },
+        {
+            "string": "com_metal_briefcase_intel"
+        },
+        {
+            "string": "defaultvehicle"
+        },
+        {
+            "string": "emergency_flare_iw6"
+        },
+        {
+            "string": "head_juggernaut_light_black"
+        },
+        {
+            "string": "head_mp_head_a"
+        },
+        {
+            "string": "head_mp_infected"
+        },
+        {
+            "string": "ims_scorpion_body_iw6"
+        },
+        {
+            "string": "ims_scorpion_body_iw6_bombsquad"
+        },
+        {
+            "string": "ims_scorpion_body_iw6_placement"
+        },
+        {
+            "string": "ims_scorpion_body_iw6_placement_failed"
+        },
+        {
+            "string": "ims_scorpion_explosive_iw6"
+        },
+        {
+            "string": "mp_body_infected_a"
+        },
+        {
+            "string": "mp_body_juggernaut_light_black"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_arctic"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_desert"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_elite"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_urban"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_woodland"
+        },
+        {
+            "string": "mp_fullbody_juggernaut_heavy_black"
+        },
+        {
+            "string": "mp_juggernaut_carepackage"
+        },
+        {
+            "string": "mp_juggernaut_carepackage_dummy"
+        },
+        {
+            "string": "mp_juggernaut_carepackage_red"
+        },
+        {
+            "string": "mp_proximity_explosive_bombsquad"
+        },
+        {
+            "string": "mp_satcom"
+        },
+        {
+            "string": "mp_satcom_bombsquad"
+        },
+        {
+            "string": "mp_satcom_obj"
+        },
+        {
+            "string": "mp_satcom_obj_red"
+        },
+        {
+            "string": "mp_trophy_system_iw6"
+        },
+        {
+            "string": "mp_trophy_system_iw6_bombsquad"
+        },
+        {
+            "string": "mp_weapon_crate"
+        },
+        {
+            "string": "mp_weapon_crate_bombsquad"
+        },
+        {
+            "string": "mp_weapon_level_pickup_badge"
+        },
+        {
+            "string": "placeable_barrier"
+        },
+        {
+            "string": "placeable_barrier_destroyed"
+        },
+        {
+            "string": "placeable_barrier_obj"
+        },
+        {
+            "string": "placeable_barrier_obj_red"
+        },
+        {
+            "string": "projectile_m67fraggrenade_bombsquad"
+        },
+        {
+            "string": "projectile_semtex_grenade_bombsquad"
+        },
+        {
+            "string": "prop_ballistic_vest_iw6"
+        },
+        {
+            "string": "prop_ballistic_vest_iw6_bombsquad"
+        },
+        {
+            "string": "prop_dogtags_foe_iw6"
+        },
+        {
+            "string": "prop_flag_iw6_federation"
+        },
+        {
+            "string": "prop_flag_iw6_ghost"
+        },
+        {
+            "string": "prop_flag_neutral"
+        },
+        {
+            "string": "prop_mp_max_ammo_pickup"
+        },
+        {
+            "string": "vehicle_a10_warthog_iw6_mp"
+        },
+        {
+            "string": "vehicle_aas_72x_killstreak"
+        },
+        {
+            "string": "vehicle_ac130_low_mp"
+        },
+        {
+            "string": "vehicle_ball_drone_iw6"
+        },
+        {
+            "string": "vehicle_battle_hind"
+        },
+        {
+            "string": "vehicle_drone_backup_buddy"
+        },
+        {
+            "string": "vehicle_drone_backup_buddy_gun"
+        },
+        {
+            "string": "vehicle_drone_vanguard"
+        },
+        {
+            "string": "vehicle_drone_vanguard_gun"
+        },
+        {
+            "string": "vehicle_odin_mp"
+        },
+        {
+            "string": "vehicle_skylark"
+        },
+        {
+            "string": "viewhands_gs_hostage"
+        },
+        {
+            "string": "viewhands_juggernaut_ally"
+        },
+        {
+            "string": "viewhands_us_rangers_arctic"
+        },
+        {
+            "string": "viewhands_us_rangers_desert"
+        },
+        {
+            "string": "viewhands_us_rangers_elite"
+        },
+        {
+            "string": "viewhands_us_rangers_urban"
+        },
+        {
+            "string": "viewhands_us_rangers_woodland"
+        },
+        {
+            "string": "viewmodel_riot_shield_mp"
+        },
+        {
+            "string": "weapon_briefcase_bomb_iw6"
+        },
+        {
+            "string": "weapon_c4_iw6_bombsquad"
+        },
+        {
+            "string": "weapon_canister_bomb_bombsquad"
+        },
+        {
+            "string": "weapon_knife_iw6"
+        },
+        {
+            "string": "weapon_light_stick_tactical_bombsquad"
+        },
+        {
+            "string": "weapon_motion_sensor"
+        },
+        {
+            "string": "weapon_motion_sensor_bombsquad"
+        },
+        {
+            "string": "weapon_riot_shield_iw6"
+        },
+        {
+            "string": "weapon_riot_shield_jug_iw6"
+        },
+        {
+            "string": "weapon_semtex_grenade_iw6_bombsquad"
+        },
+        {
+            "string": "weapon_sentry_chaingun"
+        },
+        {
+            "string": "weapon_sentry_chaingun_bombsquad"
+        },
+        {
+            "string": "weapon_sentry_chaingun_destroyed"
+        },
+        {
+            "string": "weapon_sentry_chaingun_obj"
+        },
+        {
+            "string": "weapon_sentry_chaingun_obj_red"
+        },
+        {
+            "string": "weapon_thermobaric_grenade_bombsquad"
+        },
+        {
+            "string": "weapon_us_smoke_grenade_burnt2"
+        }
+    ]
+}

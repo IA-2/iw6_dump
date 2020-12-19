@@ -1,0 +1,14 @@
+{
+    "name": "ncs_fxt_patch_common_alien_mp",
+    "stringType": 19,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "j_spine4"
+        },
+        {
+            "string": "tag_origin"
+        }
+    ]
+}

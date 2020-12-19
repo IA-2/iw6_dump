@@ -1,0 +1,881 @@
+{
+    "name": "ncs_snd_common_alien_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "entryCount": 291,
+    "strings": [
+        {
+            "string": "MP_hit_alert"
+        },
+        {
+            "string": "alien_attack"
+        },
+        {
+            "string": "alien_attack_bite"
+        },
+        {
+            "string": "alien_attack_drill_F_enter"
+        },
+        {
+            "string": "alien_attack_drill_F_loop"
+        },
+        {
+            "string": "alien_attack_drill_L_enter"
+        },
+        {
+            "string": "alien_attack_drill_L_loop"
+        },
+        {
+            "string": "alien_attack_drill_R_enter"
+        },
+        {
+            "string": "alien_attack_drill_R_loop"
+        },
+        {
+            "string": "alien_death"
+        },
+        {
+            "string": "alien_distant"
+        },
+        {
+            "string": "alien_drone_attack_sentry_back"
+        },
+        {
+            "string": "alien_drone_posture_01"
+        },
+        {
+            "string": "alien_drone_posture_02"
+        },
+        {
+            "string": "alien_drone_posture_03"
+        },
+        {
+            "string": "alien_drone_posture_04"
+        },
+        {
+            "string": "alien_endlevel_fail"
+        },
+        {
+            "string": "alien_fence_gen_off"
+        },
+        {
+            "string": "alien_fence_shock"
+        },
+        {
+            "string": "alien_feral_instinct_bed"
+        },
+        {
+            "string": "alien_fog_approach"
+        },
+        {
+            "string": "alien_fog_approach_low"
+        },
+        {
+            "string": "alien_footstep"
+        },
+        {
+            "string": "alien_footstep_fence"
+        },
+        {
+            "string": "alien_footstep_mvmt"
+        },
+        {
+            "string": "alien_footstep_mvmt_small"
+        },
+        {
+            "string": "alien_footstep_small"
+        },
+        {
+            "string": "alien_heli_drill_drop"
+        },
+        {
+            "string": "alien_heli_intro_takeoff"
+        },
+        {
+            "string": "alien_heli_npc_foley"
+        },
+        {
+            "string": "alien_heli_rescue_dz_flyin"
+        },
+        {
+            "string": "alien_heli_rescue_exfil_lr"
+        },
+        {
+            "string": "alien_heli_rescue_exfil_lsrs"
+        },
+        {
+            "string": "alien_hive_destroyed"
+        },
+        {
+            "string": "alien_incendiary_impact"
+        },
+        {
+            "string": "alien_jump"
+        },
+        {
+            "string": "alien_killstreak_empty"
+        },
+        {
+            "string": "alien_killstreak_equip"
+        },
+        {
+            "string": "alien_land"
+        },
+        {
+            "string": "alien_land_big"
+        },
+        {
+            "string": "alien_land_concrete"
+        },
+        {
+            "string": "alien_land_default"
+        },
+        {
+            "string": "alien_land_dirt"
+        },
+        {
+            "string": "alien_land_fence"
+        },
+        {
+            "string": "alien_land_paintedmetal"
+        },
+        {
+            "string": "alien_land_vehicle"
+        },
+        {
+            "string": "alien_land_vehicle_glass"
+        },
+        {
+            "string": "alien_laser_drill_offline_beep"
+        },
+        {
+            "string": "alien_laser_drill_overheat_ss"
+        },
+        {
+            "string": "alien_laser_drill_plant"
+        },
+        {
+            "string": "alien_laser_drill_reactivate"
+        },
+        {
+            "string": "alien_laser_drill_shutdown"
+        },
+        {
+            "string": "alien_laser_drill_stop"
+        },
+        {
+            "string": "alien_meteor_boom"
+        },
+        {
+            "string": "alien_meteor_boom_local"
+        },
+        {
+            "string": "alien_meteor_debris"
+        },
+        {
+            "string": "alien_meteor_dist_sub"
+        },
+        {
+            "string": "alien_meteor_impact"
+        },
+        {
+            "string": "alien_meteor_launch"
+        },
+        {
+            "string": "alien_minion_alert"
+        },
+        {
+            "string": "alien_minion_attack"
+        },
+        {
+            "string": "alien_minion_death"
+        },
+        {
+            "string": "alien_minion_explode"
+        },
+        {
+            "string": "alien_minion_footstep"
+        },
+        {
+            "string": "alien_minion_footstep_small"
+        },
+        {
+            "string": "alien_minion_idle"
+        },
+        {
+            "string": "alien_minion_spawn_lightning"
+        },
+        {
+            "string": "alien_minion_spawn_mtr_incoming"
+        },
+        {
+            "string": "alien_minion_spawn_mtr_sink"
+        },
+        {
+            "string": "alien_pain_heavy"
+        },
+        {
+            "string": "alien_pain_light"
+        },
+        {
+            "string": "alien_plr_cough"
+        },
+        {
+            "string": "alien_spitter_hit"
+        },
+        {
+            "string": "alien_test_attack_sounds"
+        },
+        {
+            "string": "alien_voice"
+        },
+        {
+            "string": "aln_gn_drill_f"
+        },
+        {
+            "string": "aln_gn_drill_f_ent"
+        },
+        {
+            "string": "aln_gn_drill_l"
+        },
+        {
+            "string": "aln_gn_drill_l_ent"
+        },
+        {
+            "string": "aln_gn_drill_r"
+        },
+        {
+            "string": "aln_gn_drill_r_ent"
+        },
+        {
+            "string": "ammo_crate_use"
+        },
+        {
+            "string": "ball_drone_3Dping"
+        },
+        {
+            "string": "ball_drone_explode"
+        },
+        {
+            "string": "ball_drone_lockon"
+        },
+        {
+            "string": "ball_drone_targeting"
+        },
+        {
+            "string": "battle_hind_bomb_release"
+        },
+        {
+            "string": "battle_hind_missile_fire"
+        },
+        {
+            "string": "blackhawk_helicopter_crash"
+        },
+        {
+            "string": "blackhawk_helicopter_crash_close"
+        },
+        {
+            "string": "blackhawk_helicopter_crash_detail"
+        },
+        {
+            "string": "blackhawk_helicopter_crash_dist"
+        },
+        {
+            "string": "blackhawk_helicopter_damaged"
+        },
+        {
+            "string": "blackhawk_helicopter_hit"
+        },
+        {
+            "string": "blackhawk_helicopter_hit_2"
+        },
+        {
+            "string": "blackhawk_helicopter_secondary_exp"
+        },
+        {
+            "string": "blackhawk_helicopter_secondary_exp_boom"
+        },
+        {
+            "string": "blackhawk_helicopter_secondary_exp_close"
+        },
+        {
+            "string": "bmp_fire"
+        },
+        {
+            "string": "bmp_turret_stop"
+        },
+        {
+            "string": "breathing_heartbeat_alien"
+        },
+        {
+            "string": "breathing_hurt_alien"
+        },
+        {
+            "string": "bullet_small_auto_glass"
+        },
+        {
+            "string": "car_alarm_off"
+        },
+        {
+            "string": "car_explode"
+        },
+        {
+            "string": "car_explode_boom"
+        },
+        {
+            "string": "car_explode_boom2"
+        },
+        {
+            "string": "car_explode_detail"
+        },
+        {
+            "string": "car_explode_dist"
+        },
+        {
+            "string": "car_explode_donut"
+        },
+        {
+            "string": "car_explode_police"
+        },
+        {
+            "string": "car_explode_police_boom"
+        },
+        {
+            "string": "car_explode_police_boom2"
+        },
+        {
+            "string": "car_explode_police_detail"
+        },
+        {
+            "string": "car_explode_police_dist"
+        },
+        {
+            "string": "car_explode_police_donut"
+        },
+        {
+            "string": "elm_aliens_birds"
+        },
+        {
+            "string": "exp_ac130_105mm_dist"
+        },
+        {
+            "string": "exp_ac130_105mm_flash"
+        },
+        {
+            "string": "exp_ac130_40mm"
+        },
+        {
+            "string": "exp_ac130_40mm_boom"
+        },
+        {
+            "string": "exp_ac130_40mm_close"
+        },
+        {
+            "string": "exp_ac130_40mm_dist"
+        },
+        {
+            "string": "exp_ac130_40mm_flash"
+        },
+        {
+            "string": "exp_ac130_40mm_sub"
+        },
+        {
+            "string": "exp_hind_bomb"
+        },
+        {
+            "string": "exp_hind_bomb_close"
+        },
+        {
+            "string": "exp_hind_bomb_dist"
+        },
+        {
+            "string": "exp_hind_bomb_layer"
+        },
+        {
+            "string": "exp_hind_missile"
+        },
+        {
+            "string": "exp_hind_missile_close"
+        },
+        {
+            "string": "exp_hind_missile_dist"
+        },
+        {
+            "string": "exp_hind_missile_layer"
+        },
+        {
+            "string": "exp_suitcase_bomb_main"
+        },
+        {
+            "string": "exp_suitcase_bomb_sweet"
+        },
+        {
+            "string": "extinction_item_pickup"
+        },
+        {
+            "string": "fast_artillery_round"
+        },
+        {
+            "string": "female_death_american_1_plr"
+        },
+        {
+            "string": "fire_trap_fire_end_lp"
+        },
+        {
+            "string": "fire_vehicle_flareup_med"
+        },
+        {
+            "string": "fire_vehicle_flareup_med_layer"
+        },
+        {
+            "string": "generic_death_american_1_plr"
+        },
+        {
+            "string": "generic_death_american_2_plr"
+        },
+        {
+            "string": "generic_death_american_3_plr"
+        },
+        {
+            "string": "grnd_spn"
+        },
+        {
+            "string": "grnd_spn_vocal"
+        },
+        {
+            "string": "hind_gatling_cooldown"
+        },
+        {
+            "string": "hind_helicopter_bounce_destroy"
+        },
+        {
+            "string": "hind_helicopter_crash"
+        },
+        {
+            "string": "hind_helicopter_crash_close"
+        },
+        {
+            "string": "hind_helicopter_crash_detail"
+        },
+        {
+            "string": "hind_helicopter_crash_dist"
+        },
+        {
+            "string": "hind_helicopter_damaged"
+        },
+        {
+            "string": "hind_helicopter_dirtsplash"
+        },
+        {
+            "string": "hind_helicopter_dirtsplash_small"
+        },
+        {
+            "string": "hind_helicopter_explosion"
+        },
+        {
+            "string": "hind_helicopter_explosion_boom"
+        },
+        {
+            "string": "hind_helicopter_explosion_hit"
+        },
+        {
+            "string": "hind_helicopter_explosion_layer"
+        },
+        {
+            "string": "hind_helicopter_explosion_metal"
+        },
+        {
+            "string": "hind_helicopter_hit"
+        },
+        {
+            "string": "hind_helicopter_hit_2"
+        },
+        {
+            "string": "hind_helicopter_secondary_exp"
+        },
+        {
+            "string": "hind_helicopter_secondary_exp_boom"
+        },
+        {
+            "string": "hind_helicopter_secondary_exp_close"
+        },
+        {
+            "string": "hind_helicopter_spin"
+        },
+        {
+            "string": "hind_helicopter_watersplash_small"
+        },
+        {
+            "string": "ims_destroyed"
+        },
+        {
+            "string": "ims_destroyed_sparks"
+        },
+        {
+            "string": "ims_fire"
+        },
+        {
+            "string": "ims_launch"
+        },
+        {
+            "string": "ims_plant"
+        },
+        {
+            "string": "ims_rocket_fire_npc"
+        },
+        {
+            "string": "ims_trigger"
+        },
+        {
+            "string": "kem_explosion_boom"
+        },
+        {
+            "string": "kem_explosion_debris"
+        },
+        {
+            "string": "kem_explosion_dist_sub"
+        },
+        {
+            "string": "littlebird_gatling_fire"
+        },
+        {
+            "string": "littlebird_helicopter_crash"
+        },
+        {
+            "string": "littlebird_helicopter_crash_close"
+        },
+        {
+            "string": "littlebird_helicopter_crash_detail"
+        },
+        {
+            "string": "littlebird_helicopter_crash_dist"
+        },
+        {
+            "string": "littlebird_helicopter_hit"
+        },
+        {
+            "string": "littlebird_helicopter_hit_2"
+        },
+        {
+            "string": "littlebird_helicopter_secondary_exp"
+        },
+        {
+            "string": "littlebird_helicopter_secondary_exp_boom"
+        },
+        {
+            "string": "littlebird_helicopter_secondary_exp_close"
+        },
+        {
+            "string": "minion_footstep"
+        },
+        {
+            "string": "minion_footstep_small"
+        },
+        {
+            "string": "mp_intel_fail"
+        },
+        {
+            "string": "mp_intel_received"
+        },
+        {
+            "string": "mp_intel_success"
+        },
+        {
+            "string": "mp_killstreak_disappear"
+        },
+        {
+            "string": "mp_killstreak_disappear_layer"
+        },
+        {
+            "string": "mp_level_up"
+        },
+        {
+            "string": "mp_splash_screen_default"
+        },
+        {
+            "string": "mp_suspense_01"
+        },
+        {
+            "string": "mp_suspense_02"
+        },
+        {
+            "string": "mp_suspense_03"
+        },
+        {
+            "string": "mp_suspense_04"
+        },
+        {
+            "string": "mp_suspense_05"
+        },
+        {
+            "string": "mp_suspense_06"
+        },
+        {
+            "string": "mp_vest_deployed_ui"
+        },
+        {
+            "string": "mus_alien_exfil"
+        },
+        {
+            "string": "mus_alien_newwave"
+        },
+        {
+            "string": "mus_alien_nukeset"
+        },
+        {
+            "string": "mus_alien_queen"
+        },
+        {
+            "string": "nuke_explosion"
+        },
+        {
+            "string": "nuke_incoming"
+        },
+        {
+            "string": "nuke_music"
+        },
+        {
+            "string": "nuke_wave"
+        },
+        {
+            "string": "player_hit_sfx_alien"
+        },
+        {
+            "string": "police_siren_destroy"
+        },
+        {
+            "string": "pre_quake_mtl_groan"
+        },
+        {
+            "string": "queen_attack_pounding"
+        },
+        {
+            "string": "queen_attack_pounding_second"
+        },
+        {
+            "string": "queen_attack_pounding_third"
+        },
+        {
+            "string": "queen_charge"
+        },
+        {
+            "string": "queen_charge_bump"
+        },
+        {
+            "string": "queen_charge_start"
+        },
+        {
+            "string": "queen_charge_start_v2"
+        },
+        {
+            "string": "queen_charge_start_v3"
+        },
+        {
+            "string": "queen_charge_to_stop"
+        },
+        {
+            "string": "queen_death"
+        },
+        {
+            "string": "queen_footstep"
+        },
+        {
+            "string": "queen_posture_01"
+        },
+        {
+            "string": "queen_posture_02"
+        },
+        {
+            "string": "queen_recharge"
+        },
+        {
+            "string": "queen_spawn_01_concrete"
+        },
+        {
+            "string": "queen_spawn_01_dirt"
+        },
+        {
+            "string": "scavenger_pack_pickup"
+        },
+        {
+            "string": "sentry_drop"
+        },
+        {
+            "string": "sentry_explode"
+        },
+        {
+            "string": "sentry_explode_smoke"
+        },
+        {
+            "string": "sentry_explode_sparks"
+        },
+        {
+            "string": "sentry_gun_beep"
+        },
+        {
+            "string": "sentry_gun_plant"
+        },
+        {
+            "string": "sentry_minigun_cooldown"
+        },
+        {
+            "string": "sentry_minigun_spin"
+        },
+        {
+            "string": "sentry_minigun_spindown1"
+        },
+        {
+            "string": "sentry_minigun_spindown2"
+        },
+        {
+            "string": "sentry_minigun_spindown3"
+        },
+        {
+            "string": "sentry_minigun_spindown4"
+        },
+        {
+            "string": "sentry_minigun_spinup1"
+        },
+        {
+            "string": "sentry_minigun_spinup2"
+        },
+        {
+            "string": "sentry_minigun_spinup3"
+        },
+        {
+            "string": "sentry_minigun_spinup4"
+        },
+        {
+            "string": "sentry_pickup"
+        },
+        {
+            "string": "sentry_steam"
+        },
+        {
+            "string": "sentry_steam_body"
+        },
+        {
+            "string": "sentry_steam_burst_decay"
+        },
+        {
+            "string": "spit_close_atk"
+        },
+        {
+            "string": "spit_dist_atk"
+        },
+        {
+            "string": "spit_fire"
+        },
+        {
+            "string": "spit_post_a"
+        },
+        {
+            "string": "spit_post_b"
+        },
+        {
+            "string": "spitter_death"
+        },
+        {
+            "string": "spitter_jump"
+        },
+        {
+            "string": "spitter_pain"
+        },
+        {
+            "string": "tactical_insert_flare_lift_npc"
+        },
+        {
+            "string": "tactical_insert_iw5_flare_strike_plr"
+        },
+        {
+            "string": "trophy_turret_plant_npc"
+        },
+        {
+            "string": "trophy_turret_plant_plr"
+        },
+        {
+            "string": "trophy_turret_pullout_npc"
+        },
+        {
+            "string": "trophy_turret_pullout_plr"
+        },
+        {
+            "string": "ui_mp_nukebomb_timer"
+        },
+        {
+            "string": "ui_mp_suitcasebomb_timer"
+        },
+        {
+            "string": "ui_mp_timer_countdown"
+        },
+        {
+            "string": "us_defeat_music"
+        },
+        {
+            "string": "us_losing_music"
+        },
+        {
+            "string": "us_spawn_music"
+        },
+        {
+            "string": "us_victory_music"
+        },
+        {
+            "string": "veh_glass_break_large"
+        },
+        {
+            "string": "veh_glass_break_small"
+        },
+        {
+            "string": "veh_tire_deflate"
+        },
+        {
+            "string": "veh_tire_deflate_decay"
+        },
+        {
+            "string": "veh_tire_deflate_layer"
+        },
+        {
+            "string": "weap_ballistic_vest_pullout_npc"
+        },
+        {
+            "string": "weap_ballistic_vest_pullout_plr"
+        },
+        {
+            "string": "weap_ballistic_vest_putaway_npc"
+        },
+        {
+            "string": "weap_ballistic_vest_putaway_plr"
+        },
+        {
+            "string": "weap_flashlight_off_plr"
+        },
+        {
+            "string": "weap_flashlight_on_plr"
+        },
+        {
+            "string": "weap_hind_turret"
+        },
+        {
+            "string": "weap_hind_turret_fardist"
+        },
+        {
+            "string": "weap_hind_turret_meddist"
+        },
+        {
+            "string": "weap_littlebird_missile_fire"
+        },
+        {
+            "string": "weap_sentry_gun_fardist"
+        },
+        {
+            "string": "weap_sentry_gun_fire"
+        },
+        {
+            "string": "weap_sentry_gun_fire_lyr"
+        },
+        {
+            "string": "weap_sentry_gun_meddist"
+        }
+    ]
+}

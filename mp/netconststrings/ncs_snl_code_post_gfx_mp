@@ -1,0 +1,29 @@
+{
+    "name": "ncs_snl_code_post_gfx_mp",
+    "stringType": 7,
+    "sourceType": 2,
+    "entryCount": 7,
+    "strings": [
+        {
+            "string": "music_challenge_factory"
+        },
+        {
+            "string": "music_mainmenu"
+        },
+        {
+            "string": "music_mainmenu_extinct"
+        },
+        {
+            "string": "music_mainmenu_mp"
+        },
+        {
+            "string": "music_mainmenu_rorke_files"
+        },
+        {
+            "string": "music_mainmenu_squad"
+        },
+        {
+            "string": "music_opening"
+        }
+    ]
+}

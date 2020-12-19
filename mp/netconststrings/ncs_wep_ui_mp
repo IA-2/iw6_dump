@@ -1,0 +1,146 @@
+{
+    "name": "ncs_wep_ui_mp",
+    "stringType": 16,
+    "sourceType": 2,
+    "entryCount": 46,
+    "strings": [
+        {
+            "string": "defaultweapon_mp"
+        },
+        {
+            "string": "iw6_ak12_mp"
+        },
+        {
+            "string": "iw6_ameli_mp"
+        },
+        {
+            "string": "iw6_arx160_mp"
+        },
+        {
+            "string": "iw6_bren_mp"
+        },
+        {
+            "string": "iw6_cbjms_mp"
+        },
+        {
+            "string": "iw6_fads_mp"
+        },
+        {
+            "string": "iw6_fp6_mp"
+        },
+        {
+            "string": "iw6_g28_mp"
+        },
+        {
+            "string": "iw6_gm6_mp"
+        },
+        {
+            "string": "iw6_honeybadger_mp"
+        },
+        {
+            "string": "iw6_imbel_mp"
+        },
+        {
+            "string": "iw6_k7_mp"
+        },
+        {
+            "string": "iw6_kac_mp"
+        },
+        {
+            "string": "iw6_knifeonly_mp"
+        },
+        {
+            "string": "iw6_knifeonlymenu_mp"
+        },
+        {
+            "string": "iw6_kriss_mp"
+        },
+        {
+            "string": "iw6_l115a3_mp"
+        },
+        {
+            "string": "iw6_lsat_mp"
+        },
+        {
+            "string": "iw6_m27_mp"
+        },
+        {
+            "string": "iw6_m9a1_mp"
+        },
+        {
+            "string": "iw6_maaws_mp"
+        },
+        {
+            "string": "iw6_maawschild_mp"
+        },
+        {
+            "string": "iw6_maawshoming_mp"
+        },
+        {
+            "string": "iw6_magnum_mp"
+        },
+        {
+            "string": "iw6_maul_mp"
+        },
+        {
+            "string": "iw6_microtar_mp"
+        },
+        {
+            "string": "iw6_minigun_mp"
+        },
+        {
+            "string": "iw6_mk14_mp"
+        },
+        {
+            "string": "iw6_mk32_mp"
+        },
+        {
+            "string": "iw6_mp443_mp"
+        },
+        {
+            "string": "iw6_msbs_mp"
+        },
+        {
+            "string": "iw6_mts255_mp"
+        },
+        {
+            "string": "iw6_p226_mp"
+        },
+        {
+            "string": "iw6_panzerfaust3_mp"
+        },
+        {
+            "string": "iw6_pdw_mp"
+        },
+        {
+            "string": "iw6_pp19_mp"
+        },
+        {
+            "string": "iw6_r5rgp_mp"
+        },
+        {
+            "string": "iw6_rgm_mp"
+        },
+        {
+            "string": "iw6_riotshield_mp"
+        },
+        {
+            "string": "iw6_sc2010_mp"
+        },
+        {
+            "string": "iw6_svu_mp"
+        },
+        {
+            "string": "iw6_usr_mp"
+        },
+        {
+            "string": "iw6_uts15_mp"
+        },
+        {
+            "string": "iw6_vepr_mp"
+        },
+        {
+            "string": "iw6_vks_mp"
+        }
+    ]
+}

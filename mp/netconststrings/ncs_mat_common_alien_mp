@@ -1,0 +1,479 @@
+{
+    "name": "ncs_mat_common_alien_mp",
+    "stringType": 1,
+    "sourceType": 2,
+    "entryCount": 157,
+    "strings": [
+        {
+            "string": "ac130_overlay_grain"
+        },
+        {
+            "string": "alien_dpad_icon_airstrike"
+        },
+        {
+            "string": "alien_dpad_icon_airstrike_1"
+        },
+        {
+            "string": "alien_dpad_icon_airstrike_2"
+        },
+        {
+            "string": "alien_dpad_icon_airstrike_3"
+        },
+        {
+            "string": "alien_dpad_icon_airstrike_4"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_explosive"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_explosive_01"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_explosive_02"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_explosive_03"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_explosive_04"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_incendiary"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_incendiary_01"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_incendiary_02"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_incendiary_03"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_incendiary_04"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_piercing"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_piercing_01"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_piercing_02"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_piercing_03"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_piercing_04"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_stun"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_stun_01"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_stun_02"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_stun_03"
+        },
+        {
+            "string": "alien_dpad_icon_ammo_stun_04"
+        },
+        {
+            "string": "alien_dpad_icon_backup_uav"
+        },
+        {
+            "string": "alien_dpad_icon_backup_uav_1"
+        },
+        {
+            "string": "alien_dpad_icon_backup_uav_2"
+        },
+        {
+            "string": "alien_dpad_icon_backup_uav_3"
+        },
+        {
+            "string": "alien_dpad_icon_backup_uav_4"
+        },
+        {
+            "string": "alien_dpad_icon_death_machine"
+        },
+        {
+            "string": "alien_dpad_icon_death_machine_1"
+        },
+        {
+            "string": "alien_dpad_icon_death_machine_2"
+        },
+        {
+            "string": "alien_dpad_icon_death_machine_3"
+        },
+        {
+            "string": "alien_dpad_icon_death_machine_4"
+        },
+        {
+            "string": "alien_dpad_icon_grenade_turret"
+        },
+        {
+            "string": "alien_dpad_icon_grenade_turret_1"
+        },
+        {
+            "string": "alien_dpad_icon_grenade_turret_2"
+        },
+        {
+            "string": "alien_dpad_icon_grenade_turret_3"
+        },
+        {
+            "string": "alien_dpad_icon_grenade_turret_4"
+        },
+        {
+            "string": "alien_dpad_icon_ims"
+        },
+        {
+            "string": "alien_dpad_icon_ims_1"
+        },
+        {
+            "string": "alien_dpad_icon_ims_2"
+        },
+        {
+            "string": "alien_dpad_icon_ims_3"
+        },
+        {
+            "string": "alien_dpad_icon_ims_4"
+        },
+        {
+            "string": "alien_dpad_icon_manned_turret"
+        },
+        {
+            "string": "alien_dpad_icon_manned_turret_1"
+        },
+        {
+            "string": "alien_dpad_icon_manned_turret_2"
+        },
+        {
+            "string": "alien_dpad_icon_manned_turret_3"
+        },
+        {
+            "string": "alien_dpad_icon_manned_turret_4"
+        },
+        {
+            "string": "alien_dpad_icon_riotshield"
+        },
+        {
+            "string": "alien_dpad_icon_riotshield_1"
+        },
+        {
+            "string": "alien_dpad_icon_riotshield_2"
+        },
+        {
+            "string": "alien_dpad_icon_riotshield_3"
+        },
+        {
+            "string": "alien_dpad_icon_riotshield_4"
+        },
+        {
+            "string": "alien_dpad_icon_sentry"
+        },
+        {
+            "string": "alien_dpad_icon_sentry_1"
+        },
+        {
+            "string": "alien_dpad_icon_sentry_2"
+        },
+        {
+            "string": "alien_dpad_icon_sentry_3"
+        },
+        {
+            "string": "alien_dpad_icon_sentry_4"
+        },
+        {
+            "string": "alien_dpad_icon_switchblade"
+        },
+        {
+            "string": "alien_dpad_icon_switchblade_1"
+        },
+        {
+            "string": "alien_dpad_icon_switchblade_2"
+        },
+        {
+            "string": "alien_dpad_icon_switchblade_3"
+        },
+        {
+            "string": "alien_dpad_icon_switchblade_4"
+        },
+        {
+            "string": "alien_dpad_icon_team_adrenaline"
+        },
+        {
+            "string": "alien_dpad_icon_team_adrenaline_1"
+        },
+        {
+            "string": "alien_dpad_icon_team_adrenaline_2"
+        },
+        {
+            "string": "alien_dpad_icon_team_adrenaline_3"
+        },
+        {
+            "string": "alien_dpad_icon_team_adrenaline_4"
+        },
+        {
+            "string": "alien_dpad_icon_team_ammo"
+        },
+        {
+            "string": "alien_dpad_icon_team_ammo_1"
+        },
+        {
+            "string": "alien_dpad_icon_team_ammo_2"
+        },
+        {
+            "string": "alien_dpad_icon_team_ammo_3"
+        },
+        {
+            "string": "alien_dpad_icon_team_ammo_4"
+        },
+        {
+            "string": "alien_dpad_icon_team_armor"
+        },
+        {
+            "string": "alien_dpad_icon_team_armor_1"
+        },
+        {
+            "string": "alien_dpad_icon_team_armor_2"
+        },
+        {
+            "string": "alien_dpad_icon_team_armor_3"
+        },
+        {
+            "string": "alien_dpad_icon_team_armor_4"
+        },
+        {
+            "string": "alien_dpad_icon_team_boost"
+        },
+        {
+            "string": "alien_dpad_icon_team_boost_1"
+        },
+        {
+            "string": "alien_dpad_icon_team_boost_2"
+        },
+        {
+            "string": "alien_dpad_icon_team_boost_3"
+        },
+        {
+            "string": "alien_dpad_icon_team_boost_4"
+        },
+        {
+            "string": "alien_dpad_icon_team_explosives"
+        },
+        {
+            "string": "alien_dpad_icon_team_explosives_1"
+        },
+        {
+            "string": "alien_dpad_icon_team_explosives_2"
+        },
+        {
+            "string": "alien_dpad_icon_team_explosives_3"
+        },
+        {
+            "string": "alien_dpad_icon_team_explosives_4"
+        },
+        {
+            "string": "alien_dpad_icon_team_money"
+        },
+        {
+            "string": "alien_dpad_icon_team_randombox"
+        },
+        {
+            "string": "alien_dpad_icon_team_randombox_1"
+        },
+        {
+            "string": "alien_dpad_icon_team_randombox_2"
+        },
+        {
+            "string": "alien_dpad_icon_team_randombox_3"
+        },
+        {
+            "string": "alien_dpad_icon_team_randombox_4"
+        },
+        {
+            "string": "alien_dpad_icon_war_machine"
+        },
+        {
+            "string": "alien_dpad_icon_war_machine_1"
+        },
+        {
+            "string": "alien_dpad_icon_war_machine_2"
+        },
+        {
+            "string": "alien_dpad_icon_war_machine_3"
+        },
+        {
+            "string": "alien_dpad_icon_war_machine_4"
+        },
+        {
+            "string": "alien_icon_ammo_explosive"
+        },
+        {
+            "string": "alien_icon_ammo_incendiary"
+        },
+        {
+            "string": "alien_icon_ammo_piercing"
+        },
+        {
+            "string": "alien_icon_ammo_stun"
+        },
+        {
+            "string": "alien_icon_blockerhive"
+        },
+        {
+            "string": "alien_icon_chopper"
+        },
+        {
+            "string": "alien_icon_team_explosives"
+        },
+        {
+            "string": "cardicon_brassknuckles"
+        },
+        {
+            "string": "cb_compassping_aliens_friendly"
+        },
+        {
+            "string": "compass_objpoint_ammo_enemy"
+        },
+        {
+            "string": "compass_objpoint_ammo_friendly"
+        },
+        {
+            "string": "compass_objpoint_deploy_ammo_friendly"
+        },
+        {
+            "string": "compass_objpoint_deploy_friendly"
+        },
+        {
+            "string": "compass_objpoint_deploy_grenades_friendly"
+        },
+        {
+            "string": "compass_objpoint_deploy_juiced_friendly"
+        },
+        {
+            "string": "crosshair_red"
+        },
+        {
+            "string": "dpad_killstreak_deployable_ammo"
+        },
+        {
+            "string": "fullscreen_bloodsplat_left"
+        },
+        {
+            "string": "fullscreen_bloodsplat_right"
+        },
+        {
+            "string": "goggles_overlay"
+        },
+        {
+            "string": "headicon_heli_extract_point"
+        },
+        {
+            "string": "headicon_rangers"
+        },
+        {
+            "string": "headicon_us"
+        },
+        {
+            "string": "icon_alien_rank_1stlt1"
+        },
+        {
+            "string": "icon_alien_rank_1stsgt1"
+        },
+        {
+            "string": "icon_alien_rank_2ndlt1"
+        },
+        {
+            "string": "icon_alien_rank_bgen1"
+        },
+        {
+            "string": "icon_alien_rank_capt1"
+        },
+        {
+            "string": "icon_alien_rank_cmdsgtmaj1"
+        },
+        {
+            "string": "icon_alien_rank_col1"
+        },
+        {
+            "string": "icon_alien_rank_comm1"
+        },
+        {
+            "string": "icon_alien_rank_cpl1"
+        },
+        {
+            "string": "icon_alien_rank_gen1"
+        },
+        {
+            "string": "icon_alien_rank_ltcol1"
+        },
+        {
+            "string": "icon_alien_rank_ltgen1"
+        },
+        {
+            "string": "icon_alien_rank_maj1"
+        },
+        {
+            "string": "icon_alien_rank_majgen1"
+        },
+        {
+            "string": "icon_alien_rank_msgt1"
+        },
+        {
+            "string": "icon_alien_rank_pfc1"
+        },
+        {
+            "string": "icon_alien_rank_pvt1"
+        },
+        {
+            "string": "icon_alien_rank_sfc1"
+        },
+        {
+            "string": "icon_alien_rank_sgt1"
+        },
+        {
+            "string": "icon_alien_rank_sgtmaj1"
+        },
+        {
+            "string": "icon_alien_rank_spc1"
+        },
+        {
+            "string": "icon_alien_rank_ssgt1"
+        },
+        {
+            "string": "juggernaut_overlay_half"
+        },
+        {
+            "string": "multi_team_icon_0"
+        },
+        {
+            "string": "rank_alienprestige1"
+        },
+        {
+            "string": "rank_alienprestige2"
+        },
+        {
+            "string": "rank_alienprestige3"
+        },
+        {
+            "string": "rank_alienprestige4"
+        },
+        {
+            "string": "rank_alienprestige5"
+        },
+        {
+            "string": "scavenger_pickup"
+        },
+        {
+            "string": "waypoint_alien_revive"
+        },
+        {
+            "string": "waypoint_dogtags"
+        }
+    ]
+}

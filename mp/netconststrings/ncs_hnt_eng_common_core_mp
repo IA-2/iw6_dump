@@ -1,0 +1,227 @@
+{
+    "name": "ncs_hnt_eng_common_core_mp",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 73,
+    "strings": [
+        {
+            "string": "HORDE_AMMO"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_AIM"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_AK"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_ARX"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_BLAST"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_FAST"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_FOCUS"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_FP6"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_GO"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_HEALTH"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_KAC"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_KNIFE"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_LIGHT"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_M27"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_MARA"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_MICRO"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_MTS"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_QIUCK"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_READY"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_STALK"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_SWAP"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_TRIGGER"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_USR"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_VEPR"
+        },
+        {
+            "string": "HORDE_DOUBLE_TAP_WEST"
+        },
+        {
+            "string": "HORDE_RESPAWN"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_AA_LAUNCHER_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_AGENT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_AIR_SUPERIORITY_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_BALL_DRONE_BACKUP_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_BALL_DRONE_RADAR_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_DEPLOYABLE_AMMO_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_DEPLOYABLE_AMMO_USE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_DEPLOYABLE_VEST_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_DOUBLE_TAP_TO_CARRY"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_DRONE_HIVE_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_GUARD_DOG_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_HASHIMA_MISSILES"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_HELICOPTER_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_HELI_PILOT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_HELI_SNIPER_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_HVT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_IMS_CANNOT_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_IMS_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_IMS_PICKUP_TO_MOVE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_IMS_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_JAMMER_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_JUGGERNAUT_MANIAC_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_JUGGERNAUT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_JUGGERNAUT_RECON_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_LIGHT_ARMOR_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_ODIN_ASSAULT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_ODIN_SUPPORT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_RECON_AGENT_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_REMOTE_TANK_CANNOT_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_REMOTE_TANK_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_REMOTE_TANK_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_SAM_TURRET_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_SENTRY_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_SNOW_SATELLITE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_SOVEREIGN_GAS"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_STRIKEZONE_ROG"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_TURRET_CANNOT_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_TURRET_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_UAV_3DPING_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_UPLINK_CANNOT_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_UPLINK_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_UPLINK_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_VANGUARD_CANNOT_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_VANGUARD_PICKUP"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_VANGUARD_PLACE"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_WARHAWK_MORTARS"
+        },
+        {
+            "string": "KILLSTREAKS_HINTS_WEAPON_PICKUP"
+        }
+    ]
+}

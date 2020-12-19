@@ -1,0 +1,29 @@
+{
+    "name": "ncs_vfx_code_nvidia_mp",
+    "stringType": 4,
+    "sourceType": 2,
+    "entryCount": 7,
+    "strings": [
+        {
+            "string": "vfx/apex/nv_dog_a"
+        },
+        {
+            "string": "vfx/apex/nv_dog_b"
+        },
+        {
+            "string": "vfx/apex/nv_dog_c"
+        },
+        {
+            "string": "vfx/apex/nv_wolf_a"
+        },
+        {
+            "string": "vfx/apex/nv_wolf_b"
+        },
+        {
+            "string": "vfx/apex/nv_wolf_c"
+        },
+        {
+            "string": "vfx/apex/smokegrenade_dualfx"
+        }
+    ]
+}

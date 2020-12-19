@@ -1,0 +1,26 @@
+{
+    "name": "ncs_hnt_eng_mp_dome_ns",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 6,
+    "strings": [
+        {
+            "string": "MP_DOME_NS_ACTIVATE_CRANE"
+        },
+        {
+            "string": "MP_DOME_NS_ALIEN_GUN_HINT"
+        },
+        {
+            "string": "MP_DOME_NS_ALIEN_GUN_PC_HINT"
+        },
+        {
+            "string": "MP_DOME_NS_ALREADY_HAVE_ALIEN_GUN"
+        },
+        {
+            "string": "MP_DOME_NS_GET_ALIEN_GUN"
+        },
+        {
+            "string": "MP_DOME_NS_SEEKERS_PICKUP"
+        }
+    ]
+}

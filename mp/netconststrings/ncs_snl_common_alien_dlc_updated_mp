@@ -1,0 +1,20 @@
+{
+    "name": "ncs_snl_common_alien_dlc_updated_mp",
+    "stringType": 7,
+    "sourceType": 2,
+    "entryCount": 4,
+    "strings": [
+        {
+            "string": "alien_skill_engineer_lp"
+        },
+        {
+            "string": "alien_skill_medic_lp"
+        },
+        {
+            "string": "alien_skill_tank_lp"
+        },
+        {
+            "string": "alien_skill_weapon_lp"
+        }
+    ]
+}

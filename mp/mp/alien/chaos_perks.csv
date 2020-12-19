@@ -1,0 +1,17 @@
+a0,b1,c2,d3
+fast_hands,10,1,icon_perks_quickdraw
+stronger_melee,20,2,alien_chaos_icon_mega_melee
+better_traps,30,3,alien_dpad_icon_trap
+gas_mask,40,4,alien_chaos_icon_gasmask
+specialty_fastreload,50,5,icon_perks_sleight_of_hand
+bullet_damage_1,60,6,alien_chaos_icon_bullet_damage_1
+steady_aim,70,7,icon_perks_steady_aim
+specialty_stalker,80,8,icon_perks_stalker
+revive_protection,90,9,alien_icon_laststand
+fast_health_regen,100,10,icon_perks_icu
+specialty_marathon,110,11,icon_perks_marathon
+more_cash,120,12,alien_dpad_icon_team_money
+bullet_damage_2,130,13,alien_chaos_icon_bullet_damage_2
+fast_movement_speed,140,14,icon_perks_agility
+more_health,150,15,alien_chaos_icon_more_health
+feral_vision,160,16,alien_dpad_icon_team_adrenaline

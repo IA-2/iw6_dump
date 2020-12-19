@@ -1,0 +1,6 @@
+template_,any,any_equip,any_equip_camper
+loadoutStreak1,uplink|ims|guard_dog|uplink_support|deployable_vest|deployable_ammo|ball_drone_radar,,
+loadoutStreak2,sentry|helicopter|ball_drone_backup|drone_hive|vanguard|aa_launcher|jammer|air_superiority|recon_agent|heli_sniper,,
+loadoutStreak3,airdrop_juggernaut_maniac|airdrop_juggernaut|heli_pilot|odin_assault|uav_3dping|airdrop_juggernaut_recon|odin_support,,
+loadoutEquipment,,frag_grenade_mp|semtex_mp|throwingknife_mp|thermobaric_grenade_mp|mortar_shell_mp,c4_mp|proximity_explosive_mp
+loadoutOffhand,,flash_grenade_mp|concussion_grenade_mp|smoke_grenade_mp,trophy_mp|motion_sensor_mp

@@ -1,0 +1,239 @@
+{
+    "name": "ncs_lui_patch_common_mp",
+    "stringType": 21,
+    "sourceType": 2,
+    "entryCount": 77,
+    "strings": [
+        {
+            "string": "battle_spawn"
+        },
+        {
+            "string": "battlebuddy_update"
+        },
+        {
+            "string": "bot_select"
+        },
+        {
+            "string": "boxofguns"
+        },
+        {
+            "string": "cac"
+        },
+        {
+            "string": "class_select"
+        },
+        {
+            "string": "craft_current_item"
+        },
+        {
+            "string": "dead"
+        },
+        {
+            "string": "defense_try_upgrade"
+        },
+        {
+            "string": "end_game"
+        },
+        {
+            "string": "err_combat"
+        },
+        {
+            "string": "err_pos"
+        },
+        {
+            "string": "final_kc_attacker1"
+        },
+        {
+            "string": "final_kc_attacker2"
+        },
+        {
+            "string": "final_kc_attacker3"
+        },
+        {
+            "string": "final_kc_attacker4"
+        },
+        {
+            "string": "final_kc_part1"
+        },
+        {
+            "string": "final_kc_part2"
+        },
+        {
+            "string": "final_kc_part2_agent"
+        },
+        {
+            "string": "final_kc_part2_dog"
+        },
+        {
+            "string": "final_kc_part3"
+        },
+        {
+            "string": "final_kc_victim"
+        },
+        {
+            "string": "first_infected_in"
+        },
+        {
+            "string": "gambler_anim_complete"
+        },
+        {
+            "string": "hitalienarmor"
+        },
+        {
+            "string": "hitaliensoft"
+        },
+        {
+            "string": "hitblastshield"
+        },
+        {
+            "string": "hitcritical"
+        },
+        {
+            "string": "hitdeadeyekill"
+        },
+        {
+            "string": "hitjuggernaut"
+        },
+        {
+            "string": "hitkill"
+        },
+        {
+            "string": "hitkillblast"
+        },
+        {
+            "string": "hitkilljugg"
+        },
+        {
+            "string": "hitlightarmor"
+        },
+        {
+            "string": "hitmorehealth"
+        },
+        {
+            "string": "hitmotionsensor"
+        },
+        {
+            "string": "incoming"
+        },
+        {
+            "string": "intermission"
+        },
+        {
+            "string": "killcam"
+        },
+        {
+            "string": "killcam_agent"
+        },
+        {
+            "string": "killcam_agent_firstperson"
+        },
+        {
+            "string": "killcam_dog"
+        },
+        {
+            "string": "match_resuming_in"
+        },
+        {
+            "string": "match_starting_in"
+        },
+        {
+            "string": "mlg_view_change"
+        },
+        {
+            "string": "munition_try_upgrade"
+        },
+        {
+            "string": "none"
+        },
+        {
+            "string": "odin_zoom_down"
+        },
+        {
+            "string": "odin_zoom_up"
+        },
+        {
+            "string": "odin_zoom_up_with_collision"
+        },
+        {
+            "string": "offense_try_upgrade"
+        },
+        {
+            "string": "on_you"
+        },
+        {
+            "string": "opponent_forfeiting_in"
+        },
+        {
+            "string": "oracle"
+        },
+        {
+            "string": "over_shoulder"
+        },
+        {
+            "string": "perk_0_try_upgrade"
+        },
+        {
+            "string": "perk_1_try_upgrade"
+        },
+        {
+            "string": "playing"
+        },
+        {
+            "string": "respawn"
+        },
+        {
+            "string": "round_time"
+        },
+        {
+            "string": "scavenger"
+        },
+        {
+            "string": "skip"
+        },
+        {
+            "string": "spectator"
+        },
+        {
+            "string": "standard"
+        },
+        {
+            "string": "start_time"
+        },
+        {
+            "string": "support_try_upgrade"
+        },
+        {
+            "string": "tactic_select"
+        },
+        {
+            "string": "tactics_menu"
+        },
+        {
+            "string": "team_select"
+        },
+        {
+            "string": "thermobaric_debuff"
+        },
+        {
+            "string": "thermodebuff_kill"
+        },
+        {
+            "string": "throwingknife"
+        },
+        {
+            "string": "unknown"
+        },
+        {
+            "string": "wait_combat"
+        },
+        {
+            "string": "wait_pos"
+        },
+        {
+            "string": "waiting_for_players"
+        },
+        {
+            "string": "waiting_for_teams"
+        }
+    ]
+}

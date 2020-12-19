@@ -1,0 +1,17 @@
+{
+    "name": "ncs_mdl_level",
+    "stringType": 0,
+    "sourceType": 0,
+    "entryCount": 3,
+    "strings": [
+        {
+            "string": "body_mp_test_pmc_shotgun_c_woodland"
+        },
+        {
+            "string": "com_plasticcase_green_big_us_dirt"
+        },
+        {
+            "string": "coop_head_delta"
+        }
+    ]
+}

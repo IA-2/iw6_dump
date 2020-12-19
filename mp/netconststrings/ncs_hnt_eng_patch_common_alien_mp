@@ -1,0 +1,26 @@
+{
+    "name": "ncs_hnt_eng_patch_common_alien_mp",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 6,
+    "strings": [
+        {
+            "string": "ALIENS_PATCH_COMBINED_AMMO_PICKUP"
+        },
+        {
+            "string": "ALIENS_PATCH_FOUND_ARK"
+        },
+        {
+            "string": "ALIENS_PATCH_FOUND_XMAGS"
+        },
+        {
+            "string": "ALIENS_PATCH_PICKUP_COMBINED_AMMO"
+        },
+        {
+            "string": "ALIEN_CHAOS_BONUS_PICKUP"
+        },
+        {
+            "string": "ALIEN_CHAOS_WEAPON_PICKUP_HINT"
+        }
+    ]
+}

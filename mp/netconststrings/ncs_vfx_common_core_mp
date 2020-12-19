@@ -1,0 +1,164 @@
+{
+    "name": "ncs_vfx_common_core_mp",
+    "stringType": 4,
+    "sourceType": 2,
+    "entryCount": 52,
+    "strings": [
+        {
+            "string": "fx/dust/nuke_aftermath_mp"
+        },
+        {
+            "string": "fx/explosions/aerial_explosion"
+        },
+        {
+            "string": "fx/explosions/clusterbomb_exp_direct_runner"
+        },
+        {
+            "string": "fx/explosions/clusterbomb_exp_direct_runner_stealth"
+        },
+        {
+            "string": "fx/explosions/clusterbomb_no_fount"
+        },
+        {
+            "string": "fx/explosions/emp_flash_mp"
+        },
+        {
+            "string": "fx/explosions/helicopter_explosion_secondary_small"
+        },
+        {
+            "string": "fx/explosions/player_death_nuke"
+        },
+        {
+            "string": "fx/explosions/player_death_nuke_flash"
+        },
+        {
+            "string": "fx/explosions/sniper_incendiary"
+        },
+        {
+            "string": "fx/explosions/sparks_a"
+        },
+        {
+            "string": "fx/impacts/large_metalhit_1"
+        },
+        {
+            "string": "fx/impacts/small_snowhit"
+        },
+        {
+            "string": "fx/maps/mp_siege_dam/mp_siege_spawn"
+        },
+        {
+            "string": "fx/muzzleflashes/shotgunflash"
+        },
+        {
+            "string": "fx/props/american_smoke_grenade_mp"
+        },
+        {
+            "string": "fx/props/cash_player_drop"
+        },
+        {
+            "string": "fx/smoke/airdrop_flare_mp_effect_now"
+        },
+        {
+            "string": "fx/smoke/signal_smoke_airdrop"
+        },
+        {
+            "string": "fx/smoke/smoke_geotrail_rpg"
+        },
+        {
+            "string": "fx/smoke/smoke_grenade_11sec_mp"
+        },
+        {
+            "string": "fx/smoke/smoke_trail_white_heli"
+        },
+        {
+            "string": "fx/smoke/smoke_trail_white_heli_emitter"
+        },
+        {
+            "string": "vfx/gameplay/explosions/vehicle/aas_mp/vfx_x_mpaas_primary"
+        },
+        {
+            "string": "vfx/gameplay/explosions/vehicle/apch_mp/vfx_x_mpapc_primary"
+        },
+        {
+            "string": "vfx/gameplay/explosions/vehicle/ball/vfx_exp_ball_drone"
+        },
+        {
+            "string": "vfx/gameplay/explosions/vehicle/hind_mp/vfx_x_mphnd_primary"
+        },
+        {
+            "string": "vfx/gameplay/explosions/vehicle/vang/vfx_exp_vanguard"
+        },
+        {
+            "string": "vfx/gameplay/explosions/weap/gre/vfx_exp_gre_dirt_cg"
+        },
+        {
+            "string": "vfx/gameplay/mp/core/vfx_flagbase_cyan"
+        },
+        {
+            "string": "vfx/gameplay/mp/core/vfx_marker_base_cyan"
+        },
+        {
+            "string": "vfx/gameplay/mp/core/vfx_marker_base_grey"
+        },
+        {
+            "string": "vfx/gameplay/mp/core/vfx_marker_base_orange"
+        },
+        {
+            "string": "vfx/gameplay/mp/core/vfx_marker_gryphon_orange"
+        },
+        {
+            "string": "vfx/gameplay/mp/core/vfx_teleport_player"
+        },
+        {
+            "string": "vfx/gameplay/mp/equipment/vfx_flashbang"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/odin/odin_parallax_clouds"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/odin/vfx_marker_odin_cyan"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_3d_world_ping"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_air_superiority_afterburner"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_aircraft_contrail"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_ballistic_vest_death"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_helo_damage"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_ims_explosion"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_ims_sparks"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_light_detonator_blink"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_maaws_homing"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_maaws_split"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_sentry_gun_explosion"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_sg_damage_blacksmoke"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_sg_overheat_smoke"
+        },
+        {
+            "string": "vfx/gameplay/screen_effects/vfx_scrnfx_odin_fisheye"
+        }
+    ]
+}

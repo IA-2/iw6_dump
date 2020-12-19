@@ -1,0 +1,17 @@
+{
+    "name": "ncs_hnt_eng_mp_dig",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 3,
+    "strings": [
+        {
+            "string": "MP_DIG_ACTIVATE_SHRINE"
+        },
+        {
+            "string": "MP_DIG_ACTIVATE_TORCH"
+        },
+        {
+            "string": "MP_DIG_LEVEL_KILLSTREAK"
+        }
+    ]
+}

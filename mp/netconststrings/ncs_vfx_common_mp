@@ -1,0 +1,143 @@
+{
+    "name": "ncs_vfx_common_mp",
+    "stringType": 4,
+    "sourceType": 2,
+    "entryCount": 45,
+    "strings": [
+        {
+            "string": "fx/dust/bouncing_betty_swirl"
+        },
+        {
+            "string": "fx/dust/sniper_dust_kickup"
+        },
+        {
+            "string": "fx/dust/sniper_dust_kickup_accum_suppress"
+        },
+        {
+            "string": "fx/dust/sniper_dust_kickup_accum_supress_minimal"
+        },
+        {
+            "string": "fx/dust/sniper_dust_kickup_minimal"
+        },
+        {
+            "string": "fx/explosions/aerial_explosion_large"
+        },
+        {
+            "string": "fx/explosions/airburst"
+        },
+        {
+            "string": "fx/explosions/bouncing_betty_explosion"
+        },
+        {
+            "string": "fx/explosions/building_explosion_gulag"
+        },
+        {
+            "string": "fx/explosions/building_explosion_huge_gulag"
+        },
+        {
+            "string": "fx/explosions/clusterbomb"
+        },
+        {
+            "string": "fx/explosions/grenadeexp_default"
+        },
+        {
+            "string": "fx/explosions/small_vehicle_explosion_new"
+        },
+        {
+            "string": "fx/explosions/stinger_explosion"
+        },
+        {
+            "string": "fx/explosions/tanker_explosion"
+        },
+        {
+            "string": "fx/explosions/wall_explosion_pm_a"
+        },
+        {
+            "string": "fx/fire/fire_smoke_trail_l_emitter"
+        },
+        {
+            "string": "fx/fire/jet_engine_ac130"
+        },
+        {
+            "string": "fx/impacts/bouncing_betty_launch_dirt"
+        },
+        {
+            "string": "fx/impacts/large_metal_painted_hit"
+        },
+        {
+            "string": "fx/misc/flare_ambient"
+        },
+        {
+            "string": "fx/misc/flare_ambient_green"
+        },
+        {
+            "string": "fx/misc/flares_cobra"
+        },
+        {
+            "string": "fx/misc/laser_glow"
+        },
+        {
+            "string": "fx/misc/light_c4_blink"
+        },
+        {
+            "string": "fx/misc/light_mine_blink_friendly"
+        },
+        {
+            "string": "fx/misc/target_marker_circle"
+        },
+        {
+            "string": "fx/misc/thermal_beacon_inverted"
+        },
+        {
+            "string": "fx/misc/tracer_incoming"
+        },
+        {
+            "string": "fx/props/barrelexp"
+        },
+        {
+            "string": "fx/smoke/battlefield_smokebank_s"
+        },
+        {
+            "string": "fx/smoke/remote_heli_damage_smoke_runner"
+        },
+        {
+            "string": "vfx/gameplay/mp/equipment/vfx_emp_grenade"
+        },
+        {
+            "string": "vfx/gameplay/mp/equipment/vfx_motionsensor_exp"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_acraft_light_red_blink"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_acraft_light_white_blink"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_acraft_light_wingtip_green"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_acraft_light_wingtip_red"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_airdrop_crate_dust_kickup"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_detonator_blink_cyan"
+        },
+        {
+            "string": "vfx/gameplay/mp/killstreaks/vfx_detonator_blink_orange"
+        },
+        {
+            "string": "vfx/gameplay/screen_effects/vfx_blood_hit_left"
+        },
+        {
+            "string": "vfx/gameplay/screen_effects/vfx_blood_hit_right"
+        },
+        {
+            "string": "vfx/gameplay/screen_effects/vfx_melee_blood_spray"
+        },
+        {
+            "string": "vfx/gameplay/screen_effects/vfx_scrnfx_tocam_slidedust_m"
+        }
+    ]
+}

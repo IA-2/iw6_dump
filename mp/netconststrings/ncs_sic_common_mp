@@ -1,0 +1,14 @@
+{
+    "name": "ncs_sic_common_mp",
+    "stringType": 12,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "hud_status_connecting"
+        },
+        {
+            "string": "hud_status_dead"
+        }
+    ]
+}

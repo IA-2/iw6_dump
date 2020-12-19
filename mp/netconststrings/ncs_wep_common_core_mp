@@ -1,0 +1,410 @@
+{
+    "name": "ncs_wep_common_core_mp",
+    "stringType": 16,
+    "sourceType": 2,
+    "entryCount": 134,
+    "strings": [
+        {
+            "string": "a10_30mm_turret_mp"
+        },
+        {
+            "string": "aamissile_projectile_mp"
+        },
+        {
+            "string": "agent_mp"
+        },
+        {
+            "string": "agent_support_mp"
+        },
+        {
+            "string": "airdrop_juggernaut_def_mp"
+        },
+        {
+            "string": "airdrop_juggernaut_maniac_mp"
+        },
+        {
+            "string": "airdrop_juggernaut_mp"
+        },
+        {
+            "string": "airdrop_marker_assault_mp"
+        },
+        {
+            "string": "airdrop_marker_support_mp"
+        },
+        {
+            "string": "ball_drone_gun_mp"
+        },
+        {
+            "string": "barrel_mp"
+        },
+        {
+            "string": "bomb_site_mp"
+        },
+        {
+            "string": "briefcase_bomb_defuse_mp"
+        },
+        {
+            "string": "briefcase_bomb_mp"
+        },
+        {
+            "string": "c4_mp"
+        },
+        {
+            "string": "camera_10fov"
+        },
+        {
+            "string": "camera_20fov"
+        },
+        {
+            "string": "camera_30fov"
+        },
+        {
+            "string": "camera_45fov"
+        },
+        {
+            "string": "camera_5fov"
+        },
+        {
+            "string": "cobra_20mm_mp"
+        },
+        {
+            "string": "concussion_grenade_mp"
+        },
+        {
+            "string": "defaultweapon_mp"
+        },
+        {
+            "string": "deployable_vest_marker_mp"
+        },
+        {
+            "string": "deployable_weapon_crate_marker_mp"
+        },
+        {
+            "string": "destructible_car"
+        },
+        {
+            "string": "destructible_toy"
+        },
+        {
+            "string": "drone_hive_projectile_mp"
+        },
+        {
+            "string": "flare_mp"
+        },
+        {
+            "string": "flash_grenade_mp"
+        },
+        {
+            "string": "frag_grenade_mp"
+        },
+        {
+            "string": "frag_grenade_short_mp"
+        },
+        {
+            "string": "guard_dog_mp"
+        },
+        {
+            "string": "heli_pilot_turret_mp"
+        },
+        {
+            "string": "hind_bomb_mp"
+        },
+        {
+            "string": "hind_missile_mp"
+        },
+        {
+            "string": "ims_projectile_mp"
+        },
+        {
+            "string": "iw6_ak12_mp"
+        },
+        {
+            "string": "iw6_ameli_mp"
+        },
+        {
+            "string": "iw6_arx160_mp"
+        },
+        {
+            "string": "iw6_bren_mp"
+        },
+        {
+            "string": "iw6_cbjms_mp"
+        },
+        {
+            "string": "iw6_fads_mp"
+        },
+        {
+            "string": "iw6_fp6_mp"
+        },
+        {
+            "string": "iw6_g28_mp"
+        },
+        {
+            "string": "iw6_gm6_mp"
+        },
+        {
+            "string": "iw6_gm6helisnipe_mp"
+        },
+        {
+            "string": "iw6_honeybadger_mp"
+        },
+        {
+            "string": "iw6_imbel_mp"
+        },
+        {
+            "string": "iw6_k7_mp"
+        },
+        {
+            "string": "iw6_kac_mp"
+        },
+        {
+            "string": "iw6_knifeonly_mp"
+        },
+        {
+            "string": "iw6_knifeonlyjugg_mp"
+        },
+        {
+            "string": "iw6_kriss_mp"
+        },
+        {
+            "string": "iw6_l115a3_mp"
+        },
+        {
+            "string": "iw6_lsat_mp"
+        },
+        {
+            "string": "iw6_m27_mp"
+        },
+        {
+            "string": "iw6_m9a1_mp"
+        },
+        {
+            "string": "iw6_maaws_mp"
+        },
+        {
+            "string": "iw6_maawschild_mp"
+        },
+        {
+            "string": "iw6_maawshoming_mp"
+        },
+        {
+            "string": "iw6_magnum_mp"
+        },
+        {
+            "string": "iw6_magnumhorde_mp"
+        },
+        {
+            "string": "iw6_magnumjugg_mp"
+        },
+        {
+            "string": "iw6_maul_mp"
+        },
+        {
+            "string": "iw6_microtar_mp"
+        },
+        {
+            "string": "iw6_minigun_mp"
+        },
+        {
+            "string": "iw6_minigunjugg_mp"
+        },
+        {
+            "string": "iw6_mk14_mp"
+        },
+        {
+            "string": "iw6_mk32_mp"
+        },
+        {
+            "string": "iw6_mk32horde_mp"
+        },
+        {
+            "string": "iw6_mp443_mp"
+        },
+        {
+            "string": "iw6_msbs_mp"
+        },
+        {
+            "string": "iw6_mts255_mp"
+        },
+        {
+            "string": "iw6_p226_mp"
+        },
+        {
+            "string": "iw6_p226jugg_mp"
+        },
+        {
+            "string": "iw6_panzerfaust3_mp"
+        },
+        {
+            "string": "iw6_pdw_mp"
+        },
+        {
+            "string": "iw6_pp19_mp"
+        },
+        {
+            "string": "iw6_r5rgp_mp"
+        },
+        {
+            "string": "iw6_rgm_mp"
+        },
+        {
+            "string": "iw6_riotshield_mp"
+        },
+        {
+            "string": "iw6_riotshieldjugg_mp"
+        },
+        {
+            "string": "iw6_sc2010_mp"
+        },
+        {
+            "string": "iw6_svu_mp"
+        },
+        {
+            "string": "iw6_usr_mp"
+        },
+        {
+            "string": "iw6_uts15_mp"
+        },
+        {
+            "string": "iw6_vepr_mp"
+        },
+        {
+            "string": "iw6_vks_mp"
+        },
+        {
+            "string": "killstreak_agent_mp"
+        },
+        {
+            "string": "killstreak_air_superiority_mp"
+        },
+        {
+            "string": "killstreak_ball_drone_backup_mp"
+        },
+        {
+            "string": "killstreak_ball_drone_radar_mp"
+        },
+        {
+            "string": "killstreak_guard_dog_mp"
+        },
+        {
+            "string": "killstreak_heli_pilot_mp"
+        },
+        {
+            "string": "killstreak_helicopter_mp"
+        },
+        {
+            "string": "killstreak_helicopter_sniper_mp"
+        },
+        {
+            "string": "killstreak_ims_mp"
+        },
+        {
+            "string": "killstreak_jammer_mp"
+        },
+        {
+            "string": "killstreak_level_event_mp"
+        },
+        {
+            "string": "killstreak_nuke_mp"
+        },
+        {
+            "string": "killstreak_odin_assault_mp"
+        },
+        {
+            "string": "killstreak_odin_support_mp"
+        },
+        {
+            "string": "killstreak_predator_missile_mp"
+        },
+        {
+            "string": "killstreak_recon_agent"
+        },
+        {
+            "string": "killstreak_sentry_mp"
+        },
+        {
+            "string": "killstreak_uav_3dping_mp"
+        },
+        {
+            "string": "killstreak_uav_mp"
+        },
+        {
+            "string": "killstreak_uplink_assault_mp"
+        },
+        {
+            "string": "killstreak_uplink_support_mp"
+        },
+        {
+            "string": "killstreak_vanguard_mp"
+        },
+        {
+            "string": "littlebird_20mm_mp"
+        },
+        {
+            "string": "mortar_shell_mp"
+        },
+        {
+            "string": "mortar_shelljugg_mp"
+        },
+        {
+            "string": "motion_sensor_mp"
+        },
+        {
+            "string": "nuke_mp"
+        },
+        {
+            "string": "odin_projectile_airdrop_mp"
+        },
+        {
+            "string": "odin_projectile_large_rod_mp"
+        },
+        {
+            "string": "odin_projectile_marking_mp"
+        },
+        {
+            "string": "odin_projectile_small_rod_mp"
+        },
+        {
+            "string": "odin_projectile_smoke_mp"
+        },
+        {
+            "string": "proximity_explosive_mp"
+        },
+        {
+            "string": "remote_tank_projectile_mp"
+        },
+        {
+            "string": "scavenger_bag_mp"
+        },
+        {
+            "string": "semtex_mp"
+        },
+        {
+            "string": "semtexproj_mp"
+        },
+        {
+            "string": "sentry_minigun_mp"
+        },
+        {
+            "string": "smoke_grenade_mp"
+        },
+        {
+            "string": "smoke_grenadejugg_mp"
+        },
+        {
+            "string": "switch_blade_child_mp"
+        },
+        {
+            "string": "thermobaric_grenade_mp"
+        },
+        {
+            "string": "throwingknife_mp"
+        },
+        {
+            "string": "throwingknifejugg_mp"
+        },
+        {
+            "string": "trophy_mp"
+        }
+    ]
+}

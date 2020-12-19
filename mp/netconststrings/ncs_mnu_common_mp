@@ -1,0 +1,77 @@
+{
+    "name": "ncs_mnu_common_mp",
+    "stringType": 9,
+    "sourceType": 2,
+    "entryCount": 23,
+    "strings": [
+        {
+            "string": "ac130timer"
+        },
+        {
+            "string": "blood_effect_center"
+        },
+        {
+            "string": "blood_effect_left"
+        },
+        {
+            "string": "blood_effect_right"
+        },
+        {
+            "string": "changeclass"
+        },
+        {
+            "string": "changeclass_marines"
+        },
+        {
+            "string": "changeclass_opfor"
+        },
+        {
+            "string": "class"
+        },
+        {
+            "string": "class_marines"
+        },
+        {
+            "string": "class_opfor"
+        },
+        {
+            "string": "dev_vision_exec"
+        },
+        {
+            "string": "dirt_effect_center"
+        },
+        {
+            "string": "dirt_effect_left"
+        },
+        {
+            "string": "dirt_effect_right"
+        },
+        {
+            "string": "endgameupdate"
+        },
+        {
+            "string": "killedby_card_display"
+        },
+        {
+            "string": "killedby_card_hide"
+        },
+        {
+            "string": "perk_display"
+        },
+        {
+            "string": "perk_hide"
+        },
+        {
+            "string": "remotetank_timer"
+        },
+        {
+            "string": "team_marinesopfor"
+        },
+        {
+            "string": "team_mt_options"
+        },
+        {
+            "string": "youkilled_card_display"
+        }
+    ]
+}

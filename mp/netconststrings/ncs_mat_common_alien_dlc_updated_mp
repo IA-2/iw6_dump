@@ -1,0 +1,65 @@
+{
+    "name": "ncs_mat_common_alien_dlc_updated_mp",
+    "stringType": 1,
+    "sourceType": 2,
+    "entryCount": 19,
+    "strings": [
+        {
+            "string": "alien_chaos_icon_bullet_damage_1"
+        },
+        {
+            "string": "alien_chaos_icon_bullet_damage_2"
+        },
+        {
+            "string": "alien_chaos_icon_gasmask"
+        },
+        {
+            "string": "alien_chaos_icon_mega_melee"
+        },
+        {
+            "string": "alien_chaos_icon_more_health"
+        },
+        {
+            "string": "alien_chaos_waypoint_gift"
+        },
+        {
+            "string": "alien_chaos_waypoint_hypno"
+        },
+        {
+            "string": "alien_chaos_waypoint_score"
+        },
+        {
+            "string": "alien_chaos_waypoint_skill"
+        },
+        {
+            "string": "alien_chaos_waypoint_tesla"
+        },
+        {
+            "string": "alien_chaos_waypoint_time"
+        },
+        {
+            "string": "alien_chaos_waypoint_venomx"
+        },
+        {
+            "string": "alien_dpad_icon_engineer"
+        },
+        {
+            "string": "alien_dpad_icon_freeze"
+        },
+        {
+            "string": "alien_dpad_icon_medic"
+        },
+        {
+            "string": "alien_dpad_icon_tank"
+        },
+        {
+            "string": "alien_dpad_icon_trap"
+        },
+        {
+            "string": "alien_icon_laststand"
+        },
+        {
+            "string": "hud_alien_ammo_infinite"
+        }
+    ]
+}

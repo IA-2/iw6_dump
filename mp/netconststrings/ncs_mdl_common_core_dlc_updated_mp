@@ -1,0 +1,20 @@
+{
+    "name": "ncs_mdl_common_core_dlc_updated_mp",
+    "stringType": 0,
+    "sourceType": 2,
+    "entryCount": 4,
+    "strings": [
+        {
+            "string": "mp_fullbody_wolf_b"
+        },
+        {
+            "string": "mp_fullbody_wolf_b_fur"
+        },
+        {
+            "string": "mp_fullbody_wolf_c"
+        },
+        {
+            "string": "mp_fullbody_wolf_c_fur"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "name": "ncs_wep_common_core_dlc_updated_mp",
+    "stringType": 16,
+    "sourceType": 2,
+    "entryCount": 6,
+    "strings": [
+        {
+            "string": "artillery_mp"
+        },
+        {
+            "string": "iw6_dlcweap01_mp"
+        },
+        {
+            "string": "iw6_dlcweap02_mp"
+        },
+        {
+            "string": "iw6_dlcweap03_mp"
+        },
+        {
+            "string": "iw6_knifeonlyfast_mp"
+        },
+        {
+            "string": "iw6_pdwauto_mp"
+        }
+    ]
+}

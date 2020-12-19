@@ -1,0 +1,17 @@
+{
+    "name": "ncs_hnt_eng_mp_pirate",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 3,
+    "strings": [
+        {
+            "string": "MP_PIRATE_CANNONS_USE"
+        },
+        {
+            "string": "MP_PIRATE_GHOSTCREW_USE"
+        },
+        {
+            "string": "MP_PIRATE_GROG_USE"
+        }
+    ]
+}

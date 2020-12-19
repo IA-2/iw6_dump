@@ -1,0 +1,12 @@
+Deployable_randombox deinition,,,,,,
+a0,b1,c2,d3,e4,f5,g6
+0,ammo,0,0,0,0,0
+1,soflam,0,0,0,0,0
+2,flare,0,0,0,0,0
+3,leash,0,0,0,0,0
+4,armor,50,50,50,50,50
+5,boost,0,0,0,0,0
+6,explosives,50,50,50,50,50
+7,trophy,0,0,0,0,0
+8,feral,0,0,0,0,0
+9,specialammo,0,0,0,0,0

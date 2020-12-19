@@ -1,0 +1,287 @@
+{
+    "name": "ncs_loc_eng_patch_common_core_mp",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 93,
+    "strings": [
+        {
+            "string": "KILLSTREAKS_AA_LAUNCHER"
+        },
+        {
+            "string": "KILLSTREAKS_ACTION_SLOT_1"
+        },
+        {
+            "string": "KILLSTREAKS_ACTION_SLOT_2"
+        },
+        {
+            "string": "KILLSTREAKS_AGENT_MAX"
+        },
+        {
+            "string": "KILLSTREAKS_AIRDROP_MARKER"
+        },
+        {
+            "string": "KILLSTREAKS_AIR_SPACE_TOO_CROWDED"
+        },
+        {
+            "string": "KILLSTREAKS_AIR_SUPERIORITY"
+        },
+        {
+            "string": "KILLSTREAKS_ALREADY_HAVE_DOG"
+        },
+        {
+            "string": "KILLSTREAKS_ALREADY_HAVE_EYES_ON"
+        },
+        {
+            "string": "KILLSTREAKS_ALREADY_HAVE_WOLF"
+        },
+        {
+            "string": "KILLSTREAKS_BOX_GETTING_VEST"
+        },
+        {
+            "string": "KILLSTREAKS_CAPTURING_CRATE"
+        },
+        {
+            "string": "KILLSTREAKS_CIVILIAN_AIR_TRAFFIC"
+        },
+        {
+            "string": "KILLSTREAKS_COMPANION_ALREADY_EXISTS"
+        },
+        {
+            "string": "KILLSTREAKS_DEFEND_AIRDROP_PACKAGES"
+        },
+        {
+            "string": "KILLSTREAKS_DEPLOYABLE_AMMO_TAKING"
+        },
+        {
+            "string": "KILLSTREAKS_DRONE_HIVE"
+        },
+        {
+            "string": "KILLSTREAKS_EARLY_EXIT"
+        },
+        {
+            "string": "KILLSTREAKS_HELI_IN_QUEUE"
+        },
+        {
+            "string": "KILLSTREAKS_JAMMER"
+        },
+        {
+            "string": "KILLSTREAKS_KILLSTREAK_N"
+        },
+        {
+            "string": "KILLSTREAKS_LOKI_UNAVAILABLE"
+        },
+        {
+            "string": "KILLSTREAKS_NUKE_ALREADY_INBOUND"
+        },
+        {
+            "string": "KILLSTREAKS_ODIN_ASSAULT"
+        },
+        {
+            "string": "KILLSTREAKS_ODIN_SUPPORT"
+        },
+        {
+            "string": "KILLSTREAKS_ODIN_UNAVAILABLE"
+        },
+        {
+            "string": "KILLSTREAKS_RECON_AGENT"
+        },
+        {
+            "string": "KILLSTREAKS_TOO_MANY_DOGS"
+        },
+        {
+            "string": "KILLSTREAKS_TOO_MANY_VEHICLES"
+        },
+        {
+            "string": "KILLSTREAKS_UNAVAILABLE"
+        },
+        {
+            "string": "KILLSTREAKS_UNAVAILABLE_FOR_N_WHEN_EMP"
+        },
+        {
+            "string": "KILLSTREAKS_UNAVAILABLE_FOR_N_WHEN_NUKE"
+        },
+        {
+            "string": "KILLSTREAKS_UNAVAILABLE_IN_LASTSTAND"
+        },
+        {
+            "string": "KILLSTREAKS_UNAVAILABLE_IN_LEVEL"
+        },
+        {
+            "string": "KILLSTREAKS_UNAVAILABLE_USING_TURRET"
+        },
+        {
+            "string": "KILLSTREAKS_UNAVAILABLE_WHEN_AA"
+        },
+        {
+            "string": "KILLSTREAKS_UNAVAILABLE_WHEN_JAMMED"
+        },
+        {
+            "string": "KILLSTREAKS_VANGUARD_ALT_LABEL"
+        },
+        {
+            "string": "KILLSTREAKS_VANGUARD_FLIGHT_MODE"
+        },
+        {
+            "string": "KILLSTREAKS_VANGUARD_HEADING_LABEL"
+        },
+        {
+            "string": "KILLSTREAKS_VANGUARD_NO_SPAWN_POINT"
+        },
+        {
+            "string": "KILLSTREAKS_VANGUARD_RANGE"
+        },
+        {
+            "string": "KILLSTREAKS_VANGUARD_TIMER"
+        },
+        {
+            "string": "KILLSTREAKS_VANGUARD_TITLE"
+        },
+        {
+            "string": "KILLSTREAKS_VANGUARD_WEAPON_STATUS_LABEL"
+        },
+        {
+            "string": "KILLSTREAKS_VANGUARD_WEAPON_STATUS_READY"
+        },
+        {
+            "string": "KILLSTREAKS_VANGUARD_WEAPON_STATUS_RELOAD"
+        },
+        {
+            "string": "RANK_1STLT_FULL"
+        },
+        {
+            "string": "RANK_1STLT_FULL_N"
+        },
+        {
+            "string": "RANK_1STSGT_FULL"
+        },
+        {
+            "string": "RANK_1STSGT_FULL_N"
+        },
+        {
+            "string": "RANK_2NDLT_FULL"
+        },
+        {
+            "string": "RANK_2NDLT_FULL_N"
+        },
+        {
+            "string": "RANK_BGEN_FULL"
+        },
+        {
+            "string": "RANK_CAPT_FULL"
+        },
+        {
+            "string": "RANK_CAPT_FULL_N"
+        },
+        {
+            "string": "RANK_COL_FULL"
+        },
+        {
+            "string": "RANK_COL_FULL_N"
+        },
+        {
+            "string": "RANK_CPL_FULL"
+        },
+        {
+            "string": "RANK_CPL_FULL_N"
+        },
+        {
+            "string": "RANK_CSM_FULL"
+        },
+        {
+            "string": "RANK_CSM_FULL_N"
+        },
+        {
+            "string": "RANK_GEN_FULL"
+        },
+        {
+            "string": "RANK_LTCOL_FULL"
+        },
+        {
+            "string": "RANK_LTCOL_FULL_N"
+        },
+        {
+            "string": "RANK_LTGEN_FULL"
+        },
+        {
+            "string": "RANK_MAJGEN_FULL"
+        },
+        {
+            "string": "RANK_MAJ_FULL"
+        },
+        {
+            "string": "RANK_MAJ_FULL_N"
+        },
+        {
+            "string": "RANK_MSGT_FULL"
+        },
+        {
+            "string": "RANK_MSGT_FULL_N"
+        },
+        {
+            "string": "RANK_PFC_FULL"
+        },
+        {
+            "string": "RANK_PFC_FULL_N"
+        },
+        {
+            "string": "RANK_PLAYER_WAS_PROMOTED"
+        },
+        {
+            "string": "RANK_PLAYER_WAS_PROMOTED_N"
+        },
+        {
+            "string": "RANK_PROMOTED"
+        },
+        {
+            "string": "RANK_PROMOTED_WEAPON"
+        },
+        {
+            "string": "RANK_PVT_FULL"
+        },
+        {
+            "string": "RANK_PVT_FULL_N"
+        },
+        {
+            "string": "RANK_ROMANI"
+        },
+        {
+            "string": "RANK_ROMANII"
+        },
+        {
+            "string": "RANK_ROMANIII"
+        },
+        {
+            "string": "RANK_SFC_FULL"
+        },
+        {
+            "string": "RANK_SFC_FULL_N"
+        },
+        {
+            "string": "RANK_SGTMAJ_FULL"
+        },
+        {
+            "string": "RANK_SGTMAJ_FULL_N"
+        },
+        {
+            "string": "RANK_SGT_FULL"
+        },
+        {
+            "string": "RANK_SGT_FULL_N"
+        },
+        {
+            "string": "RANK_SPC_FULL"
+        },
+        {
+            "string": "RANK_SPC_FULL_N"
+        },
+        {
+            "string": "RANK_SSGT_FULL"
+        },
+        {
+            "string": "RANK_SSGT_FULL_N"
+        },
+        {
+            "string": "RANK_WEAPON_WAS_PROMOTED"
+        }
+    ]
+}

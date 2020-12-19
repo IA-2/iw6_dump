@@ -1,0 +1,32 @@
+{
+    "name": "ncs_snd_level",
+    "stringType": 6,
+    "sourceType": 0,
+    "entryCount": 8,
+    "strings": [
+        {
+            "string": "ui_anim_grab_gun_1a"
+        },
+        {
+            "string": "ui_anim_grab_gun_1c"
+        },
+        {
+            "string": "ui_anim_grab_gun_2a"
+        },
+        {
+            "string": "ui_anim_grab_gun_2b"
+        },
+        {
+            "string": "ui_anim_grab_knife_1a"
+        },
+        {
+            "string": "ui_anim_grab_knife_2a"
+        },
+        {
+            "string": "ui_anim_grab_shield_1a"
+        },
+        {
+            "string": "ui_anim_grab_shield_2a"
+        }
+    ]
+}

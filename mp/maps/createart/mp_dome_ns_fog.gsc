@@ -1,0 +1,82 @@
+// _createart generated.  modify at your own risk. 
+main()
+{
+	ent = maps\mp\_art::create_vision_set_fog( "mp_dome_ns" );
+	ent.startDist = 100;
+	ent.halfwayDist = 2700;
+	ent.red = 0.53;
+	ent.green = 0.54;
+	ent.blue = 0.58;
+	ent.maxOpacity = .65;
+	ent.transitionTime = 0;
+	ent.sunFogEnabled = 1;
+	ent.sunRed = 1;
+	ent.sunGreen = 0.87;
+	ent.sunBlue = 0.78;
+	ent.sunDir = (-.95, -.247, 0.17);
+	ent.sunBeginFadeAngle = 00;
+	ent.sunEndFadeAngle = 107;
+	ent.normalFogScale = 0.425;
+	ent.HDRSunColorIntensity = 0.75;
+	ent.HDRColorIntensity = 1.0;
+	ent.skyFogIntensity   = .8;
+ 	ent.skyFogMinAngle    = -9;
+ 	ent.skyFogMaxAngle    = 71.0;
+	ent.HDROverride =          "mp_dome_ns_HDR";
+ 
+	ent = maps\mp\_art::create_vision_set_fog( "mp_dome_ns_HDR" );
+	ent.startDist = 0;
+	ent.halfwayDist = 3100;
+	ent.red = 0.69;
+	ent.green = 0.681;
+	ent.blue = 0.66;
+	ent.maxOpacity = .34;
+	ent.transitionTime = 0;
+	ent.sunFogEnabled = 1;
+	ent.sunRed = 1.0;
+	ent.sunGreen = 0.90;
+	ent.sunBlue = 0.83;
+	ent.sunDir = (-.95, -.247, 0.17);
+	ent.sunBeginFadeAngle = 00;
+	ent.sunEndFadeAngle = 86;
+	ent.normalFogScale = 0.73;
+	ent.HDRSunColorIntensity = 1.25;
+	ent.HDRColorIntensity = 1.4;
+	ent.skyFogIntensity   = 1.0;
+ 	ent.skyFogMinAngle    = 25;
+ 	ent.skyFogMaxAngle    = 72.0;
+ 
+	ent = maps\mp\_art::create_vision_set_fog( "mp_dome_ns_green" );
+	ent.startDist = 0;
+	ent.halfwayDist = 35037.9;
+	ent.red = 0;
+	ent.green = 0.999931;
+	ent.blue = 0.350113;
+	ent.maxOpacity = 0.991253;
+	ent.transitionTime = 0;
+	ent.sunFogEnabled = 1;
+	ent.sunRed = 0.848716;
+	ent.sunGreen = 0.5;
+	ent.sunBlue = 0.5;
+	ent.sunDir = (-0.974322, 0.0567653, 0.217885);
+	ent.sunBeginFadeAngle = 0;
+	ent.sunEndFadeAngle = 18.1434;
+	ent.normalFogScale = 2.80317;
+ 
+	ent = maps\mp\_art::create_vision_set_fog( "mp_dome_ns_blue" );
+	ent.startDist = 15133;
+	ent.halfwayDist = 5000;
+	ent.red = 0.500007;
+	ent.green = 0.500117;
+	ent.blue = 1;
+	ent.maxOpacity = 1;
+	ent.transitionTime = 0;
+	ent.sunFogEnabled = 1;
+	ent.sunRed = 0.211453;
+	ent.sunGreen = 0.212094;
+	ent.sunBlue = 0.212169;
+	ent.sunDir = (0.761396, -0.615753, 0.202795);
+	ent.sunBeginFadeAngle = 7.97556;
+	ent.sunEndFadeAngle = 101.616;
+	ent.normalFogScale = 7.13039;
+}

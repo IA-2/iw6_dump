@@ -1,0 +1,3011 @@
+{
+    "name": "mp/prestigedata.def",
+    "version": 2,
+    "formatChecksum": 3974872819,
+    "enumCount": 9,
+    "enums": [
+        {
+            "entryCount": 28,
+            "reservedEntryCount": 28,
+            "entries": [
+                {
+                    "string": "acog",
+                    "index": 0
+                },
+                {
+                    "string": "akimbo",
+                    "index": 1
+                },
+                {
+                    "string": "ammoslug",
+                    "index": 2
+                },
+                {
+                    "string": "barrelbored",
+                    "index": 3
+                },
+                {
+                    "string": "barrelrange",
+                    "index": 4
+                },
+                {
+                    "string": "eotech",
+                    "index": 5
+                },
+                {
+                    "string": "firetypeauto",
+                    "index": 6
+                },
+                {
+                    "string": "firetypeburst",
+                    "index": 7
+                },
+                {
+                    "string": "firetypesingle",
+                    "index": 8
+                },
+                {
+                    "string": "flashsuppress",
+                    "index": 9
+                },
+                {
+                    "string": "fmj",
+                    "index": 10
+                },
+                {
+                    "string": "gl",
+                    "index": 11
+                },
+                {
+                    "string": "grip",
+                    "index": 12
+                },
+                {
+                    "string": "hybrid",
+                    "index": 13
+                },
+                {
+                    "string": "ironsight",
+                    "index": 14
+                },
+                {
+                    "string": "none",
+                    "index": 15
+                },
+                {
+                    "string": "reflex",
+                    "index": 16
+                },
+                {
+                    "string": "rof",
+                    "index": 17
+                },
+                {
+                    "string": "rshieldradar",
+                    "index": 18
+                },
+                {
+                    "string": "rshieldscrambler",
+                    "index": 19
+                },
+                {
+                    "string": "rshieldspikes",
+                    "index": 20
+                },
+                {
+                    "string": "shotgun",
+                    "index": 21
+                },
+                {
+                    "string": "silencer",
+                    "index": 22
+                },
+                {
+                    "string": "tactical",
+                    "index": 23
+                },
+                {
+                    "string": "thermal",
+                    "index": 24
+                },
+                {
+                    "string": "tracker",
+                    "index": 25
+                },
+                {
+                    "string": "vzscope",
+                    "index": 26
+                },
+                {
+                    "string": "xmags",
+                    "index": 27
+                }
+            ]
+        },
+        {
+            "entryCount": 111,
+            "reservedEntryCount": 111,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "killstreak",
+                    "index": 1
+                },
+                {
+                    "string": "headshots",
+                    "index": 2
+                },
+                {
+                    "string": "assists",
+                    "index": 3
+                },
+                {
+                    "string": "multikill",
+                    "index": 4
+                },
+                {
+                    "string": "kills",
+                    "index": 5
+                },
+                {
+                    "string": "mvp",
+                    "index": 6
+                },
+                {
+                    "string": "overkill",
+                    "index": 7
+                },
+                {
+                    "string": "punisher",
+                    "index": 8
+                },
+                {
+                    "string": "kdratio",
+                    "index": 9
+                },
+                {
+                    "string": "deaths",
+                    "index": 10
+                },
+                {
+                    "string": "uavs",
+                    "index": 11
+                },
+                {
+                    "string": "airstrikes",
+                    "index": 12
+                },
+                {
+                    "string": "helicopters",
+                    "index": 13
+                },
+                {
+                    "string": "flankdeaths",
+                    "index": 14
+                },
+                {
+                    "string": "bulletpenkills",
+                    "index": 15
+                },
+                {
+                    "string": "revengekills",
+                    "index": 16
+                },
+                {
+                    "string": "avengekills",
+                    "index": 17
+                },
+                {
+                    "string": "rescues",
+                    "index": 18
+                },
+                {
+                    "string": "longshots",
+                    "index": 19
+                },
+                {
+                    "string": "pointblanks",
+                    "index": 20
+                },
+                {
+                    "string": "higherrankkills",
+                    "index": 21
+                },
+                {
+                    "string": "laststandkills",
+                    "index": 22
+                },
+                {
+                    "string": "laststanderkills",
+                    "index": 23
+                },
+                {
+                    "string": "mostmultikills",
+                    "index": 24
+                },
+                {
+                    "string": "comebacks",
+                    "index": 25
+                },
+                {
+                    "string": "longestlife",
+                    "index": 26
+                },
+                {
+                    "string": "mostcamperkills",
+                    "index": 27
+                },
+                {
+                    "string": "mosttacprevented",
+                    "index": 28
+                },
+                {
+                    "string": "explosionssurvived",
+                    "index": 29
+                },
+                {
+                    "string": "shieldblocks",
+                    "index": 30
+                },
+                {
+                    "string": "fbhits",
+                    "index": 31
+                },
+                {
+                    "string": "stunhits",
+                    "index": 32
+                },
+                {
+                    "string": "throwbacks",
+                    "index": 33
+                },
+                {
+                    "string": "knifekills",
+                    "index": 34
+                },
+                {
+                    "string": "pistolkills",
+                    "index": 35
+                },
+                {
+                    "string": "grenadekills",
+                    "index": 36
+                },
+                {
+                    "string": "fragkills",
+                    "index": 37
+                },
+                {
+                    "string": "c4kills",
+                    "index": 38
+                },
+                {
+                    "string": "semtexkills",
+                    "index": 39
+                },
+                {
+                    "string": "claymorekills",
+                    "index": 40
+                },
+                {
+                    "string": "throwingknifekills",
+                    "index": 41
+                },
+                {
+                    "string": "smgkills",
+                    "index": 42
+                },
+                {
+                    "string": "arkills",
+                    "index": 43
+                },
+                {
+                    "string": "rocketkills",
+                    "index": 44
+                },
+                {
+                    "string": "shotgunkills",
+                    "index": 45
+                },
+                {
+                    "string": "lmgkills",
+                    "index": 46
+                },
+                {
+                    "string": "dmrkills",
+                    "index": 47
+                },
+                {
+                    "string": "sniperkills",
+                    "index": 48
+                },
+                {
+                    "string": "pistolheadshots",
+                    "index": 49
+                },
+                {
+                    "string": "smgheadshots",
+                    "index": 50
+                },
+                {
+                    "string": "arheadshots",
+                    "index": 51
+                },
+                {
+                    "string": "shotgunheadshots",
+                    "index": 52
+                },
+                {
+                    "string": "lmgheadshots",
+                    "index": 53
+                },
+                {
+                    "string": "dmrheadshots",
+                    "index": 54
+                },
+                {
+                    "string": "sniperheadshots",
+                    "index": 55
+                },
+                {
+                    "string": "equipmentkills",
+                    "index": 56
+                },
+                {
+                    "string": "scopedkills",
+                    "index": 57
+                },
+                {
+                    "string": "thermalkills",
+                    "index": 58
+                },
+                {
+                    "string": "shieldkills",
+                    "index": 59
+                },
+                {
+                    "string": "adskills",
+                    "index": 60
+                },
+                {
+                    "string": "hipfirekills",
+                    "index": 61
+                },
+                {
+                    "string": "lowerrankkills",
+                    "index": 62
+                },
+                {
+                    "string": "otherweaponkills",
+                    "index": 63
+                },
+                {
+                    "string": "distancetraveled",
+                    "index": 64
+                },
+                {
+                    "string": "sprinttime",
+                    "index": 65
+                },
+                {
+                    "string": "crouchtime",
+                    "index": 66
+                },
+                {
+                    "string": "pronetime",
+                    "index": 67
+                },
+                {
+                    "string": "killcamtimewatched",
+                    "index": 68
+                },
+                {
+                    "string": "mostreloads",
+                    "index": 69
+                },
+                {
+                    "string": "mostswaps",
+                    "index": 70
+                },
+                {
+                    "string": "mostshotsfired",
+                    "index": 71
+                },
+                {
+                    "string": "timeinspot",
+                    "index": 72
+                },
+                {
+                    "string": "greatestavgalt",
+                    "index": 73
+                },
+                {
+                    "string": "leastavgalt",
+                    "index": 74
+                },
+                {
+                    "string": "mostff",
+                    "index": 75
+                },
+                {
+                    "string": "killedsameplayer",
+                    "index": 76
+                },
+                {
+                    "string": "mostweaponsused",
+                    "index": 77
+                },
+                {
+                    "string": "closertoenemies",
+                    "index": 78
+                },
+                {
+                    "string": "mostclasseschanged",
+                    "index": 79
+                },
+                {
+                    "string": "killcamskipped",
+                    "index": 80
+                },
+                {
+                    "string": "suicides",
+                    "index": 81
+                },
+                {
+                    "string": "flankkills",
+                    "index": 82
+                },
+                {
+                    "string": "shotgundeaths",
+                    "index": 83
+                },
+                {
+                    "string": "shortestlife",
+                    "index": 84
+                },
+                {
+                    "string": "deathstreak",
+                    "index": 85
+                },
+                {
+                    "string": "killsteals",
+                    "index": 86
+                },
+                {
+                    "string": "shielddeaths",
+                    "index": 87
+                },
+                {
+                    "string": "bombsplanted",
+                    "index": 88
+                },
+                {
+                    "string": "bombsdefused",
+                    "index": 89
+                },
+                {
+                    "string": "targetsdestroyed",
+                    "index": 90
+                },
+                {
+                    "string": "bombcarrierkills",
+                    "index": 91
+                },
+                {
+                    "string": "killsasbombcarrier",
+                    "index": 92
+                },
+                {
+                    "string": "bombscarried",
+                    "index": 93
+                },
+                {
+                    "string": "pointscaptured",
+                    "index": 94
+                },
+                {
+                    "string": "hqscaptured",
+                    "index": 95
+                },
+                {
+                    "string": "hqsdestroyed",
+                    "index": 96
+                },
+                {
+                    "string": "flagscaptured",
+                    "index": 97
+                },
+                {
+                    "string": "flagsreturned",
+                    "index": 98
+                },
+                {
+                    "string": "flagscarried",
+                    "index": 99
+                },
+                {
+                    "string": "flagcarrierkills",
+                    "index": 100
+                },
+                {
+                    "string": "killsasflagcarrier",
+                    "index": 101
+                },
+                {
+                    "string": "damagedone",
+                    "index": 102
+                },
+                {
+                    "string": "damagetaken",
+                    "index": 103
+                },
+                {
+                    "string": "weaponxpearned",
+                    "index": 104
+                },
+                {
+                    "string": "assaultkillstreaksused",
+                    "index": 105
+                },
+                {
+                    "string": "supportkillstreaksused",
+                    "index": 106
+                },
+                {
+                    "string": "specialistkillstreaksearned",
+                    "index": 107
+                },
+                {
+                    "string": "killsconfirmed",
+                    "index": 108
+                },
+                {
+                    "string": "killsdenied",
+                    "index": 109
+                },
+                {
+                    "string": "holdingteamdefenderflag",
+                    "index": 110
+                }
+            ]
+        },
+        {
+            "entryCount": 2,
+            "reservedEntryCount": 2,
+            "entries": [
+                {
+                    "string": "cardnameplate_default",
+                    "index": 0
+                },
+                {
+                    "string": "cardnameplate_test",
+                    "index": 1
+                }
+            ]
+        },
+        {
+            "entryCount": 3,
+            "reservedEntryCount": 3,
+            "entries": [
+                {
+                    "string": "xp_multiplier",
+                    "index": 0
+                },
+                {
+                    "string": "challenge_xp_multiplier",
+                    "index": 1
+                },
+                {
+                    "string": "weapon_xp_multiplier",
+                    "index": 2
+                }
+            ]
+        },
+        {
+            "entryCount": 55,
+            "reservedEntryCount": 55,
+            "entries": [
+                {
+                    "string": "streaktype_assault",
+                    "index": 15
+                },
+                {
+                    "string": "streaktype_support",
+                    "index": 16
+                },
+                {
+                    "string": "streaktype_specialist",
+                    "index": 17
+                },
+                {
+                    "string": "specialty_null",
+                    "index": 0
+                },
+                {
+                    "string": "c4_mp",
+                    "index": 1
+                },
+                {
+                    "string": "claymore_mp",
+                    "index": 2
+                },
+                {
+                    "string": "throwingknife_mp",
+                    "index": 3
+                },
+                {
+                    "string": "semtex_mp",
+                    "index": 4
+                },
+                {
+                    "string": "frag_grenade_mp",
+                    "index": 5
+                },
+                {
+                    "string": "thermobaric_grenade_mp",
+                    "index": 6
+                },
+                {
+                    "string": "mortar_shell_mp",
+                    "index": 7
+                },
+                {
+                    "string": "proximity_explosive_mp",
+                    "index": 8
+                },
+                {
+                    "string": "motion_sensor_mp",
+                    "index": 9
+                },
+                {
+                    "string": "flash_grenade_mp",
+                    "index": 10
+                },
+                {
+                    "string": "smoke_grenade_mp",
+                    "index": 11
+                },
+                {
+                    "string": "concussion_grenade_mp",
+                    "index": 12
+                },
+                {
+                    "string": "tacticalinsertion_mp",
+                    "index": 13
+                },
+                {
+                    "string": "trophy_mp",
+                    "index": 14
+                },
+                {
+                    "string": "specialty_fastsprintrecovery",
+                    "index": 18
+                },
+                {
+                    "string": "specialty_fastreload",
+                    "index": 19
+                },
+                {
+                    "string": "specialty_lightweight",
+                    "index": 20
+                },
+                {
+                    "string": "specialty_marathon",
+                    "index": 21
+                },
+                {
+                    "string": "specialty_stalker",
+                    "index": 22
+                },
+                {
+                    "string": "specialty_reducedsway",
+                    "index": 23
+                },
+                {
+                    "string": "specialty_quickswap",
+                    "index": 24
+                },
+                {
+                    "string": "specialty_pitcher",
+                    "index": 25
+                },
+                {
+                    "string": "specialty_bulletaccuracy",
+                    "index": 26
+                },
+                {
+                    "string": "specialty_quickdraw",
+                    "index": 27
+                },
+                {
+                    "string": "specialty_sprintreload",
+                    "index": 28
+                },
+                {
+                    "string": "specialty_silentkill",
+                    "index": 29
+                },
+                {
+                    "string": "specialty_blindeye",
+                    "index": 30
+                },
+                {
+                    "string": "specialty_gpsjammer",
+                    "index": 31
+                },
+                {
+                    "string": "specialty_quieter",
+                    "index": 32
+                },
+                {
+                    "string": "specialty_incog",
+                    "index": 33
+                },
+                {
+                    "string": "specialty_paint",
+                    "index": 34
+                },
+                {
+                    "string": "specialty_scavenger",
+                    "index": 35
+                },
+                {
+                    "string": "specialty_detectexplosive",
+                    "index": 36
+                },
+                {
+                    "string": "specialty_selectivehearing",
+                    "index": 37
+                },
+                {
+                    "string": "specialty_comexp",
+                    "index": 38
+                },
+                {
+                    "string": "specialty_falldamage",
+                    "index": 39
+                },
+                {
+                    "string": "specialty_regenfaster",
+                    "index": 40
+                },
+                {
+                    "string": "specialty_sharp_focus",
+                    "index": 41
+                },
+                {
+                    "string": "specialty_stun_resistance",
+                    "index": 42
+                },
+                {
+                    "string": "_specialty_blastshield",
+                    "index": 43
+                },
+                {
+                    "string": "specialty_gunsmith",
+                    "index": 44
+                },
+                {
+                    "string": "specialty_extraammo",
+                    "index": 45
+                },
+                {
+                    "string": "specialty_extra_equipment",
+                    "index": 46
+                },
+                {
+                    "string": "specialty_extra_deadly",
+                    "index": 47
+                },
+                {
+                    "string": "specialty_extra_attachment",
+                    "index": 48
+                },
+                {
+                    "string": "specialty_explosivedamage",
+                    "index": 49
+                },
+                {
+                    "string": "specialty_gambler",
+                    "index": 50
+                },
+                {
+                    "string": "specialty_hardline",
+                    "index": 51
+                },
+                {
+                    "string": "specialty_twoprimaries",
+                    "index": 52
+                },
+                {
+                    "string": "specialty_boom",
+                    "index": 53
+                },
+                {
+                    "string": "specialty_deadeye",
+                    "index": 54
+                }
+            ]
+        },
+        {
+            "entryCount": 1,
+            "reservedEntryCount": 1,
+            "entries": [
+                {
+                    "string": "war",
+                    "index": 0
+                }
+            ]
+        },
+        {
+            "entryCount": 91,
+            "reservedEntryCount": 91,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "uav_3dping",
+                    "index": 29
+                },
+                {
+                    "string": "c4_mp",
+                    "index": 1
+                },
+                {
+                    "string": "claymore_mp",
+                    "index": 2
+                },
+                {
+                    "string": "throwingknife_mp",
+                    "index": 8
+                },
+                {
+                    "string": "semtex_mp",
+                    "index": 6
+                },
+                {
+                    "string": "frag_grenade_mp",
+                    "index": 3
+                },
+                {
+                    "string": "thermobaric_grenade_mp",
+                    "index": 7
+                },
+                {
+                    "string": "mortar_shell_mp",
+                    "index": 4
+                },
+                {
+                    "string": "proximity_explosive_mp",
+                    "index": 5
+                },
+                {
+                    "string": "motion_sensor_mp",
+                    "index": 12
+                },
+                {
+                    "string": "flash_grenade_mp",
+                    "index": 11
+                },
+                {
+                    "string": "smoke_grenade_mp",
+                    "index": 13
+                },
+                {
+                    "string": "concussion_grenade_mp",
+                    "index": 9
+                },
+                {
+                    "string": "trophy_mp",
+                    "index": 14
+                },
+                {
+                    "string": "emp_grenade_mp",
+                    "index": 10
+                },
+                {
+                    "string": "frag_scavenger_grenade",
+                    "index": 15
+                },
+                {
+                    "string": "uav",
+                    "index": 16
+                },
+                {
+                    "string": "directional_uav",
+                    "index": 17
+                },
+                {
+                    "string": "laser_designator",
+                    "index": 18
+                },
+                {
+                    "string": "manned_minigun_turret",
+                    "index": 19
+                },
+                {
+                    "string": "manned_gl_turret",
+                    "index": 20
+                },
+                {
+                    "string": "manned_littlebird_minigun",
+                    "index": 21
+                },
+                {
+                    "string": "manned_littlebird_sniper",
+                    "index": 22
+                },
+                {
+                    "string": "uav_remote_mp",
+                    "index": 23
+                },
+                {
+                    "string": "mortar_remote_mp",
+                    "index": 24
+                },
+                {
+                    "string": "mortar_remote_zoom_mp",
+                    "index": 25
+                },
+                {
+                    "string": "specialty_tacticalinsertion",
+                    "index": 26
+                },
+                {
+                    "string": "specialty_scrambler",
+                    "index": 27
+                },
+                {
+                    "string": "specialty_portable_radar",
+                    "index": 28
+                },
+                {
+                    "string": "iw6_m9a1",
+                    "index": 30
+                },
+                {
+                    "string": "iw6_p226",
+                    "index": 31
+                },
+                {
+                    "string": "iw6_mp443",
+                    "index": 32
+                },
+                {
+                    "string": "iw6_magnum",
+                    "index": 33
+                },
+                {
+                    "string": "iw6_magnumhorde",
+                    "index": 34
+                },
+                {
+                    "string": "iw6_cbjms",
+                    "index": 35
+                },
+                {
+                    "string": "iw6_pp19",
+                    "index": 36
+                },
+                {
+                    "string": "iw6_vepr",
+                    "index": 37
+                },
+                {
+                    "string": "iw6_kriss",
+                    "index": 38
+                },
+                {
+                    "string": "iw6_microtar",
+                    "index": 39
+                },
+                {
+                    "string": "iw6_k7",
+                    "index": 40
+                },
+                {
+                    "string": "iw6_pdw",
+                    "index": 41
+                },
+                {
+                    "string": "iw6_bren",
+                    "index": 42
+                },
+                {
+                    "string": "iw6_ak12",
+                    "index": 43
+                },
+                {
+                    "string": "iw6_sc2010",
+                    "index": 44
+                },
+                {
+                    "string": "iw6_honeybadger",
+                    "index": 45
+                },
+                {
+                    "string": "iw6_arx160",
+                    "index": 46
+                },
+                {
+                    "string": "iw6_fads",
+                    "index": 47
+                },
+                {
+                    "string": "iw6_msbs",
+                    "index": 48
+                },
+                {
+                    "string": "iw6_r5rgp",
+                    "index": 49
+                },
+                {
+                    "string": "iw6_mk32",
+                    "index": 50
+                },
+                {
+                    "string": "iw6_rgm",
+                    "index": 51
+                },
+                {
+                    "string": "iw6_panzerfaust3",
+                    "index": 52
+                },
+                {
+                    "string": "iw6_vks",
+                    "index": 53
+                },
+                {
+                    "string": "iw6_l115a3",
+                    "index": 54
+                },
+                {
+                    "string": "iw6_usr",
+                    "index": 55
+                },
+                {
+                    "string": "iw6_gm6",
+                    "index": 56
+                },
+                {
+                    "string": "iw6_imbel",
+                    "index": 57
+                },
+                {
+                    "string": "iw6_g28",
+                    "index": 58
+                },
+                {
+                    "string": "iw6_mk14",
+                    "index": 59
+                },
+                {
+                    "string": "iw6_svu",
+                    "index": 60
+                },
+                {
+                    "string": "iw6_mts255",
+                    "index": 61
+                },
+                {
+                    "string": "iw6_fp6",
+                    "index": 62
+                },
+                {
+                    "string": "iw6_maul",
+                    "index": 63
+                },
+                {
+                    "string": "iw6_uts15",
+                    "index": 64
+                },
+                {
+                    "string": "iw6_m27",
+                    "index": 65
+                },
+                {
+                    "string": "iw6_ameli",
+                    "index": 66
+                },
+                {
+                    "string": "iw6_lsat",
+                    "index": 67
+                },
+                {
+                    "string": "iw6_kac",
+                    "index": 68
+                },
+                {
+                    "string": "iw6_minigun",
+                    "index": 69
+                },
+                {
+                    "string": "iw6_riotshield",
+                    "index": 70
+                },
+                {
+                    "string": "iw6_knifeonly",
+                    "index": 71
+                },
+                {
+                    "string": "guard_dog_mp",
+                    "index": 72
+                },
+                {
+                    "string": "alienaxe",
+                    "index": 73
+                },
+                {
+                    "string": "deployable_ammo_mp",
+                    "index": 74
+                },
+                {
+                    "string": "deployable_grenades_mp",
+                    "index": 75
+                },
+                {
+                    "string": "a10_30mm_turret_mp",
+                    "index": 76
+                },
+                {
+                    "string": "maverick_projectile_mp",
+                    "index": 77
+                },
+                {
+                    "string": "heli_pilot_turret_mp",
+                    "index": 78
+                },
+                {
+                    "string": "killstreak_uplink",
+                    "index": 79
+                },
+                {
+                    "string": "aamissile_projectile_mp",
+                    "index": 80
+                },
+                {
+                    "string": "odin_projectile_large_rod_mp",
+                    "index": 81
+                },
+                {
+                    "string": "odin_projectile_small_rod_mp",
+                    "index": 82
+                },
+                {
+                    "string": "iw6_gm6helisnipe",
+                    "index": 83
+                },
+                {
+                    "string": "remote_mortar_missile",
+                    "index": 84
+                },
+                {
+                    "string": "remote_turret_mp",
+                    "index": 85
+                },
+                {
+                    "string": "turret_remote_mp",
+                    "index": 86
+                },
+                {
+                    "string": "iw6_dlcweap01",
+                    "index": 87
+                },
+                {
+                    "string": "iw6_dlcweap02",
+                    "index": 88
+                },
+                {
+                    "string": "iw6_dlcweap03",
+                    "index": 89
+                },
+                {
+                    "string": "iw6_dlcweap04",
+                    "index": 90
+                }
+            ]
+        },
+        {
+            "entryCount": 62,
+            "reservedEntryCount": 62,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "iw6_m9a1",
+                    "index": 15
+                },
+                {
+                    "string": "iw6_p226",
+                    "index": 16
+                },
+                {
+                    "string": "iw6_mp443",
+                    "index": 17
+                },
+                {
+                    "string": "iw6_magnum",
+                    "index": 18
+                },
+                {
+                    "string": "iw6_magnumhorde",
+                    "index": 56
+                },
+                {
+                    "string": "iw6_cbjms",
+                    "index": 19
+                },
+                {
+                    "string": "iw6_pp19",
+                    "index": 20
+                },
+                {
+                    "string": "iw6_vepr",
+                    "index": 21
+                },
+                {
+                    "string": "iw6_kriss",
+                    "index": 22
+                },
+                {
+                    "string": "iw6_microtar",
+                    "index": 23
+                },
+                {
+                    "string": "iw6_k7",
+                    "index": 24
+                },
+                {
+                    "string": "iw6_pdw",
+                    "index": 25
+                },
+                {
+                    "string": "iw6_bren",
+                    "index": 26
+                },
+                {
+                    "string": "iw6_ak12",
+                    "index": 27
+                },
+                {
+                    "string": "iw6_sc2010",
+                    "index": 28
+                },
+                {
+                    "string": "iw6_honeybadger",
+                    "index": 29
+                },
+                {
+                    "string": "iw6_arx160",
+                    "index": 30
+                },
+                {
+                    "string": "iw6_fads",
+                    "index": 31
+                },
+                {
+                    "string": "iw6_msbs",
+                    "index": 32
+                },
+                {
+                    "string": "iw6_r5rgp",
+                    "index": 33
+                },
+                {
+                    "string": "iw6_mk32",
+                    "index": 34
+                },
+                {
+                    "string": "iw6_rgm",
+                    "index": 35
+                },
+                {
+                    "string": "iw6_panzerfaust3",
+                    "index": 36
+                },
+                {
+                    "string": "iw6_vks",
+                    "index": 37
+                },
+                {
+                    "string": "iw6_l115a3",
+                    "index": 38
+                },
+                {
+                    "string": "iw6_usr",
+                    "index": 39
+                },
+                {
+                    "string": "iw6_gm6",
+                    "index": 40
+                },
+                {
+                    "string": "iw6_imbel",
+                    "index": 41
+                },
+                {
+                    "string": "iw6_g28",
+                    "index": 42
+                },
+                {
+                    "string": "iw6_mk14",
+                    "index": 43
+                },
+                {
+                    "string": "iw6_svu",
+                    "index": 44
+                },
+                {
+                    "string": "iw6_mts255",
+                    "index": 45
+                },
+                {
+                    "string": "iw6_fp6",
+                    "index": 46
+                },
+                {
+                    "string": "iw6_maul",
+                    "index": 47
+                },
+                {
+                    "string": "iw6_uts15",
+                    "index": 48
+                },
+                {
+                    "string": "iw6_m27",
+                    "index": 49
+                },
+                {
+                    "string": "iw6_ameli",
+                    "index": 50
+                },
+                {
+                    "string": "iw6_lsat",
+                    "index": 51
+                },
+                {
+                    "string": "iw6_kac",
+                    "index": 52
+                },
+                {
+                    "string": "iw6_minigun",
+                    "index": 53
+                },
+                {
+                    "string": "iw6_riotshield",
+                    "index": 54
+                },
+                {
+                    "string": "iw6_knifeonly",
+                    "index": 55
+                },
+                {
+                    "string": "iw6_dlcweap01",
+                    "index": 58
+                },
+                {
+                    "string": "iw6_dlcweap02",
+                    "index": 59
+                },
+                {
+                    "string": "iw6_dlcweap03",
+                    "index": 60
+                },
+                {
+                    "string": "iw6_dlcweap04",
+                    "index": 61
+                },
+                {
+                    "string": "c4",
+                    "index": 1
+                },
+                {
+                    "string": "claymore",
+                    "index": 2
+                },
+                {
+                    "string": "semtex",
+                    "index": 3
+                },
+                {
+                    "string": "thermobaric_grenade",
+                    "index": 4
+                },
+                {
+                    "string": "mortar_shell",
+                    "index": 5
+                },
+                {
+                    "string": "proximity_explosive",
+                    "index": 6
+                },
+                {
+                    "string": "motion_sensor",
+                    "index": 7
+                },
+                {
+                    "string": "frag_grenade",
+                    "index": 8
+                },
+                {
+                    "string": "flash_grenade",
+                    "index": 9
+                },
+                {
+                    "string": "smoke_grenade",
+                    "index": 10
+                },
+                {
+                    "string": "concussion_grenade",
+                    "index": 11
+                },
+                {
+                    "string": "emp_grenade",
+                    "index": 12
+                },
+                {
+                    "string": "throwingknife",
+                    "index": 13
+                },
+                {
+                    "string": "trophy",
+                    "index": 14
+                },
+                {
+                    "string": "iw6_mk32horde",
+                    "index": 57
+                }
+            ]
+        },
+        {
+            "entryCount": 181,
+            "reservedEntryCount": 181,
+            "entries": [
+                {
+                    "string": "ch_prestige",
+                    "index": 0
+                },
+                {
+                    "string": "ch_prestige_10",
+                    "index": 1
+                },
+                {
+                    "string": "ch_prPurchase1",
+                    "index": 2
+                },
+                {
+                    "string": "ch_prPurchase2",
+                    "index": 3
+                },
+                {
+                    "string": "ch_prPurchase3",
+                    "index": 4
+                },
+                {
+                    "string": "ch_prPurchase_title1",
+                    "index": 5
+                },
+                {
+                    "string": "ch_prPurchase_title2",
+                    "index": 6
+                },
+                {
+                    "string": "ch_prPurchase_title3",
+                    "index": 7
+                },
+                {
+                    "string": "ch_choppervet",
+                    "index": 176
+                },
+                {
+                    "string": "ch_looknohands",
+                    "index": 172
+                },
+                {
+                    "string": "ch_prPurchase_m4",
+                    "index": 8
+                },
+                {
+                    "string": "ch_prPurchase_type95",
+                    "index": 9
+                },
+                {
+                    "string": "ch_prPurchase_scar",
+                    "index": 10
+                },
+                {
+                    "string": "ch_prPurchase_g36",
+                    "index": 11
+                },
+                {
+                    "string": "ch_prPurchase_m14",
+                    "index": 12
+                },
+                {
+                    "string": "ch_prPurchase_m16",
+                    "index": 13
+                },
+                {
+                    "string": "ch_prPurchase_acr",
+                    "index": 14
+                },
+                {
+                    "string": "ch_prPurchase_fad",
+                    "index": 15
+                },
+                {
+                    "string": "ch_prPurchase_ak47",
+                    "index": 16
+                },
+                {
+                    "string": "ch_prPurchase_mp5",
+                    "index": 17
+                },
+                {
+                    "string": "ch_prPurchase_ump45",
+                    "index": 18
+                },
+                {
+                    "string": "ch_prPurchase_pp90m1",
+                    "index": 19
+                },
+                {
+                    "string": "ch_prPurchase_p90",
+                    "index": 20
+                },
+                {
+                    "string": "ch_prPurchase_m9",
+                    "index": 21
+                },
+                {
+                    "string": "ch_prPurchase_mp7",
+                    "index": 22
+                },
+                {
+                    "string": "ch_prPurchase_sa80",
+                    "index": 23
+                },
+                {
+                    "string": "ch_prPurchase_mg36",
+                    "index": 24
+                },
+                {
+                    "string": "ch_prPurchase_mk46",
+                    "index": 25
+                },
+                {
+                    "string": "ch_prPurchase_pecheneg",
+                    "index": 26
+                },
+                {
+                    "string": "ch_prPurchase_m60",
+                    "index": 27
+                },
+                {
+                    "string": "ch_prPurchase_m240",
+                    "index": 28
+                },
+                {
+                    "string": "ch_prPurchase_rsass",
+                    "index": 29
+                },
+                {
+                    "string": "ch_prPurchase_msr",
+                    "index": 30
+                },
+                {
+                    "string": "ch_prPurchase_l96a1",
+                    "index": 31
+                },
+                {
+                    "string": "ch_prPurchase_barrett",
+                    "index": 32
+                },
+                {
+                    "string": "ch_prPurchase_dragunov",
+                    "index": 33
+                },
+                {
+                    "string": "ch_prPurchase_as50",
+                    "index": 34
+                },
+                {
+                    "string": "ch_prPurchase_spas12",
+                    "index": 35
+                },
+                {
+                    "string": "ch_prPurchase_aa12",
+                    "index": 36
+                },
+                {
+                    "string": "ch_prPurchase_striker",
+                    "index": 37
+                },
+                {
+                    "string": "ch_prPurchase_usas12",
+                    "index": 38
+                },
+                {
+                    "string": "ch_prPurchase_1887",
+                    "index": 39
+                },
+                {
+                    "string": "ch_prPurchase_ksg",
+                    "index": 40
+                },
+                {
+                    "string": "ch_prPurchase_fmg9",
+                    "index": 41
+                },
+                {
+                    "string": "ch_prPurchase_g18",
+                    "index": 42
+                },
+                {
+                    "string": "ch_prPurchase_mp9",
+                    "index": 43
+                },
+                {
+                    "string": "ch_prPurchase_skorpion",
+                    "index": 44
+                },
+                {
+                    "string": "ch_prPurchase_smaw",
+                    "index": 45
+                },
+                {
+                    "string": "ch_prPurchase_m320",
+                    "index": 46
+                },
+                {
+                    "string": "ch_prPurchase_stinger",
+                    "index": 47
+                },
+                {
+                    "string": "ch_prPurchase_javelin",
+                    "index": 48
+                },
+                {
+                    "string": "ch_prPurchase_rpg",
+                    "index": 49
+                },
+                {
+                    "string": "ch_prPurchase_xm25",
+                    "index": 50
+                },
+                {
+                    "string": "ch_prPurchase_cm901",
+                    "index": 51
+                },
+                {
+                    "string": "ch_prPurchase_p99",
+                    "index": 52
+                },
+                {
+                    "string": "ch_prPurchase_44magnum",
+                    "index": 53
+                },
+                {
+                    "string": "ch_prPurchase_fnfiveseven",
+                    "index": 54
+                },
+                {
+                    "string": "ch_prPurchase_deserteagle",
+                    "index": 55
+                },
+                {
+                    "string": "ch_prPurchase_mp412",
+                    "index": 56
+                },
+                {
+                    "string": "ch_prPurchase_blindeye",
+                    "index": 57
+                },
+                {
+                    "string": "ch_prPurchase_extremeconditioning",
+                    "index": 58
+                },
+                {
+                    "string": "ch_prPurchase_scavenger",
+                    "index": 59
+                },
+                {
+                    "string": "ch_prPurchase_hardline",
+                    "index": 60
+                },
+                {
+                    "string": "ch_prPurchase_assassin",
+                    "index": 61
+                },
+                {
+                    "string": "ch_prPurchase_overkill",
+                    "index": 62
+                },
+                {
+                    "string": "ch_prPurchase_sitrep",
+                    "index": 63
+                },
+                {
+                    "string": "ch_prPurchase_steadyaim",
+                    "index": 64
+                },
+                {
+                    "string": "ch_prPurchase_deadsilence",
+                    "index": 65
+                },
+                {
+                    "string": "ch_prPurchase_throwingknife",
+                    "index": 66
+                },
+                {
+                    "string": "ch_prPurchase_bouncingbetty",
+                    "index": 67
+                },
+                {
+                    "string": "ch_prPurchase_claymore",
+                    "index": 68
+                },
+                {
+                    "string": "ch_prPurchase_c4",
+                    "index": 69
+                },
+                {
+                    "string": "ch_prPurchase_scrambler",
+                    "index": 70
+                },
+                {
+                    "string": "ch_prPurchase_empgrenade",
+                    "index": 71
+                },
+                {
+                    "string": "ch_prPurchase_smokegrenade",
+                    "index": 72
+                },
+                {
+                    "string": "ch_prPurchase_trophysystem",
+                    "index": 73
+                },
+                {
+                    "string": "ch_prPurchase_tacticalinsertion",
+                    "index": 74
+                },
+                {
+                    "string": "ch_prPurchase_portableradar",
+                    "index": 75
+                },
+                {
+                    "string": "pr_marksman_iw5_usp45",
+                    "index": 76
+                },
+                {
+                    "string": "pr_marksman_iw5_mp412",
+                    "index": 77
+                },
+                {
+                    "string": "pr_marksman_iw5_44magnum",
+                    "index": 78
+                },
+                {
+                    "string": "pr_marksman_iw5_deserteagle",
+                    "index": 79
+                },
+                {
+                    "string": "pr_marksman_iw5_p99",
+                    "index": 80
+                },
+                {
+                    "string": "pr_marksman_iw5_fnfiveseven",
+                    "index": 81
+                },
+                {
+                    "string": "pr_expert_iw5_usp45",
+                    "index": 82
+                },
+                {
+                    "string": "pr_expert_iw5_mp412",
+                    "index": 83
+                },
+                {
+                    "string": "pr_expert_iw5_44magnum",
+                    "index": 84
+                },
+                {
+                    "string": "pr_expert_iw5_deserteagle",
+                    "index": 85
+                },
+                {
+                    "string": "pr_expert_iw5_p99",
+                    "index": 86
+                },
+                {
+                    "string": "pr_expert_iw5_fnfiveseven",
+                    "index": 87
+                },
+                {
+                    "string": "pr_marksman_iw5_acr",
+                    "index": 88
+                },
+                {
+                    "string": "pr_marksman_iw5_type95",
+                    "index": 89
+                },
+                {
+                    "string": "pr_marksman_iw5_m4",
+                    "index": 90
+                },
+                {
+                    "string": "pr_marksman_iw5_ak47",
+                    "index": 91
+                },
+                {
+                    "string": "pr_marksman_iw5_m16",
+                    "index": 92
+                },
+                {
+                    "string": "pr_marksman_iw5_m14",
+                    "index": 93
+                },
+                {
+                    "string": "pr_marksman_iw5_g36c",
+                    "index": 94
+                },
+                {
+                    "string": "pr_marksman_iw5_scar",
+                    "index": 95
+                },
+                {
+                    "string": "pr_marksman_iw5_fad",
+                    "index": 96
+                },
+                {
+                    "string": "pr_marksman_iw5_cm901",
+                    "index": 97
+                },
+                {
+                    "string": "pr_expert_iw5_acr",
+                    "index": 98
+                },
+                {
+                    "string": "pr_expert_iw5_type95",
+                    "index": 99
+                },
+                {
+                    "string": "pr_expert_iw5_m4",
+                    "index": 100
+                },
+                {
+                    "string": "pr_expert_iw5_ak47",
+                    "index": 101
+                },
+                {
+                    "string": "pr_expert_iw5_m16",
+                    "index": 102
+                },
+                {
+                    "string": "pr_expert_iw5_m14",
+                    "index": 103
+                },
+                {
+                    "string": "pr_expert_iw5_g36c",
+                    "index": 104
+                },
+                {
+                    "string": "pr_expert_iw5_scar",
+                    "index": 105
+                },
+                {
+                    "string": "pr_expert_iw5_fad",
+                    "index": 106
+                },
+                {
+                    "string": "pr_expert_iw5_cm901",
+                    "index": 107
+                },
+                {
+                    "string": "pr_marksman_iw5_mp5",
+                    "index": 108
+                },
+                {
+                    "string": "pr_marksman_iw5_m9",
+                    "index": 109
+                },
+                {
+                    "string": "pr_marksman_iw5_p90",
+                    "index": 110
+                },
+                {
+                    "string": "pr_marksman_iw5_pp90m1",
+                    "index": 111
+                },
+                {
+                    "string": "pr_marksman_iw5_ump45",
+                    "index": 112
+                },
+                {
+                    "string": "pr_marksman_iw5_mp7",
+                    "index": 113
+                },
+                {
+                    "string": "pr_expert_iw5_mp5",
+                    "index": 114
+                },
+                {
+                    "string": "pr_expert_iw5_m9",
+                    "index": 115
+                },
+                {
+                    "string": "pr_expert_iw5_p90",
+                    "index": 116
+                },
+                {
+                    "string": "pr_expert_iw5_pp90m1",
+                    "index": 117
+                },
+                {
+                    "string": "pr_expert_iw5_ump45",
+                    "index": 118
+                },
+                {
+                    "string": "pr_expert_iw5_mp7",
+                    "index": 119
+                },
+                {
+                    "string": "pr_marksman_iw5_fmg9",
+                    "index": 120
+                },
+                {
+                    "string": "pr_marksman_iw5_g18",
+                    "index": 121
+                },
+                {
+                    "string": "pr_marksman_iw5_mp9",
+                    "index": 122
+                },
+                {
+                    "string": "pr_marksman_iw5_skorpion",
+                    "index": 123
+                },
+                {
+                    "string": "pr_expert_iw5_fmg9",
+                    "index": 124
+                },
+                {
+                    "string": "pr_expert_iw5_g18",
+                    "index": 125
+                },
+                {
+                    "string": "pr_expert_iw5_mp9",
+                    "index": 126
+                },
+                {
+                    "string": "pr_expert_iw5_skorpion",
+                    "index": 127
+                },
+                {
+                    "string": "pr_marksman_iw5_spas12",
+                    "index": 128
+                },
+                {
+                    "string": "pr_marksman_iw5_aa12",
+                    "index": 129
+                },
+                {
+                    "string": "pr_marksman_iw5_striker",
+                    "index": 130
+                },
+                {
+                    "string": "pr_marksman_iw5_1887",
+                    "index": 131
+                },
+                {
+                    "string": "pr_marksman_iw5_usas12",
+                    "index": 132
+                },
+                {
+                    "string": "pr_marksman_iw5_ksg",
+                    "index": 133
+                },
+                {
+                    "string": "pr_expert_iw5_spas12",
+                    "index": 134
+                },
+                {
+                    "string": "pr_expert_iw5_aa12",
+                    "index": 135
+                },
+                {
+                    "string": "pr_expert_iw5_striker",
+                    "index": 136
+                },
+                {
+                    "string": "pr_expert_iw5_1887",
+                    "index": 137
+                },
+                {
+                    "string": "pr_expert_iw5_usas12",
+                    "index": 138
+                },
+                {
+                    "string": "pr_expert_iw5_ksg",
+                    "index": 139
+                },
+                {
+                    "string": "pr_marksman_iw5_m60",
+                    "index": 140
+                },
+                {
+                    "string": "pr_marksman_iw5_mk46",
+                    "index": 141
+                },
+                {
+                    "string": "pr_marksman_iw5_pecheneg",
+                    "index": 142
+                },
+                {
+                    "string": "pr_marksman_iw5_sa80",
+                    "index": 143
+                },
+                {
+                    "string": "pr_marksman_iw5_mg36",
+                    "index": 144
+                },
+                {
+                    "string": "pr_expert_iw5_m60",
+                    "index": 145
+                },
+                {
+                    "string": "pr_expert_iw5_mk46",
+                    "index": 146
+                },
+                {
+                    "string": "pr_expert_iw5_pecheneg",
+                    "index": 147
+                },
+                {
+                    "string": "pr_expert_iw5_sa80",
+                    "index": 148
+                },
+                {
+                    "string": "pr_expert_iw5_mg36",
+                    "index": 149
+                },
+                {
+                    "string": "pr_marksman_iw5_barrett",
+                    "index": 150
+                },
+                {
+                    "string": "pr_marksman_iw5_msr",
+                    "index": 151
+                },
+                {
+                    "string": "pr_marksman_iw5_rsass",
+                    "index": 152
+                },
+                {
+                    "string": "pr_marksman_iw5_dragunov",
+                    "index": 153
+                },
+                {
+                    "string": "pr_marksman_iw5_as50",
+                    "index": 154
+                },
+                {
+                    "string": "pr_marksman_iw5_l96a1",
+                    "index": 155
+                },
+                {
+                    "string": "pr_expert_iw5_barrett",
+                    "index": 156
+                },
+                {
+                    "string": "pr_expert_iw5_msr",
+                    "index": 157
+                },
+                {
+                    "string": "pr_expert_iw5_rsass",
+                    "index": 158
+                },
+                {
+                    "string": "pr_expert_iw5_dragunov",
+                    "index": 159
+                },
+                {
+                    "string": "pr_expert_iw5_as50",
+                    "index": 160
+                },
+                {
+                    "string": "pr_expert_iw5_l96a1",
+                    "index": 161
+                },
+                {
+                    "string": "pr_marksman_smaw",
+                    "index": 162
+                },
+                {
+                    "string": "pr_expert_smaw",
+                    "index": 163
+                },
+                {
+                    "string": "pr_marksman_rpg",
+                    "index": 164
+                },
+                {
+                    "string": "pr_expert_rpg",
+                    "index": 165
+                },
+                {
+                    "string": "pr_marksman_javelin",
+                    "index": 166
+                },
+                {
+                    "string": "pr_expert_javelin",
+                    "index": 167
+                },
+                {
+                    "string": "pr_marksman_m79",
+                    "index": 168
+                },
+                {
+                    "string": "pr_expert_m79",
+                    "index": 169
+                },
+                {
+                    "string": "pr_marksman_stinger",
+                    "index": 170
+                },
+                {
+                    "string": "pr_expert_stinger",
+                    "index": 171
+                },
+                {
+                    "string": "ch_predator",
+                    "index": 173
+                },
+                {
+                    "string": "ch_carpetbomber",
+                    "index": 174
+                },
+                {
+                    "string": "ch_yourefired",
+                    "index": 175
+                },
+                {
+                    "string": "ch_jollygreengiant",
+                    "index": 177
+                },
+                {
+                    "string": "ch_thespirit",
+                    "index": 178
+                },
+                {
+                    "string": "ch_cobracommander",
+                    "index": 179
+                },
+                {
+                    "string": "ch_spectre",
+                    "index": 180
+                }
+            ]
+        }
+    ],
+    "structCount": 4,
+    "structs": [
+        {
+            "propertyCount": 76,
+            "properties": [
+                {
+                    "name": "headshots",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 59,
+                    "validation": 0
+                },
+                {
+                    "name": "assists",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 15,
+                    "validation": 0
+                },
+                {
+                    "name": "kills",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 71,
+                    "validation": 0
+                },
+                {
+                    "name": "deaths",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 43,
+                    "validation": 0
+                },
+                {
+                    "name": "suicides",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 135,
+                    "validation": 0
+                },
+                {
+                    "name": "prestige",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 103,
+                    "validation": 0
+                },
+                {
+                    "name": "hits",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 63,
+                    "validation": 0
+                },
+                {
+                    "name": "killStreak",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 75,
+                    "validation": 0
+                },
+                {
+                    "name": "score",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 131,
+                    "validation": 0
+                },
+                {
+                    "name": "awards",
+                    "type": 7,
+                    "index": 0,
+                    "offset": 212,
+                    "validation": 0
+                },
+                {
+                    "name": "challengeState",
+                    "type": 7,
+                    "index": 4,
+                    "offset": 2900,
+                    "validation": 0
+                },
+                {
+                    "name": "wins",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 171,
+                    "validation": 0
+                },
+                {
+                    "name": "prestigeDoubleWeaponXp",
+                    "type": 2,
+                    "index": -1,
+                    "offset": 64,
+                    "validation": 0
+                },
+                {
+                    "name": "prestigeDoubleXp",
+                    "type": 2,
+                    "index": -1,
+                    "offset": 65,
+                    "validation": 0
+                },
+                {
+                    "name": "prestigeDoubleWeaponXpMaxTimePlayed",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 107,
+                    "validation": 0
+                },
+                {
+                    "name": "prestigeDoubleWeaponXpTimePlayed",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 111,
+                    "validation": 0
+                },
+                {
+                    "name": "prestigeDoubleXpMaxTimePlayed",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 115,
+                    "validation": 0
+                },
+                {
+                    "name": "prestigeDoubleXpTimePlayed",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 119,
+                    "validation": 0
+                },
+                {
+                    "name": "prestigeShopTokens",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 123,
+                    "validation": 0
+                },
+                {
+                    "name": "prestigeShopTokensEntitlement",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 127,
+                    "validation": 0
+                },
+                {
+                    "name": "accuracy",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 11,
+                    "validation": 0
+                },
+                {
+                    "name": "bestKills",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 19,
+                    "validation": 0
+                },
+                {
+                    "name": "bestWeapon",
+                    "type": 5,
+                    "index": 3,
+                    "offset": 179,
+                    "validation": 0
+                },
+                {
+                    "name": "bestWeaponIndex",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 23,
+                    "validation": 0
+                },
+                {
+                    "name": "bestWeaponXP",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 27,
+                    "validation": 0
+                },
+                {
+                    "name": "currentWinStreak",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 39,
+                    "validation": 0
+                },
+                {
+                    "name": "kdRatio",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 67,
+                    "validation": 0
+                },
+                {
+                    "name": "losses",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 79,
+                    "validation": 0
+                },
+                {
+                    "name": "misses",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 83,
+                    "validation": 0
+                },
+                {
+                    "name": "mostDeaths",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 87,
+                    "validation": 0
+                },
+                {
+                    "name": "mostXp",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 91,
+                    "validation": 0
+                },
+                {
+                    "name": "teamkills",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 139,
+                    "validation": 0
+                },
+                {
+                    "name": "ties",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 143,
+                    "validation": 0
+                },
+                {
+                    "name": "timePlayedAllies",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 147,
+                    "validation": 0
+                },
+                {
+                    "name": "timePlayedOpfor",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 151,
+                    "validation": 0
+                },
+                {
+                    "name": "timePlayedOther",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 155,
+                    "validation": 0
+                },
+                {
+                    "name": "timePlayedTotal",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 159,
+                    "validation": 0
+                },
+                {
+                    "name": "totalShots",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 163,
+                    "validation": 0
+                },
+                {
+                    "name": "winLossRatio",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 167,
+                    "validation": 0
+                },
+                {
+                    "name": "winStreak",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 175,
+                    "validation": 0
+                },
+                {
+                    "name": "weaponStats",
+                    "type": 7,
+                    "index": 2,
+                    "offset": 1100,
+                    "validation": 0
+                },
+                {
+                    "name": "attachmentsStats",
+                    "type": 7,
+                    "index": 3,
+                    "offset": 2340,
+                    "validation": 0
+                },
+                {
+                    "name": "challengeProgress",
+                    "type": 7,
+                    "index": 5,
+                    "offset": 3081,
+                    "validation": 0
+                },
+                {
+                    "name": "xpMultiplier",
+                    "type": 6,
+                    "index": 6,
+                    "offset": 4341,
+                    "validation": 0
+                },
+                {
+                    "name": "xpMaxMultiplierTimePlayed",
+                    "type": 6,
+                    "index": 7,
+                    "offset": 4353,
+                    "validation": 0
+                },
+                {
+                    "name": "xpMultiplierTimePlayed",
+                    "type": 6,
+                    "index": 8,
+                    "offset": 4365,
+                    "validation": 0
+                },
+                {
+                    "name": "challengeXPMultiplier",
+                    "type": 6,
+                    "index": 9,
+                    "offset": 4377,
+                    "validation": 0
+                },
+                {
+                    "name": "challengeXPMaxMultiplierTimePlayed",
+                    "type": 6,
+                    "index": 10,
+                    "offset": 4381,
+                    "validation": 0
+                },
+                {
+                    "name": "challengeXPMultiplierTimePlayed",
+                    "type": 6,
+                    "index": 11,
+                    "offset": 4385,
+                    "validation": 0
+                },
+                {
+                    "name": "weaponXPMultiplier",
+                    "type": 6,
+                    "index": 12,
+                    "offset": 4389,
+                    "validation": 0
+                },
+                {
+                    "name": "weaponXPMaxMultiplierTimePlayed",
+                    "type": 6,
+                    "index": 13,
+                    "offset": 4393,
+                    "validation": 0
+                },
+                {
+                    "name": "weaponXPMultiplierTimePlayed",
+                    "type": 6,
+                    "index": 14,
+                    "offset": 4397,
+                    "validation": 0
+                },
+                {
+                    "name": "cardNameplate",
+                    "type": 4,
+                    "index": 2,
+                    "offset": 9,
+                    "validation": 0
+                },
+                {
+                    "name": "cardIcon",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 31,
+                    "validation": 0
+                },
+                {
+                    "name": "cardTitle",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 35,
+                    "validation": 0
+                },
+                {
+                    "name": "playerXuidHigh",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 95,
+                    "validation": 0
+                },
+                {
+                    "name": "playerXuidLow",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 99,
+                    "validation": 0
+                },
+                {
+                    "name": "extraCustomClassesEntitlement",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 51,
+                    "validation": 0
+                },
+                {
+                    "name": "extraCustomClassesPrestige",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 55,
+                    "validation": 0
+                },
+                {
+                    "name": "bests",
+                    "type": 7,
+                    "index": 1,
+                    "offset": 656,
+                    "validation": 0
+                },
+                {
+                    "name": "pastTitleData",
+                    "type": 5,
+                    "index": 2,
+                    "offset": 199,
+                    "validation": 0
+                },
+                {
+                    "name": "skills",
+                    "type": 7,
+                    "index": 6,
+                    "offset": 3805,
+                    "validation": 0
+                },
+                {
+                    "name": "iconUnlocked",
+                    "type": 6,
+                    "index": 2,
+                    "offset": 4063,
+                    "validation": 0
+                },
+                {
+                    "name": "titleUnlocked",
+                    "type": 6,
+                    "index": 3,
+                    "offset": 4191,
+                    "validation": 0
+                },
+                {
+                    "name": "iconNew",
+                    "type": 6,
+                    "index": 0,
+                    "offset": 3807,
+                    "validation": 0
+                },
+                {
+                    "name": "titleNew",
+                    "type": 6,
+                    "index": 1,
+                    "offset": 3935,
+                    "validation": 0
+                },
+                {
+                    "name": "persistentWeaponsUnlocked",
+                    "type": 7,
+                    "index": 7,
+                    "offset": 4319,
+                    "validation": 0
+                },
+                {
+                    "name": "persistentPerksUnlocked",
+                    "type": 7,
+                    "index": 8,
+                    "offset": 4331,
+                    "validation": 0
+                },
+                {
+                    "name": "unlockedReticles",
+                    "type": 6,
+                    "index": 5,
+                    "offset": 4339,
+                    "validation": 0
+                },
+                {
+                    "name": "unlockedCamo",
+                    "type": 6,
+                    "index": 4,
+                    "offset": 4338,
+                    "validation": 0
+                },
+                {
+                    "name": "newEntitlement",
+                    "type": 7,
+                    "index": 9,
+                    "offset": 4340,
+                    "validation": 0
+                },
+                {
+                    "name": "prestigeTokenBlackOps",
+                    "type": 2,
+                    "index": -1,
+                    "offset": 66,
+                    "validation": 0
+                },
+                {
+                    "name": "prestigeTokenMW",
+                    "type": 2,
+                    "index": -1,
+                    "offset": 67,
+                    "validation": 0
+                },
+                {
+                    "name": "prestigeTokenMW2",
+                    "type": 2,
+                    "index": -1,
+                    "offset": 68,
+                    "validation": 0
+                },
+                {
+                    "name": "prestigeTokenWAW",
+                    "type": 2,
+                    "index": -1,
+                    "offset": 69,
+                    "validation": 0
+                },
+                {
+                    "name": "deathStreak",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 47,
+                    "validation": 0
+                }
+            ],
+            "size": 4401,
+            "bitOffset": 6
+        },
+        {
+            "propertyCount": 2,
+            "properties": [
+                {
+                    "name": "award",
+                    "type": 4,
+                    "index": 1,
+                    "offset": 0,
+                    "validation": 0
+                },
+                {
+                    "name": "value",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 2,
+                    "validation": 0
+                }
+            ],
+            "size": 6,
+            "bitOffset": 0
+        },
+        {
+            "propertyCount": 6,
+            "properties": [
+                {
+                    "name": "playedmw3",
+                    "type": 2,
+                    "index": -1,
+                    "offset": 0,
+                    "validation": 0
+                },
+                {
+                    "name": "playedblackops2",
+                    "type": 2,
+                    "index": -1,
+                    "offset": 1,
+                    "validation": 0
+                },
+                {
+                    "name": "mw3prestige",
+                    "type": 9,
+                    "index": -1,
+                    "offset": 1,
+                    "validation": 0
+                },
+                {
+                    "name": "blackops2prestige",
+                    "type": 9,
+                    "index": -1,
+                    "offset": 3,
+                    "validation": 0
+                },
+                {
+                    "name": "nextreadmw3",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 5,
+                    "validation": 0
+                },
+                {
+                    "name": "nextreadblackops2",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 9,
+                    "validation": 0
+                }
+            ],
+            "size": 13,
+            "bitOffset": 2
+        },
+        {
+            "propertyCount": 5,
+            "properties": [
+                {
+                    "name": "kills",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 12,
+                    "validation": 0
+                },
+                {
+                    "name": "deaths",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 0,
+                    "validation": 0
+                },
+                {
+                    "name": "headShots",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 4,
+                    "validation": 0
+                },
+                {
+                    "name": "hits",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 8,
+                    "validation": 0
+                },
+                {
+                    "name": "shots",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 16,
+                    "validation": 0
+                }
+            ],
+            "size": 20,
+            "bitOffset": 0
+        }
+    ],
+    "indexedArrayCount": 15,
+    "indexedArrays": [
+        {
+            "arraySize": 1024,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 1024,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 1024,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 1024,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 5,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 5,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 3,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 3,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 3,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        }
+    ],
+    "enumedArrayCount": 10,
+    "enumedArrays": [
+        {
+            "enumIndex": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "enumIndex": 1,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "enumIndex": 7,
+            "type": 5,
+            "index": 3,
+            "elementSize": 20
+        },
+        {
+            "enumIndex": 0,
+            "type": 5,
+            "index": 3,
+            "elementSize": 20
+        },
+        {
+            "enumIndex": 8,
+            "type": 1,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "enumIndex": 8,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "enumIndex": 5,
+            "type": 9,
+            "index": -1,
+            "elementSize": 2
+        },
+        {
+            "enumIndex": 6,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "enumIndex": 4,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "enumIndex": 3,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        }
+    ],
+    "type": 5,
+    "index": 0,
+    "size": 4401
+}

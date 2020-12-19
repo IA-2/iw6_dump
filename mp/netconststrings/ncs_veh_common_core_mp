@@ -1,0 +1,41 @@
+{
+    "name": "ncs_veh_common_core_mp",
+    "stringType": 3,
+    "sourceType": 2,
+    "entryCount": 11,
+    "strings": [
+        {
+            "string": "a10_warthog_mp"
+        },
+        {
+            "string": "attack_littlebird_mp"
+        },
+        {
+            "string": "backup_drone_mp"
+        },
+        {
+            "string": "ball_drone_mp"
+        },
+        {
+            "string": "cobra_mp"
+        },
+        {
+            "string": "defaultvehicle"
+        },
+        {
+            "string": "heli_pilot_mp"
+        },
+        {
+            "string": "littlebird_mp"
+        },
+        {
+            "string": "littlebird_neutral_mp"
+        },
+        {
+            "string": "odin_mp"
+        },
+        {
+            "string": "remote_uav_mp"
+        }
+    ]
+}

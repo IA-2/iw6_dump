@@ -1,0 +1,14 @@
+{
+    "name": "ncs_loc_eng_mp_ca_impact",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "MP_CA_KILLSTREAKS_A10_STRAFE_PICKUP"
+        },
+        {
+            "string": "MP_CA_KILLSTREAKS_HELI_GUNNER_PICKUP"
+        }
+    ]
+}

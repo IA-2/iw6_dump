@@ -1,0 +1,53 @@
+{
+    "name": "ncs_fxt_level",
+    "stringType": 19,
+    "sourceType": 0,
+    "entryCount": 15,
+    "strings": [
+        {
+            "string": "j_chin_skinroll"
+        },
+        {
+            "string": "j_elbowtwist_le"
+        },
+        {
+            "string": "j_elbowtwist_ri"
+        },
+        {
+            "string": "j_hiptwist1_le"
+        },
+        {
+            "string": "j_hiptwist1_ri"
+        },
+        {
+            "string": "j_knee_bulge_le"
+        },
+        {
+            "string": "j_knee_bulge_ri"
+        },
+        {
+            "string": "j_shouldertwist1_le"
+        },
+        {
+            "string": "j_shouldertwist1_ri"
+        },
+        {
+            "string": "j_toeend_le"
+        },
+        {
+            "string": "j_toeend_ri"
+        },
+        {
+            "string": "j_wristbacktwist_le"
+        },
+        {
+            "string": "j_wristbacktwist_ri"
+        },
+        {
+            "string": "j_wristfronttwist_le"
+        },
+        {
+            "string": "j_wristfronttwist_ri"
+        }
+    ]
+}

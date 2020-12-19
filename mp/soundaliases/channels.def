@@ -1,0 +1,101 @@
+# Channel definition file
+# MAX number of channels: 64
+# name - the channel name (limited to 64 characters).  Required.
+# priority - a numeric priority value where larger numbers take precedence over lower numbers.  Default value = 0
+# is3d - whether this sound is spatialized ( 2d or 3d ).  Default value = 2d
+# restricted - values (restricted, unrestricted), says whether channel is subject to the one sound per channel per entity rule.  Default value = 'restricted'
+# pausable - values: (pause, nopause) whether this channel is pausable (e.g. when the in game menu appears).  Default value = "pause"
+# max voices - the max number is 64 (though in practice this is smaller becaused of reservered channels for ambience etc...).  Default value = 64
+# limit behavior - values: (replaceOldest, replaceQuieter, limitNew) sets the channel priority behavior when max voices is achieved. replaceOldest/replaceQuieter will replace a lower priority voice based on time or volume; limitNew (default, old behavior) will prevent new instances from playing.
+# name, priority, is3d, restricted, pausable, maxvoices, limitNew
+#
+#
+# 
+#
+
+physics,5,3d,unrestricted,pause,6,replaceOldest
+ambdist1,5,3d,unrestricted,pause,6,limitNew
+ambdist2,5,3d,unrestricted,pause,6,limitNew
+alarm,10,3d,,,,limitNew
+auto,10,3d,unrestricted,,,limitNew
+auto2,10,3d,unrestricted,,,limitNew
+auto2d,10,2d,unrestricted,,,limitNew
+autodog,10,3d,unrestricted,,,limitNew
+explosiondist1,10,3d,,,,limitNew
+explosiondist2,10,3d,,,,limitNew
+explosiveimpact,10,3d,unrestricted,,6,replaceOldest
+element,10,3d,unrestricted,,,limitNew
+element_int,10,3d,unrestricted,,,limitNew
+element_ext,10,3d,unrestricted,,,limitNew
+foley_plr_mvmt,10,2d,unrestricted,,2,replaceOldest
+foley_plr_weap,10,2d,restricted,,1,limitNew
+foley_npc_mvmt,10,3d,unrestricted,,4,replaceQuieter
+foley_npc_weap,10,3d,unrestricted,,4,replaceQuieter
+foley_dog_mvmt,10,3d,,,6,replaceQuieter
+element_lim,10,3d,unrestricted,,6,replaceOldest
+element2d,10,2d,unrestricted,,,limitNew
+voice_dog_dist,15,3d,,,,limitNew
+bulletflesh1npc_npc,15,3d,unrestricted,,3,replaceOldest
+bulletflesh2npc_npc,15,3d,unrestricted,,3,replaceOldest
+bulletimpact,20,3d,unrestricted,,10,replaceOldest
+bulletflesh1npc,20,3d,unrestricted,,3,replaceOldest
+bulletflesh2npc,20,3d,unrestricted,,3,replaceOldest
+bulletflesh1,25,3d,unrestricted,,3,replaceOldest
+bulletflesh2,25,3d,unrestricted,,3,replaceOldest
+vehicle,20,3d,unrestricted,,,limitNew
+vehiclelimited,20,3d,unrestricted,,10,limitNew
+menu,20,2d,unrestricted,nopause,,limitNew
+menulim1,20,2d,,nopause,1,replaceOldest
+menulim2,20,2d,,nopause,2,replaceOldest
+bulletwhizbyin,25,3d,unrestricted,,3,replaceOldest
+bulletwhizbyout,25,3d,unrestricted,,3,replaceOldest
+body,30,3d,,,,limitNew
+body2d,30,2d,,,,limitNew
+reload,30,3d,,,,limitNew
+reload2d,30,2d,,,,limitNew
+foley_plr_step,30,2d,restricted,,1,replaceOldest
+foley_plr_step_unres,30,2d,unrestricted,,3,replaceOldest
+foley_npc_step,30,3d,,,6,replaceQuieter
+foley_dog_step,30,3d,unrestricted,,8,replaceQuieter
+item,40,3d,,,,limitNew
+weapon_drone,45,3d,,,10,replaceQuieter
+explosion1,50,3d,,,,limitNew
+explosion2,50,3d,,,,limitNew
+explosion3,50,3d,,,,limitNew
+explosion4,50,3d,,,,limitNew
+explosion5,50,3d,,,,limitNew
+effects1,50,3d,,,,limitNew
+effects2,50,3d,,,,limitNew
+effects3,50,3d,,,,limitNew
+effects2d1,50,2d,,,,limitNew
+effects2d2,50,2d,,,,limitNew
+norestrict,50,3d,unrestricted,,,limitNew
+norestrict2d,50,2d,unrestricted,,,limitNew
+aircraft,50,3d,unrestricted,,,limitNew
+vehicle2d,50,2d,unrestricted,,,limitNew
+weapon_dist,30,3d,,,,limitNew
+weapon_mid,40,3d,,,,limitNew
+weapon,50,3d,,,,limitNew
+weapon2d,50,2d,,,,limitNew
+nonshock,50,3d,,,,limitNew
+nonshock2,50,3d,,,,limitNew
+effects2dlim,50,2d,unrestricted,,2,replaceOldest
+voice_dog,50,3d,,,,limitNew
+music_emitter,60,3d,,,1,limitNew
+voice_dog_attack,60,3d,,,,limitNew
+voice,60,3d,,,,limitNew
+local,70,2d,,,,limitNew
+local2,70,2d,,,,limitNew
+local3,70,2d,,,,limitNew
+ambient,70,2d,,,,limitNew
+plr_weap_fire_2d,70,2d,,,,limitNew
+plr_weap_mech_2d,70,2d,,,,limitNew
+hurt,80,2d,,,,limitNew
+player1,80,2d,,,,limitNew
+player2,80,2d,,,,limitNew
+music,80,2d,,,,limitNew
+musicnopause,80,2d,,nopause,,limitNew
+mission,90,3d,,,,limitNew
+missionfx,90,3d,,,,limitNew
+announcer,90,2d,,,,limitNew
+shellshock,100,2d,,,,limitNew

@@ -1,0 +1,11 @@
+{
+    "name": "ncs_mdl_mp_character_room_heads",
+    "stringType": 0,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "head_mp_head_a"
+        }
+    ]
+}

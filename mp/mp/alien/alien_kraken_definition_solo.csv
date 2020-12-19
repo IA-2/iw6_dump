@@ -1,0 +1,63 @@
+a0,b1,c2,d3,e4,f5
+0,# reference (ref string),kraken,,,
+1,# name (loc string),alien_type_kraken,,,
+2,# model (ref string),alien_squid,,,
+3,# tentacle model (ref string),alien_squid_tentacle,,,
+4,# boss type (boolean),1,,,
+20,# scale,1,,,
+21,# emissive default,0.2,,,
+22,# emissive max,1.0,,,
+23,# View Height,100,,,
+24,# starting health,25000,,,
+25,# movement radius,300,,,
+30,# reckless health threshold,0.5,,,
+31,# posture min interval,8,,,
+32,# posture max interval,12,,,
+50,# safe volume,kraken_safespot_01,,,
+51,# safe volume,kraken_safespot_02,,,
+52,# safe volume,kraken_safespot_03,,,
+53,# safe volume,kraken_safespot_04,,,
+70,# default damage multiplier,0,,,
+71,# 1P vulnerable damage multiplier,1.0,,,
+72,# 2P vulnerable damage multiplier,.8,,,
+73,# 3P vulnerable damage multiplier,.8,,,
+74,# 4P vulnerable damage multiplier,.8,,,
+75,# 1P health scalar,1,,,
+76,# 2P health scalar,1,,,
+77,# 3P health scalar,1,,,
+78,# tentacle damage multiplier,0.75,,,
+90,# heated_smash_volume,kraken_safespot_01,,,
+100,# spawn phase duration,45.0,45.0,60.0,60.0
+101,# spawn phase min health limit,.90,0.65,0.4,0.2
+102,# charge phase duration,4,6,6,6
+103,# charge phase min health limit,0.8,0.55,0.3,0.1
+104,# heated phase health threshold,0.80,0.55,0.3,0.0
+105,# heated phase damage per second,10.0,12.5,16.7,20.0
+106,# transition submerge time,8.0,8.0,8.0,8.0
+107,# transition teleport location,kraken_position_1,kraken_position_2,kraken_position_1,kraken_position_2
+108,# ship side,port,starboard,port,starboard
+109,# emp loop duration,3.0,3.0,3.0,3.0
+110,# smash radius,300,300,300,300
+111,# smash inner damage,100,100,100,100
+112,# smash outer damage,50,50,50,50
+113,# random smash min interval,10,8,5,4
+114,# random smash max interval,15,14,10,8
+115,# mass smash times,15,30,30,15,45,30,50,75
+116,# mass smash interval,1,.5,0.5,0.2
+117,# emp damage location,kraken_tentacle_port_emp,kraken_tentacle_starboard_emp,kraken_tentacle_port_emp,kraken_tentacle_starboard_emp
+118,# emp damage,50,50,50,50
+119,# emp notify,kraken_emp,kraken_emp,kraken_emp,kraken_emp
+120,# encounter name,kraken_port,kraken_starboard,kraken_port,kraken_starboard
+121,# spawn times,15-wave_1,25-wave_1,35-wave_1,15-wave_1,25-wave_2,35-wave_1,15-wave_1,25-wave_2,35-wave_1,50-wave_2,15-wave_1,25-wave_2,35-wave_1,50-wave_2
+122,# heated smash tentacle name,R2,L2,R2,L2
+123,# smash trigger cooldown,7,5,4,2
+124,# smash trigger activation time,3.0,2.5,2.0,1.5
+125,# smash trigger deactivation time,1.0,1.0,1.0,1.0
+126,# starting cycle index,14,16,18,20
+200,# port location,kraken_tentacle_port_L1,kraken_tentacle_port_L2,kraken_tentacle_port_R1,kraken_tentacle_port_R2
+201,# starboard location,kraken_tentacle_starboard_L1,kraken_tentacle_starboard_L2,kraken_tentacle_starboard_R1,kraken_tentacle_starboard_R2
+202,# anim index,0,1,2,3
+203,# port melee trigger,kraken_smash_port_L2,kraken_smash_port_L1,kraken_smash_port_R2,kraken_smash_port_R1
+204,# starboard melee trigger,kraken_smash_starboard_L2,kraken_smash_starboard_L1,kraken_smash_starboard_R2,kraken_smash_starboard_R1
+300,wave_1,goon-3-3,,,
+301,wave_2,minion-1-1,,,

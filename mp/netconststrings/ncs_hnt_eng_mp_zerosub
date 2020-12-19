@@ -1,0 +1,11 @@
+{
+    "name": "ncs_hnt_eng_mp_zerosub",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "MP_ZEROSUB_LEVEL_KILLSTREAK_ACTIVATE"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ncs_vfx_patch_mp_skeleton",
+    "stringType": 4,
+    "sourceType": 1,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "vfx/gameplay/explosions/weap/rpg/vfx_exp_rpg_wood"
+        }
+    ]
+}

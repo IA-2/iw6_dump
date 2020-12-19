@@ -1,0 +1,110 @@
+{
+    "name": "ncs_fxt_patch_common_core_mp",
+    "stringType": 19,
+    "sourceType": 2,
+    "entryCount": 34,
+    "strings": [
+        {
+            "string": "base_end_jnt"
+        },
+        {
+            "string": "base_start1_jnt"
+        },
+        {
+            "string": "base_start2_jnt"
+        },
+        {
+            "string": "fan10_jnt"
+        },
+        {
+            "string": "fan11_jnt"
+        },
+        {
+            "string": "fan12_jnt"
+        },
+        {
+            "string": "fan13_jnt"
+        },
+        {
+            "string": "fan14_jnt"
+        },
+        {
+            "string": "fan15_jnt"
+        },
+        {
+            "string": "fan16_jnt"
+        },
+        {
+            "string": "fan17_jnt"
+        },
+        {
+            "string": "fan18_jnt"
+        },
+        {
+            "string": "fan1_jnt"
+        },
+        {
+            "string": "fan2_jnt"
+        },
+        {
+            "string": "fan3_jnt"
+        },
+        {
+            "string": "fan4_jnt"
+        },
+        {
+            "string": "fan5_jnt"
+        },
+        {
+            "string": "fan6_jnt"
+        },
+        {
+            "string": "fan7_jnt"
+        },
+        {
+            "string": "fan8_jnt"
+        },
+        {
+            "string": "fan9_jnt"
+        },
+        {
+            "string": "fan_root_jnt"
+        },
+        {
+            "string": "j_spine4"
+        },
+        {
+            "string": "l_arm1_jnt"
+        },
+        {
+            "string": "l_arm2_jnt"
+        },
+        {
+            "string": "l_arm3_jnt"
+        },
+        {
+            "string": "l_cover_jnt"
+        },
+        {
+            "string": "r_arm1_jnt"
+        },
+        {
+            "string": "r_arm2_jnt"
+        },
+        {
+            "string": "r_arm3_jnt"
+        },
+        {
+            "string": "r_cover_jnt"
+        },
+        {
+            "string": "tag_fx"
+        },
+        {
+            "string": "tag_light"
+        },
+        {
+            "string": "tag_origin"
+        }
+    ]
+}

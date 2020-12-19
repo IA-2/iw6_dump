@@ -1,0 +1,103 @@
+body
+{
+	
+	//Test
+	alien_ancestor_walk_test_01
+	alien_ancestor_walk_test_02
+	alien_ancestor_walk_test_03
+	alien_ancestor_walk_test_04
+	alien_ancestor_walk_test_05
+	alien_ancestor_walk_test_06
+	alien_ancestor_walk_test_07_flot_idle
+	alien_ancestor_walk_test_07_flot_start
+	alien_ancestor_walk_test_07_flot
+	alien_ancestor_walk_test_07_flot_stopG
+	alien_ancestor_walk_test_08_flot
+	
+	
+	//Move
+	alien_ancestor_idle_01
+	alien_ancestor_idle_02
+	alien_ancestor_idle_03
+	alien_ancestor_idle_04
+	alien_ancestor_idle_vulnerable_01
+
+	alien_ancestor_stop_to_walk
+	alien_ancestor_walk_01
+	alien_ancestor_walk_02
+	alien_ancestor_walk_03
+	alien_ancestor_walk_to_stop
+
+	alien_ancestor_death_01
+	alien_ancestor_death_02
+	
+	//Turn
+	alien_ancestor_turn_45_r
+	alien_ancestor_turn_45_l
+	alien_ancestor_turn_r
+	alien_ancestor_turn_l
+	alien_ancestor_turn_180
+	alien_ancestor_turn_135_r
+	alien_ancestor_turn_135_l
+	
+	alien_ancestor_walk_turn_45_r
+	alien_ancestor_walk_turn_45_l
+	alien_ancestor_walk_turn_r
+	alien_ancestor_walk_turn_l
+	alien_ancestor_walk_turn_180
+	alien_ancestor_walk_turn_135_r
+	alien_ancestor_walk_turn_135_l
+
+	//Aim
+	aim : additive
+	{
+		alien_ancestor_aim1
+		alien_ancestor_aim2
+		alien_ancestor_aim3
+		alien_ancestor_aim4
+		alien_ancestor_aim5
+		alien_ancestor_aim6
+		alien_ancestor_aim7
+		alien_ancestor_aim8
+		alien_ancestor_aim9
+	}
+
+	//Attack
+	alien_ancestor_attack_grab_enter
+	alien_ancestor_attack_grab_enter_loop
+	alien_ancestor_attack_grab
+	alien_ancestor_attack_grab_loop
+	alien_ancestor_attack_grab_exit
+	alien_ancestor_attack_grab_exit_cancel
+
+	alien_ancestor_attack_energy_rhand
+	alien_ancestor_attack_energy_lhand
+	alien_ancestor_attack_energy_rhand_02
+	alien_ancestor_attack_energy_lhand_02
+	
+	alien_ancestor_attack_summon
+
+	alien_ancestor_attack_direct_f
+	alien_ancestor_attack_direct_r
+	alien_ancestor_attack_direct_l
+
+	//Posture
+	alien_ancestor_posture_01
+	alien_ancestor_posture_02
+
+	//Pain
+	alien_ancestor_pain_f
+	alien_ancestor_pain_b
+	alien_ancestor_pain_r
+	alien_ancestor_pain_l
+
+	//Traversal
+	alien_ancestor_traversal_gate
+	alien_ancestor_traversal_down
+	
+	
+	//3rd person
+	alien_ancestor_player_attack_grab
+}
+
+

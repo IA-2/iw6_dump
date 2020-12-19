@@ -1,0 +1,17 @@
+{
+    "name": "ncs_loc_eng_mp_mine",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 3,
+    "strings": [
+        {
+            "string": "MP_MINE_LEVEL_KILLSTREAK_DESTROYED"
+        },
+        {
+            "string": "MP_MINE_LEVEL_KILLSTREAK_NAME"
+        },
+        {
+            "string": "MP_MINE_LEVEL_KILLSTREAK_PICKUP"
+        }
+    ]
+}

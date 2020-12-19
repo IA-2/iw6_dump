@@ -1,0 +1,32 @@
+{
+    "name": "ncs_mat_common_mp",
+    "stringType": 1,
+    "sourceType": 2,
+    "entryCount": 8,
+    "strings": [
+        {
+            "string": "black"
+        },
+        {
+            "string": "compassping_player"
+        },
+        {
+            "string": "hud_fofbox_hostile_vehicle"
+        },
+        {
+            "string": "missilecam_reticle"
+        },
+        {
+            "string": "objpoint_default"
+        },
+        {
+            "string": "progress_bar_bg"
+        },
+        {
+            "string": "progress_bar_fill"
+        },
+        {
+            "string": "white"
+        }
+    ]
+}

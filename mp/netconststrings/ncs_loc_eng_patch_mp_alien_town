@@ -1,0 +1,77 @@
+{
+    "name": "ncs_loc_eng_patch_mp_alien_town",
+    "stringType": 5,
+    "sourceType": 1,
+    "entryCount": 23,
+    "strings": [
+        {
+            "string": "ALIEN_SPLASHES_ATTACK_CHOPPER"
+        },
+        {
+            "string": "ALIEN_SPLASHES_ATTACK_CHOPPER_ENROUTE_DESC"
+        },
+        {
+            "string": "ALIEN_SPLASHES_ATTACK_CHOPPER_POT_DESC"
+        },
+        {
+            "string": "ALIEN_SPLASHES_ATTACK_CHOPPER_POT_SOLO_DESC"
+        },
+        {
+            "string": "ALIEN_SPLASHES_PLAYER_REVIVED"
+        },
+        {
+            "string": "ALIEN_SPLASHES_STUCK_SEMTEX"
+        },
+        {
+            "string": "ALIEN_SPLASHES_STUCK_SEMTEX_DESC"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_AMMO"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_AP_AMMO"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_ARMOR"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_BOOST"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_CURRENCY"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_EXPLOSIVES"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_EXP_AMMO"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_GL_TURRET"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_IMS"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_IN_AMMO"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_JUGGERNAUT"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_MINIGUN_TURRET"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_RANDOMBOX"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_REMOTE_MORTAR"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_REMOTE_TURRET"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_STUN_AMMO"
+        }
+    ]
+}

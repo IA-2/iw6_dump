@@ -1,0 +1,617 @@
+{
+    "name": "ncs_loc_eng_mp_alien_town",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 203,
+    "strings": [
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_ATTACK_CHOPPER"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_FENCE_LARGE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_FENCE_MED"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_FENCE_SMALL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_FIRE_TRAP_LARGE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_FIRE_TRAP_MED"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_FIRE_TRAP_SMALL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_NUKE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_NUKE_SOLO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_PUDDLE_LARGE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_PUDDLE_MED"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_PUDDLE_SMALL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_TURRET"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_AMMO_MAX"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_AP_AMMO_TAKEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ATTACK_CHOPPER_ACTIVE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_CANT_USE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_CHALLENGE_UPDATE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_COUNTDOWN_NUKE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_ADRENALINE_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_ADRENALINE_TAKEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_AMMO_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_AMMO_TAKEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_AMMO_TAKING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_APAMMO_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_BOOST_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_BOOST_TAKEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_BOOST_TAKING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_CURRENCY_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_CURRENCY_TAKEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_CURRENCY_TAKING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_EXPLOSIVEAMMO_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_EXPLOSIVES_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_EXPLOSIVES_TAKEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_EXPLOSIVES_TAKING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_INCENDIARYAMMO_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_RANDOM_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_RANDOM_TAKING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_STUNAMMO_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_VEST_GETTING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_VEST_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYED_VEST"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DISENGAGE_TURRET"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DOUBLE_TAP_TO_CARRY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DRILL_DESTROYED"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DRILL_OUTOFPLAY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DRILL_PROTECT"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DRILL_REPAIR"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DRILL_REPAIR_HINT"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ELECTRIC_FENCE_OFFLINE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_END_GAME_SCORE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ESCAPE_TIME_BONUS"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_EXPLOSIVE_AMMO_TAKEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_EXPLO_MAX"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FLARE_MAX"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_100"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_200"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_250"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_50"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_500"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_ACOG"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_AMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_ATTACHMENT"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_BARRELRANGE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_BETTY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_CLAYMORE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_CLIP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_EOTECH"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_FIRETYPEBURST"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_FLARE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_GRENADE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_GRIP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_MORTARSHELL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_PET_LEASH"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_REFLEX"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_ROF"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_SOFLAM"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_SPECIALAMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_THERMAL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_TROPHY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_GO_PLANT_BOMB"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_HIVE_SCORE_EARNED"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_IMS_CANNOT_PLACE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_IMS_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_IMS_PLACE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_INCENDIARY_AMMO_TAKEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_IN_AMMO_COUNT"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_LEASH_MAX"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_MAX_DRONE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_MAX_IMS"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_MAX_TURRETS"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_MONEY_MAX"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_NEED_DRILL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_NO_BOMB"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_NO_MONEY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_NUKE_ACTIVATE_USE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_NUKE_ACTIVATE_USE_SOLO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_OPEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PERSONAL_SKILL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_AK12"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_AMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_AP_AMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_AUTO_SENTRY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_BOMB"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_BOUNCING_BETTY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_BREN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_CBJMS"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_CLAYMORE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_CLIP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_EXP_AMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_FLARE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_FP6"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_G28"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_GRENADE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_HONEYBADGER"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_IMBEL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_IN_AMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_KAC"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_KRISS"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_L115A3"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_M27"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_M9A1"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_MAGNUM"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_MAUL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_MICROTAR"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_MK32"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_MONEY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_MORTARSHELL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_MP443"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_MTS255"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_P226"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_PANZERFAUST"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_PET_LEASH"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_PP19"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_PROPANE_TANK"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_RGM"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_SC2010"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_SOFLAM"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_STUN_AMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_TROPHY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_VEPR"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_VKS"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PLANT_BOMB"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PLAYER_HAS_SPECIALWEAPON"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PLAYER_HOLDING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PLAYER_NERFED"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PLUS"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PRESTIGE_BONUS"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PULL_TO_SPEND"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_REACT_DRILL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_REPAIR_DRILL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_REVIVE_PLAYER"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_RIOT_SHIELD_EQUIPPED"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_SEARCHING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_SOFLAM_HAD"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_SPECIAL_AMMO_COUNT"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TACTICAL_FULL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TEAMWORK"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_THROW_ITEM"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TOTAL_BONUS"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TOTAL_HIVE_SCORE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TROPHY_MAX"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TURRET_AMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TUTORIAL_BETTY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TUTORIAL_CLAYMORE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TUTORIAL_FLARE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TUTORIAL_MORTARSHELL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TUTORIAL_PET"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TUTORIAL_SEMTEX"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TUTORIAL_SOFLAM"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_TUTORIAL_TROPHY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_USE_TURRET"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_YOU_DIDNT_MAKE_IT"
+        },
+        {
+            "string": "ALIEN_OBJECTIVES_ALIENS"
+        },
+        {
+            "string": "ALIEN_OBJECTIVES_ALIENS_HINT"
+        },
+        {
+            "string": "ALIEN_OBJECTIVES_ALIENS_SCORE"
+        },
+        {
+            "string": "ALIEN_SPLASHES_ATTACK_CHOPPER"
+        },
+        {
+            "string": "ALIEN_SPLASHES_ATTACK_CHOPPER_ENROUTE_DESC"
+        },
+        {
+            "string": "ALIEN_SPLASHES_ATTACK_CHOPPER_POT_DESC"
+        },
+        {
+            "string": "ALIEN_SPLASHES_ATTACK_CHOPPER_POT_SOLO_DESC"
+        },
+        {
+            "string": "ALIEN_SPLASHES_PLAYER_REVIVED"
+        },
+        {
+            "string": "ALIEN_SPLASHES_STUCK_SEMTEX"
+        },
+        {
+            "string": "ALIEN_SPLASHES_STUCK_SEMTEX_DESC"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_AMMO"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_AP_AMMO"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_ARMOR"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_BOOST"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_CURRENCY"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_EXPLOSIVES"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_EXP_AMMO"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_GL_TURRET"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_IMS"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_IN_AMMO"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_JUGGERNAUT"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_MINIGUN_TURRET"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_RANDOMBOX"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_REMOTE_MORTAR"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_REMOTE_TURRET"
+        },
+        {
+            "string": "ALIEN_SPLASHES_USED_STUN_AMMO"
+        },
+        {
+            "string": "MP_ALIEN_TOWN_INTRO_LINE_1"
+        },
+        {
+            "string": "MP_ALIEN_TOWN_INTRO_LINE_2"
+        },
+        {
+            "string": "MP_ALIEN_TOWN_INTRO_LINE_3"
+        },
+        {
+            "string": "MP_ALIEN_TOWN_INTRO_LINE_4"
+        }
+    ]
+}

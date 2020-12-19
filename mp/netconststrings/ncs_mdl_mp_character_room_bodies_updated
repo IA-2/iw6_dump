@@ -1,0 +1,23 @@
+{
+    "name": "ncs_mdl_mp_character_room_bodies_updated",
+    "stringType": 0,
+    "sourceType": 2,
+    "entryCount": 5,
+    "strings": [
+        {
+            "string": "mp_body_us_rangers_assault_a_arctic"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_desert"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_elite"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_urban"
+        },
+        {
+            "string": "mp_body_us_rangers_assault_a_woodland"
+        }
+    ]
+}

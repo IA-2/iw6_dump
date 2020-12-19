@@ -1,0 +1,64 @@
+a0,b1,c2,d3,e4
+0,# reference (ref string),spider,,
+1,# name (loc string),alien_type_spider,,
+2,# model (ref string),alien_spider,,
+3,# desc (loc string),alien_type_brute_desc,,
+4,# boss type (boolean),1,,
+20,# scale,1.0,,
+21,# emissive default,0.4,,
+22,# emissive max,1.0,,
+23,# View Height,100,,
+24,# starting health,10000,,
+25,# movement radius,300,,
+30,# swipe min damage,90,,
+31,# swipe max damage,100,,
+32,# swipe max distance,400.0,,
+40,# elevated attack health threshold,0.5,,
+41,# elevated attack spawn event,elevated_attack_1,,
+42,# elevated attack sequences,3,,
+43,# elevated attack timeout,90.0,,
+50,# egg attack far distance,1000,,
+60,# footstep small earthquake scale,0.5,,
+61,# footstep small earthquake duration,0.25,,
+62,# footstep small earthquake radius,150,,
+63,# footstep large earthquake scale,0.75,,
+64,# footstep large earthquake duration,0.5,,
+65,# footstep large earthquake radius,200,,
+66,# footstep large damage radius,200,,
+67,# footstep large damage amount,50,,
+100,# health,20000,50000,50000
+101,# egg min interval,30.0,20.0,45.0
+102,# egg max interval,45.0,30.0,60.0
+103,# egg initial delay,5.0,30.0,10.0
+104,# egg health,30,30,30
+105,# bomb min interval,35.0,35.0,35.0
+106,# bomb max inteval,45.0,45.0,45.0
+107,# bomb initial delay,15.0,10.0,10.0
+108,# beam min interval,10.0,20.0,20.0
+109,# beam max interval,11.0,25.0,25.0
+110,# beam initial delay,1.0,1.0,1.0
+111,# special attack interval,2.5,2.5,2.5
+112,# posture min interval,60.0,15.0,15.0
+113,# posture max interval,90.0,25.0,25.0
+114,# posture initial delay,90.0,20.0,20.0
+115,# egg min count,2,2,3
+116,# egg max count,4,4,5
+117,# portal spawn min interval,30,30,30
+118,# portal spawn max interval,45,45,45
+119,# portal spawn initial delay,30,30,30
+120,# portal spawn alien type,locust,locust,locust
+121,# portal spawn alien count,1,1,1
+122,# event id start,1,11,11
+123,# event id end,5,15,15
+124,# beam sweep min interval,20.0,20.0,20.0
+125,# beam sweep max interval,30.0,30.0,30.0
+126,# beam sweep initial delay,1.0,1.0,1.0
+127,# regen pod creation min interval,20.0,20.0,10.0
+128,# regen pod creation max interval,30.0,30.0,20.0
+129,# regen activation min interval,30.0,30.0,30.0
+130,# regen activation max interval,40.0,40.0,45.0
+131,# one player attack interval multiplier,1.0,1.0,1.0
+132,# two player attack interval multiplier,1.0,1.0,1.0
+133,# three player attack interval multiplier,1.0,1.0,1.0
+134,# four player attack interval multiplier,1.0,1.0,1.0
+135,# cycle delay,15,5,5

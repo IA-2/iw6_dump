@@ -1,0 +1,323 @@
+{
+    "name": "ncs_snl_common_mp",
+    "stringType": 7,
+    "sourceType": 2,
+    "entryCount": 105,
+    "strings": [
+        {
+            "string": "bomb_tick"
+        },
+        {
+            "string": "fire_barrel_temp"
+        },
+        {
+            "string": "flashbang_tinnitus_loop"
+        },
+        {
+            "string": "flashbang_tinnitus_loop_silent"
+        },
+        {
+            "string": "ied_explo_beeps"
+        },
+        {
+            "string": "move_gryphon_proj_flame"
+        },
+        {
+            "string": "move_javelin_proj_loop1"
+        },
+        {
+            "string": "move_javelin_proj_loop2"
+        },
+        {
+            "string": "move_javelin_proj_loop_flame"
+        },
+        {
+            "string": "move_trinity_child_proj_loop1"
+        },
+        {
+            "string": "move_trinity_child_proj_loop2"
+        },
+        {
+            "string": "move_trinity_child_proj_loop_flame"
+        },
+        {
+            "string": "move_trinity_main_proj_flame"
+        },
+        {
+            "string": "move_trinity_main_proj_loop1"
+        },
+        {
+            "string": "move_trinity_main_proj_loop2"
+        },
+        {
+            "string": "shellshock_loop"
+        },
+        {
+            "string": "shellshock_loop_null"
+        },
+        {
+            "string": "shellshock_loop_silent"
+        },
+        {
+            "string": "shellshock_loop_silent_null"
+        },
+        {
+            "string": "slide_loop_concrete_npc"
+        },
+        {
+            "string": "slide_loop_concrete_plr"
+        },
+        {
+            "string": "slide_loop_dirt_npc"
+        },
+        {
+            "string": "slide_loop_dirt_plr"
+        },
+        {
+            "string": "slide_loop_metal_npc"
+        },
+        {
+            "string": "slide_loop_metal_plr"
+        },
+        {
+            "string": "slide_loop_mud_npc"
+        },
+        {
+            "string": "slide_loop_mud_plr"
+        },
+        {
+            "string": "slide_loop_npc"
+        },
+        {
+            "string": "slide_loop_npc_asphalt"
+        },
+        {
+            "string": "slide_loop_npc_bark"
+        },
+        {
+            "string": "slide_loop_npc_brick"
+        },
+        {
+            "string": "slide_loop_npc_carpet"
+        },
+        {
+            "string": "slide_loop_npc_ceramic"
+        },
+        {
+            "string": "slide_loop_npc_cloth"
+        },
+        {
+            "string": "slide_loop_npc_concrete"
+        },
+        {
+            "string": "slide_loop_npc_cushion"
+        },
+        {
+            "string": "slide_loop_npc_default"
+        },
+        {
+            "string": "slide_loop_npc_dirt"
+        },
+        {
+            "string": "slide_loop_npc_flesh"
+        },
+        {
+            "string": "slide_loop_npc_foliage"
+        },
+        {
+            "string": "slide_loop_npc_fruit"
+        },
+        {
+            "string": "slide_loop_npc_glass"
+        },
+        {
+            "string": "slide_loop_npc_grass"
+        },
+        {
+            "string": "slide_loop_npc_gravel"
+        },
+        {
+            "string": "slide_loop_npc_ice"
+        },
+        {
+            "string": "slide_loop_npc_metal"
+        },
+        {
+            "string": "slide_loop_npc_metal_grate"
+        },
+        {
+            "string": "slide_loop_npc_mud"
+        },
+        {
+            "string": "slide_loop_npc_paintedmetal"
+        },
+        {
+            "string": "slide_loop_npc_plaster"
+        },
+        {
+            "string": "slide_loop_npc_plastic"
+        },
+        {
+            "string": "slide_loop_npc_riotshield"
+        },
+        {
+            "string": "slide_loop_npc_rock"
+        },
+        {
+            "string": "slide_loop_npc_rubber"
+        },
+        {
+            "string": "slide_loop_npc_sand"
+        },
+        {
+            "string": "slide_loop_npc_slush"
+        },
+        {
+            "string": "slide_loop_npc_snow"
+        },
+        {
+            "string": "slide_loop_npc_water"
+        },
+        {
+            "string": "slide_loop_npc_wood"
+        },
+        {
+            "string": "slide_loop_plr"
+        },
+        {
+            "string": "slide_loop_plr_asphalt"
+        },
+        {
+            "string": "slide_loop_plr_bark"
+        },
+        {
+            "string": "slide_loop_plr_brick"
+        },
+        {
+            "string": "slide_loop_plr_carpet"
+        },
+        {
+            "string": "slide_loop_plr_ceramic"
+        },
+        {
+            "string": "slide_loop_plr_cloth"
+        },
+        {
+            "string": "slide_loop_plr_concrete"
+        },
+        {
+            "string": "slide_loop_plr_cushion"
+        },
+        {
+            "string": "slide_loop_plr_default"
+        },
+        {
+            "string": "slide_loop_plr_dirt"
+        },
+        {
+            "string": "slide_loop_plr_flesh"
+        },
+        {
+            "string": "slide_loop_plr_foliage"
+        },
+        {
+            "string": "slide_loop_plr_fruit"
+        },
+        {
+            "string": "slide_loop_plr_glass"
+        },
+        {
+            "string": "slide_loop_plr_grass"
+        },
+        {
+            "string": "slide_loop_plr_gravel"
+        },
+        {
+            "string": "slide_loop_plr_ice"
+        },
+        {
+            "string": "slide_loop_plr_metal"
+        },
+        {
+            "string": "slide_loop_plr_metal_grate"
+        },
+        {
+            "string": "slide_loop_plr_mud"
+        },
+        {
+            "string": "slide_loop_plr_paintedmetal"
+        },
+        {
+            "string": "slide_loop_plr_plaster"
+        },
+        {
+            "string": "slide_loop_plr_plastic"
+        },
+        {
+            "string": "slide_loop_plr_riotshield"
+        },
+        {
+            "string": "slide_loop_plr_rock"
+        },
+        {
+            "string": "slide_loop_plr_rubber"
+        },
+        {
+            "string": "slide_loop_plr_sand"
+        },
+        {
+            "string": "slide_loop_plr_slush"
+        },
+        {
+            "string": "slide_loop_plr_snow"
+        },
+        {
+            "string": "slide_loop_plr_water"
+        },
+        {
+            "string": "slide_loop_plr_wood"
+        },
+        {
+            "string": "slide_loop_wood_npc"
+        },
+        {
+            "string": "slide_loop_wood_plr"
+        },
+        {
+            "string": "stinger_proj_loop"
+        },
+        {
+            "string": "veh_a10_bullet_impact_lp"
+        },
+        {
+            "string": "veh_a10_close_loop"
+        },
+        {
+            "string": "veh_a10_dist_loop"
+        },
+        {
+            "string": "veh_a10_mid_loop"
+        },
+        {
+            "string": "veh_a10_missile_loop"
+        },
+        {
+            "string": "veh_a10_missile_loop_close"
+        },
+        {
+            "string": "veh_a10_missile_loop_med"
+        },
+        {
+            "string": "veh_a10_npc_fire_gatling_lp"
+        },
+        {
+            "string": "veh_a10_plr_engine_lp"
+        },
+        {
+            "string": "veh_a10_plr_fire_gatling_lp"
+        },
+        {
+            "string": "weap_sniper_heartbeat"
+        }
+    ]
+}

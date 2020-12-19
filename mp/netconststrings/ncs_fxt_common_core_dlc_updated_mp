@@ -1,0 +1,230 @@
+{
+    "name": "ncs_fxt_common_core_dlc_updated_mp",
+    "stringType": 19,
+    "sourceType": 2,
+    "entryCount": 74,
+    "strings": [
+        {
+            "string": "camerasuport0_jnt"
+        },
+        {
+            "string": "jaw_jnt"
+        },
+        {
+            "string": "jawend_jnt"
+        },
+        {
+            "string": "l_backleg0_jnt"
+        },
+        {
+            "string": "l_backleg1_jnt"
+        },
+        {
+            "string": "l_backleg2_jnt"
+        },
+        {
+            "string": "l_earend_jnt"
+        },
+        {
+            "string": "l_eye0_jnt"
+        },
+        {
+            "string": "l_eyebrow0_jnt"
+        },
+        {
+            "string": "l_eyelidbottom0_jnt"
+        },
+        {
+            "string": "l_eyelidupper0_jnt"
+        },
+        {
+            "string": "l_foot0_jnt"
+        },
+        {
+            "string": "l_footend_jnt"
+        },
+        {
+            "string": "l_frontleg0_jnt"
+        },
+        {
+            "string": "l_frontleg1_jnt"
+        },
+        {
+            "string": "l_frontleg2_jnt"
+        },
+        {
+            "string": "l_frontleg3_jnt"
+        },
+        {
+            "string": "l_frontleg4_jnt"
+        },
+        {
+            "string": "l_frontlegend_jnt"
+        },
+        {
+            "string": "l_lipbottom0_jnt"
+        },
+        {
+            "string": "l_lipbottom1_jnt"
+        },
+        {
+            "string": "l_lipmid0_jnt"
+        },
+        {
+            "string": "l_lipupper0_jnt"
+        },
+        {
+            "string": "l_lipupper2_jnt"
+        },
+        {
+            "string": "l_shoulderhelper0_jnt"
+        },
+        {
+            "string": "l_shoulderhelper1_jnt"
+        },
+        {
+            "string": "l_tail0_jnt"
+        },
+        {
+            "string": "l_tail1_jnt"
+        },
+        {
+            "string": "l_tail2_jnt"
+        },
+        {
+            "string": "l_tail3_jnt"
+        },
+        {
+            "string": "l_tailend_jnt"
+        },
+        {
+            "string": "lipbottom0_jnt"
+        },
+        {
+            "string": "lipupper0_jnt"
+        },
+        {
+            "string": "neck0_jnt"
+        },
+        {
+            "string": "neck1_jnt"
+        },
+        {
+            "string": "nose_jnt"
+        },
+        {
+            "string": "r_backleg0_jnt"
+        },
+        {
+            "string": "r_backleg1_jnt"
+        },
+        {
+            "string": "r_backleg2_jnt"
+        },
+        {
+            "string": "r_earend_jnt"
+        },
+        {
+            "string": "r_eye0_jnt"
+        },
+        {
+            "string": "r_eyebrow0_jnt"
+        },
+        {
+            "string": "r_eyelidbottom0_jnt"
+        },
+        {
+            "string": "r_eyelidupper0_jnt"
+        },
+        {
+            "string": "r_foot0_jnt"
+        },
+        {
+            "string": "r_footend_jnt"
+        },
+        {
+            "string": "r_frontleg0_jnt"
+        },
+        {
+            "string": "r_frontleg1_jnt"
+        },
+        {
+            "string": "r_frontleg2_jnt"
+        },
+        {
+            "string": "r_frontleg3_jnt"
+        },
+        {
+            "string": "r_frontleg4_jnt"
+        },
+        {
+            "string": "r_frontlegend_jnt"
+        },
+        {
+            "string": "r_ripbottom0_jnt"
+        },
+        {
+            "string": "r_ripbottom1_jnt"
+        },
+        {
+            "string": "r_ripmid0_jnt"
+        },
+        {
+            "string": "r_ripupper0_jnt"
+        },
+        {
+            "string": "r_ripupper2_jnt"
+        },
+        {
+            "string": "r_shoulderhelper0_jnt"
+        },
+        {
+            "string": "r_shoulderhelper1_jnt"
+        },
+        {
+            "string": "remove_l_ear0_jnt"
+        },
+        {
+            "string": "remove_l_ear1_jnt"
+        },
+        {
+            "string": "remove_r_ear0_jnt"
+        },
+        {
+            "string": "remove_r_ear1_jnt"
+        },
+        {
+            "string": "shoulderhelper0_jnt"
+        },
+        {
+            "string": "spine2_jnt"
+        },
+        {
+            "string": "spine3_jnt"
+        },
+        {
+            "string": "spine4_jnt"
+        },
+        {
+            "string": "tag_camera"
+        },
+        {
+            "string": "tag_mouth_fx"
+        },
+        {
+            "string": "tongue0_jnt"
+        },
+        {
+            "string": "tongue1_jnt"
+        },
+        {
+            "string": "tongue2_jnt"
+        },
+        {
+            "string": "tongue3_jnt"
+        },
+        {
+            "string": "tongueend_jnt"
+        }
+    ]
+}

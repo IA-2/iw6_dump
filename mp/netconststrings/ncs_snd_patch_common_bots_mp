@@ -1,0 +1,143 @@
+{
+    "name": "ncs_snd_patch_common_bots_mp",
+    "stringType": 6,
+    "sourceType": 1,
+    "entryCount": 45,
+    "strings": [
+        {
+            "string": "anml_wolf_bark"
+        },
+        {
+            "string": "anml_wolf_growl"
+        },
+        {
+            "string": "anml_wolf_pants_mp_fast"
+        },
+        {
+            "string": "anml_wolf_pants_mp_med"
+        },
+        {
+            "string": "anml_wolf_shot_death"
+        },
+        {
+            "string": "anml_wolf_shot_pain"
+        },
+        {
+            "string": "anml_wolf_whine"
+        },
+        {
+            "string": "mp_wolf_attack_front_npc"
+        },
+        {
+            "string": "mp_wolf_attack_quick_back_npc"
+        },
+        {
+            "string": "mp_wolf_attack_short_npc"
+        },
+        {
+            "string": "mp_wolf_run_attack"
+        },
+        {
+            "string": "wolfstep_land_cement"
+        },
+        {
+            "string": "wolfstep_land_dirt"
+        },
+        {
+            "string": "wolfstep_land_metal"
+        },
+        {
+            "string": "wolfstep_land_wood"
+        },
+        {
+            "string": "wolfstep_plr_land_cement"
+        },
+        {
+            "string": "wolfstep_plr_land_dirt"
+        },
+        {
+            "string": "wolfstep_plr_land_metal"
+        },
+        {
+            "string": "wolfstep_plr_land_wood"
+        },
+        {
+            "string": "wolfstep_plr_run_cement"
+        },
+        {
+            "string": "wolfstep_plr_run_default"
+        },
+        {
+            "string": "wolfstep_plr_run_dirt"
+        },
+        {
+            "string": "wolfstep_plr_run_metal"
+        },
+        {
+            "string": "wolfstep_plr_run_wood"
+        },
+        {
+            "string": "wolfstep_plr_sprint_cement"
+        },
+        {
+            "string": "wolfstep_plr_sprint_dirt"
+        },
+        {
+            "string": "wolfstep_plr_sprint_metal"
+        },
+        {
+            "string": "wolfstep_plr_sprint_wood"
+        },
+        {
+            "string": "wolfstep_plr_walk_cement"
+        },
+        {
+            "string": "wolfstep_plr_walk_dirt"
+        },
+        {
+            "string": "wolfstep_plr_walk_metal"
+        },
+        {
+            "string": "wolfstep_plr_walk_wood"
+        },
+        {
+            "string": "wolfstep_run_cement"
+        },
+        {
+            "string": "wolfstep_run_default"
+        },
+        {
+            "string": "wolfstep_run_dirt"
+        },
+        {
+            "string": "wolfstep_run_metal"
+        },
+        {
+            "string": "wolfstep_run_wood"
+        },
+        {
+            "string": "wolfstep_sprint_cement"
+        },
+        {
+            "string": "wolfstep_sprint_dirt"
+        },
+        {
+            "string": "wolfstep_sprint_metal"
+        },
+        {
+            "string": "wolfstep_sprint_wood"
+        },
+        {
+            "string": "wolfstep_walk_cement"
+        },
+        {
+            "string": "wolfstep_walk_dirt"
+        },
+        {
+            "string": "wolfstep_walk_metal"
+        },
+        {
+            "string": "wolfstep_walk_wood"
+        }
+    ]
+}

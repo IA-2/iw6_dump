@@ -1,0 +1,1109 @@
+{
+    "name": "ncs_snd_patch_mp_alien_town",
+    "stringType": 6,
+    "sourceType": 1,
+    "entryCount": 367,
+    "strings": [
+        {
+            "string": "p1_plr_10_seconds"
+        },
+        {
+            "string": "p1_plr_30_seconds"
+        },
+        {
+            "string": "p1_plr_activated_trap_fire"
+        },
+        {
+            "string": "p1_plr_activated_trap_generic"
+        },
+        {
+            "string": "p1_plr_affirmative"
+        },
+        {
+            "string": "p1_plr_alien_approach_alley"
+        },
+        {
+            "string": "p1_plr_alien_approach_barn"
+        },
+        {
+            "string": "p1_plr_alien_approach_cabins"
+        },
+        {
+            "string": "p1_plr_alien_approach_cliffside"
+        },
+        {
+            "string": "p1_plr_alien_approach_crater"
+        },
+        {
+            "string": "p1_plr_alien_approach_lodge"
+        },
+        {
+            "string": "p1_plr_alien_approach_lodge_behind"
+        },
+        {
+            "string": "p1_plr_alien_approach_ridge"
+        },
+        {
+            "string": "p1_plr_alien_approach_street"
+        },
+        {
+            "string": "p1_plr_alien_approach_truck"
+        },
+        {
+            "string": "p1_plr_alien_keep_coming"
+        },
+        {
+            "string": "p1_plr_alien_scorpions"
+        },
+        {
+            "string": "p1_plr_approach_crater"
+        },
+        {
+            "string": "p1_plr_approach_objective"
+        },
+        {
+            "string": "p1_plr_area_clear"
+        },
+        {
+            "string": "p1_plr_attack_hive_next"
+        },
+        {
+            "string": "p1_plr_back_drill"
+        },
+        {
+            "string": "p1_plr_close_quarters"
+        },
+        {
+            "string": "p1_plr_deployed_boosters"
+        },
+        {
+            "string": "p1_plr_destroyed"
+        },
+        {
+            "string": "p1_plr_destroyed_hive"
+        },
+        {
+            "string": "p1_plr_destroyed_hive_area"
+        },
+        {
+            "string": "p1_plr_downed"
+        },
+        {
+            "string": "p1_plr_drill_attacked"
+        },
+        {
+            "string": "p1_plr_drill_halfway"
+        },
+        {
+            "string": "p1_plr_drill_hot"
+        },
+        {
+            "string": "p1_plr_drill_offline"
+        },
+        {
+            "string": "p1_plr_drill_restored"
+        },
+        {
+            "string": "p1_plr_drop_ammo"
+        },
+        {
+            "string": "p1_plr_drop_armor"
+        },
+        {
+            "string": "p1_plr_equip_ammo_solo"
+        },
+        {
+            "string": "p1_plr_explode_lung"
+        },
+        {
+            "string": "p1_plr_explosion"
+        },
+        {
+            "string": "p1_plr_get_drill"
+        },
+        {
+            "string": "p1_plr_gettolz"
+        },
+        {
+            "string": "p1_plr_good_loot"
+        },
+        {
+            "string": "p1_plr_hives_multiple"
+        },
+        {
+            "string": "p1_plr_inbound_airsupport"
+        },
+        {
+            "string": "p1_plr_inbound_chopper"
+        },
+        {
+            "string": "p1_plr_inbound_meteor"
+        },
+        {
+            "string": "p1_plr_inbound_minions"
+        },
+        {
+            "string": "p1_plr_inbound_missile"
+        },
+        {
+            "string": "p1_plr_inbound_mortar"
+        },
+        {
+            "string": "p1_plr_inbound_queen"
+        },
+        {
+            "string": "p1_plr_inbound_spitters"
+        },
+        {
+            "string": "p1_plr_inform_ammo"
+        },
+        {
+            "string": "p1_plr_inform_armor"
+        },
+        {
+            "string": "p1_plr_inform_supplies"
+        },
+        {
+            "string": "p1_plr_inform_supportitems"
+        },
+        {
+            "string": "p1_plr_intro"
+        },
+        {
+            "string": "p1_plr_intro_solo"
+        },
+        {
+            "string": "p1_plr_meleeattack_big"
+        },
+        {
+            "string": "p1_plr_near_queen"
+        },
+        {
+            "string": "p1_plr_near_spitter"
+        },
+        {
+            "string": "p1_plr_nosurvivors"
+        },
+        {
+            "string": "p1_plr_nuke_armed"
+        },
+        {
+            "string": "p1_plr_nuke_countdown"
+        },
+        {
+            "string": "p1_plr_online_attack"
+        },
+        {
+            "string": "p1_plr_online_defensive"
+        },
+        {
+            "string": "p1_plr_online_drill"
+        },
+        {
+            "string": "p1_plr_online_drone"
+        },
+        {
+            "string": "p1_plr_online_electricfence"
+        },
+        {
+            "string": "p1_plr_online_ims"
+        },
+        {
+            "string": "p1_plr_online_machine_death"
+        },
+        {
+            "string": "p1_plr_online_machine_war"
+        },
+        {
+            "string": "p1_plr_online_sentry"
+        },
+        {
+            "string": "p1_plr_online_turret_generic"
+        },
+        {
+            "string": "p1_plr_online_turret_grenade"
+        },
+        {
+            "string": "p1_plr_online_turret_minigun"
+        },
+        {
+            "string": "p1_plr_order_clear_area"
+        },
+        {
+            "string": "p1_plr_order_grab_drill"
+        },
+        {
+            "string": "p1_plr_order_move"
+        },
+        {
+            "string": "p1_plr_place_drill"
+        },
+        {
+            "string": "p1_plr_place_sentry"
+        },
+        {
+            "string": "p1_plr_place_sentry_solo"
+        },
+        {
+            "string": "p1_plr_plant_bomb"
+        },
+        {
+            "string": "p1_plr_queen_dead"
+        },
+        {
+            "string": "p1_plr_queen_regenerating"
+        },
+        {
+            "string": "p1_plr_ready_explosiverounds"
+        },
+        {
+            "string": "p1_plr_ready_specialammo"
+        },
+        {
+            "string": "p1_plr_rest"
+        },
+        {
+            "string": "p1_plr_reviving"
+        },
+        {
+            "string": "p1_plr_secure_perimeter"
+        },
+        {
+            "string": "p1_plr_stayready"
+        },
+        {
+            "string": "p1_plr_trouble"
+        },
+        {
+            "string": "p1_plr_upgrade"
+        },
+        {
+            "string": "p2_plr_10_seconds"
+        },
+        {
+            "string": "p2_plr_30_seconds"
+        },
+        {
+            "string": "p2_plr_activated_trap_fire"
+        },
+        {
+            "string": "p2_plr_activated_trap_generic"
+        },
+        {
+            "string": "p2_plr_affirmative"
+        },
+        {
+            "string": "p2_plr_alien_approach_alley"
+        },
+        {
+            "string": "p2_plr_alien_approach_barn"
+        },
+        {
+            "string": "p2_plr_alien_approach_cabins"
+        },
+        {
+            "string": "p2_plr_alien_approach_cliffside"
+        },
+        {
+            "string": "p2_plr_alien_approach_crater"
+        },
+        {
+            "string": "p2_plr_alien_approach_lodge"
+        },
+        {
+            "string": "p2_plr_alien_approach_lodge_behind"
+        },
+        {
+            "string": "p2_plr_alien_approach_ridge"
+        },
+        {
+            "string": "p2_plr_alien_approach_street"
+        },
+        {
+            "string": "p2_plr_alien_approach_truck"
+        },
+        {
+            "string": "p2_plr_alien_keep_coming"
+        },
+        {
+            "string": "p2_plr_alien_scorpions"
+        },
+        {
+            "string": "p2_plr_approach_crater"
+        },
+        {
+            "string": "p2_plr_approach_objective"
+        },
+        {
+            "string": "p2_plr_area_clear"
+        },
+        {
+            "string": "p2_plr_attack_hive_next"
+        },
+        {
+            "string": "p2_plr_back_drill"
+        },
+        {
+            "string": "p2_plr_close_quarters"
+        },
+        {
+            "string": "p2_plr_deployed_boosters"
+        },
+        {
+            "string": "p2_plr_destroyed"
+        },
+        {
+            "string": "p2_plr_destroyed_hive"
+        },
+        {
+            "string": "p2_plr_destroyed_hive_area"
+        },
+        {
+            "string": "p2_plr_downed"
+        },
+        {
+            "string": "p2_plr_drill_attacked"
+        },
+        {
+            "string": "p2_plr_drill_halfway"
+        },
+        {
+            "string": "p2_plr_drill_hot"
+        },
+        {
+            "string": "p2_plr_drill_offline"
+        },
+        {
+            "string": "p2_plr_drill_restored"
+        },
+        {
+            "string": "p2_plr_drop_ammo"
+        },
+        {
+            "string": "p2_plr_drop_armor"
+        },
+        {
+            "string": "p2_plr_equip_ammo_solo"
+        },
+        {
+            "string": "p2_plr_explode_lung"
+        },
+        {
+            "string": "p2_plr_explosion"
+        },
+        {
+            "string": "p2_plr_get_drill"
+        },
+        {
+            "string": "p2_plr_gettolz"
+        },
+        {
+            "string": "p2_plr_good_loot"
+        },
+        {
+            "string": "p2_plr_hives_multiple"
+        },
+        {
+            "string": "p2_plr_inbound_airsupport"
+        },
+        {
+            "string": "p2_plr_inbound_chopper"
+        },
+        {
+            "string": "p2_plr_inbound_meteor"
+        },
+        {
+            "string": "p2_plr_inbound_minions"
+        },
+        {
+            "string": "p2_plr_inbound_missile"
+        },
+        {
+            "string": "p2_plr_inbound_mortar"
+        },
+        {
+            "string": "p2_plr_inbound_queen"
+        },
+        {
+            "string": "p2_plr_inbound_spitters"
+        },
+        {
+            "string": "p2_plr_inform_ammo"
+        },
+        {
+            "string": "p2_plr_inform_armor"
+        },
+        {
+            "string": "p2_plr_inform_supplies"
+        },
+        {
+            "string": "p2_plr_inform_supportitems"
+        },
+        {
+            "string": "p2_plr_intro"
+        },
+        {
+            "string": "p2_plr_intro_solo"
+        },
+        {
+            "string": "p2_plr_meleeattack_big"
+        },
+        {
+            "string": "p2_plr_near_queen"
+        },
+        {
+            "string": "p2_plr_near_spitter"
+        },
+        {
+            "string": "p2_plr_nosurvivors"
+        },
+        {
+            "string": "p2_plr_nuke_armed"
+        },
+        {
+            "string": "p2_plr_nuke_countdown"
+        },
+        {
+            "string": "p2_plr_online_attack"
+        },
+        {
+            "string": "p2_plr_online_defensive"
+        },
+        {
+            "string": "p2_plr_online_drill"
+        },
+        {
+            "string": "p2_plr_online_drone"
+        },
+        {
+            "string": "p2_plr_online_electricfence"
+        },
+        {
+            "string": "p2_plr_online_ims"
+        },
+        {
+            "string": "p2_plr_online_machine_death"
+        },
+        {
+            "string": "p2_plr_online_machine_war"
+        },
+        {
+            "string": "p2_plr_online_sentry"
+        },
+        {
+            "string": "p2_plr_online_turret_generic"
+        },
+        {
+            "string": "p2_plr_online_turret_grenade"
+        },
+        {
+            "string": "p2_plr_online_turret_minigun"
+        },
+        {
+            "string": "p2_plr_order_clear_area"
+        },
+        {
+            "string": "p2_plr_order_grab_drill"
+        },
+        {
+            "string": "p2_plr_order_move"
+        },
+        {
+            "string": "p2_plr_place_drill"
+        },
+        {
+            "string": "p2_plr_place_sentry"
+        },
+        {
+            "string": "p2_plr_place_sentry_solo"
+        },
+        {
+            "string": "p2_plr_plant_bomb"
+        },
+        {
+            "string": "p2_plr_queen_dead"
+        },
+        {
+            "string": "p2_plr_queen_regenerating"
+        },
+        {
+            "string": "p2_plr_ready_explosiverounds"
+        },
+        {
+            "string": "p2_plr_ready_specialammo"
+        },
+        {
+            "string": "p2_plr_rest"
+        },
+        {
+            "string": "p2_plr_reviving"
+        },
+        {
+            "string": "p2_plr_secure_perimeter"
+        },
+        {
+            "string": "p2_plr_stayready"
+        },
+        {
+            "string": "p2_plr_trouble"
+        },
+        {
+            "string": "p2_plr_upgrade"
+        },
+        {
+            "string": "p3_plr_10_seconds"
+        },
+        {
+            "string": "p3_plr_30_seconds"
+        },
+        {
+            "string": "p3_plr_activated_trap_fire"
+        },
+        {
+            "string": "p3_plr_activated_trap_generic"
+        },
+        {
+            "string": "p3_plr_affirmative"
+        },
+        {
+            "string": "p3_plr_alien_approach_alley"
+        },
+        {
+            "string": "p3_plr_alien_approach_barn"
+        },
+        {
+            "string": "p3_plr_alien_approach_cabins"
+        },
+        {
+            "string": "p3_plr_alien_approach_cliffside"
+        },
+        {
+            "string": "p3_plr_alien_approach_crater"
+        },
+        {
+            "string": "p3_plr_alien_approach_lodge"
+        },
+        {
+            "string": "p3_plr_alien_approach_lodge_behind"
+        },
+        {
+            "string": "p3_plr_alien_approach_ridge"
+        },
+        {
+            "string": "p3_plr_alien_approach_street"
+        },
+        {
+            "string": "p3_plr_alien_approach_truck"
+        },
+        {
+            "string": "p3_plr_alien_keep_coming"
+        },
+        {
+            "string": "p3_plr_alien_scorpions"
+        },
+        {
+            "string": "p3_plr_approach_crater"
+        },
+        {
+            "string": "p3_plr_approach_objective"
+        },
+        {
+            "string": "p3_plr_area_clear"
+        },
+        {
+            "string": "p3_plr_attack_hive_next"
+        },
+        {
+            "string": "p3_plr_back_drill"
+        },
+        {
+            "string": "p3_plr_close_quarters"
+        },
+        {
+            "string": "p3_plr_deployed_boosters"
+        },
+        {
+            "string": "p3_plr_destroyed"
+        },
+        {
+            "string": "p3_plr_destroyed_hive"
+        },
+        {
+            "string": "p3_plr_destroyed_hive_area"
+        },
+        {
+            "string": "p3_plr_destroyed_hive_area_solo"
+        },
+        {
+            "string": "p3_plr_downed"
+        },
+        {
+            "string": "p3_plr_downed_solo"
+        },
+        {
+            "string": "p3_plr_drill_attacked"
+        },
+        {
+            "string": "p3_plr_drill_attacked_solo"
+        },
+        {
+            "string": "p3_plr_drill_halfway"
+        },
+        {
+            "string": "p3_plr_drill_hot"
+        },
+        {
+            "string": "p3_plr_drill_offline"
+        },
+        {
+            "string": "p3_plr_drill_restored"
+        },
+        {
+            "string": "p3_plr_drop_ammo"
+        },
+        {
+            "string": "p3_plr_drop_armor"
+        },
+        {
+            "string": "p3_plr_equip_ammo_solo"
+        },
+        {
+            "string": "p3_plr_explode_lung"
+        },
+        {
+            "string": "p3_plr_explosion"
+        },
+        {
+            "string": "p3_plr_get_drill"
+        },
+        {
+            "string": "p3_plr_gettolz"
+        },
+        {
+            "string": "p3_plr_good_loot"
+        },
+        {
+            "string": "p3_plr_hives_multiple"
+        },
+        {
+            "string": "p3_plr_inbound_airsupport"
+        },
+        {
+            "string": "p3_plr_inbound_chopper"
+        },
+        {
+            "string": "p3_plr_inbound_meteor"
+        },
+        {
+            "string": "p3_plr_inbound_minions"
+        },
+        {
+            "string": "p3_plr_inbound_missile"
+        },
+        {
+            "string": "p3_plr_inbound_mortar"
+        },
+        {
+            "string": "p3_plr_inbound_queen"
+        },
+        {
+            "string": "p3_plr_inbound_spitters"
+        },
+        {
+            "string": "p3_plr_inform_ammo"
+        },
+        {
+            "string": "p3_plr_inform_armor"
+        },
+        {
+            "string": "p3_plr_inform_supplies"
+        },
+        {
+            "string": "p3_plr_inform_supportitems"
+        },
+        {
+            "string": "p3_plr_intro"
+        },
+        {
+            "string": "p3_plr_intro_solo"
+        },
+        {
+            "string": "p3_plr_meleeattack_big"
+        },
+        {
+            "string": "p3_plr_near_queen"
+        },
+        {
+            "string": "p3_plr_near_spitter"
+        },
+        {
+            "string": "p3_plr_nosurvivors"
+        },
+        {
+            "string": "p3_plr_nuke_armed"
+        },
+        {
+            "string": "p3_plr_nuke_countdown"
+        },
+        {
+            "string": "p3_plr_online_attack"
+        },
+        {
+            "string": "p3_plr_online_defensive"
+        },
+        {
+            "string": "p3_plr_online_drill"
+        },
+        {
+            "string": "p3_plr_online_drone"
+        },
+        {
+            "string": "p3_plr_online_electricfence"
+        },
+        {
+            "string": "p3_plr_online_ims"
+        },
+        {
+            "string": "p3_plr_online_machine_death"
+        },
+        {
+            "string": "p3_plr_online_machine_war"
+        },
+        {
+            "string": "p3_plr_online_sentry"
+        },
+        {
+            "string": "p3_plr_online_turret_generic"
+        },
+        {
+            "string": "p3_plr_online_turret_grenade"
+        },
+        {
+            "string": "p3_plr_online_turret_minigun"
+        },
+        {
+            "string": "p3_plr_order_clear_area"
+        },
+        {
+            "string": "p3_plr_order_grab_drill"
+        },
+        {
+            "string": "p3_plr_order_move"
+        },
+        {
+            "string": "p3_plr_place_drill"
+        },
+        {
+            "string": "p3_plr_place_sentry"
+        },
+        {
+            "string": "p3_plr_place_sentry_solo"
+        },
+        {
+            "string": "p3_plr_plant_bomb"
+        },
+        {
+            "string": "p3_plr_queen_dead"
+        },
+        {
+            "string": "p3_plr_queen_regenerating"
+        },
+        {
+            "string": "p3_plr_ready_explosiverounds"
+        },
+        {
+            "string": "p3_plr_ready_specialammo"
+        },
+        {
+            "string": "p3_plr_rest"
+        },
+        {
+            "string": "p3_plr_reviving"
+        },
+        {
+            "string": "p3_plr_secure_perimeter"
+        },
+        {
+            "string": "p3_plr_stayready"
+        },
+        {
+            "string": "p3_plr_trouble"
+        },
+        {
+            "string": "p3_plr_upgrade"
+        },
+        {
+            "string": "p4_plr_10_seconds"
+        },
+        {
+            "string": "p4_plr_30_seconds"
+        },
+        {
+            "string": "p4_plr_activated_trap_fire"
+        },
+        {
+            "string": "p4_plr_activated_trap_generic"
+        },
+        {
+            "string": "p4_plr_affirmative"
+        },
+        {
+            "string": "p4_plr_alien_approach_alley"
+        },
+        {
+            "string": "p4_plr_alien_approach_barn"
+        },
+        {
+            "string": "p4_plr_alien_approach_cabins"
+        },
+        {
+            "string": "p4_plr_alien_approach_cliffside"
+        },
+        {
+            "string": "p4_plr_alien_approach_crater"
+        },
+        {
+            "string": "p4_plr_alien_approach_lodge"
+        },
+        {
+            "string": "p4_plr_alien_approach_lodge_behind"
+        },
+        {
+            "string": "p4_plr_alien_approach_ridge"
+        },
+        {
+            "string": "p4_plr_alien_approach_street"
+        },
+        {
+            "string": "p4_plr_alien_approach_truck"
+        },
+        {
+            "string": "p4_plr_alien_keep_coming"
+        },
+        {
+            "string": "p4_plr_alien_scorpions"
+        },
+        {
+            "string": "p4_plr_approach_crater"
+        },
+        {
+            "string": "p4_plr_approach_objective"
+        },
+        {
+            "string": "p4_plr_area_clear"
+        },
+        {
+            "string": "p4_plr_attack_hive_next"
+        },
+        {
+            "string": "p4_plr_back_drill"
+        },
+        {
+            "string": "p4_plr_close_quarters"
+        },
+        {
+            "string": "p4_plr_deployed_boosters"
+        },
+        {
+            "string": "p4_plr_destroyed"
+        },
+        {
+            "string": "p4_plr_destroyed_hive"
+        },
+        {
+            "string": "p4_plr_destroyed_hive_area"
+        },
+        {
+            "string": "p4_plr_downed"
+        },
+        {
+            "string": "p4_plr_drill_attacked"
+        },
+        {
+            "string": "p4_plr_drill_halfway"
+        },
+        {
+            "string": "p4_plr_drill_hot"
+        },
+        {
+            "string": "p4_plr_drill_offline"
+        },
+        {
+            "string": "p4_plr_drill_restored"
+        },
+        {
+            "string": "p4_plr_drop_ammo"
+        },
+        {
+            "string": "p4_plr_drop_armor"
+        },
+        {
+            "string": "p4_plr_equip_ammo_solo"
+        },
+        {
+            "string": "p4_plr_explode_lung"
+        },
+        {
+            "string": "p4_plr_explosion"
+        },
+        {
+            "string": "p4_plr_get_drill"
+        },
+        {
+            "string": "p4_plr_gettolz"
+        },
+        {
+            "string": "p4_plr_good_loot"
+        },
+        {
+            "string": "p4_plr_hives_multiple"
+        },
+        {
+            "string": "p4_plr_inbound_airsupport"
+        },
+        {
+            "string": "p4_plr_inbound_chopper"
+        },
+        {
+            "string": "p4_plr_inbound_meteor"
+        },
+        {
+            "string": "p4_plr_inbound_minions"
+        },
+        {
+            "string": "p4_plr_inbound_missile"
+        },
+        {
+            "string": "p4_plr_inbound_mortar"
+        },
+        {
+            "string": "p4_plr_inbound_queen"
+        },
+        {
+            "string": "p4_plr_inbound_spitters"
+        },
+        {
+            "string": "p4_plr_inform_ammo"
+        },
+        {
+            "string": "p4_plr_inform_armor"
+        },
+        {
+            "string": "p4_plr_inform_supplies"
+        },
+        {
+            "string": "p4_plr_inform_supportitems"
+        },
+        {
+            "string": "p4_plr_intro"
+        },
+        {
+            "string": "p4_plr_intro_solo"
+        },
+        {
+            "string": "p4_plr_meleeattack_big"
+        },
+        {
+            "string": "p4_plr_near_queen"
+        },
+        {
+            "string": "p4_plr_near_spitter"
+        },
+        {
+            "string": "p4_plr_nosurvivors"
+        },
+        {
+            "string": "p4_plr_nuke_armed"
+        },
+        {
+            "string": "p4_plr_nuke_countdown"
+        },
+        {
+            "string": "p4_plr_online_attack"
+        },
+        {
+            "string": "p4_plr_online_defensive"
+        },
+        {
+            "string": "p4_plr_online_drill"
+        },
+        {
+            "string": "p4_plr_online_drone"
+        },
+        {
+            "string": "p4_plr_online_electricfence"
+        },
+        {
+            "string": "p4_plr_online_ims"
+        },
+        {
+            "string": "p4_plr_online_machine_death"
+        },
+        {
+            "string": "p4_plr_online_machine_war"
+        },
+        {
+            "string": "p4_plr_online_sentry"
+        },
+        {
+            "string": "p4_plr_online_turret_generic"
+        },
+        {
+            "string": "p4_plr_online_turret_grenade"
+        },
+        {
+            "string": "p4_plr_online_turret_minigun"
+        },
+        {
+            "string": "p4_plr_order_clear_area"
+        },
+        {
+            "string": "p4_plr_order_grab_drill"
+        },
+        {
+            "string": "p4_plr_order_move"
+        },
+        {
+            "string": "p4_plr_place_drill"
+        },
+        {
+            "string": "p4_plr_place_sentry"
+        },
+        {
+            "string": "p4_plr_place_sentry_solo"
+        },
+        {
+            "string": "p4_plr_plant_bomb"
+        },
+        {
+            "string": "p4_plr_queen_dead"
+        },
+        {
+            "string": "p4_plr_queen_regenerating"
+        },
+        {
+            "string": "p4_plr_ready_explosiverounds"
+        },
+        {
+            "string": "p4_plr_ready_specialammo"
+        },
+        {
+            "string": "p4_plr_rest"
+        },
+        {
+            "string": "p4_plr_reviving"
+        },
+        {
+            "string": "p4_plr_secure_perimeter"
+        },
+        {
+            "string": "p4_plr_stayready"
+        },
+        {
+            "string": "p4_plr_trouble"
+        },
+        {
+            "string": "p4_plr_upgrade"
+        }
+    ]
+}

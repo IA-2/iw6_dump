@@ -1,0 +1,47 @@
+{
+    "name": "ncs_rmb_common_alien_mp",
+    "stringType": 2,
+    "sourceType": 2,
+    "entryCount": 13,
+    "strings": [
+        {
+            "string": "ac130_105mm_fire"
+        },
+        {
+            "string": "ac130_40mm_fire"
+        },
+        {
+            "string": "defaultweapon_fire"
+        },
+        {
+            "string": "defaultweapon_melee"
+        },
+        {
+            "string": "heavy_3s"
+        },
+        {
+            "string": "minigun_rumble"
+        },
+        {
+            "string": "pistol_fire"
+        },
+        {
+            "string": "riotshield_impact"
+        },
+        {
+            "string": "silencer_fire"
+        },
+        {
+            "string": "smg_fire"
+        },
+        {
+            "string": "viewmodel_large"
+        },
+        {
+            "string": "viewmodel_medium"
+        },
+        {
+            "string": "viewmodel_small"
+        }
+    ]
+}

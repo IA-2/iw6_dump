@@ -1,0 +1,164 @@
+{
+    "name": "ncs_wep_common_alien_mp",
+    "stringType": 16,
+    "sourceType": 2,
+    "entryCount": 52,
+    "strings": [
+        {
+            "string": "alien_ball_drone_gun1_mp"
+        },
+        {
+            "string": "alien_ball_drone_gun2_mp"
+        },
+        {
+            "string": "alien_ball_drone_gun3_mp"
+        },
+        {
+            "string": "alien_ball_drone_gun4_mp"
+        },
+        {
+            "string": "alien_ball_drone_gun_mp"
+        },
+        {
+            "string": "alien_manned_gl_turret1_mp"
+        },
+        {
+            "string": "alien_manned_gl_turret2_mp"
+        },
+        {
+            "string": "alien_manned_gl_turret3_mp"
+        },
+        {
+            "string": "alien_manned_gl_turret4_mp"
+        },
+        {
+            "string": "alien_manned_gl_turret_mp"
+        },
+        {
+            "string": "alien_manned_minigun_turret1_mp"
+        },
+        {
+            "string": "alien_manned_minigun_turret2_mp"
+        },
+        {
+            "string": "alien_manned_minigun_turret3_mp"
+        },
+        {
+            "string": "alien_manned_minigun_turret4_mp"
+        },
+        {
+            "string": "alien_manned_minigun_turret_mp"
+        },
+        {
+            "string": "alien_sentry_minigun_1_mp"
+        },
+        {
+            "string": "alien_sentry_minigun_2_mp"
+        },
+        {
+            "string": "alien_sentry_minigun_3_mp"
+        },
+        {
+            "string": "alien_sentry_minigun_4_mp"
+        },
+        {
+            "string": "alienbackupuav_mp"
+        },
+        {
+            "string": "aliendeployable_crate_marker_mp"
+        },
+        {
+            "string": "alienims_projectile_mp"
+        },
+        {
+            "string": "alienims_projectiledamage_mp"
+        },
+        {
+            "string": "alienims_projectileradius_mp"
+        },
+        {
+            "string": "alienmelee_mp"
+        },
+        {
+            "string": "alienmortar_strike_mp"
+        },
+        {
+            "string": "alienvulture_mp"
+        },
+        {
+            "string": "ball_drone_gun_mp"
+        },
+        {
+            "string": "cobra_20mm_alien"
+        },
+        {
+            "string": "defaultweapon_mp"
+        },
+        {
+            "string": "iw5_alienriotshield1_mp"
+        },
+        {
+            "string": "iw5_alienriotshield2_mp"
+        },
+        {
+            "string": "iw5_alienriotshield3_mp"
+        },
+        {
+            "string": "iw5_alienriotshield4_mp"
+        },
+        {
+            "string": "iw5_alienriotshield_mp"
+        },
+        {
+            "string": "iw6_alienminigun1_mp"
+        },
+        {
+            "string": "iw6_alienminigun2_mp"
+        },
+        {
+            "string": "iw6_alienminigun3_mp"
+        },
+        {
+            "string": "iw6_alienminigun4_mp"
+        },
+        {
+            "string": "iw6_alienminigun_mp"
+        },
+        {
+            "string": "iw6_alienmk321_mp"
+        },
+        {
+            "string": "iw6_alienmk322_mp"
+        },
+        {
+            "string": "iw6_alienmk323_mp"
+        },
+        {
+            "string": "iw6_alienmk324_mp"
+        },
+        {
+            "string": "iw6_alienmk32_mp"
+        },
+        {
+            "string": "mortar_detonator_mp"
+        },
+        {
+            "string": "remotemissile_projectile_mp"
+        },
+        {
+            "string": "sentry_minigun_mp"
+        },
+        {
+            "string": "switchblade_baby_mp"
+        },
+        {
+            "string": "switchblade_babyfast_mp"
+        },
+        {
+            "string": "switchblade_laptop_mp"
+        },
+        {
+            "string": "switchblade_rocket_mp"
+        }
+    ]
+}

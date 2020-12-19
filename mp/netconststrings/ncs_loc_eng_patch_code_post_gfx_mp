@@ -1,0 +1,434 @@
+{
+    "name": "ncs_loc_eng_patch_code_post_gfx_mp",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 142,
+    "strings": [
+        {
+            "string": "ALIENS_BLOCKER_HIVE_DRILL_HINT"
+        },
+        {
+            "string": "ALIENS_BLOCKER_HIVE_HINT"
+        },
+        {
+            "string": "ALIENS_PRESTIGE_NO_DEPLOYABLES_PICKUP"
+        },
+        {
+            "string": "ALIENS_PRESTIGE_PISTOLS_ONLY_AMMO_DIST"
+        },
+        {
+            "string": "GAME_OBJECTIVECOMPLETED"
+        },
+        {
+            "string": "GAME_OBJECTIVEFAILED"
+        },
+        {
+            "string": "LUA_MENU_ACQUIRING_INTEL"
+        },
+        {
+            "string": "MPUI_BEING_REVIVED"
+        },
+        {
+            "string": "MPUI_COMMANDER_HINT"
+        },
+        {
+            "string": "MPUI_MAX_XP"
+        },
+        {
+            "string": "MPUI_MAX_XP_DESC"
+        },
+        {
+            "string": "MPUI_REVIVING"
+        },
+        {
+            "string": "MP_BOMBSITE_IN_USE"
+        },
+        {
+            "string": "MP_BOMB_A_TIMER"
+        },
+        {
+            "string": "MP_BOMB_B_TIMER"
+        },
+        {
+            "string": "MP_BOMB_DEFUSED"
+        },
+        {
+            "string": "MP_BREACH"
+        },
+        {
+            "string": "MP_BREACHING"
+        },
+        {
+            "string": "MP_CANT_PLANT_WITHOUT_BOMB"
+        },
+        {
+            "string": "MP_CHALLENGE_COMPLETED"
+        },
+        {
+            "string": "MP_CHANGE_CLASS_NEXT_SPAWN"
+        },
+        {
+            "string": "MP_DEFEAT"
+        },
+        {
+            "string": "MP_DEFUSING_EXPLOSIVE"
+        },
+        {
+            "string": "MP_DOM_NEUTRAL_FLAG_CAPTURED"
+        },
+        {
+            "string": "MP_DOOR_USE_CLOSE"
+        },
+        {
+            "string": "MP_DOOR_USE_OPEN"
+        },
+        {
+            "string": "MP_DRAW"
+        },
+        {
+            "string": "MP_ELEVATOR_USE"
+        },
+        {
+            "string": "MP_ENDED_GAME"
+        },
+        {
+            "string": "MP_ENEMIES_ELIMINATED"
+        },
+        {
+            "string": "MP_ENEMY_FLAG_CAPTURED_BY"
+        },
+        {
+            "string": "MP_EXPLOSIVES_DEFUSED_BY"
+        },
+        {
+            "string": "MP_EXPLOSIVES_DROPPED_BY"
+        },
+        {
+            "string": "MP_EXPLOSIVES_PLANTED_BY"
+        },
+        {
+            "string": "MP_EXPLOSIVES_RECOVERED_BY"
+        },
+        {
+            "string": "MP_FEDERATION_ELIMINATED"
+        },
+        {
+            "string": "MP_FEDERATION_FORFEITED"
+        },
+        {
+            "string": "MP_FEDERATION_NAME"
+        },
+        {
+            "string": "MP_FEDERATION_SHORT_NAME"
+        },
+        {
+            "string": "MP_FIRSTPLACE_NAME"
+        },
+        {
+            "string": "MP_FIRST_BLOOD"
+        },
+        {
+            "string": "MP_FRIENDLY_FIRE_WILL_NOT"
+        },
+        {
+            "string": "MP_GHOSTS_ELIMINATED"
+        },
+        {
+            "string": "MP_GHOSTS_FORFEITED"
+        },
+        {
+            "string": "MP_GHOSTS_NAME"
+        },
+        {
+            "string": "MP_GHOSTS_SHORT_NAME"
+        },
+        {
+            "string": "MP_GRABBED_FLAG_FIRST"
+        },
+        {
+            "string": "MP_HALFTIME"
+        },
+        {
+            "string": "MP_HORDE_BLEED_OUT"
+        },
+        {
+            "string": "MP_HORDE_NEXT_AIR_DROP"
+        },
+        {
+            "string": "MP_HORDE_ROUND_NUM"
+        },
+        {
+            "string": "MP_HORDE_ROUND_START_TIMER"
+        },
+        {
+            "string": "MP_HORDE_SPECIAL_ROUND_TIME"
+        },
+        {
+            "string": "MP_HORDE_WEAPON_LEVEL"
+        },
+        {
+            "string": "MP_HOST_ENDED_GAME"
+        },
+        {
+            "string": "MP_HOST_ENDGAME_RESPONSE"
+        },
+        {
+            "string": "MP_INTERMISSION"
+        },
+        {
+            "string": "MP_MATCH_BONUS_IS"
+        },
+        {
+            "string": "MP_MATCH_RESUMING_IN"
+        },
+        {
+            "string": "MP_MATCH_STARTING"
+        },
+        {
+            "string": "MP_MATCH_STARTING_IN"
+        },
+        {
+            "string": "MP_MATCH_TIE"
+        },
+        {
+            "string": "MP_NEUTRAL_FLAG_CAPTURED_BY"
+        },
+        {
+            "string": "MP_NEXT_DROP_ZONE_IN"
+        },
+        {
+            "string": "MP_NO_RESPAWN"
+        },
+        {
+            "string": "MP_OBITUARY_ENEMY"
+        },
+        {
+            "string": "MP_OBITUARY_FRIENDLY"
+        },
+        {
+            "string": "MP_OBITUARY_NEUTRAL"
+        },
+        {
+            "string": "MP_OPPONENT_FORFEITING_IN"
+        },
+        {
+            "string": "MP_OVERTIME"
+        },
+        {
+            "string": "MP_PATCH_PICKUP_PORTABLE_RADAR"
+        },
+        {
+            "string": "MP_PATCH_PICKUP_SCRAMBLER"
+        },
+        {
+            "string": "MP_PATCH_USING"
+        },
+        {
+            "string": "MP_PICKUP_BOUNCING_BETTY"
+        },
+        {
+            "string": "MP_PICKUP_C4"
+        },
+        {
+            "string": "MP_PICKUP_CLAYMORE"
+        },
+        {
+            "string": "MP_PICKUP_MOTION_SENSOR"
+        },
+        {
+            "string": "MP_PICKUP_PROXIMITY_EXPLOSIVE"
+        },
+        {
+            "string": "MP_PICKUP_TROPHY"
+        },
+        {
+            "string": "MP_PLANTING_EXPLOSIVE"
+        },
+        {
+            "string": "MP_PLAYERS_FORFEITED"
+        },
+        {
+            "string": "MP_PLUS"
+        },
+        {
+            "string": "MP_ROUNDEND"
+        },
+        {
+            "string": "MP_ROUND_DRAW"
+        },
+        {
+            "string": "MP_ROUND_LIMIT_REACHED"
+        },
+        {
+            "string": "MP_ROUND_LOSS"
+        },
+        {
+            "string": "MP_ROUND_WIN"
+        },
+        {
+            "string": "MP_SCORE_LIMIT_REACHED"
+        },
+        {
+            "string": "MP_SECONDPLACE_NAME"
+        },
+        {
+            "string": "MP_SECURING_POSITION"
+        },
+        {
+            "string": "MP_SETTING_TRAP"
+        },
+        {
+            "string": "MP_SET_TRAP"
+        },
+        {
+            "string": "MP_SOTF_CRATE_MULTIPLE"
+        },
+        {
+            "string": "MP_SOTF_CRATE_SINGLE"
+        },
+        {
+            "string": "MP_SPAWN_FLAG_WAIT"
+        },
+        {
+            "string": "MP_SPAWN_NEXT_ROUND"
+        },
+        {
+            "string": "MP_SPAWN_TAG_WAIT"
+        },
+        {
+            "string": "MP_SUDDEN_DEATH"
+        },
+        {
+            "string": "MP_SWITCHING_SIDES"
+        },
+        {
+            "string": "MP_TARGET_DESTROYED"
+        },
+        {
+            "string": "MP_TEAM_0_NAME"
+        },
+        {
+            "string": "MP_TEAM_1_NAME"
+        },
+        {
+            "string": "MP_THIRDPLACE_NAME"
+        },
+        {
+            "string": "MP_TIME_LIMIT_REACHED"
+        },
+        {
+            "string": "MP_TIME_TILL_SPAWN"
+        },
+        {
+            "string": "MP_VICTORY"
+        },
+        {
+            "string": "MP_WAITING_FOR_MORE_PLAYERS"
+        },
+        {
+            "string": "MP_WAITING_FOR_PLAYERS"
+        },
+        {
+            "string": "MP_WAITING_FOR_TEAMS"
+        },
+        {
+            "string": "MP_WAITING_TO_SAFESPAWN"
+        },
+        {
+            "string": "MP_WAITING_TO_SPAWN"
+        },
+        {
+            "string": "PERKS_ALL"
+        },
+        {
+            "string": "PERKS_ASSASSIN"
+        },
+        {
+            "string": "PERKS_BLASTSHIELD"
+        },
+        {
+            "string": "PERKS_BLINDEYE"
+        },
+        {
+            "string": "PERKS_BOMB_SQUAD"
+        },
+        {
+            "string": "PERKS_DEADSILENCE"
+        },
+        {
+            "string": "PERKS_DEEP_IMPACT"
+        },
+        {
+            "string": "PERKS_EXPLOSIVE_DAMAGE"
+        },
+        {
+            "string": "PERKS_HARDLINE"
+        },
+        {
+            "string": "PERKS_IRON_LUNGS"
+        },
+        {
+            "string": "PERKS_LONGERSPRINT"
+        },
+        {
+            "string": "PERKS_PAINT"
+        },
+        {
+            "string": "PERKS_QUICKDRAW"
+        },
+        {
+            "string": "PERKS_SCAVENGER"
+        },
+        {
+            "string": "PERKS_SLEIGHT_OF_HAND"
+        },
+        {
+            "string": "PERKS_STALKER"
+        },
+        {
+            "string": "PERKS_STEADY_AIM"
+        },
+        {
+            "string": "PERKS_UNLIMITED_SPRINT"
+        },
+        {
+            "string": "PLATFORM_CALL_NUKE"
+        },
+        {
+            "string": "PLATFORM_COWARDS_WAY_OUT"
+        },
+        {
+            "string": "PLATFORM_GET_KILLSTREAK"
+        },
+        {
+            "string": "PLATFORM_GET_RANDOM"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_DEFUSE_EXPLOSIVES"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_DROP"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_PLANT_EXPLOSIVES"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_USE"
+        },
+        {
+            "string": "PLATFORM_PRESS_TO_RESPAWN"
+        },
+        {
+            "string": "PLATFORM_PRESS_TO_SKIP"
+        },
+        {
+            "string": "PLATFORM_PRESS_TO_SPAWN"
+        },
+        {
+            "string": "PLATFORM_REVIVE"
+        },
+        {
+            "string": "WEAPON_MORTAR_SHELL"
+        }
+    ]
+}

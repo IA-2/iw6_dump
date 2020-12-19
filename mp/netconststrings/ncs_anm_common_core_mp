@@ -1,0 +1,68 @@
+{
+    "name": "ncs_anm_common_core_mp",
+    "stringType": 18,
+    "sourceType": 2,
+    "entryCount": 20,
+    "strings": [
+        {
+            "string": "airstrike_mp_roll"
+        },
+        {
+            "string": "ims_scorpion_1_opened"
+        },
+        {
+            "string": "ims_scorpion_2_opened"
+        },
+        {
+            "string": "ims_scorpion_3_opened"
+        },
+        {
+            "string": "ims_scorpion_door_1"
+        },
+        {
+            "string": "ims_scorpion_door_2"
+        },
+        {
+            "string": "ims_scorpion_door_3"
+        },
+        {
+            "string": "ims_scorpion_door_4"
+        },
+        {
+            "string": "juggernaut_carepackage"
+        },
+        {
+            "string": "mp_a10_strafing_run"
+        },
+        {
+            "string": "mp_briefcase_spin"
+        },
+        {
+            "string": "satcom_killstreak"
+        },
+        {
+            "string": "satcom_killstreak_idle"
+        },
+        {
+            "string": "trophy_system_deploy"
+        },
+        {
+            "string": "trophy_system_idle"
+        },
+        {
+            "string": "vehicle_80s_sedan1_destroy"
+        },
+        {
+            "string": "vehicle_80s_sedan1_flattire_lb"
+        },
+        {
+            "string": "vehicle_80s_sedan1_flattire_lf"
+        },
+        {
+            "string": "vehicle_80s_sedan1_flattire_rb"
+        },
+        {
+            "string": "vehicle_80s_sedan1_flattire_rf"
+        }
+    ]
+}

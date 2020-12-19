@@ -1,0 +1,29 @@
+{
+    "name": "ncs_fxt_patch_common_bots_mp",
+    "stringType": 19,
+    "sourceType": 1,
+    "entryCount": 7,
+    "strings": [
+        {
+            "string": "j_head"
+        },
+        {
+            "string": "j_helmet"
+        },
+        {
+            "string": "j_mainroot"
+        },
+        {
+            "string": "j_spine4"
+        },
+        {
+            "string": "tag_eye"
+        },
+        {
+            "string": "tag_origin"
+        },
+        {
+            "string": "tag_player"
+        }
+    ]
+}

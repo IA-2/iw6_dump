@@ -1,0 +1,175 @@
+body
+{
+	
+	//intro
+	//alien_kraken_body_boss_intro
+	
+	
+	// Idles
+	//alien_kraken_body_idle_port
+	alien_kraken_ten_idle_r1_port
+	alien_kraken_ten_idle_r2_port
+	alien_kraken_ten_idle_l1_port
+	alien_kraken_ten_idle_l2_port
+	//alien_kraken_body_idle_starboard
+	alien_kraken_ten_idle_r1_starboard
+	alien_kraken_ten_idle_r2_starboard
+	alien_kraken_ten_idle_l1_starboard
+	alien_kraken_ten_idle_l2_starboard
+	
+//	
+//	// Spawns
+	alien_kraken_ten_spawn_l1_port
+	alien_kraken_ten_spawn_l2_port
+	alien_kraken_ten_spawn_r1_port
+	alien_kraken_ten_spawn_r2_port
+	alien_kraken_ten_spawn_l1_starboard
+	alien_kraken_ten_spawn_l2_starboard
+	alien_kraken_ten_spawn_r1_starboard
+	alien_kraken_ten_spawn_r2_starboard
+//	
+//	// tentacle in and out (THESE CAN BE DELETED AFTER NEW ONES HOOKED UP. OUT = OUT PORT. IN = EMERGE)
+	alien_kraken_ten_in_r1
+	alien_kraken_ten_in_r2
+	alien_kraken_ten_in_l1
+	alien_kraken_ten_in_l2
+	alien_kraken_ten_out_r1
+	alien_kraken_ten_out_r2
+	alien_kraken_ten_out_l1
+	alien_kraken_ten_out_l2
+	
+//	// tentacle in and out (NEW OUT PORT)
+	alien_kraken_ten_out_r1_port
+	alien_kraken_ten_out_r2_port
+	alien_kraken_ten_out_l1_port
+	alien_kraken_ten_out_l2_port
+	alien_kraken_ten_out_r1_starboard
+	alien_kraken_ten_out_r2_starboard
+	alien_kraken_ten_out_l1_starboard
+	alien_kraken_ten_out_l2_starboard
+//
+//
+//
+//	// attack charge
+	alien_kraken_ten_attack_charge_l1_heat_loop_port
+	alien_kraken_ten_attack_charge_l1_slam_port
+	alien_kraken_ten_attack_charge_l2_heat_loop_port
+	alien_kraken_ten_attack_charge_l2_slam_port
+	alien_kraken_ten_attack_charge_r1_heat_loop_port
+	alien_kraken_ten_attack_charge_r1_slam_port
+	alien_kraken_ten_attack_charge_r2_heat_loop_port
+	alien_kraken_ten_attack_charge_r2_slam_port		
+	alien_kraken_ten_attack_charge_r2_heat_smash_port
+	alien_kraken_ten_attack_charge_l1_heat_loop_starboard
+	alien_kraken_ten_attack_charge_l1_slam_starboard
+	alien_kraken_ten_attack_charge_l2_heat_loop_starboard
+	alien_kraken_ten_attack_charge_l2_slam_starboard
+	alien_kraken_ten_attack_charge_r1_heat_loop_starboard
+	alien_kraken_ten_attack_charge_r1_slam_starboard
+	alien_kraken_ten_attack_charge_r2_heat_loop_starboard
+	alien_kraken_ten_attack_charge_r2_slam_starboard
+	alien_kraken_ten_attack_charge_l2_heat_smash_starboard
+//
+//
+//
+//
+//	
+//	// attack smash
+	alien_kraken_ten_attack_smash_r1_port
+	alien_kraken_ten_attack_smash_r2_port
+	alien_kraken_ten_attack_smash_l1_port
+	alien_kraken_ten_attack_smash_l2_port
+	alien_kraken_ten_attack_smash_r1_starboard
+	alien_kraken_ten_attack_smash_r2_starboard
+	alien_kraken_ten_attack_smash_l1_starboard
+	alien_kraken_ten_attack_smash_l2_starboard
+
+//	
+//
+//
+//	
+//	// attack EMP
+//	//alien_kraken_body_attack_emp_enter
+//	//alien_kraken_body_attack_emp_loop
+//	//alien_kraken_body_attack_emp_exit
+//	//alien_kraken_body_attack_emp_enter_50
+//	//alien_kraken_body_attack_emp_loop_50
+//	//alien_kraken_body_attack_emp_exit_50
+//	//alien_kraken_body_attack_emp_enter_25
+//	//alien_kraken_body_attack_emp_loop_25
+//	//alien_kraken_body_attack_emp_exit_25
+	alien_kraken_ten_attack_emp_l1_enter_port
+	alien_kraken_ten_attack_emp_l2_enter_port
+	alien_kraken_ten_attack_emp_r1_enter_port
+	alien_kraken_ten_attack_emp_r2_enter_port
+	alien_kraken_ten_attack_emp_l1_enter_starboard
+	alien_kraken_ten_attack_emp_l2_enter_starboard
+	alien_kraken_ten_attack_emp_r1_enter_starboard
+	alien_kraken_ten_attack_emp_r2_enter_starboard
+//	
+//		
+//
+//
+//	// death
+//	//alien_kraken_body_death
+	alien_kraken_ten_death_l1
+	alien_kraken_ten_death_l2
+	alien_kraken_ten_death_r1
+	alien_kraken_ten_death_r2
+//	
+//		
+//
+//
+//	// e/submerge
+	alien_kraken_ten_emerge_l1_port
+	alien_kraken_ten_emerge_l2_port
+	alien_kraken_ten_emerge_r1_port
+	alien_kraken_ten_emerge_r2_port
+	alien_kraken_ten_emerge_l1_starboard
+	alien_kraken_ten_emerge_l2_starboard
+	alien_kraken_ten_emerge_r1_starboard
+	alien_kraken_ten_emerge_r2_starboard
+//	//alien_kraken_body_emerge
+//	//alien_kraken_body_submerge
+//	
+//
+//
+//
+//	// miniboss fight
+//	alien_kraken_ten_wall_enter
+//	alien_kraken_ten_wall_idle
+//	alien_kraken_ten_wall_spawn_enter
+//	alien_kraken_ten_wall_spawn_loop
+//	alien_kraken_ten_wall_spawn_exit
+//	alien_kraken_ten_wall_exit
+//	alien_kraken_ten_wall_attack_r
+//	alien_kraken_ten_wall_attack_l
+//	alien_kraken_ten_wall_pain
+//	
+//
+//
+//
+//	// hallway 
+//	alien_kraken_ten_hallway_bust_enter
+//	alien_kraken_ten_hallway_bust_loop
+//	alien_kraken_ten_hallway_bust_exit
+//
+//
+//
+//	
+//	
+//	
+//	// tentacle
+//	alien_beacon_intro_tentacle
+
+//MINIBOSS
+	alien_kraken_ten_wall_enter
+	alien_kraken_ten_wall_idle
+	alien_kraken_ten_wall_attack_l
+	alien_kraken_ten_wall_attack_r
+	alien_kraken_ten_wall_spawn_loop
+	alien_kraken_ten_wall_exit
+	alien_kraken_ten_wall_pain
+}
+
+

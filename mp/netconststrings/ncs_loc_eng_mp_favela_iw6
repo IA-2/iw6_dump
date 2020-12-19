@@ -1,0 +1,14 @@
+{
+    "name": "ncs_loc_eng_mp_favela_iw6",
+    "stringType": 5,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "MP_FAVELA_IW6_AC130_PICKUP"
+        },
+        {
+            "string": "MP_FAVELA_IW6_DESTROYED_AC130"
+        }
+    ]
+}

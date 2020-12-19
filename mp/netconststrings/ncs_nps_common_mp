@@ -1,0 +1,32 @@
+{
+    "name": "ncs_nps_common_mp",
+    "stringType": 13,
+    "sourceType": 2,
+    "entryCount": 8,
+    "strings": [
+        {
+            "string": "player_name_bg_green"
+        },
+        {
+            "string": "player_name_bg_green_agent"
+        },
+        {
+            "string": "player_name_bg_green_dog"
+        },
+        {
+            "string": "player_name_bg_green_vest"
+        },
+        {
+            "string": "player_name_bg_red"
+        },
+        {
+            "string": "player_name_bg_red_agent"
+        },
+        {
+            "string": "player_name_bg_red_dog"
+        },
+        {
+            "string": "player_name_bg_red_vest"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ncs_hnt_eng_mp_alien_beacon",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "ALIEN_PILLAGE_INTEL_PICKUP_INTEL"
+        }
+    ]
+}

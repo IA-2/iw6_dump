@@ -1,0 +1,26 @@
+a0,b1,c2,d3,e4,f5,g6,h7,i8,j9,k10,l11,m12,n13,o14,p15
+0,item_alienpropanetank_mp,propane_tank_aliens_iw6,alienpropanetank_mp,ALIEN_PICKUPS_BEACON_PICKUP_PROPANE_TANK,100,,soulbound,120,999,1,0,1,0,,0
+100,weapon_iw6_alienfp6_mp,weapon_fabarm_fp6,iw6_alienfp6_mp,ALIEN_PICKUPS_BEACON_PICKUP_FP6,100,,soulbound,120,999,1,0,1,1,,1500
+101,weapon_iw6_alienvks_mp_alienvksscope,weapon_vks,iw6_alienvks_mp,ALIEN_PICKUPS_BEACON_PICKUP_VKS,100,,soulbound,120,999,1,0,1,1,,1500
+102,weapon_iw6_alienrgm_mp,weapon_kastet,iw6_alienrgm_mp,ALIEN_PICKUPS_BEACON_PICKUP_RGM,100,,soulbound,120,999,1,0,1,1,,2000
+103,weapon_iw6_aliencbjms_mp,weapon_cbj_ms_iw6,iw6_aliencbjms_mp,ALIEN_PICKUPS_BEACON_PICKUP_CBJMS,100,,soulbound,120,999,1,0,1,1,,2000
+104,weapon_iw6_alienmaul_mp,weapon_maul,iw6_alienmaul_mp,ALIEN_PICKUPS_BEACON_PICKUP_MAUL,100,,soulbound,120,999,1,0,1,1,,2000
+105,weapon_iw6_alienmicrotar_mp,weapon_tar21,iw6_alienmicrotar_mp,ALIEN_PICKUPS_BEACON_PICKUP_MICROTAR,100,,soulbound,120,999,1,0,1,1,,2000
+106,weapon_iw6_alienkac_mp,weapon_kac_chainsaw,iw6_alienkac_mp,ALIEN_PICKUPS_BEACON_PICKUP_KAC,100,,soulbound,120,999,1,0,1,1,,3000
+107,weapon_iw6_alienpanzerfaust3_mp,weapon_panzerfaust3,iw6_alienpanzerfaust3_mp,ALIEN_PICKUPS_BEACON_PICKUP_PANZERFAUST,100,,soulbound,120,999,1,0,1,1,,2000
+108,weapon_iw6_alieng28_mp,weapon_g28,iw6_alieng28_mp,ALIEN_PICKUPS_BEACON_PICKUP_G28,100,,soulbound,120,999,1,0,1,1,,2000
+109,weapon_iw6_alienhoneybadger_mp,weapon_honeybadger,iw6_alienhoneybadger_mp,ALIEN_PICKUPS_BEACON_PICKUP_HONEYBADGER,100,,soulbound,120,999,1,0,1,1,,2000
+110,weapon_iw6_altalienlsat_mp,weapon_lsat_iw6,iw6_altalienlsat_mp,ALIEN_PICKUPS_BEACON_PICKUP_LSAT,100,,soulbound,120,999,1,0,1,1,,3000
+111,weapon_iw6_altalienarx_mp,weapon_arx_160,iw6_altalienarx_mp,ALIEN_PICKUPS_BEACON_PICKUP_ARX_160,100,,soulbound,120,999,1,0,1,1,,2000
+112,weapon_iw6_altaliensvu_mp,weapon_dragunov_svu,iw6_altaliensvu_mp,ALIEN_PICKUPS_BEACON_PICKUP_SVU,100,,soulbound,120,999,1,0,1,1,,2000
+113,weapon_iw6_aliendlc23_mp_dlcweap02scope,weapon_evopro,iw6_aliendlc23_mp,ALIEN_PICKUPS_BEACON_PICKUP_RIPPER,100,,soulbound,120,999,1,0,1,1,,1500
+1000,loot_blood_small,prop_dogtags_foe,alien_loot_blood_small,ALIEN_COLLECTIBLES_LOOT_BLOOD_S,100,,currency,0,0,1,0,999,0,,0
+1000000,lootbox_health_tier1,item_health_pack 95,,item_health_regen_booster 5,,,,,,,,,,,
+1000001,lootbox_health_tier2,item_health_pack 90,item_fast_legs_booster 15,item_revive_booster 15,,item_fast_hands_booster 15,item_health_regen_booster 5,,,,,,,,
+1000002,lootbox_weapon_tier1,item_ammo 40,item_shock_ammo 10,weapon_iw6_alienfp6_mp 20,weapon_iw6_alienak12_mp 15,weapon_iw6_alienm27_mp 2,item_yellow_egg 5,,,,,,,,
+1000003,lootbox_weapon_tier2,item_ammo 20,item_shock_ammo 20,weapon_iw6_alienfp6_mp 25,weapon_iw6_alienak12_mp 20,weapon_iw6_alienm27_mp 2,item_yellow_egg 5,,,,,,,,
+1000004,lootbox_weapon_tier3,item_ammo 25,item_shock_ammo 15,weapon_iw6_alienmaul_mp 25,weapon_iw6_alienak12_mp 20,weapon_iw6_alienm27_mp 2,item_yellow_egg 5,,,,,,,,
+1000005,lootbox_weapon_tier4,weapon_iw6_alienak12_mp 100,,,,,,,,,,,,,
+1000006,lootbox_explosive_tier1,loot_blood_small 60,loot_blood_med 20,loot_blood_large 2,item_claymore_mp 13,item_bouncingbetty_mp 5,,,,,,,,,
+1000007,lootbox_explosive_tier2,loot_blood_small 60,loot_blood_med 20,loot_blood_large 2,item_claymore_mp 13,item_bouncingbetty_mp 5,,,,,,,,,
+1000008,lootbox_explosive_tier3,loot_blood_small 60,loot_blood_med 20,loot_blood_large 2,item_claymore_mp 13,item_bouncingbetty_mp 5,,,,,,,,,

@@ -1,0 +1,52 @@
+a0,b1,c2,d3,e4,f5,g6,h7,i8,j9
+0,# reference (ref string),goon,brute,minion,spitter,elite,leper,locust,seeder
+1,# name (loc string),alien_type_goon,alien_type_brute,alien_type_minion,alien_type_spitter,alien_type_elite,alien_type_leper,alien_type_brute,alien_type_seeder
+2,# model (ref string),alien_goon,alien_brute,alien_minion,alien_spitter,alien_queen,alien_brute,alien_locust,alien_seeder
+3,# desc (loc string),alien_type_brute_desc,alien_type_brute_desc,alien_type_cloaker_desc,alien_type_spitter_desc,alien_type_elite_desc,alien_type_leper_desc,alien_type_brute_desc,alien_type_seeder_desc
+4,# boss type (boolean),0,0,0,0,0,0,0,0
+5,# animclass (ref string),alien_goon_beacon_animclass,alien_brute_beacon_animclass,alien_minion_beacon_animclass,alien_spitter_beacon_animclass,alien_elite_beacon_animclass,alien_brute_beacon_animclass,alien_brute_beacon_animclass,alien_seeder_beacon_animclass
+10,# health (amount),275,1200,100,1000,8000,500,4000,1400
+11,# min cumulative pain threshold (amount),100,100,87.5,300,600,225,300,225
+12,# min cumulative pain buffer time ( amount ),2,2,2,2,2.5,2,2,2
+13,# attack accuracy (scale),1,1,1,1,1,1,1,1
+14,# speed (scale),0.9,1,1.0,1,0.95,1,1.2,1
+15,# Model Scale (affects move rate),0.7,1,0.75,1,1.25,1,1,1
+16,# XP reward (amount),250,250,100,300,500,250,250,300
+17,# attacker difficulty value (amount),2,5,0,0,5,1,5,0
+18,# attacker priority value (amount),7,6,5,4,2,1,3,4
+19,# jump cost (scale),1,1,2,0.85,2,1,0.5,1.75
+20,# traverse cost (scale),0.8,0.8,0.8,1.5,2,0.8,2,1.2
+21,# run cost (scale),1,1,1,1,1,1,1.5,2
+29,# wall run cost (scale),4,4,2,4,20,4,3.5,0.1
+22,# heavy damage threshold (amount),100,100,50,300,500,200,400,300
+23,# pain interval (amount),2,3,2,1,1,2,5,2
+24,# emissive default,0.2,0.2,0.4,0.35,0.2,0,0.2,0.5
+25,# emissive max,0.75,1,1,0.7,0.9,0.1,0.2,0.9
+26,# weight scale,20,30,15,30,50,30,30,30
+27,# base reward,60,200,100,200,1000,200,1000,1250
+28,# view height,30,45,33,25,55,45,45,25
+100,# Cloaking,0,0,0,0,0,0,1,0
+101,# Spitting,0,0,0,1,0,0,0,0
+102,# Leader (spawn cast),0,0,0,0,1,0,0,0
+103,# Hives,0,0,0,0,0,0,0,0
+104,# Turrets,0,0,0,0,0,0,0,1
+1000,loot_blood_small,1,1,0,0,0,0,1,0
+1001,loot_blood_med,0,0,1,1,0,0,0,0
+1002,loot_blood_large,0,0,0,0,1,0,0,0
+1003,loot_teeth,0,0,0,0,1,0,0,0
+1004,loot_relic_1,0,0,0,0,0,0,0,0
+1005,loot_relic_2,0,0,0,0,0,0,0,0
+2000,swipe_min,6.7,13.4,8,8,20,0,25,0
+2001,swipe_max,8.4,16.8,10,12,26.4,1,26,1
+2002,leap_min,6.7,13.4,8,8,1,0,25,0
+2003,leap_max,8.4,16.8,10,12,2,1,26,1
+2004,wall_min,6.7,13.4,8,8,1,0,25,0
+2005,wall_max,8.4,16.8,10,12,2,1,26,1
+2006,charge_min,1,1,1,1,26.4,0,1,0
+2007,charge_max,2,2,2,2,40,1,2,1
+2008,explode_min,1,1,1,1,30,0,1,0
+2009,explode_max,2,2,25,2,50,1,2,1
+2010,slam_min,1,1,1,1,20,0,1,0
+2011,slam_max,2,2,2,2,26.4,1,2,1
+2012,synch_attack_min_per_second,15,25,3,3,12,0,40,0
+2013,synch_attack_max_per_second,16,26,5,5,15,1,41,1

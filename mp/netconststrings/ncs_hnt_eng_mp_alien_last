@@ -1,0 +1,560 @@
+{
+    "name": "ncs_hnt_eng_mp_alien_last",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 184,
+    "strings": [
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_ATTACK_CHOPPER"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_FENCE_LARGE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_FENCE_MED"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_FENCE_SMALL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_FIRE_TRAP_LARGE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_FIRE_TRAP_MED"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_FIRE_TRAP_SMALL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_NUKE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_NUKE_SOLO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_PUDDLE_LARGE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_PUDDLE_MED"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_PUDDLE_SMALL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ACTIVATE_TURRET"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_AMMO_MAX"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_ATTACK_CHOPPER_ACTIVE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_CANT_USE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_ADRENALINE_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_ADRENALINE_TAKEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_AMMO_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_AMMO_TAKING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_APAMMO_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_BOOST_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_BOOST_TAKEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_CURRENCY_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_CURRENCY_TAKEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_CURRENCY_TAKING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_EXPLOSIVEAMMO_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_EXPLOSIVES_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_EXPLOSIVES_TAKEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_EXPLOSIVES_TAKING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_INCENDIARYAMMO_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_RANDOM_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_RANDOM_TAKING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_STUNAMMO_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DEPLOYABLE_VEST_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DOUBLE_TAP_TO_CARRY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_DRILL_REPAIR"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_EXPLO_MAX"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_ACOG"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_BARRELRANGE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_EOTECH"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_FIRETYPEBURST"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_GRIP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_REFLEX"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_ROF"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_FOUND_THERMAL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_IMS_CANNOT_PLACE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_IMS_PICKUP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_IMS_PLACE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_MONEY_MAX"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_NO_MONEY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_OPEN"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_AMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_AP_AMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_BOMB"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_BOUNCING_BETTY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_CLAYMORE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_CLIP"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_EXP_AMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_FLARE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_GRENADE"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_IN_AMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_MONEY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_MORTARSHELL"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_PET_LEASH"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_SOFLAM"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_STUN_AMMO"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_PICKUP_TROPHY"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_SEARCHING"
+        },
+        {
+            "string": "ALIEN_COLLECTIBLES_USE_TURRET"
+        },
+        {
+            "string": "ALIEN_CRAFTING_CANNOT_PLACE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_AMOLECULAR"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_BIOLUM"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_BLUEBIOLUM"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_CASING"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_CELLBATTERY"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_CORTEXGEL"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_CORTEXGRENADE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_CORTEXHOUSING"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_CRAFTED_ITEM"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_DETONATOR"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_DISARMED_VENOM"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_FUSE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_GREEN_BIOLUM"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_LIQUIDBATTERY"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_NUCLEICBATTERY"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_ORANGEBIOLUM"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_PIPE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_PIPEBOMB"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_PRESSUREPLATE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_PURPLEBIOLUM"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_RESIN"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_STICKYFLARE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_SUBSTRATE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_TNT"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_VENOMFXGRENADE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_VENOMLXGRENADE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_VENOMXGRENADE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PICKUP_WIRE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PLACE_CRAFTED_ITEM"
+        },
+        {
+            "string": "ALIEN_CRAFTING_PLACE_CRAFTED_ITEM_NOCANCEL"
+        },
+        {
+            "string": "ALIEN_CRAFTING_RECIPE_CORTEXGRENADE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_RECIPE_CORTEXWEAPON"
+        },
+        {
+            "string": "ALIEN_CRAFTING_RECIPE_GRENADE"
+        },
+        {
+            "string": "ALIEN_CRAFTING_RECIPE_HYPNO"
+        },
+        {
+            "string": "ALIEN_CRAFTING_RECIPE_STICKY"
+        },
+        {
+            "string": "ALIEN_CRAFTING_RECIPE_TESLA"
+        },
+        {
+            "string": "ALIEN_CRAFTING_RECIPE_VENOM"
+        },
+        {
+            "string": "ALIEN_CRAFTING_RECIPE_VGRENADE"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_AK12"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_ARX_160"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_BREN"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_G28"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_IMBEL"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_KAC"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_KASTET"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_KRISS"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_L115A3"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_LSAT"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_M27"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_MAUL"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_MAVERICK"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_MTS255"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_SVU"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_VEPR"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_LOCKER_VKS"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_AK12"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_ARX_160"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_BREN"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_G28"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_IMBEL"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_KAC"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_KASTET"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_KRISS"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_L115A3"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_LSAT"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_M27"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_MAUL"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_MAVERICK"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_MTS255"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_PROPANE_TANK"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_SVU"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_VEPR"
+        },
+        {
+            "string": "ALIEN_PICKUPS_ARMORY_PICKUP_VKS"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_LOCKER_AMELI"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_LOCKER_IMBEL"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_LOCKER_K7"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_LOCKER_KAC"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_LOCKER_MAUL"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_LOCKER_MAVERICK"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_LOCKER_MK14"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_LOCKER_R5RGP"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_LOCKER_RIPPER"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_LOCKER_USR"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_LOCKER_UTS"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_LOCKER_VKS"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_AMELI"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_IMBEL"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_K7"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_KAC"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_KASTET"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_MAUL"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_MAVERICK"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_MK14"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_R5RGP"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_RIPPER"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_USR"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_UTS"
+        },
+        {
+            "string": "ALIEN_PICKUPS_DESCENT_PICKUP_VKS"
+        },
+        {
+            "string": "ALIEN_PILLAGE_INTEL_PICKUP_INTEL"
+        },
+        {
+            "string": "ALIEN_PILLAGE_LOCKER_OPEN_LOCKER"
+        },
+        {
+            "string": "ALIEN_PILLAGE_LOCKER_PICKUP_LOCKER_KEY"
+        },
+        {
+            "string": "ALIEN_PILLAGE_LOCKER_PICKUP_LOCKER_WEAPON"
+        },
+        {
+            "string": "MP_ALIEN_ARMORY_SPECIAL_WEAPON_PICKUP"
+        },
+        {
+            "string": "MP_ALIEN_ARMORY_SPITTER_AMMO_PICKUP"
+        },
+        {
+            "string": "MP_ALIEN_LAST_CONDUIT_START_HINT"
+        },
+        {
+            "string": "MP_ALIEN_LAST_CORTEX_DETONATE_HINT"
+        },
+        {
+            "string": "MP_ALIEN_LAST_CORTEX_START_HINT"
+        },
+        {
+            "string": "MP_ALIEN_LAST_REPAIRGENERATOR"
+        },
+        {
+            "string": "MP_ALIEN_LAST_TRANSITION_OPEN_HINT"
+        },
+        {
+            "string": "MP_ALIEN_LAST_TRAPS_OFFLINE"
+        },
+        {
+            "string": "MP_ALIEN_LAST_TURRET_OFFLINE"
+        },
+        {
+            "string": "MP_ALIEN_LAST_TURRET_RELOADING"
+        },
+        {
+            "string": "MP_ALIEN_LAST_USE_TESLA"
+        }
+    ]
+}

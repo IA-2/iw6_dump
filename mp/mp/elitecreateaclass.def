@@ -1,0 +1,4221 @@
+{
+    "name": "mp/elitecreateaclass.def",
+    "version": 13,
+    "formatChecksum": 3372615134,
+    "enumCount": 8,
+    "enums": [
+        {
+            "entryCount": 28,
+            "reservedEntryCount": 30,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 15
+                },
+                {
+                    "string": "acog",
+                    "index": 0
+                },
+                {
+                    "string": "akimbo",
+                    "index": 1
+                },
+                {
+                    "string": "ammoslug",
+                    "index": 2
+                },
+                {
+                    "string": "barrelbored",
+                    "index": 3
+                },
+                {
+                    "string": "barrelrange",
+                    "index": 4
+                },
+                {
+                    "string": "eotech",
+                    "index": 5
+                },
+                {
+                    "string": "firetypeauto",
+                    "index": 6
+                },
+                {
+                    "string": "firetypeburst",
+                    "index": 7
+                },
+                {
+                    "string": "firetypesingle",
+                    "index": 8
+                },
+                {
+                    "string": "flashsuppress",
+                    "index": 9
+                },
+                {
+                    "string": "fmj",
+                    "index": 10
+                },
+                {
+                    "string": "gl",
+                    "index": 11
+                },
+                {
+                    "string": "grip",
+                    "index": 12
+                },
+                {
+                    "string": "hybrid",
+                    "index": 13
+                },
+                {
+                    "string": "ironsight",
+                    "index": 14
+                },
+                {
+                    "string": "reflex",
+                    "index": 16
+                },
+                {
+                    "string": "rof",
+                    "index": 17
+                },
+                {
+                    "string": "rshieldradar",
+                    "index": 18
+                },
+                {
+                    "string": "rshieldscrambler",
+                    "index": 19
+                },
+                {
+                    "string": "rshieldspikes",
+                    "index": 20
+                },
+                {
+                    "string": "shotgun",
+                    "index": 21
+                },
+                {
+                    "string": "silencer",
+                    "index": 22
+                },
+                {
+                    "string": "tactical",
+                    "index": 23
+                },
+                {
+                    "string": "thermal",
+                    "index": 24
+                },
+                {
+                    "string": "tracker",
+                    "index": 25
+                },
+                {
+                    "string": "vzscope",
+                    "index": 26
+                },
+                {
+                    "string": "xmags",
+                    "index": 27
+                }
+            ]
+        },
+        {
+            "entryCount": 56,
+            "reservedEntryCount": 56,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "snow",
+                    "index": 1
+                },
+                {
+                    "string": "brush",
+                    "index": 2
+                },
+                {
+                    "string": "autumn",
+                    "index": 3
+                },
+                {
+                    "string": "ocean",
+                    "index": 4
+                },
+                {
+                    "string": "tan",
+                    "index": 5
+                },
+                {
+                    "string": "red",
+                    "index": 6
+                },
+                {
+                    "string": "caustic",
+                    "index": 7
+                },
+                {
+                    "string": "dark",
+                    "index": 8
+                },
+                {
+                    "string": "green",
+                    "index": 9
+                },
+                {
+                    "string": "net",
+                    "index": 10
+                },
+                {
+                    "string": "trail",
+                    "index": 11
+                },
+                {
+                    "string": "winter",
+                    "index": 12
+                },
+                {
+                    "string": "gold",
+                    "index": 13
+                },
+                {
+                    "string": "clan01",
+                    "index": 14
+                },
+                {
+                    "string": "clan02",
+                    "index": 15
+                },
+                {
+                    "string": "camo01",
+                    "index": 16
+                },
+                {
+                    "string": "camo02",
+                    "index": 17
+                },
+                {
+                    "string": "camo03",
+                    "index": 18
+                },
+                {
+                    "string": "camo04",
+                    "index": 19
+                },
+                {
+                    "string": "camo05",
+                    "index": 20
+                },
+                {
+                    "string": "camo06",
+                    "index": 21
+                },
+                {
+                    "string": "camo07",
+                    "index": 22
+                },
+                {
+                    "string": "camo08",
+                    "index": 23
+                },
+                {
+                    "string": "camo09",
+                    "index": 24
+                },
+                {
+                    "string": "camo10",
+                    "index": 25
+                },
+                {
+                    "string": "camo11",
+                    "index": 26
+                },
+                {
+                    "string": "camo12",
+                    "index": 27
+                },
+                {
+                    "string": "camo13",
+                    "index": 28
+                },
+                {
+                    "string": "camo14",
+                    "index": 29
+                },
+                {
+                    "string": "camo15",
+                    "index": 30
+                },
+                {
+                    "string": "camo16",
+                    "index": 31
+                },
+                {
+                    "string": "camo17",
+                    "index": 32
+                },
+                {
+                    "string": "camo18",
+                    "index": 33
+                },
+                {
+                    "string": "camo19",
+                    "index": 34
+                },
+                {
+                    "string": "camo20",
+                    "index": 35
+                },
+                {
+                    "string": "camo21",
+                    "index": 36
+                },
+                {
+                    "string": "camo22",
+                    "index": 37
+                },
+                {
+                    "string": "camo23",
+                    "index": 38
+                },
+                {
+                    "string": "camo24",
+                    "index": 39
+                },
+                {
+                    "string": "camo25",
+                    "index": 40
+                },
+                {
+                    "string": "camo26",
+                    "index": 41
+                },
+                {
+                    "string": "camo27",
+                    "index": 42
+                },
+                {
+                    "string": "camo28",
+                    "index": 43
+                },
+                {
+                    "string": "camo29",
+                    "index": 44
+                },
+                {
+                    "string": "camo30",
+                    "index": 45
+                },
+                {
+                    "string": "camo31",
+                    "index": 46
+                },
+                {
+                    "string": "camo32",
+                    "index": 47
+                },
+                {
+                    "string": "camo33",
+                    "index": 48
+                },
+                {
+                    "string": "camo34",
+                    "index": 49
+                },
+                {
+                    "string": "camo35",
+                    "index": 50
+                },
+                {
+                    "string": "camo36",
+                    "index": 51
+                },
+                {
+                    "string": "camo37",
+                    "index": 52
+                },
+                {
+                    "string": "camo38",
+                    "index": 53
+                },
+                {
+                    "string": "camo39",
+                    "index": 54
+                },
+                {
+                    "string": "camo40",
+                    "index": 55
+                }
+            ]
+        },
+        {
+            "entryCount": 7,
+            "reservedEntryCount": 7,
+            "entries": [
+                {
+                    "string": "charactertype_null",
+                    "index": 0
+                },
+                {
+                    "string": "charactertype_assault",
+                    "index": 1
+                },
+                {
+                    "string": "charactertype_dmr",
+                    "index": 2
+                },
+                {
+                    "string": "charactertype_smg",
+                    "index": 3
+                },
+                {
+                    "string": "charactertype_lmg",
+                    "index": 4
+                },
+                {
+                    "string": "charactertype_sniper",
+                    "index": 5
+                },
+                {
+                    "string": "charactertype_shotgun",
+                    "index": 6
+                }
+            ]
+        },
+        {
+            "entryCount": 72,
+            "reservedEntryCount": 128,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "uav_3dping",
+                    "index": 12
+                },
+                {
+                    "string": "airdrop_assault",
+                    "index": 1
+                },
+                {
+                    "string": "ims",
+                    "index": 2
+                },
+                {
+                    "string": "airdrop_sentry_minigun",
+                    "index": 3
+                },
+                {
+                    "string": "sentry",
+                    "index": 4
+                },
+                {
+                    "string": "helicopter",
+                    "index": 5
+                },
+                {
+                    "string": "airdrop_juggernaut",
+                    "index": 6
+                },
+                {
+                    "string": "juggernaut",
+                    "index": 7
+                },
+                {
+                    "string": "ball_drone_backup",
+                    "index": 8
+                },
+                {
+                    "string": "agent",
+                    "index": 9
+                },
+                {
+                    "string": "airdrop_juggernaut_maniac",
+                    "index": 10
+                },
+                {
+                    "string": "juggernaut_maniac",
+                    "index": 11
+                },
+                {
+                    "string": "guard_dog",
+                    "index": 13
+                },
+                {
+                    "string": "vanguard",
+                    "index": 14
+                },
+                {
+                    "string": "uplink",
+                    "index": 15
+                },
+                {
+                    "string": "drone_hive",
+                    "index": 16
+                },
+                {
+                    "string": "odin_assault",
+                    "index": 17
+                },
+                {
+                    "string": "nuke",
+                    "index": 18
+                },
+                {
+                    "string": "deployable_vest",
+                    "index": 19
+                },
+                {
+                    "string": "deployable_ammo",
+                    "index": 20
+                },
+                {
+                    "string": "sam_turret",
+                    "index": 21
+                },
+                {
+                    "string": "airdrop_juggernaut_recon",
+                    "index": 22
+                },
+                {
+                    "string": "juggernaut_recon",
+                    "index": 23
+                },
+                {
+                    "string": "ball_drone_radar",
+                    "index": 24
+                },
+                {
+                    "string": "heli_sniper",
+                    "index": 25
+                },
+                {
+                    "string": "heli_pilot",
+                    "index": 26
+                },
+                {
+                    "string": "uplink_support",
+                    "index": 27
+                },
+                {
+                    "string": "jammer",
+                    "index": 28
+                },
+                {
+                    "string": "air_superiority",
+                    "index": 29
+                },
+                {
+                    "string": "high_value_target",
+                    "index": 30
+                },
+                {
+                    "string": "odin_support",
+                    "index": 31
+                },
+                {
+                    "string": "recon_agent",
+                    "index": 32
+                },
+                {
+                    "string": "aa_launcher",
+                    "index": 33
+                },
+                {
+                    "string": "a10_strafe",
+                    "index": 34
+                },
+                {
+                    "string": "specialty_fastsprintrecovery_ks",
+                    "index": 35
+                },
+                {
+                    "string": "specialty_fastreload_ks",
+                    "index": 36
+                },
+                {
+                    "string": "specialty_lightweight_ks",
+                    "index": 37
+                },
+                {
+                    "string": "specialty_marathon_ks",
+                    "index": 38
+                },
+                {
+                    "string": "specialty_stalker_ks",
+                    "index": 39
+                },
+                {
+                    "string": "specialty_reducedsway_ks",
+                    "index": 40
+                },
+                {
+                    "string": "specialty_quickswap_ks",
+                    "index": 41
+                },
+                {
+                    "string": "specialty_pitcher_ks",
+                    "index": 42
+                },
+                {
+                    "string": "specialty_bulletaccuracy_ks",
+                    "index": 43
+                },
+                {
+                    "string": "specialty_quickdraw_ks",
+                    "index": 44
+                },
+                {
+                    "string": "specialty_sprintreload_ks",
+                    "index": 45
+                },
+                {
+                    "string": "specialty_silentkill_ks",
+                    "index": 46
+                },
+                {
+                    "string": "specialty_blindeye_ks",
+                    "index": 47
+                },
+                {
+                    "string": "specialty_gpsjammer_ks",
+                    "index": 48
+                },
+                {
+                    "string": "specialty_quieter_ks",
+                    "index": 49
+                },
+                {
+                    "string": "specialty_incog_ks",
+                    "index": 50
+                },
+                {
+                    "string": "specialty_paint_ks",
+                    "index": 51
+                },
+                {
+                    "string": "specialty_scavenger_ks",
+                    "index": 52
+                },
+                {
+                    "string": "specialty_detectexplosive_ks",
+                    "index": 53
+                },
+                {
+                    "string": "specialty_selectivehearing_ks",
+                    "index": 54
+                },
+                {
+                    "string": "specialty_comexp_ks",
+                    "index": 55
+                },
+                {
+                    "string": "specialty_falldamage_ks",
+                    "index": 56
+                },
+                {
+                    "string": "specialty_regenfaster_ks",
+                    "index": 57
+                },
+                {
+                    "string": "specialty_sharp_focus_ks",
+                    "index": 58
+                },
+                {
+                    "string": "specialty_stun_resistance_ks",
+                    "index": 59
+                },
+                {
+                    "string": "_specialty_blastshield_ks",
+                    "index": 60
+                },
+                {
+                    "string": "specialty_gunsmith_ks",
+                    "index": 61
+                },
+                {
+                    "string": "specialty_extraammo_ks",
+                    "index": 62
+                },
+                {
+                    "string": "specialty_extra_equipment_ks",
+                    "index": 63
+                },
+                {
+                    "string": "specialty_extra_deadly_ks",
+                    "index": 64
+                },
+                {
+                    "string": "specialty_extra_attachment_ks",
+                    "index": 65
+                },
+                {
+                    "string": "specialty_explosivedamage_ks",
+                    "index": 66
+                },
+                {
+                    "string": "specialty_gambler_ks",
+                    "index": 67
+                },
+                {
+                    "string": "specialty_hardline_ks",
+                    "index": 68
+                },
+                {
+                    "string": "specialty_twoprimaries_ks",
+                    "index": 69
+                },
+                {
+                    "string": "specialty_boom_ks",
+                    "index": 70
+                },
+                {
+                    "string": "specialty_deadeye_ks",
+                    "index": 71
+                }
+            ]
+        },
+        {
+            "entryCount": 55,
+            "reservedEntryCount": 128,
+            "entries": [
+                {
+                    "string": "specialty_null",
+                    "index": 0
+                },
+                {
+                    "string": "c4_mp",
+                    "index": 1
+                },
+                {
+                    "string": "claymore_mp",
+                    "index": 2
+                },
+                {
+                    "string": "throwingknife_mp",
+                    "index": 3
+                },
+                {
+                    "string": "semtex_mp",
+                    "index": 4
+                },
+                {
+                    "string": "frag_grenade_mp",
+                    "index": 5
+                },
+                {
+                    "string": "thermobaric_grenade_mp",
+                    "index": 6
+                },
+                {
+                    "string": "mortar_shell_mp",
+                    "index": 7
+                },
+                {
+                    "string": "proximity_explosive_mp",
+                    "index": 8
+                },
+                {
+                    "string": "motion_sensor_mp",
+                    "index": 9
+                },
+                {
+                    "string": "flash_grenade_mp",
+                    "index": 10
+                },
+                {
+                    "string": "smoke_grenade_mp",
+                    "index": 11
+                },
+                {
+                    "string": "concussion_grenade_mp",
+                    "index": 12
+                },
+                {
+                    "string": "tacticalinsertion_mp",
+                    "index": 13
+                },
+                {
+                    "string": "trophy_mp",
+                    "index": 14
+                },
+                {
+                    "string": "streaktype_assault",
+                    "index": 15
+                },
+                {
+                    "string": "streaktype_support",
+                    "index": 16
+                },
+                {
+                    "string": "streaktype_specialist",
+                    "index": 17
+                },
+                {
+                    "string": "specialty_fastsprintrecovery",
+                    "index": 18
+                },
+                {
+                    "string": "specialty_fastreload",
+                    "index": 19
+                },
+                {
+                    "string": "specialty_lightweight",
+                    "index": 20
+                },
+                {
+                    "string": "specialty_marathon",
+                    "index": 21
+                },
+                {
+                    "string": "specialty_stalker",
+                    "index": 22
+                },
+                {
+                    "string": "specialty_reducedsway",
+                    "index": 23
+                },
+                {
+                    "string": "specialty_quickswap",
+                    "index": 24
+                },
+                {
+                    "string": "specialty_pitcher",
+                    "index": 25
+                },
+                {
+                    "string": "specialty_bulletaccuracy",
+                    "index": 26
+                },
+                {
+                    "string": "specialty_quickdraw",
+                    "index": 27
+                },
+                {
+                    "string": "specialty_sprintreload",
+                    "index": 28
+                },
+                {
+                    "string": "specialty_silentkill",
+                    "index": 29
+                },
+                {
+                    "string": "specialty_blindeye",
+                    "index": 30
+                },
+                {
+                    "string": "specialty_gpsjammer",
+                    "index": 31
+                },
+                {
+                    "string": "specialty_quieter",
+                    "index": 32
+                },
+                {
+                    "string": "specialty_incog",
+                    "index": 33
+                },
+                {
+                    "string": "specialty_paint",
+                    "index": 34
+                },
+                {
+                    "string": "specialty_scavenger",
+                    "index": 35
+                },
+                {
+                    "string": "specialty_detectexplosive",
+                    "index": 36
+                },
+                {
+                    "string": "specialty_selectivehearing",
+                    "index": 37
+                },
+                {
+                    "string": "specialty_comexp",
+                    "index": 38
+                },
+                {
+                    "string": "specialty_falldamage",
+                    "index": 39
+                },
+                {
+                    "string": "specialty_regenfaster",
+                    "index": 40
+                },
+                {
+                    "string": "specialty_sharp_focus",
+                    "index": 41
+                },
+                {
+                    "string": "specialty_stun_resistance",
+                    "index": 42
+                },
+                {
+                    "string": "_specialty_blastshield",
+                    "index": 43
+                },
+                {
+                    "string": "specialty_gunsmith",
+                    "index": 44
+                },
+                {
+                    "string": "specialty_extraammo",
+                    "index": 45
+                },
+                {
+                    "string": "specialty_extra_equipment",
+                    "index": 46
+                },
+                {
+                    "string": "specialty_extra_deadly",
+                    "index": 47
+                },
+                {
+                    "string": "specialty_extra_attachment",
+                    "index": 48
+                },
+                {
+                    "string": "specialty_explosivedamage",
+                    "index": 49
+                },
+                {
+                    "string": "specialty_gambler",
+                    "index": 50
+                },
+                {
+                    "string": "specialty_hardline",
+                    "index": 51
+                },
+                {
+                    "string": "specialty_twoprimaries",
+                    "index": 52
+                },
+                {
+                    "string": "specialty_boom",
+                    "index": 53
+                },
+                {
+                    "string": "specialty_deadeye",
+                    "index": 54
+                }
+            ]
+        },
+        {
+            "entryCount": 71,
+            "reservedEntryCount": 71,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "ret01",
+                    "index": 1
+                },
+                {
+                    "string": "ret02",
+                    "index": 2
+                },
+                {
+                    "string": "ret03",
+                    "index": 3
+                },
+                {
+                    "string": "ret04",
+                    "index": 4
+                },
+                {
+                    "string": "ret05",
+                    "index": 5
+                },
+                {
+                    "string": "acogdef",
+                    "index": 6
+                },
+                {
+                    "string": "acog01",
+                    "index": 7
+                },
+                {
+                    "string": "acog02",
+                    "index": 8
+                },
+                {
+                    "string": "acog03",
+                    "index": 9
+                },
+                {
+                    "string": "acog04",
+                    "index": 10
+                },
+                {
+                    "string": "acog05",
+                    "index": 11
+                },
+                {
+                    "string": "eotechdef",
+                    "index": 12
+                },
+                {
+                    "string": "eotech01",
+                    "index": 13
+                },
+                {
+                    "string": "eotech02",
+                    "index": 14
+                },
+                {
+                    "string": "eotech03",
+                    "index": 15
+                },
+                {
+                    "string": "eotech04",
+                    "index": 16
+                },
+                {
+                    "string": "eotech05",
+                    "index": 17
+                },
+                {
+                    "string": "hybriddef",
+                    "index": 18
+                },
+                {
+                    "string": "hybrid01",
+                    "index": 19
+                },
+                {
+                    "string": "hybrid02",
+                    "index": 20
+                },
+                {
+                    "string": "hybrid03",
+                    "index": 21
+                },
+                {
+                    "string": "hybrid04",
+                    "index": 22
+                },
+                {
+                    "string": "hybrid05",
+                    "index": 23
+                },
+                {
+                    "string": "reflexdef",
+                    "index": 24
+                },
+                {
+                    "string": "reflex01",
+                    "index": 25
+                },
+                {
+                    "string": "reflex02",
+                    "index": 26
+                },
+                {
+                    "string": "reflex03",
+                    "index": 27
+                },
+                {
+                    "string": "reflex04",
+                    "index": 28
+                },
+                {
+                    "string": "reflex05",
+                    "index": 29
+                },
+                {
+                    "string": "retdlc01",
+                    "index": 30
+                },
+                {
+                    "string": "retdlc02",
+                    "index": 31
+                },
+                {
+                    "string": "retdlc03",
+                    "index": 32
+                },
+                {
+                    "string": "retdlc04",
+                    "index": 33
+                },
+                {
+                    "string": "retdlc05",
+                    "index": 34
+                },
+                {
+                    "string": "retdlc06",
+                    "index": 35
+                },
+                {
+                    "string": "retdlc07",
+                    "index": 36
+                },
+                {
+                    "string": "retdlc08",
+                    "index": 37
+                },
+                {
+                    "string": "retdlc09",
+                    "index": 38
+                },
+                {
+                    "string": "retdlc10",
+                    "index": 39
+                },
+                {
+                    "string": "retdlc11",
+                    "index": 40
+                },
+                {
+                    "string": "retdlc12",
+                    "index": 41
+                },
+                {
+                    "string": "retdlc13",
+                    "index": 42
+                },
+                {
+                    "string": "retdlc14",
+                    "index": 43
+                },
+                {
+                    "string": "retdlc15",
+                    "index": 44
+                },
+                {
+                    "string": "retdlc16",
+                    "index": 45
+                },
+                {
+                    "string": "retdlc17",
+                    "index": 46
+                },
+                {
+                    "string": "retdlc18",
+                    "index": 47
+                },
+                {
+                    "string": "retdlc19",
+                    "index": 48
+                },
+                {
+                    "string": "retdlc20",
+                    "index": 49
+                },
+                {
+                    "string": "retclan01",
+                    "index": 50
+                },
+                {
+                    "string": "retdlc21",
+                    "index": 51
+                },
+                {
+                    "string": "retdlc22",
+                    "index": 52
+                },
+                {
+                    "string": "retdlc23",
+                    "index": 53
+                },
+                {
+                    "string": "retdlc24",
+                    "index": 54
+                },
+                {
+                    "string": "retdlc25",
+                    "index": 55
+                },
+                {
+                    "string": "retdlc26",
+                    "index": 56
+                },
+                {
+                    "string": "retdlc27",
+                    "index": 57
+                },
+                {
+                    "string": "retdlc28",
+                    "index": 58
+                },
+                {
+                    "string": "retdlc29",
+                    "index": 59
+                },
+                {
+                    "string": "retdlc30",
+                    "index": 60
+                },
+                {
+                    "string": "retdlc31",
+                    "index": 61
+                },
+                {
+                    "string": "retdlc32",
+                    "index": 62
+                },
+                {
+                    "string": "retdlc33",
+                    "index": 63
+                },
+                {
+                    "string": "retdlc34",
+                    "index": 64
+                },
+                {
+                    "string": "retdlc35",
+                    "index": 65
+                },
+                {
+                    "string": "retdlc36",
+                    "index": 66
+                },
+                {
+                    "string": "retdlc37",
+                    "index": 67
+                },
+                {
+                    "string": "retdlc38",
+                    "index": 68
+                },
+                {
+                    "string": "retdlc39",
+                    "index": 69
+                },
+                {
+                    "string": "retdlc40",
+                    "index": 70
+                }
+            ]
+        },
+        {
+            "entryCount": 91,
+            "reservedEntryCount": 104,
+            "entries": [
+                {
+                    "string": "none",
+                    "index": 0
+                },
+                {
+                    "string": "c4_mp",
+                    "index": 1
+                },
+                {
+                    "string": "claymore_mp",
+                    "index": 2
+                },
+                {
+                    "string": "throwingknife_mp",
+                    "index": 8
+                },
+                {
+                    "string": "semtex_mp",
+                    "index": 6
+                },
+                {
+                    "string": "frag_grenade_mp",
+                    "index": 3
+                },
+                {
+                    "string": "thermobaric_grenade_mp",
+                    "index": 7
+                },
+                {
+                    "string": "mortar_shell_mp",
+                    "index": 4
+                },
+                {
+                    "string": "proximity_explosive_mp",
+                    "index": 5
+                },
+                {
+                    "string": "motion_sensor_mp",
+                    "index": 12
+                },
+                {
+                    "string": "flash_grenade_mp",
+                    "index": 11
+                },
+                {
+                    "string": "smoke_grenade_mp",
+                    "index": 13
+                },
+                {
+                    "string": "concussion_grenade_mp",
+                    "index": 9
+                },
+                {
+                    "string": "trophy_mp",
+                    "index": 14
+                },
+                {
+                    "string": "emp_grenade_mp",
+                    "index": 10
+                },
+                {
+                    "string": "frag_scavenger_grenade",
+                    "index": 15
+                },
+                {
+                    "string": "uav",
+                    "index": 16
+                },
+                {
+                    "string": "directional_uav",
+                    "index": 17
+                },
+                {
+                    "string": "laser_designator",
+                    "index": 18
+                },
+                {
+                    "string": "manned_minigun_turret",
+                    "index": 19
+                },
+                {
+                    "string": "manned_gl_turret",
+                    "index": 20
+                },
+                {
+                    "string": "manned_littlebird_minigun",
+                    "index": 21
+                },
+                {
+                    "string": "manned_littlebird_sniper",
+                    "index": 22
+                },
+                {
+                    "string": "uav_remote_mp",
+                    "index": 23
+                },
+                {
+                    "string": "mortar_remote_mp",
+                    "index": 24
+                },
+                {
+                    "string": "mortar_remote_zoom_mp",
+                    "index": 25
+                },
+                {
+                    "string": "specialty_tacticalinsertion",
+                    "index": 26
+                },
+                {
+                    "string": "specialty_scrambler",
+                    "index": 27
+                },
+                {
+                    "string": "specialty_portable_radar",
+                    "index": 28
+                },
+                {
+                    "string": "uav_3dping",
+                    "index": 29
+                },
+                {
+                    "string": "iw6_m9a1",
+                    "index": 30
+                },
+                {
+                    "string": "iw6_p226",
+                    "index": 31
+                },
+                {
+                    "string": "iw6_mp443",
+                    "index": 32
+                },
+                {
+                    "string": "iw6_magnum",
+                    "index": 33
+                },
+                {
+                    "string": "iw6_magnumhorde",
+                    "index": 34
+                },
+                {
+                    "string": "iw6_cbjms",
+                    "index": 35
+                },
+                {
+                    "string": "iw6_pp19",
+                    "index": 36
+                },
+                {
+                    "string": "iw6_vepr",
+                    "index": 37
+                },
+                {
+                    "string": "iw6_kriss",
+                    "index": 38
+                },
+                {
+                    "string": "iw6_microtar",
+                    "index": 39
+                },
+                {
+                    "string": "iw6_k7",
+                    "index": 40
+                },
+                {
+                    "string": "iw6_pdw",
+                    "index": 41
+                },
+                {
+                    "string": "iw6_bren",
+                    "index": 42
+                },
+                {
+                    "string": "iw6_ak12",
+                    "index": 43
+                },
+                {
+                    "string": "iw6_sc2010",
+                    "index": 44
+                },
+                {
+                    "string": "iw6_honeybadger",
+                    "index": 45
+                },
+                {
+                    "string": "iw6_arx160",
+                    "index": 46
+                },
+                {
+                    "string": "iw6_fads",
+                    "index": 47
+                },
+                {
+                    "string": "iw6_msbs",
+                    "index": 48
+                },
+                {
+                    "string": "iw6_r5rgp",
+                    "index": 49
+                },
+                {
+                    "string": "iw6_mk32",
+                    "index": 50
+                },
+                {
+                    "string": "iw6_rgm",
+                    "index": 51
+                },
+                {
+                    "string": "iw6_panzerfaust3",
+                    "index": 52
+                },
+                {
+                    "string": "iw6_vks",
+                    "index": 53
+                },
+                {
+                    "string": "iw6_l115a3",
+                    "index": 54
+                },
+                {
+                    "string": "iw6_usr",
+                    "index": 55
+                },
+                {
+                    "string": "iw6_gm6",
+                    "index": 56
+                },
+                {
+                    "string": "iw6_imbel",
+                    "index": 57
+                },
+                {
+                    "string": "iw6_g28",
+                    "index": 58
+                },
+                {
+                    "string": "iw6_mk14",
+                    "index": 59
+                },
+                {
+                    "string": "iw6_svu",
+                    "index": 60
+                },
+                {
+                    "string": "iw6_mts255",
+                    "index": 61
+                },
+                {
+                    "string": "iw6_fp6",
+                    "index": 62
+                },
+                {
+                    "string": "iw6_maul",
+                    "index": 63
+                },
+                {
+                    "string": "iw6_uts15",
+                    "index": 64
+                },
+                {
+                    "string": "iw6_m27",
+                    "index": 65
+                },
+                {
+                    "string": "iw6_ameli",
+                    "index": 66
+                },
+                {
+                    "string": "iw6_lsat",
+                    "index": 67
+                },
+                {
+                    "string": "iw6_kac",
+                    "index": 68
+                },
+                {
+                    "string": "iw6_minigun",
+                    "index": 69
+                },
+                {
+                    "string": "iw6_riotshield",
+                    "index": 70
+                },
+                {
+                    "string": "iw6_knifeonly",
+                    "index": 71
+                },
+                {
+                    "string": "guard_dog_mp",
+                    "index": 72
+                },
+                {
+                    "string": "alienaxe",
+                    "index": 73
+                },
+                {
+                    "string": "deployable_ammo_mp",
+                    "index": 74
+                },
+                {
+                    "string": "deployable_grenades_mp",
+                    "index": 75
+                },
+                {
+                    "string": "a10_30mm_turret_mp",
+                    "index": 76
+                },
+                {
+                    "string": "maverick_projectile_mp",
+                    "index": 77
+                },
+                {
+                    "string": "heli_pilot_turret_mp",
+                    "index": 78
+                },
+                {
+                    "string": "killstreak_uplink",
+                    "index": 79
+                },
+                {
+                    "string": "aamissile_projectile_mp",
+                    "index": 80
+                },
+                {
+                    "string": "odin_projectile_large_rod_mp",
+                    "index": 81
+                },
+                {
+                    "string": "odin_projectile_small_rod_mp",
+                    "index": 82
+                },
+                {
+                    "string": "iw6_gm6helisnipe",
+                    "index": 83
+                },
+                {
+                    "string": "remote_mortar_missile",
+                    "index": 84
+                },
+                {
+                    "string": "remote_turret_mp",
+                    "index": 85
+                },
+                {
+                    "string": "turret_remote_mp",
+                    "index": 86
+                },
+                {
+                    "string": "iw6_dlcweap01",
+                    "index": 87
+                },
+                {
+                    "string": "iw6_dlcweap02",
+                    "index": 88
+                },
+                {
+                    "string": "iw6_dlcweap03",
+                    "index": 89
+                },
+                {
+                    "string": "iw6_dlcweap04",
+                    "index": 90
+                }
+            ]
+        },
+        {
+            "entryCount": 561,
+            "reservedEntryCount": 565,
+            "entries": [
+                {
+                    "string": "ch_prestiged",
+                    "index": 0
+                },
+                {
+                    "string": "ch_uplink_purchase",
+                    "index": 1
+                },
+                {
+                    "string": "ch_ims_purchase",
+                    "index": 2
+                },
+                {
+                    "string": "ch_guard_dog_purchase",
+                    "index": 3
+                },
+                {
+                    "string": "ch_drone_hive_purchase",
+                    "index": 4
+                },
+                {
+                    "string": "ch_sentry_purchase",
+                    "index": 5
+                },
+                {
+                    "string": "ch_helicopter_purchase",
+                    "index": 6
+                },
+                {
+                    "string": "ch_ball_drone_backup_purchase",
+                    "index": 7
+                },
+                {
+                    "string": "ch_vanguard_purchase",
+                    "index": 8
+                },
+                {
+                    "string": "ch_airdrop_juggernaut_maniac_purchase",
+                    "index": 9
+                },
+                {
+                    "string": "ch_airdrop_juggernaut_purchase",
+                    "index": 10
+                },
+                {
+                    "string": "ch_heli_pilot_purchase",
+                    "index": 11
+                },
+                {
+                    "string": "ch_odin_assault_purchase",
+                    "index": 12
+                },
+                {
+                    "string": "ch_uplink_support_purchase",
+                    "index": 13
+                },
+                {
+                    "string": "ch_deployable_vest_purchase",
+                    "index": 14
+                },
+                {
+                    "string": "ch_ball_drone_radar_purchase",
+                    "index": 15
+                },
+                {
+                    "string": "ch_aa_launcher_purchase",
+                    "index": 16
+                },
+                {
+                    "string": "ch_jammer_purchase",
+                    "index": 17
+                },
+                {
+                    "string": "ch_air_superiority_purchase",
+                    "index": 18
+                },
+                {
+                    "string": "ch_recon_agent_purchase",
+                    "index": 19
+                },
+                {
+                    "string": "ch_heli_sniper_purchase",
+                    "index": 20
+                },
+                {
+                    "string": "ch_uav_3dping_purchase",
+                    "index": 21
+                },
+                {
+                    "string": "ch_airdrop_juggernaut_recon_purchase",
+                    "index": 22
+                },
+                {
+                    "string": "ch_odin_support_purchase",
+                    "index": 23
+                },
+                {
+                    "string": "ch_deployable_ammo_purchase",
+                    "index": 24
+                },
+                {
+                    "string": "ch_specialty_fastsprintrecovery_purchase",
+                    "index": 25
+                },
+                {
+                    "string": "ch_specialty_fastreload_purchase",
+                    "index": 26
+                },
+                {
+                    "string": "ch_specialty_lightweight_purchase",
+                    "index": 27
+                },
+                {
+                    "string": "ch_specialty_marathon_purchase",
+                    "index": 28
+                },
+                {
+                    "string": "ch_specialty_stalker_purchase",
+                    "index": 29
+                },
+                {
+                    "string": "ch_specialty_reducedsway_purchase",
+                    "index": 30
+                },
+                {
+                    "string": "ch_specialty_quickswap_purchase",
+                    "index": 31
+                },
+                {
+                    "string": "ch_specialty_pitcher_purchase",
+                    "index": 32
+                },
+                {
+                    "string": "ch_specialty_bulletaccuracy_purchase",
+                    "index": 33
+                },
+                {
+                    "string": "ch_specialty_quickdraw_purchase",
+                    "index": 34
+                },
+                {
+                    "string": "ch_specialty_sprintreload_purchase",
+                    "index": 35
+                },
+                {
+                    "string": "ch_specialty_silentkill_purchase",
+                    "index": 36
+                },
+                {
+                    "string": "ch_specialty_blindeye_purchase",
+                    "index": 37
+                },
+                {
+                    "string": "ch_specialty_gpsjammer_purchase",
+                    "index": 38
+                },
+                {
+                    "string": "ch_specialty_quieter_purchase",
+                    "index": 39
+                },
+                {
+                    "string": "ch_specialty_incog_purchase",
+                    "index": 40
+                },
+                {
+                    "string": "ch_specialty_paint_purchase",
+                    "index": 41
+                },
+                {
+                    "string": "ch_specialty_scavenger_purchase",
+                    "index": 42
+                },
+                {
+                    "string": "ch_specialty_detectexplosive_purchase",
+                    "index": 43
+                },
+                {
+                    "string": "ch_specialty_selectivehearing_purchase",
+                    "index": 44
+                },
+                {
+                    "string": "ch_specialty_comexp_purchase",
+                    "index": 45
+                },
+                {
+                    "string": "ch_specialty_falldamage_purchase",
+                    "index": 46
+                },
+                {
+                    "string": "ch_specialty_regenfaster_purchase",
+                    "index": 47
+                },
+                {
+                    "string": "ch_specialty_sharp_focus_purchase",
+                    "index": 48
+                },
+                {
+                    "string": "ch_specialty_stun_resistance_purchase",
+                    "index": 49
+                },
+                {
+                    "string": "ch__specialty_blastshield_purchase",
+                    "index": 50
+                },
+                {
+                    "string": "ch_specialty_gunsmith_purchase",
+                    "index": 51
+                },
+                {
+                    "string": "ch_specialty_extraammo_purchase",
+                    "index": 52
+                },
+                {
+                    "string": "ch_specialty_extra_equipment_purchase",
+                    "index": 53
+                },
+                {
+                    "string": "ch_specialty_extra_deadly_purchase",
+                    "index": 54
+                },
+                {
+                    "string": "ch_specialty_extra_attachment_purchase",
+                    "index": 55
+                },
+                {
+                    "string": "ch_specialty_explosivedamage_purchase",
+                    "index": 56
+                },
+                {
+                    "string": "ch_specialty_gambler_purchase",
+                    "index": 57
+                },
+                {
+                    "string": "ch_specialty_hardline_purchase",
+                    "index": 58
+                },
+                {
+                    "string": "ch_specialty_twoprimaries_purchase",
+                    "index": 59
+                },
+                {
+                    "string": "ch_specialty_boom_purchase",
+                    "index": 60
+                },
+                {
+                    "string": "ch_specialty_deadeye_purchase",
+                    "index": 61
+                },
+                {
+                    "string": "ch_riotshield_purchase",
+                    "index": 62
+                },
+                {
+                    "string": "ch_m9a1_purchase",
+                    "index": 63
+                },
+                {
+                    "string": "ch_p226_purchase",
+                    "index": 64
+                },
+                {
+                    "string": "ch_mp443_purchase",
+                    "index": 65
+                },
+                {
+                    "string": "ch_magnum_purchase",
+                    "index": 66
+                },
+                {
+                    "string": "ch_pdw_purchase",
+                    "index": 67
+                },
+                {
+                    "string": "ch_kriss_purchase",
+                    "index": 68
+                },
+                {
+                    "string": "ch_pp19_purchase",
+                    "index": 69
+                },
+                {
+                    "string": "ch_vepr_purchase",
+                    "index": 70
+                },
+                {
+                    "string": "ch_microtar_purchase",
+                    "index": 71
+                },
+                {
+                    "string": "ch_cbjms_purchase",
+                    "index": 72
+                },
+                {
+                    "string": "ch_k7_purchase",
+                    "index": 73
+                },
+                {
+                    "string": "ch_knifeonly_purchase",
+                    "index": 74
+                },
+                {
+                    "string": "ch_bren_purchase",
+                    "index": 75
+                },
+                {
+                    "string": "ch_ak12_purchase",
+                    "index": 76
+                },
+                {
+                    "string": "ch_sc2010_purchase",
+                    "index": 77
+                },
+                {
+                    "string": "ch_honeybadger_purchase",
+                    "index": 78
+                },
+                {
+                    "string": "ch_arx160_purchase",
+                    "index": 79
+                },
+                {
+                    "string": "ch_fads_purchase",
+                    "index": 80
+                },
+                {
+                    "string": "ch_msbs_purchase",
+                    "index": 81
+                },
+                {
+                    "string": "ch_r5rgp_purchase",
+                    "index": 82
+                },
+                {
+                    "string": "ch_mk32_purchase",
+                    "index": 83
+                },
+                {
+                    "string": "ch_rgm_purchase",
+                    "index": 84
+                },
+                {
+                    "string": "ch_panzerfaust3_purchase",
+                    "index": 85
+                },
+                {
+                    "string": "ch_vks_purchase",
+                    "index": 86
+                },
+                {
+                    "string": "ch_l115a3_purchase",
+                    "index": 87
+                },
+                {
+                    "string": "ch_usr_purchase",
+                    "index": 88
+                },
+                {
+                    "string": "ch_gm6_purchase",
+                    "index": 89
+                },
+                {
+                    "string": "ch_imbel_purchase",
+                    "index": 90
+                },
+                {
+                    "string": "ch_g28_purchase",
+                    "index": 91
+                },
+                {
+                    "string": "ch_mk14_purchase",
+                    "index": 92
+                },
+                {
+                    "string": "ch_svu_purchase",
+                    "index": 93
+                },
+                {
+                    "string": "ch_mts255_purchase",
+                    "index": 94
+                },
+                {
+                    "string": "ch_fp6_purchase",
+                    "index": 95
+                },
+                {
+                    "string": "ch_maul_purchase",
+                    "index": 96
+                },
+                {
+                    "string": "ch_uts15_purchase",
+                    "index": 97
+                },
+                {
+                    "string": "ch_m27_purchase",
+                    "index": 98
+                },
+                {
+                    "string": "ch_ameli_purchase",
+                    "index": 99
+                },
+                {
+                    "string": "ch_kac_purchase",
+                    "index": 100
+                },
+                {
+                    "string": "ch_lsat_purchase",
+                    "index": 101
+                },
+                {
+                    "string": "ch_c4_mp_purchase",
+                    "index": 102
+                },
+                {
+                    "string": "ch_frag_grenade_mp_purchase",
+                    "index": 103
+                },
+                {
+                    "string": "ch_mortar_shell_mp_purchase",
+                    "index": 104
+                },
+                {
+                    "string": "ch_proximity_explosive_mp_purchase",
+                    "index": 105
+                },
+                {
+                    "string": "ch_semtex_mp_purchase",
+                    "index": 106
+                },
+                {
+                    "string": "ch_throwingknife_mp_purchase",
+                    "index": 107
+                },
+                {
+                    "string": "ch_concussion_grenade_mp_purchase",
+                    "index": 108
+                },
+                {
+                    "string": "ch_flash_grenade_mp_purchase",
+                    "index": 109
+                },
+                {
+                    "string": "ch_motion_sensor_mp_purchase",
+                    "index": 110
+                },
+                {
+                    "string": "ch_smoke_grenade_mp_purchase",
+                    "index": 111
+                },
+                {
+                    "string": "ch_thermobaric_grenade_mp_purchase",
+                    "index": 112
+                },
+                {
+                    "string": "ch_trophy_mp_purchase",
+                    "index": 113
+                },
+                {
+                    "string": "ch_riotshield_rshieldspikes_purchase",
+                    "index": 114
+                },
+                {
+                    "string": "ch_riotshield_rshieldradar_purchase",
+                    "index": 115
+                },
+                {
+                    "string": "ch_riotshield_rshieldscrambler_purchase",
+                    "index": 116
+                },
+                {
+                    "string": "ch_m9a1_akimbo_purchase",
+                    "index": 117
+                },
+                {
+                    "string": "ch_m9a1_barrelrange_purchase",
+                    "index": 118
+                },
+                {
+                    "string": "ch_m9a1_flashsuppress_purchase",
+                    "index": 119
+                },
+                {
+                    "string": "ch_m9a1_fmj_purchase",
+                    "index": 120
+                },
+                {
+                    "string": "ch_m9a1_silencer_purchase",
+                    "index": 121
+                },
+                {
+                    "string": "ch_m9a1_tactical_purchase",
+                    "index": 122
+                },
+                {
+                    "string": "ch_m9a1_xmags_purchase",
+                    "index": 123
+                },
+                {
+                    "string": "ch_p226_akimbo_purchase",
+                    "index": 124
+                },
+                {
+                    "string": "ch_p226_barrelrange_purchase",
+                    "index": 125
+                },
+                {
+                    "string": "ch_p226_flashsuppress_purchase",
+                    "index": 126
+                },
+                {
+                    "string": "ch_p226_fmj_purchase",
+                    "index": 127
+                },
+                {
+                    "string": "ch_p226_silencer_purchase",
+                    "index": 128
+                },
+                {
+                    "string": "ch_p226_tactical_purchase",
+                    "index": 129
+                },
+                {
+                    "string": "ch_p226_xmags_purchase",
+                    "index": 130
+                },
+                {
+                    "string": "ch_mp443_akimbo_purchase",
+                    "index": 131
+                },
+                {
+                    "string": "ch_mp443_barrelrange_purchase",
+                    "index": 132
+                },
+                {
+                    "string": "ch_mp443_flashsuppress_purchase",
+                    "index": 133
+                },
+                {
+                    "string": "ch_mp443_fmj_purchase",
+                    "index": 134
+                },
+                {
+                    "string": "ch_mp443_silencer_purchase",
+                    "index": 135
+                },
+                {
+                    "string": "ch_mp443_tactical_purchase",
+                    "index": 136
+                },
+                {
+                    "string": "ch_mp443_xmags_purchase",
+                    "index": 137
+                },
+                {
+                    "string": "ch_magnum_akimbo_purchase",
+                    "index": 138
+                },
+                {
+                    "string": "ch_magnum_barrelrange_purchase",
+                    "index": 139
+                },
+                {
+                    "string": "ch_magnum_flashsuppress_purchase",
+                    "index": 140
+                },
+                {
+                    "string": "ch_magnum_fmj_purchase",
+                    "index": 141
+                },
+                {
+                    "string": "ch_magnum_silencer_purchase",
+                    "index": 142
+                },
+                {
+                    "string": "ch_magnum_tactical_purchase",
+                    "index": 143
+                },
+                {
+                    "string": "ch_magnum_acog_purchase",
+                    "index": 144
+                },
+                {
+                    "string": "ch_pdw_barrelrange_purchase",
+                    "index": 145
+                },
+                {
+                    "string": "ch_pdw_flashsuppress_purchase",
+                    "index": 146
+                },
+                {
+                    "string": "ch_pdw_fmj_purchase",
+                    "index": 147
+                },
+                {
+                    "string": "ch_pdw_silencer_purchase",
+                    "index": 148
+                },
+                {
+                    "string": "ch_pdw_tactical_purchase",
+                    "index": 149
+                },
+                {
+                    "string": "ch_pdw_xmags_purchase",
+                    "index": 150
+                },
+                {
+                    "string": "ch_pdw_acog_purchase",
+                    "index": 151
+                },
+                {
+                    "string": "ch_pdw_eotech_purchase",
+                    "index": 152
+                },
+                {
+                    "string": "ch_pdw_reflex_purchase",
+                    "index": 153
+                },
+                {
+                    "string": "ch_kriss_acog_purchase",
+                    "index": 154
+                },
+                {
+                    "string": "ch_kriss_barrelrange_purchase",
+                    "index": 155
+                },
+                {
+                    "string": "ch_kriss_eotech_purchase",
+                    "index": 156
+                },
+                {
+                    "string": "ch_kriss_flashsuppress_purchase",
+                    "index": 157
+                },
+                {
+                    "string": "ch_kriss_fmj_purchase",
+                    "index": 158
+                },
+                {
+                    "string": "ch_kriss_grip_purchase",
+                    "index": 159
+                },
+                {
+                    "string": "ch_kriss_hybrid_purchase",
+                    "index": 160
+                },
+                {
+                    "string": "ch_kriss_reflex_purchase",
+                    "index": 161
+                },
+                {
+                    "string": "ch_kriss_rof_purchase",
+                    "index": 162
+                },
+                {
+                    "string": "ch_kriss_silencer_purchase",
+                    "index": 163
+                },
+                {
+                    "string": "ch_kriss_thermal_purchase",
+                    "index": 164
+                },
+                {
+                    "string": "ch_kriss_tracker_purchase",
+                    "index": 165
+                },
+                {
+                    "string": "ch_kriss_xmags_purchase",
+                    "index": 166
+                },
+                {
+                    "string": "ch_pp19_acog_purchase",
+                    "index": 167
+                },
+                {
+                    "string": "ch_pp19_barrelrange_purchase",
+                    "index": 168
+                },
+                {
+                    "string": "ch_pp19_eotech_purchase",
+                    "index": 169
+                },
+                {
+                    "string": "ch_pp19_flashsuppress_purchase",
+                    "index": 170
+                },
+                {
+                    "string": "ch_pp19_fmj_purchase",
+                    "index": 171
+                },
+                {
+                    "string": "ch_pp19_grip_purchase",
+                    "index": 172
+                },
+                {
+                    "string": "ch_pp19_hybrid_purchase",
+                    "index": 173
+                },
+                {
+                    "string": "ch_pp19_reflex_purchase",
+                    "index": 174
+                },
+                {
+                    "string": "ch_pp19_rof_purchase",
+                    "index": 175
+                },
+                {
+                    "string": "ch_pp19_silencer_purchase",
+                    "index": 176
+                },
+                {
+                    "string": "ch_pp19_thermal_purchase",
+                    "index": 177
+                },
+                {
+                    "string": "ch_pp19_tracker_purchase",
+                    "index": 178
+                },
+                {
+                    "string": "ch_pp19_xmags_purchase",
+                    "index": 179
+                },
+                {
+                    "string": "ch_vepr_acog_purchase",
+                    "index": 180
+                },
+                {
+                    "string": "ch_vepr_barrelrange_purchase",
+                    "index": 181
+                },
+                {
+                    "string": "ch_vepr_eotech_purchase",
+                    "index": 182
+                },
+                {
+                    "string": "ch_vepr_flashsuppress_purchase",
+                    "index": 183
+                },
+                {
+                    "string": "ch_vepr_fmj_purchase",
+                    "index": 184
+                },
+                {
+                    "string": "ch_vepr_grip_purchase",
+                    "index": 185
+                },
+                {
+                    "string": "ch_vepr_hybrid_purchase",
+                    "index": 186
+                },
+                {
+                    "string": "ch_vepr_reflex_purchase",
+                    "index": 187
+                },
+                {
+                    "string": "ch_vepr_rof_purchase",
+                    "index": 188
+                },
+                {
+                    "string": "ch_vepr_silencer_purchase",
+                    "index": 189
+                },
+                {
+                    "string": "ch_vepr_thermal_purchase",
+                    "index": 190
+                },
+                {
+                    "string": "ch_vepr_tracker_purchase",
+                    "index": 191
+                },
+                {
+                    "string": "ch_vepr_xmags_purchase",
+                    "index": 192
+                },
+                {
+                    "string": "ch_microtar_acog_purchase",
+                    "index": 193
+                },
+                {
+                    "string": "ch_microtar_barrelrange_purchase",
+                    "index": 194
+                },
+                {
+                    "string": "ch_microtar_eotech_purchase",
+                    "index": 195
+                },
+                {
+                    "string": "ch_microtar_flashsuppress_purchase",
+                    "index": 196
+                },
+                {
+                    "string": "ch_microtar_fmj_purchase",
+                    "index": 197
+                },
+                {
+                    "string": "ch_microtar_grip_purchase",
+                    "index": 198
+                },
+                {
+                    "string": "ch_microtar_hybrid_purchase",
+                    "index": 199
+                },
+                {
+                    "string": "ch_microtar_reflex_purchase",
+                    "index": 200
+                },
+                {
+                    "string": "ch_microtar_rof_purchase",
+                    "index": 201
+                },
+                {
+                    "string": "ch_microtar_silencer_purchase",
+                    "index": 202
+                },
+                {
+                    "string": "ch_microtar_thermal_purchase",
+                    "index": 203
+                },
+                {
+                    "string": "ch_microtar_tracker_purchase",
+                    "index": 204
+                },
+                {
+                    "string": "ch_microtar_xmags_purchase",
+                    "index": 205
+                },
+                {
+                    "string": "ch_cbjms_acog_purchase",
+                    "index": 206
+                },
+                {
+                    "string": "ch_cbjms_barrelrange_purchase",
+                    "index": 207
+                },
+                {
+                    "string": "ch_cbjms_eotech_purchase",
+                    "index": 208
+                },
+                {
+                    "string": "ch_cbjms_flashsuppress_purchase",
+                    "index": 209
+                },
+                {
+                    "string": "ch_cbjms_fmj_purchase",
+                    "index": 210
+                },
+                {
+                    "string": "ch_cbjms_grip_purchase",
+                    "index": 211
+                },
+                {
+                    "string": "ch_cbjms_hybrid_purchase",
+                    "index": 212
+                },
+                {
+                    "string": "ch_cbjms_reflex_purchase",
+                    "index": 213
+                },
+                {
+                    "string": "ch_cbjms_rof_purchase",
+                    "index": 214
+                },
+                {
+                    "string": "ch_cbjms_silencer_purchase",
+                    "index": 215
+                },
+                {
+                    "string": "ch_cbjms_thermal_purchase",
+                    "index": 216
+                },
+                {
+                    "string": "ch_cbjms_tracker_purchase",
+                    "index": 217
+                },
+                {
+                    "string": "ch_cbjms_xmags_purchase",
+                    "index": 218
+                },
+                {
+                    "string": "ch_k7_acog_purchase",
+                    "index": 219
+                },
+                {
+                    "string": "ch_k7_eotech_purchase",
+                    "index": 220
+                },
+                {
+                    "string": "ch_k7_fmj_purchase",
+                    "index": 221
+                },
+                {
+                    "string": "ch_k7_grip_purchase",
+                    "index": 222
+                },
+                {
+                    "string": "ch_k7_hybrid_purchase",
+                    "index": 223
+                },
+                {
+                    "string": "ch_k7_reflex_purchase",
+                    "index": 224
+                },
+                {
+                    "string": "ch_k7_rof_purchase",
+                    "index": 225
+                },
+                {
+                    "string": "ch_k7_thermal_purchase",
+                    "index": 226
+                },
+                {
+                    "string": "ch_k7_xmags_purchase",
+                    "index": 227
+                },
+                {
+                    "string": "ch_bren_barrelrange_purchase",
+                    "index": 228
+                },
+                {
+                    "string": "ch_bren_acog_purchase",
+                    "index": 229
+                },
+                {
+                    "string": "ch_bren_eotech_purchase",
+                    "index": 230
+                },
+                {
+                    "string": "ch_bren_firetypeburst_purchase",
+                    "index": 231
+                },
+                {
+                    "string": "ch_bren_firetypesingle_purchase",
+                    "index": 232
+                },
+                {
+                    "string": "ch_bren_flashsuppress_purchase",
+                    "index": 233
+                },
+                {
+                    "string": "ch_bren_fmj_purchase",
+                    "index": 234
+                },
+                {
+                    "string": "ch_bren_gl_purchase",
+                    "index": 235
+                },
+                {
+                    "string": "ch_bren_grip_purchase",
+                    "index": 236
+                },
+                {
+                    "string": "ch_bren_hybrid_purchase",
+                    "index": 237
+                },
+                {
+                    "string": "ch_bren_reflex_purchase",
+                    "index": 238
+                },
+                {
+                    "string": "ch_bren_shotgun_purchase",
+                    "index": 239
+                },
+                {
+                    "string": "ch_bren_silencer_purchase",
+                    "index": 240
+                },
+                {
+                    "string": "ch_bren_thermal_purchase",
+                    "index": 241
+                },
+                {
+                    "string": "ch_bren_tracker_purchase",
+                    "index": 242
+                },
+                {
+                    "string": "ch_bren_xmags_purchase",
+                    "index": 243
+                },
+                {
+                    "string": "ch_ak12_barrelrange_purchase",
+                    "index": 244
+                },
+                {
+                    "string": "ch_ak12_acog_purchase",
+                    "index": 245
+                },
+                {
+                    "string": "ch_ak12_eotech_purchase",
+                    "index": 246
+                },
+                {
+                    "string": "ch_ak12_firetypeburst_purchase",
+                    "index": 247
+                },
+                {
+                    "string": "ch_ak12_firetypesingle_purchase",
+                    "index": 248
+                },
+                {
+                    "string": "ch_ak12_flashsuppress_purchase",
+                    "index": 249
+                },
+                {
+                    "string": "ch_ak12_fmj_purchase",
+                    "index": 250
+                },
+                {
+                    "string": "ch_ak12_gl_purchase",
+                    "index": 251
+                },
+                {
+                    "string": "ch_ak12_grip_purchase",
+                    "index": 252
+                },
+                {
+                    "string": "ch_ak12_hybrid_purchase",
+                    "index": 253
+                },
+                {
+                    "string": "ch_ak12_reflex_purchase",
+                    "index": 254
+                },
+                {
+                    "string": "ch_ak12_shotgun_purchase",
+                    "index": 255
+                },
+                {
+                    "string": "ch_ak12_silencer_purchase",
+                    "index": 256
+                },
+                {
+                    "string": "ch_ak12_thermal_purchase",
+                    "index": 257
+                },
+                {
+                    "string": "ch_ak12_tracker_purchase",
+                    "index": 258
+                },
+                {
+                    "string": "ch_ak12_xmags_purchase",
+                    "index": 259
+                },
+                {
+                    "string": "ch_sc2010_barrelrange_purchase",
+                    "index": 260
+                },
+                {
+                    "string": "ch_sc2010_acog_purchase",
+                    "index": 261
+                },
+                {
+                    "string": "ch_sc2010_eotech_purchase",
+                    "index": 262
+                },
+                {
+                    "string": "ch_sc2010_firetypeburst_purchase",
+                    "index": 263
+                },
+                {
+                    "string": "ch_sc2010_firetypesingle_purchase",
+                    "index": 264
+                },
+                {
+                    "string": "ch_sc2010_flashsuppress_purchase",
+                    "index": 265
+                },
+                {
+                    "string": "ch_sc2010_fmj_purchase",
+                    "index": 266
+                },
+                {
+                    "string": "ch_sc2010_gl_purchase",
+                    "index": 267
+                },
+                {
+                    "string": "ch_sc2010_grip_purchase",
+                    "index": 268
+                },
+                {
+                    "string": "ch_sc2010_hybrid_purchase",
+                    "index": 269
+                },
+                {
+                    "string": "ch_sc2010_reflex_purchase",
+                    "index": 270
+                },
+                {
+                    "string": "ch_sc2010_shotgun_purchase",
+                    "index": 271
+                },
+                {
+                    "string": "ch_sc2010_silencer_purchase",
+                    "index": 272
+                },
+                {
+                    "string": "ch_sc2010_thermal_purchase",
+                    "index": 273
+                },
+                {
+                    "string": "ch_sc2010_tracker_purchase",
+                    "index": 274
+                },
+                {
+                    "string": "ch_sc2010_xmags_purchase",
+                    "index": 275
+                },
+                {
+                    "string": "ch_honeybadger_acog_purchase",
+                    "index": 276
+                },
+                {
+                    "string": "ch_honeybadger_eotech_purchase",
+                    "index": 277
+                },
+                {
+                    "string": "ch_honeybadger_firetypeburst_purchase",
+                    "index": 278
+                },
+                {
+                    "string": "ch_honeybadger_firetypesingle_purchase",
+                    "index": 279
+                },
+                {
+                    "string": "ch_honeybadger_fmj_purchase",
+                    "index": 280
+                },
+                {
+                    "string": "ch_honeybadger_gl_purchase",
+                    "index": 281
+                },
+                {
+                    "string": "ch_honeybadger_grip_purchase",
+                    "index": 282
+                },
+                {
+                    "string": "ch_honeybadger_hybrid_purchase",
+                    "index": 283
+                },
+                {
+                    "string": "ch_honeybadger_reflex_purchase",
+                    "index": 284
+                },
+                {
+                    "string": "ch_honeybadger_shotgun_purchase",
+                    "index": 285
+                },
+                {
+                    "string": "ch_honeybadger_thermal_purchase",
+                    "index": 286
+                },
+                {
+                    "string": "ch_honeybadger_tracker_purchase",
+                    "index": 287
+                },
+                {
+                    "string": "ch_honeybadger_xmags_purchase",
+                    "index": 288
+                },
+                {
+                    "string": "ch_arx160_barrelrange_purchase",
+                    "index": 289
+                },
+                {
+                    "string": "ch_arx160_acog_purchase",
+                    "index": 290
+                },
+                {
+                    "string": "ch_arx160_eotech_purchase",
+                    "index": 291
+                },
+                {
+                    "string": "ch_arx160_firetypeburst_purchase",
+                    "index": 292
+                },
+                {
+                    "string": "ch_arx160_firetypesingle_purchase",
+                    "index": 293
+                },
+                {
+                    "string": "ch_arx160_flashsuppress_purchase",
+                    "index": 294
+                },
+                {
+                    "string": "ch_arx160_fmj_purchase",
+                    "index": 295
+                },
+                {
+                    "string": "ch_arx160_gl_purchase",
+                    "index": 296
+                },
+                {
+                    "string": "ch_arx160_grip_purchase",
+                    "index": 297
+                },
+                {
+                    "string": "ch_arx160_hybrid_purchase",
+                    "index": 298
+                },
+                {
+                    "string": "ch_arx160_reflex_purchase",
+                    "index": 299
+                },
+                {
+                    "string": "ch_arx160_shotgun_purchase",
+                    "index": 300
+                },
+                {
+                    "string": "ch_arx160_silencer_purchase",
+                    "index": 301
+                },
+                {
+                    "string": "ch_arx160_thermal_purchase",
+                    "index": 302
+                },
+                {
+                    "string": "ch_arx160_tracker_purchase",
+                    "index": 303
+                },
+                {
+                    "string": "ch_arx160_xmags_purchase",
+                    "index": 304
+                },
+                {
+                    "string": "ch_fads_barrelrange_purchase",
+                    "index": 305
+                },
+                {
+                    "string": "ch_fads_acog_purchase",
+                    "index": 306
+                },
+                {
+                    "string": "ch_fads_eotech_purchase",
+                    "index": 307
+                },
+                {
+                    "string": "ch_fads_firetypeburst_purchase",
+                    "index": 308
+                },
+                {
+                    "string": "ch_fads_firetypesingle_purchase",
+                    "index": 309
+                },
+                {
+                    "string": "ch_fads_flashsuppress_purchase",
+                    "index": 310
+                },
+                {
+                    "string": "ch_fads_fmj_purchase",
+                    "index": 311
+                },
+                {
+                    "string": "ch_fads_gl_purchase",
+                    "index": 312
+                },
+                {
+                    "string": "ch_fads_grip_purchase",
+                    "index": 313
+                },
+                {
+                    "string": "ch_fads_hybrid_purchase",
+                    "index": 314
+                },
+                {
+                    "string": "ch_fads_reflex_purchase",
+                    "index": 315
+                },
+                {
+                    "string": "ch_fads_shotgun_purchase",
+                    "index": 316
+                },
+                {
+                    "string": "ch_fads_silencer_purchase",
+                    "index": 317
+                },
+                {
+                    "string": "ch_fads_thermal_purchase",
+                    "index": 318
+                },
+                {
+                    "string": "ch_fads_tracker_purchase",
+                    "index": 319
+                },
+                {
+                    "string": "ch_fads_xmags_purchase",
+                    "index": 320
+                },
+                {
+                    "string": "ch_msbs_barrelrange_purchase",
+                    "index": 321
+                },
+                {
+                    "string": "ch_msbs_acog_purchase",
+                    "index": 322
+                },
+                {
+                    "string": "ch_msbs_eotech_purchase",
+                    "index": 323
+                },
+                {
+                    "string": "ch_msbs_firetypeauto_purchase",
+                    "index": 324
+                },
+                {
+                    "string": "ch_msbs_firetypesingle_purchase",
+                    "index": 325
+                },
+                {
+                    "string": "ch_msbs_flashsuppress_purchase",
+                    "index": 326
+                },
+                {
+                    "string": "ch_msbs_fmj_purchase",
+                    "index": 327
+                },
+                {
+                    "string": "ch_msbs_gl_purchase",
+                    "index": 328
+                },
+                {
+                    "string": "ch_msbs_grip_purchase",
+                    "index": 329
+                },
+                {
+                    "string": "ch_msbs_hybrid_purchase",
+                    "index": 330
+                },
+                {
+                    "string": "ch_msbs_reflex_purchase",
+                    "index": 331
+                },
+                {
+                    "string": "ch_msbs_shotgun_purchase",
+                    "index": 332
+                },
+                {
+                    "string": "ch_msbs_silencer_purchase",
+                    "index": 333
+                },
+                {
+                    "string": "ch_msbs_thermal_purchase",
+                    "index": 334
+                },
+                {
+                    "string": "ch_msbs_tracker_purchase",
+                    "index": 335
+                },
+                {
+                    "string": "ch_msbs_xmags_purchase",
+                    "index": 336
+                },
+                {
+                    "string": "ch_r5rgp_barrelrange_purchase",
+                    "index": 337
+                },
+                {
+                    "string": "ch_r5rgp_acog_purchase",
+                    "index": 338
+                },
+                {
+                    "string": "ch_r5rgp_eotech_purchase",
+                    "index": 339
+                },
+                {
+                    "string": "ch_r5rgp_firetypeburst_purchase",
+                    "index": 340
+                },
+                {
+                    "string": "ch_r5rgp_firetypesingle_purchase",
+                    "index": 341
+                },
+                {
+                    "string": "ch_r5rgp_flashsuppress_purchase",
+                    "index": 342
+                },
+                {
+                    "string": "ch_r5rgp_fmj_purchase",
+                    "index": 343
+                },
+                {
+                    "string": "ch_r5rgp_gl_purchase",
+                    "index": 344
+                },
+                {
+                    "string": "ch_r5rgp_grip_purchase",
+                    "index": 345
+                },
+                {
+                    "string": "ch_r5rgp_hybrid_purchase",
+                    "index": 346
+                },
+                {
+                    "string": "ch_r5rgp_reflex_purchase",
+                    "index": 347
+                },
+                {
+                    "string": "ch_r5rgp_shotgun_purchase",
+                    "index": 348
+                },
+                {
+                    "string": "ch_r5rgp_silencer_purchase",
+                    "index": 349
+                },
+                {
+                    "string": "ch_r5rgp_thermal_purchase",
+                    "index": 350
+                },
+                {
+                    "string": "ch_r5rgp_tracker_purchase",
+                    "index": 351
+                },
+                {
+                    "string": "ch_r5rgp_xmags_purchase",
+                    "index": 352
+                },
+                {
+                    "string": "ch_vks_acog_purchase",
+                    "index": 353
+                },
+                {
+                    "string": "ch_vks_barrelbored_purchase",
+                    "index": 354
+                },
+                {
+                    "string": "ch_vks_fmj_purchase",
+                    "index": 355
+                },
+                {
+                    "string": "ch_vks_vzscope_purchase",
+                    "index": 356
+                },
+                {
+                    "string": "ch_vks_xmags_purchase",
+                    "index": 357
+                },
+                {
+                    "string": "ch_vks_thermal_purchase",
+                    "index": 358
+                },
+                {
+                    "string": "ch_l115a3_acog_purchase",
+                    "index": 359
+                },
+                {
+                    "string": "ch_l115a3_barrelbored_purchase",
+                    "index": 360
+                },
+                {
+                    "string": "ch_l115a3_fmj_purchase",
+                    "index": 361
+                },
+                {
+                    "string": "ch_l115a3_silencer_purchase",
+                    "index": 362
+                },
+                {
+                    "string": "ch_l115a3_vzscope_purchase",
+                    "index": 363
+                },
+                {
+                    "string": "ch_l115a3_xmags_purchase",
+                    "index": 364
+                },
+                {
+                    "string": "ch_l115a3_thermal_purchase",
+                    "index": 365
+                },
+                {
+                    "string": "ch_usr_acog_purchase",
+                    "index": 366
+                },
+                {
+                    "string": "ch_usr_barrelbored_purchase",
+                    "index": 367
+                },
+                {
+                    "string": "ch_usr_fmj_purchase",
+                    "index": 368
+                },
+                {
+                    "string": "ch_usr_silencer_purchase",
+                    "index": 369
+                },
+                {
+                    "string": "ch_usr_vzscope_purchase",
+                    "index": 370
+                },
+                {
+                    "string": "ch_usr_xmags_purchase",
+                    "index": 371
+                },
+                {
+                    "string": "ch_usr_thermal_purchase",
+                    "index": 372
+                },
+                {
+                    "string": "ch_gm6_acog_purchase",
+                    "index": 373
+                },
+                {
+                    "string": "ch_gm6_barrelbored_purchase",
+                    "index": 374
+                },
+                {
+                    "string": "ch_gm6_fmj_purchase",
+                    "index": 375
+                },
+                {
+                    "string": "ch_gm6_silencer_purchase",
+                    "index": 376
+                },
+                {
+                    "string": "ch_gm6_vzscope_purchase",
+                    "index": 377
+                },
+                {
+                    "string": "ch_gm6_xmags_purchase",
+                    "index": 378
+                },
+                {
+                    "string": "ch_gm6_thermal_purchase",
+                    "index": 379
+                },
+                {
+                    "string": "ch_imbel_barrelrange_purchase",
+                    "index": 380
+                },
+                {
+                    "string": "ch_imbel_acog_purchase",
+                    "index": 381
+                },
+                {
+                    "string": "ch_imbel_eotech_purchase",
+                    "index": 382
+                },
+                {
+                    "string": "ch_imbel_firetypeburst_purchase",
+                    "index": 383
+                },
+                {
+                    "string": "ch_imbel_flashsuppress_purchase",
+                    "index": 384
+                },
+                {
+                    "string": "ch_imbel_fmj_purchase",
+                    "index": 385
+                },
+                {
+                    "string": "ch_imbel_ironsight_purchase",
+                    "index": 386
+                },
+                {
+                    "string": "ch_imbel_reflex_purchase",
+                    "index": 387
+                },
+                {
+                    "string": "ch_imbel_silencer_purchase",
+                    "index": 388
+                },
+                {
+                    "string": "ch_imbel_thermal_purchase",
+                    "index": 389
+                },
+                {
+                    "string": "ch_imbel_tracker_purchase",
+                    "index": 390
+                },
+                {
+                    "string": "ch_imbel_xmags_purchase",
+                    "index": 391
+                },
+                {
+                    "string": "ch_g28_barrelrange_purchase",
+                    "index": 392
+                },
+                {
+                    "string": "ch_g28_acog_purchase",
+                    "index": 393
+                },
+                {
+                    "string": "ch_g28_eotech_purchase",
+                    "index": 394
+                },
+                {
+                    "string": "ch_g28_firetypeburst_purchase",
+                    "index": 395
+                },
+                {
+                    "string": "ch_g28_flashsuppress_purchase",
+                    "index": 396
+                },
+                {
+                    "string": "ch_g28_fmj_purchase",
+                    "index": 397
+                },
+                {
+                    "string": "ch_g28_ironsight_purchase",
+                    "index": 398
+                },
+                {
+                    "string": "ch_g28_reflex_purchase",
+                    "index": 399
+                },
+                {
+                    "string": "ch_g28_silencer_purchase",
+                    "index": 400
+                },
+                {
+                    "string": "ch_g28_thermal_purchase",
+                    "index": 401
+                },
+                {
+                    "string": "ch_g28_tracker_purchase",
+                    "index": 402
+                },
+                {
+                    "string": "ch_g28_xmags_purchase",
+                    "index": 403
+                },
+                {
+                    "string": "ch_mk14_barrelrange_purchase",
+                    "index": 404
+                },
+                {
+                    "string": "ch_mk14_acog_purchase",
+                    "index": 405
+                },
+                {
+                    "string": "ch_mk14_eotech_purchase",
+                    "index": 406
+                },
+                {
+                    "string": "ch_mk14_firetypeburst_purchase",
+                    "index": 407
+                },
+                {
+                    "string": "ch_mk14_flashsuppress_purchase",
+                    "index": 408
+                },
+                {
+                    "string": "ch_mk14_fmj_purchase",
+                    "index": 409
+                },
+                {
+                    "string": "ch_mk14_ironsight_purchase",
+                    "index": 410
+                },
+                {
+                    "string": "ch_mk14_reflex_purchase",
+                    "index": 411
+                },
+                {
+                    "string": "ch_mk14_silencer_purchase",
+                    "index": 412
+                },
+                {
+                    "string": "ch_mk14_thermal_purchase",
+                    "index": 413
+                },
+                {
+                    "string": "ch_mk14_tracker_purchase",
+                    "index": 414
+                },
+                {
+                    "string": "ch_mk14_xmags_purchase",
+                    "index": 415
+                },
+                {
+                    "string": "ch_svu_barrelrange_purchase",
+                    "index": 416
+                },
+                {
+                    "string": "ch_svu_acog_purchase",
+                    "index": 417
+                },
+                {
+                    "string": "ch_svu_eotech_purchase",
+                    "index": 418
+                },
+                {
+                    "string": "ch_svu_firetypeburst_purchase",
+                    "index": 419
+                },
+                {
+                    "string": "ch_svu_flashsuppress_purchase",
+                    "index": 420
+                },
+                {
+                    "string": "ch_svu_fmj_purchase",
+                    "index": 421
+                },
+                {
+                    "string": "ch_svu_ironsight_purchase",
+                    "index": 422
+                },
+                {
+                    "string": "ch_svu_reflex_purchase",
+                    "index": 423
+                },
+                {
+                    "string": "ch_svu_silencer_purchase",
+                    "index": 424
+                },
+                {
+                    "string": "ch_svu_thermal_purchase",
+                    "index": 425
+                },
+                {
+                    "string": "ch_svu_xmags_purchase",
+                    "index": 426
+                },
+                {
+                    "string": "ch_mts255_ammoslug_purchase",
+                    "index": 427
+                },
+                {
+                    "string": "ch_mts255_barrelrange_purchase",
+                    "index": 428
+                },
+                {
+                    "string": "ch_mts255_eotech_purchase",
+                    "index": 429
+                },
+                {
+                    "string": "ch_mts255_grip_purchase",
+                    "index": 430
+                },
+                {
+                    "string": "ch_mts255_reflex_purchase",
+                    "index": 431
+                },
+                {
+                    "string": "ch_mts255_silencer_purchase",
+                    "index": 432
+                },
+                {
+                    "string": "ch_fp6_ammoslug_purchase",
+                    "index": 433
+                },
+                {
+                    "string": "ch_fp6_barrelrange_purchase",
+                    "index": 434
+                },
+                {
+                    "string": "ch_fp6_eotech_purchase",
+                    "index": 435
+                },
+                {
+                    "string": "ch_fp6_grip_purchase",
+                    "index": 436
+                },
+                {
+                    "string": "ch_fp6_reflex_purchase",
+                    "index": 437
+                },
+                {
+                    "string": "ch_fp6_silencer_purchase",
+                    "index": 438
+                },
+                {
+                    "string": "ch_maul_ammoslug_purchase",
+                    "index": 439
+                },
+                {
+                    "string": "ch_maul_barrelrange_purchase",
+                    "index": 440
+                },
+                {
+                    "string": "ch_maul_eotech_purchase",
+                    "index": 441
+                },
+                {
+                    "string": "ch_maul_grip_purchase",
+                    "index": 442
+                },
+                {
+                    "string": "ch_maul_reflex_purchase",
+                    "index": 443
+                },
+                {
+                    "string": "ch_maul_silencer_purchase",
+                    "index": 444
+                },
+                {
+                    "string": "ch_maul_xmags_purchase",
+                    "index": 445
+                },
+                {
+                    "string": "ch_uts15_ammoslug_purchase",
+                    "index": 446
+                },
+                {
+                    "string": "ch_uts15_barrelrange_purchase",
+                    "index": 447
+                },
+                {
+                    "string": "ch_uts15_eotech_purchase",
+                    "index": 448
+                },
+                {
+                    "string": "ch_uts15_grip_purchase",
+                    "index": 449
+                },
+                {
+                    "string": "ch_uts15_reflex_purchase",
+                    "index": 450
+                },
+                {
+                    "string": "ch_uts15_silencer_purchase",
+                    "index": 451
+                },
+                {
+                    "string": "ch_uts15_xmags_purchase",
+                    "index": 452
+                },
+                {
+                    "string": "ch_m27_acog_purchase",
+                    "index": 453
+                },
+                {
+                    "string": "ch_m27_barrelrange_purchase",
+                    "index": 454
+                },
+                {
+                    "string": "ch_m27_eotech_purchase",
+                    "index": 455
+                },
+                {
+                    "string": "ch_m27_flashsuppress_purchase",
+                    "index": 456
+                },
+                {
+                    "string": "ch_m27_fmj_purchase",
+                    "index": 457
+                },
+                {
+                    "string": "ch_m27_gl_purchase",
+                    "index": 458
+                },
+                {
+                    "string": "ch_m27_grip_purchase",
+                    "index": 459
+                },
+                {
+                    "string": "ch_m27_hybrid_purchase",
+                    "index": 460
+                },
+                {
+                    "string": "ch_m27_reflex_purchase",
+                    "index": 461
+                },
+                {
+                    "string": "ch_m27_rof_purchase",
+                    "index": 462
+                },
+                {
+                    "string": "ch_m27_shotgun_purchase",
+                    "index": 463
+                },
+                {
+                    "string": "ch_m27_silencer_purchase",
+                    "index": 464
+                },
+                {
+                    "string": "ch_m27_thermal_purchase",
+                    "index": 465
+                },
+                {
+                    "string": "ch_m27_tracker_purchase",
+                    "index": 466
+                },
+                {
+                    "string": "ch_m27_xmags_purchase",
+                    "index": 467
+                },
+                {
+                    "string": "ch_ameli_acog_purchase",
+                    "index": 468
+                },
+                {
+                    "string": "ch_ameli_barrelrange_purchase",
+                    "index": 469
+                },
+                {
+                    "string": "ch_ameli_eotech_purchase",
+                    "index": 470
+                },
+                {
+                    "string": "ch_ameli_flashsuppress_purchase",
+                    "index": 471
+                },
+                {
+                    "string": "ch_ameli_fmj_purchase",
+                    "index": 472
+                },
+                {
+                    "string": "ch_ameli_gl_purchase",
+                    "index": 473
+                },
+                {
+                    "string": "ch_ameli_grip_purchase",
+                    "index": 474
+                },
+                {
+                    "string": "ch_ameli_hybrid_purchase",
+                    "index": 475
+                },
+                {
+                    "string": "ch_ameli_reflex_purchase",
+                    "index": 476
+                },
+                {
+                    "string": "ch_ameli_rof_purchase",
+                    "index": 477
+                },
+                {
+                    "string": "ch_ameli_shotgun_purchase",
+                    "index": 478
+                },
+                {
+                    "string": "ch_ameli_silencer_purchase",
+                    "index": 479
+                },
+                {
+                    "string": "ch_ameli_thermal_purchase",
+                    "index": 480
+                },
+                {
+                    "string": "ch_ameli_tracker_purchase",
+                    "index": 481
+                },
+                {
+                    "string": "ch_ameli_xmags_purchase",
+                    "index": 482
+                },
+                {
+                    "string": "ch_kac_barrelrange_purchase",
+                    "index": 483
+                },
+                {
+                    "string": "ch_kac_fmj_purchase",
+                    "index": 484
+                },
+                {
+                    "string": "ch_kac_gl_purchase",
+                    "index": 485
+                },
+                {
+                    "string": "ch_kac_hybrid_purchase",
+                    "index": 486
+                },
+                {
+                    "string": "ch_kac_reflex_purchase",
+                    "index": 487
+                },
+                {
+                    "string": "ch_kac_rof_purchase",
+                    "index": 488
+                },
+                {
+                    "string": "ch_kac_silencer_purchase",
+                    "index": 489
+                },
+                {
+                    "string": "ch_kac_xmags_purchase",
+                    "index": 490
+                },
+                {
+                    "string": "ch_lsat_acog_purchase",
+                    "index": 491
+                },
+                {
+                    "string": "ch_lsat_barrelrange_purchase",
+                    "index": 492
+                },
+                {
+                    "string": "ch_lsat_eotech_purchase",
+                    "index": 493
+                },
+                {
+                    "string": "ch_lsat_flashsuppress_purchase",
+                    "index": 494
+                },
+                {
+                    "string": "ch_lsat_fmj_purchase",
+                    "index": 495
+                },
+                {
+                    "string": "ch_lsat_gl_purchase",
+                    "index": 496
+                },
+                {
+                    "string": "ch_lsat_grip_purchase",
+                    "index": 497
+                },
+                {
+                    "string": "ch_lsat_hybrid_purchase",
+                    "index": 498
+                },
+                {
+                    "string": "ch_lsat_reflex_purchase",
+                    "index": 499
+                },
+                {
+                    "string": "ch_lsat_rof_purchase",
+                    "index": 500
+                },
+                {
+                    "string": "ch_lsat_shotgun_purchase",
+                    "index": 501
+                },
+                {
+                    "string": "ch_lsat_silencer_purchase",
+                    "index": 502
+                },
+                {
+                    "string": "ch_lsat_thermal_purchase",
+                    "index": 503
+                },
+                {
+                    "string": "ch_lsat_tracker_purchase",
+                    "index": 504
+                },
+                {
+                    "string": "ch_lsat_xmags_purchase",
+                    "index": 505
+                },
+                {
+                    "string": "ch_dlcweap01_purchase",
+                    "index": 506
+                },
+                {
+                    "string": "ch_dlcweap02_purchase",
+                    "index": 507
+                },
+                {
+                    "string": "ch_dlcweap03_purchase",
+                    "index": 508
+                },
+                {
+                    "string": "ch_dlcweap04_purchase",
+                    "index": 509
+                },
+                {
+                    "string": "ch_dlcweap01_barrelrange_purchase",
+                    "index": 510
+                },
+                {
+                    "string": "ch_dlcweap01_acog_purchase",
+                    "index": 511
+                },
+                {
+                    "string": "ch_dlcweap01_eotech_purchase",
+                    "index": 512
+                },
+                {
+                    "string": "ch_dlcweap01_firetypeburst_purchase",
+                    "index": 513
+                },
+                {
+                    "string": "ch_dlcweap01_firetypesingle_purchase",
+                    "index": 514
+                },
+                {
+                    "string": "ch_dlcweap01_flashsuppress_purchase",
+                    "index": 515
+                },
+                {
+                    "string": "ch_dlcweap01_fmj_purchase",
+                    "index": 516
+                },
+                {
+                    "string": "ch_dlcweap01_gl_purchase",
+                    "index": 517
+                },
+                {
+                    "string": "ch_dlcweap01_grip_purchase",
+                    "index": 518
+                },
+                {
+                    "string": "ch_dlcweap01_hybrid_purchase",
+                    "index": 519
+                },
+                {
+                    "string": "ch_dlcweap01_reflex_purchase",
+                    "index": 520
+                },
+                {
+                    "string": "ch_dlcweap01_shotgun_purchase",
+                    "index": 521
+                },
+                {
+                    "string": "ch_dlcweap01_silencer_purchase",
+                    "index": 522
+                },
+                {
+                    "string": "ch_dlcweap01_thermal_purchase",
+                    "index": 523
+                },
+                {
+                    "string": "ch_dlcweap01_tracker_purchase",
+                    "index": 524
+                },
+                {
+                    "string": "ch_dlcweap01_xmags_purchase",
+                    "index": 525
+                },
+                {
+                    "string": "ch_dlcweap02_acog_purchase",
+                    "index": 526
+                },
+                {
+                    "string": "ch_dlcweap02_barrelrange_purchase",
+                    "index": 527
+                },
+                {
+                    "string": "ch_dlcweap02_eotech_purchase",
+                    "index": 528
+                },
+                {
+                    "string": "ch_dlcweap02_flashsuppress_purchase",
+                    "index": 529
+                },
+                {
+                    "string": "ch_dlcweap02_fmj_purchase",
+                    "index": 530
+                },
+                {
+                    "string": "ch_dlcweap02_grip_purchase",
+                    "index": 531
+                },
+                {
+                    "string": "ch_dlcweap02_hybrid_purchase",
+                    "index": 532
+                },
+                {
+                    "string": "ch_dlcweap02_reflex_purchase",
+                    "index": 533
+                },
+                {
+                    "string": "ch_dlcweap02_rof_purchase",
+                    "index": 534
+                },
+                {
+                    "string": "ch_dlcweap02_silencer_purchase",
+                    "index": 535
+                },
+                {
+                    "string": "ch_dlcweap02_thermal_purchase",
+                    "index": 536
+                },
+                {
+                    "string": "ch_dlcweap02_tracker_purchase",
+                    "index": 537
+                },
+                {
+                    "string": "ch_dlcweap02_xmags_purchase",
+                    "index": 538
+                },
+                {
+                    "string": "ch_dlcweap03_acog_purchase",
+                    "index": 539
+                },
+                {
+                    "string": "ch_dlcweap03_barrelbored_purchase",
+                    "index": 540
+                },
+                {
+                    "string": "ch_dlcweap03_fmj_purchase",
+                    "index": 541
+                },
+                {
+                    "string": "ch_dlcweap03_silencer_purchase",
+                    "index": 542
+                },
+                {
+                    "string": "ch_dlcweap03_vzscope_purchase",
+                    "index": 543
+                },
+                {
+                    "string": "ch_dlcweap03_xmags_purchase",
+                    "index": 544
+                },
+                {
+                    "string": "ch_dlcweap03_thermal_purchase",
+                    "index": 545
+                },
+                {
+                    "string": "ch_dlcweap04_acog_purchase",
+                    "index": 546
+                },
+                {
+                    "string": "ch_dlcweap04_barrelrange_purchase",
+                    "index": 547
+                },
+                {
+                    "string": "ch_dlcweap04_eotech_purchase",
+                    "index": 548
+                },
+                {
+                    "string": "ch_dlcweap04_flashsuppress_purchase",
+                    "index": 549
+                },
+                {
+                    "string": "ch_dlcweap04_fmj_purchase",
+                    "index": 550
+                },
+                {
+                    "string": "ch_dlcweap04_gl_purchase",
+                    "index": 551
+                },
+                {
+                    "string": "ch_dlcweap04_grip_purchase",
+                    "index": 552
+                },
+                {
+                    "string": "ch_dlcweap04_hybrid_purchase",
+                    "index": 553
+                },
+                {
+                    "string": "ch_dlcweap04_reflex_purchase",
+                    "index": 554
+                },
+                {
+                    "string": "ch_dlcweap04_rof_purchase",
+                    "index": 555
+                },
+                {
+                    "string": "ch_dlcweap04_shotgun_purchase",
+                    "index": 556
+                },
+                {
+                    "string": "ch_dlcweap04_silencer_purchase",
+                    "index": 557
+                },
+                {
+                    "string": "ch_dlcweap04_thermal_purchase",
+                    "index": 558
+                },
+                {
+                    "string": "ch_dlcweap04_tracker_purchase",
+                    "index": 559
+                },
+                {
+                    "string": "ch_dlcweap04_xmags_purchase",
+                    "index": 560
+                }
+            ]
+        }
+    ],
+    "structCount": 5,
+    "structs": [
+        {
+            "propertyCount": 3,
+            "properties": [
+                {
+                    "name": "squadMembers",
+                    "type": 6,
+                    "index": 14,
+                    "offset": 8,
+                    "validation": 0
+                },
+                {
+                    "name": "dogType",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 13808,
+                    "validation": 0
+                },
+                {
+                    "name": "squadMembers_ex",
+                    "type": 6,
+                    "index": 15,
+                    "offset": 13812,
+                    "validation": 0
+                }
+            ],
+            "size": 18932,
+            "bitOffset": 0
+        },
+        {
+            "propertyCount": 5,
+            "properties": [
+                {
+                    "name": "camo",
+                    "type": 4,
+                    "index": 1,
+                    "offset": 0,
+                    "validation": 0
+                },
+                {
+                    "name": "buff",
+                    "type": 4,
+                    "index": 4,
+                    "offset": 2,
+                    "validation": 0
+                },
+                {
+                    "name": "reticle",
+                    "type": 4,
+                    "index": 5,
+                    "offset": 4,
+                    "validation": 0
+                },
+                {
+                    "name": "weapon",
+                    "type": 4,
+                    "index": 6,
+                    "offset": 6,
+                    "validation": 0
+                },
+                {
+                    "name": "attachment",
+                    "type": 6,
+                    "index": 0,
+                    "offset": 8,
+                    "validation": 0
+                }
+            ],
+            "size": 14,
+            "bitOffset": 0
+        },
+        {
+            "propertyCount": 12,
+            "properties": [
+                {
+                    "name": "inUse",
+                    "type": 2,
+                    "index": -1,
+                    "offset": 0,
+                    "validation": 0
+                },
+                {
+                    "name": "type",
+                    "type": 4,
+                    "index": 2,
+                    "offset": 1,
+                    "validation": 0
+                },
+                {
+                    "name": "name",
+                    "type": 3,
+                    "index": 21,
+                    "offset": 3,
+                    "validation": 0
+                },
+                {
+                    "name": "weaponSetups",
+                    "type": 6,
+                    "index": 1,
+                    "offset": 24,
+                    "validation": 0
+                },
+                {
+                    "name": "perks",
+                    "type": 6,
+                    "index": 2,
+                    "offset": 52,
+                    "validation": 0
+                },
+                {
+                    "name": "assaultStreaks",
+                    "type": 6,
+                    "index": 3,
+                    "offset": 74,
+                    "validation": 0
+                },
+                {
+                    "name": "supportStreaks",
+                    "type": 6,
+                    "index": 4,
+                    "offset": 80,
+                    "validation": 0
+                },
+                {
+                    "name": "specialistStreaks",
+                    "type": 6,
+                    "index": 5,
+                    "offset": 86,
+                    "validation": 0
+                },
+                {
+                    "name": "specialistStreakKills",
+                    "type": 6,
+                    "index": 6,
+                    "offset": 92,
+                    "validation": 0
+                },
+                {
+                    "name": "specialistBonusStreaks",
+                    "type": 6,
+                    "index": 7,
+                    "offset": 104,
+                    "validation": 0
+                },
+                {
+                    "name": "abilitySlotsUsed",
+                    "type": 6,
+                    "index": 9,
+                    "offset": 111,
+                    "validation": 0
+                },
+                {
+                    "name": "abilitiesPicked",
+                    "type": 6,
+                    "index": 10,
+                    "offset": 118,
+                    "validation": 0
+                }
+            ],
+            "size": 128,
+            "bitOffset": 1
+        },
+        {
+            "propertyCount": 15,
+            "properties": [
+                {
+                    "name": "inUse",
+                    "type": 2,
+                    "index": -1,
+                    "offset": 6144,
+                    "validation": 0
+                },
+                {
+                    "name": "name",
+                    "type": 3,
+                    "index": 21,
+                    "offset": 769,
+                    "validation": 0
+                },
+                {
+                    "name": "loadouts",
+                    "type": 6,
+                    "index": 12,
+                    "offset": 0,
+                    "validation": 0
+                },
+                {
+                    "name": "head",
+                    "type": 9,
+                    "index": -1,
+                    "offset": 790,
+                    "validation": 0
+                },
+                {
+                    "name": "helmet",
+                    "type": 9,
+                    "index": -1,
+                    "offset": 792,
+                    "validation": 0
+                },
+                {
+                    "name": "body",
+                    "type": 9,
+                    "index": -1,
+                    "offset": 794,
+                    "validation": 0
+                },
+                {
+                    "name": "patch",
+                    "type": 9,
+                    "index": -1,
+                    "offset": 796,
+                    "validation": 0
+                },
+                {
+                    "name": "patchbacking",
+                    "type": 9,
+                    "index": -1,
+                    "offset": 798,
+                    "validation": 0
+                },
+                {
+                    "name": "background",
+                    "type": 9,
+                    "index": -1,
+                    "offset": 800,
+                    "validation": 0
+                },
+                {
+                    "name": "squadMemXP",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 802,
+                    "validation": 3
+                },
+                {
+                    "name": "commendationsEarned",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 806,
+                    "validation": 3
+                },
+                {
+                    "name": "experienceToPrestige",
+                    "type": 0,
+                    "index": -1,
+                    "offset": 810,
+                    "validation": 3
+                },
+                {
+                    "name": "challengeState",
+                    "type": 7,
+                    "index": 0,
+                    "offset": 814,
+                    "validation": 0
+                },
+                {
+                    "name": "ai_loadout",
+                    "type": 1,
+                    "index": -1,
+                    "offset": 1379,
+                    "validation": 0
+                },
+                {
+                    "name": "defaultSet",
+                    "type": 2,
+                    "index": -1,
+                    "offset": 6145,
+                    "validation": 0
+                }
+            ],
+            "size": 1380,
+            "bitOffset": 6146
+        },
+        {
+            "propertyCount": 1,
+            "properties": [
+                {
+                    "name": "loadouts",
+                    "type": 6,
+                    "index": 13,
+                    "offset": 0,
+                    "validation": 0
+                }
+            ],
+            "size": 512,
+            "bitOffset": 0
+        }
+    ],
+    "indexedArrayCount": 16,
+    "indexedArrays": [
+        {
+            "arraySize": 3,
+            "type": 4,
+            "index": 0,
+            "elementSize": 2
+        },
+        {
+            "arraySize": 2,
+            "type": 5,
+            "index": 1,
+            "elementSize": 14
+        },
+        {
+            "arraySize": 11,
+            "type": 4,
+            "index": 4,
+            "elementSize": 2
+        },
+        {
+            "arraySize": 3,
+            "type": 4,
+            "index": 3,
+            "elementSize": 2
+        },
+        {
+            "arraySize": 3,
+            "type": 4,
+            "index": 3,
+            "elementSize": 2
+        },
+        {
+            "arraySize": 3,
+            "type": 4,
+            "index": 3,
+            "elementSize": 2
+        },
+        {
+            "arraySize": 3,
+            "type": 0,
+            "index": -1,
+            "elementSize": 4
+        },
+        {
+            "arraySize": 7,
+            "type": 6,
+            "index": 8,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 5,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 7,
+            "type": 1,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 7,
+            "type": 6,
+            "index": 11,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 5,
+            "type": 2,
+            "index": -1,
+            "elementSize": 1
+        },
+        {
+            "arraySize": 6,
+            "type": 5,
+            "index": 2,
+            "elementSize": 128
+        },
+        {
+            "arraySize": 4,
+            "type": 5,
+            "index": 2,
+            "elementSize": 128
+        },
+        {
+            "arraySize": 10,
+            "type": 5,
+            "index": 3,
+            "elementSize": 1380
+        },
+        {
+            "arraySize": 10,
+            "type": 5,
+            "index": 4,
+            "elementSize": 512
+        }
+    ],
+    "enumedArrayCount": 1,
+    "enumedArrays": [
+        {
+            "enumIndex": 7,
+            "type": 1,
+            "index": -1,
+            "elementSize": 1
+        }
+    ],
+    "type": 5,
+    "index": 0,
+    "size": 18932
+}

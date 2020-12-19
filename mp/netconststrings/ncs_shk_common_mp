@@ -1,0 +1,47 @@
+{
+    "name": "ncs_shk_common_mp",
+    "stringType": 8,
+    "sourceType": 2,
+    "entryCount": 13,
+    "strings": [
+        {
+            "string": "concussion_grenade_mp"
+        },
+        {
+            "string": "damage_mp"
+        },
+        {
+            "string": "default"
+        },
+        {
+            "string": "dog_bite"
+        },
+        {
+            "string": "flashbang_mp"
+        },
+        {
+            "string": "frag_grenade_mp"
+        },
+        {
+            "string": "hold_breath"
+        },
+        {
+            "string": "mp_radiation_high"
+        },
+        {
+            "string": "mp_radiation_low"
+        },
+        {
+            "string": "mp_radiation_med"
+        },
+        {
+            "string": "pain"
+        },
+        {
+            "string": "teargas"
+        },
+        {
+            "string": "victoryscreen"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ncs_mdl_patch_mp_frag",
+    "stringType": 0,
+    "sourceType": 1,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "mp_frag_pipe_4x128_metal_painted_01"
+        }
+    ]
+}

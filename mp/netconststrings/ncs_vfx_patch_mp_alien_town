@@ -1,0 +1,26 @@
+{
+    "name": "ncs_vfx_patch_mp_alien_town",
+    "stringType": 4,
+    "sourceType": 1,
+    "entryCount": 6,
+    "strings": [
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_gas_fire_child"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_queen_pound_child"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_queen_pound_child_ground_elems"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_shock_noloop"
+        },
+        {
+            "string": "vfx/gameplay/alien/vfx_alien_spitter_gas_cloud_bubbles"
+        },
+        {
+            "string": "vfx/gameplay/tread_fx/vfx_heli_dust_alien_intro"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "ncs_snd_common_alien_dlc_updated_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "alien_skill_activate"
+        }
+    ]
+}

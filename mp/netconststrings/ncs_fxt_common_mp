@@ -1,0 +1,365 @@
+{
+    "name": "ncs_fxt_common_mp",
+    "stringType": 19,
+    "sourceType": 2,
+    "entryCount": 119,
+    "strings": [
+        {
+            "string": "flare_left_bot"
+        },
+        {
+            "string": "flare_left_top"
+        },
+        {
+            "string": "flare_right_bot"
+        },
+        {
+            "string": "flare_right_top"
+        },
+        {
+            "string": "j_anim_jnt_lower_chassis"
+        },
+        {
+            "string": "j_awning_main"
+        },
+        {
+            "string": "j_canister_main"
+        },
+        {
+            "string": "j_log_5"
+        },
+        {
+            "string": "j_prop_1"
+        },
+        {
+            "string": "j_prop_2"
+        },
+        {
+            "string": "j_spine4"
+        },
+        {
+            "string": "left_wheel_01_jnt"
+        },
+        {
+            "string": "left_wheel_02_jnt"
+        },
+        {
+            "string": "polysurface137"
+        },
+        {
+            "string": "right_wheel_01_jnt"
+        },
+        {
+            "string": "right_wheel_02_jnt"
+        },
+        {
+            "string": "tag_aim"
+        },
+        {
+            "string": "tag_blades_attach"
+        },
+        {
+            "string": "tag_body"
+        },
+        {
+            "string": "tag_death_fx"
+        },
+        {
+            "string": "tag_deathfx"
+        },
+        {
+            "string": "tag_engine_left"
+        },
+        {
+            "string": "tag_engine_left2"
+        },
+        {
+            "string": "tag_engine_ri_fx2"
+        },
+        {
+            "string": "tag_engine_right"
+        },
+        {
+            "string": "tag_engine_right2"
+        },
+        {
+            "string": "tag_eye"
+        },
+        {
+            "string": "tag_eye_1_le"
+        },
+        {
+            "string": "tag_eye_1_ri"
+        },
+        {
+            "string": "tag_fire_fx"
+        },
+        {
+            "string": "tag_flare"
+        },
+        {
+            "string": "tag_flash"
+        },
+        {
+            "string": "tag_flash_flares"
+        },
+        {
+            "string": "tag_fx"
+        },
+        {
+            "string": "tag_fx1"
+        },
+        {
+            "string": "tag_fx2"
+        },
+        {
+            "string": "tag_fx3"
+        },
+        {
+            "string": "tag_fx_cables_1"
+        },
+        {
+            "string": "tag_fx_cables_2"
+        },
+        {
+            "string": "tag_fx_cables_3"
+        },
+        {
+            "string": "tag_fx_canister_1"
+        },
+        {
+            "string": "tag_fx_canister_2"
+        },
+        {
+            "string": "tag_fx_canister_3"
+        },
+        {
+            "string": "tag_fx_spin1"
+        },
+        {
+            "string": "tag_fx_spin2"
+        },
+        {
+            "string": "tag_fx_spin3"
+        },
+        {
+            "string": "tag_fx_spin4"
+        },
+        {
+            "string": "tag_glass_front_fx"
+        },
+        {
+            "string": "tag_glass_left_back_fx"
+        },
+        {
+            "string": "tag_glass_left_front_fx"
+        },
+        {
+            "string": "tag_glass_right_back_fx"
+        },
+        {
+            "string": "tag_glass_right_front_fx"
+        },
+        {
+            "string": "tag_ground"
+        },
+        {
+            "string": "tag_gunner_left"
+        },
+        {
+            "string": "tag_gunner_right"
+        },
+        {
+            "string": "tag_headlight_right"
+        },
+        {
+            "string": "tag_hood_fx"
+        },
+        {
+            "string": "tag_jet_trail"
+        },
+        {
+            "string": "tag_le_door_attach"
+        },
+        {
+            "string": "tag_left_alamo_missile"
+        },
+        {
+            "string": "tag_left_wingtip"
+        },
+        {
+            "string": "tag_light_belly"
+        },
+        {
+            "string": "tag_light_cockpit01"
+        },
+        {
+            "string": "tag_light_l_wing"
+        },
+        {
+            "string": "tag_light_l_wing1"
+        },
+        {
+            "string": "tag_light_nose"
+        },
+        {
+            "string": "tag_light_r_wing"
+        },
+        {
+            "string": "tag_light_r_wing1"
+        },
+        {
+            "string": "tag_light_tail"
+        },
+        {
+            "string": "tag_light_tail1"
+        },
+        {
+            "string": "tag_light_tail2"
+        },
+        {
+            "string": "tag_light_top"
+        },
+        {
+            "string": "tag_minigun_attach_left"
+        },
+        {
+            "string": "tag_minigun_attach_right"
+        },
+        {
+            "string": "tag_origin"
+        },
+        {
+            "string": "tag_panel_back01"
+        },
+        {
+            "string": "tag_panel_back02"
+        },
+        {
+            "string": "tag_panel_back03"
+        },
+        {
+            "string": "tag_panel_front01"
+        },
+        {
+            "string": "tag_panel_front02"
+        },
+        {
+            "string": "tag_panel_front03"
+        },
+        {
+            "string": "tag_player"
+        },
+        {
+            "string": "tag_player_attach_left"
+        },
+        {
+            "string": "tag_ri_door_attach"
+        },
+        {
+            "string": "tag_right_alamo_missile"
+        },
+        {
+            "string": "tag_right_archer_missile"
+        },
+        {
+            "string": "tag_right_wingtip"
+        },
+        {
+            "string": "tag_tail"
+        },
+        {
+            "string": "tag_tail_light_right"
+        },
+        {
+            "string": "tag_tank_chassis"
+        },
+        {
+            "string": "tag_thruster_lf1"
+        },
+        {
+            "string": "tag_thruster_lf2"
+        },
+        {
+            "string": "tag_thruster_lf3"
+        },
+        {
+            "string": "tag_thruster_lf4"
+        },
+        {
+            "string": "tag_thruster_lm1"
+        },
+        {
+            "string": "tag_thruster_lm2"
+        },
+        {
+            "string": "tag_thruster_lm3"
+        },
+        {
+            "string": "tag_thruster_lm4"
+        },
+        {
+            "string": "tag_thruster_lr1"
+        },
+        {
+            "string": "tag_thruster_lr2"
+        },
+        {
+            "string": "tag_thruster_lr3"
+        },
+        {
+            "string": "tag_thruster_lr4"
+        },
+        {
+            "string": "tag_thruster_rf1"
+        },
+        {
+            "string": "tag_thruster_rf2"
+        },
+        {
+            "string": "tag_thruster_rf3"
+        },
+        {
+            "string": "tag_thruster_rf4"
+        },
+        {
+            "string": "tag_thruster_rm1"
+        },
+        {
+            "string": "tag_thruster_rm2"
+        },
+        {
+            "string": "tag_thruster_rm3"
+        },
+        {
+            "string": "tag_thruster_rm4"
+        },
+        {
+            "string": "tag_thruster_rr1"
+        },
+        {
+            "string": "tag_thruster_rr2"
+        },
+        {
+            "string": "tag_thruster_rr3"
+        },
+        {
+            "string": "tag_thruster_rr4"
+        },
+        {
+            "string": "tag_top"
+        },
+        {
+            "string": "tag_turret"
+        },
+        {
+            "string": "tag_turret_attach"
+        },
+        {
+            "string": "tag_weapon"
+        },
+        {
+            "string": "tail_rotor_jnt"
+        }
+    ]
+}

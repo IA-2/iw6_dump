@@ -1,0 +1,71 @@
+{
+    "name": "ncs_hnt_eng_patch_code_post_gfx_mp",
+    "stringType": 17,
+    "sourceType": 2,
+    "entryCount": 21,
+    "strings": [
+        {
+            "string": "MP_BREACH"
+        },
+        {
+            "string": "MP_BREACHING"
+        },
+        {
+            "string": "MP_DOOR_USE_CLOSE"
+        },
+        {
+            "string": "MP_DOOR_USE_OPEN"
+        },
+        {
+            "string": "MP_ELEVATOR_USE"
+        },
+        {
+            "string": "MP_PATCH_DESTROY_TI"
+        },
+        {
+            "string": "MP_PATCH_PICKUP_PORTABLE_RADAR"
+        },
+        {
+            "string": "MP_PATCH_PICKUP_SCRAMBLER"
+        },
+        {
+            "string": "MP_PATCH_PICKUP_TI"
+        },
+        {
+            "string": "MP_PATCH_USING"
+        },
+        {
+            "string": "MP_PICKUP_BOUNCING_BETTY"
+        },
+        {
+            "string": "MP_PICKUP_C4"
+        },
+        {
+            "string": "MP_PICKUP_CLAYMORE"
+        },
+        {
+            "string": "MP_PICKUP_MOTION_SENSOR"
+        },
+        {
+            "string": "MP_PICKUP_PROXIMITY_EXPLOSIVE"
+        },
+        {
+            "string": "MP_PICKUP_TROPHY"
+        },
+        {
+            "string": "MP_SETTING_TRAP"
+        },
+        {
+            "string": "MP_SET_TRAP"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_DEFUSE_EXPLOSIVES"
+        },
+        {
+            "string": "PLATFORM_HOLD_TO_PLANT_EXPLOSIVES"
+        },
+        {
+            "string": "PLATFORM_REVIVE"
+        }
+    ]
+}

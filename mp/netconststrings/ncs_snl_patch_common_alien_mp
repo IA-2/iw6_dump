@@ -1,0 +1,14 @@
+{
+    "name": "ncs_snl_patch_common_alien_mp",
+    "stringType": 7,
+    "sourceType": 2,
+    "entryCount": 2,
+    "strings": [
+        {
+            "string": "minigun_gatling_fire_npc"
+        },
+        {
+            "string": "minigun_gatling_fire_plr"
+        }
+    ]
+}

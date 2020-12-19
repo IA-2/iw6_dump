@@ -1,0 +1,23 @@
+{
+    "name": "ncs_nps_patch_common_alien_mp",
+    "stringType": 13,
+    "sourceType": 2,
+    "entryCount": 5,
+    "strings": [
+        {
+            "string": "player_name_bg_engineer"
+        },
+        {
+            "string": "player_name_bg_medic"
+        },
+        {
+            "string": "player_name_bg_mortal"
+        },
+        {
+            "string": "player_name_bg_tank"
+        },
+        {
+            "string": "player_name_bg_weapon_specialist"
+        }
+    ]
+}

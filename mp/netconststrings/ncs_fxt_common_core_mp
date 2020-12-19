@@ -1,0 +1,959 @@
+{
+    "name": "ncs_fxt_common_core_mp",
+    "stringType": 19,
+    "sourceType": 2,
+    "entryCount": 317,
+    "strings": [
+        {
+            "string": "back_low"
+        },
+        {
+            "string": "back_mid"
+        },
+        {
+            "string": "backarm_jnt"
+        },
+        {
+            "string": "barrel_animate_jnt"
+        },
+        {
+            "string": "barrel_animate_joint"
+        },
+        {
+            "string": "barrel_recoil"
+        },
+        {
+            "string": "barrel_rotate_animate_joint"
+        },
+        {
+            "string": "bi_base"
+        },
+        {
+            "string": "bi_center"
+        },
+        {
+            "string": "bi_l"
+        },
+        {
+            "string": "bi_l1"
+        },
+        {
+            "string": "bi_r"
+        },
+        {
+            "string": "bi_r1"
+        },
+        {
+            "string": "bl_rotor1"
+        },
+        {
+            "string": "bl_rotor2"
+        },
+        {
+            "string": "bl_rotor3"
+        },
+        {
+            "string": "body_animate_jnt"
+        },
+        {
+            "string": "body_animate_joint"
+        },
+        {
+            "string": "body_jnt"
+        },
+        {
+            "string": "bodyend_jnt"
+        },
+        {
+            "string": "bolt_jnt"
+        },
+        {
+            "string": "br_rotor1"
+        },
+        {
+            "string": "br_rotor2"
+        },
+        {
+            "string": "br_rotor3"
+        },
+        {
+            "string": "camera_jnt"
+        },
+        {
+            "string": "cameraball_animate_jnt"
+        },
+        {
+            "string": "cameraballbase_animate_jnt"
+        },
+        {
+            "string": "fl_rotor1"
+        },
+        {
+            "string": "fl_rotor2"
+        },
+        {
+            "string": "fl_rotor3"
+        },
+        {
+            "string": "fr_rotor1"
+        },
+        {
+            "string": "fr_rotor2"
+        },
+        {
+            "string": "fr_rotor3"
+        },
+        {
+            "string": "frame_jnt"
+        },
+        {
+            "string": "frontarm_jnt"
+        },
+        {
+            "string": "gun_jnt"
+        },
+        {
+            "string": "hatch_open"
+        },
+        {
+            "string": "j_ammo_cover"
+        },
+        {
+            "string": "j_ankle_le"
+        },
+        {
+            "string": "j_ankle_ri"
+        },
+        {
+            "string": "j_ball_le"
+        },
+        {
+            "string": "j_ball_ri"
+        },
+        {
+            "string": "j_brow_le_1"
+        },
+        {
+            "string": "j_brow_le_2"
+        },
+        {
+            "string": "j_brow_le_3"
+        },
+        {
+            "string": "j_brow_le_4"
+        },
+        {
+            "string": "j_brow_le_5"
+        },
+        {
+            "string": "j_brow_ri_1"
+        },
+        {
+            "string": "j_brow_ri_2"
+        },
+        {
+            "string": "j_brow_ri_3"
+        },
+        {
+            "string": "j_brow_ri_4"
+        },
+        {
+            "string": "j_brow_ri_5"
+        },
+        {
+            "string": "j_bullet_chain"
+        },
+        {
+            "string": "j_cheek_le_1"
+        },
+        {
+            "string": "j_cheek_le_2"
+        },
+        {
+            "string": "j_cheek_le_3"
+        },
+        {
+            "string": "j_cheek_puff_le"
+        },
+        {
+            "string": "j_cheek_puff_ri"
+        },
+        {
+            "string": "j_cheek_ri_1"
+        },
+        {
+            "string": "j_cheek_ri_2"
+        },
+        {
+            "string": "j_cheek_ri_3"
+        },
+        {
+            "string": "j_chin"
+        },
+        {
+            "string": "j_chin_1_le"
+        },
+        {
+            "string": "j_chin_1_ri"
+        },
+        {
+            "string": "j_chin_le"
+        },
+        {
+            "string": "j_chin_ri"
+        },
+        {
+            "string": "j_clavicle_le"
+        },
+        {
+            "string": "j_clavicle_ri"
+        },
+        {
+            "string": "j_ear_bot_le"
+        },
+        {
+            "string": "j_ear_bot_ri"
+        },
+        {
+            "string": "j_ear_top_le"
+        },
+        {
+            "string": "j_ear_top_ri"
+        },
+        {
+            "string": "j_elbow_le"
+        },
+        {
+            "string": "j_elbow_ri"
+        },
+        {
+            "string": "j_eye_lid_bot_le"
+        },
+        {
+            "string": "j_eye_lid_bot_ri"
+        },
+        {
+            "string": "j_eye_lid_top_le"
+        },
+        {
+            "string": "j_eye_lid_top_ri"
+        },
+        {
+            "string": "j_eyebag_le_1"
+        },
+        {
+            "string": "j_eyebag_le_2"
+        },
+        {
+            "string": "j_eyebag_le_3"
+        },
+        {
+            "string": "j_eyebag_le_4"
+        },
+        {
+            "string": "j_eyebag_ri_1"
+        },
+        {
+            "string": "j_eyebag_ri_2"
+        },
+        {
+            "string": "j_eyebag_ri_3"
+        },
+        {
+            "string": "j_eyebag_ri_4"
+        },
+        {
+            "string": "j_eyeball_le"
+        },
+        {
+            "string": "j_eyeball_ri"
+        },
+        {
+            "string": "j_forehead"
+        },
+        {
+            "string": "j_forehead_le_1"
+        },
+        {
+            "string": "j_forehead_le_2"
+        },
+        {
+            "string": "j_forehead_ri_1"
+        },
+        {
+            "string": "j_forehead_ri_2"
+        },
+        {
+            "string": "j_furrow_le"
+        },
+        {
+            "string": "j_furrow_ri"
+        },
+        {
+            "string": "j_groinprotector"
+        },
+        {
+            "string": "j_gun"
+        },
+        {
+            "string": "j_head"
+        },
+        {
+            "string": "j_head_end"
+        },
+        {
+            "string": "j_helmet"
+        },
+        {
+            "string": "j_hip_le"
+        },
+        {
+            "string": "j_hip_ri"
+        },
+        {
+            "string": "j_hiptwist_le"
+        },
+        {
+            "string": "j_hiptwist_ri"
+        },
+        {
+            "string": "j_index_le_1"
+        },
+        {
+            "string": "j_index_le_2"
+        },
+        {
+            "string": "j_index_le_3"
+        },
+        {
+            "string": "j_index_ri_1"
+        },
+        {
+            "string": "j_index_ri_2"
+        },
+        {
+            "string": "j_index_ri_3"
+        },
+        {
+            "string": "j_jaw"
+        },
+        {
+            "string": "j_knee_le"
+        },
+        {
+            "string": "j_knee_ri"
+        },
+        {
+            "string": "j_kneehelper_le"
+        },
+        {
+            "string": "j_kneehelper_ri"
+        },
+        {
+            "string": "j_latiss_le"
+        },
+        {
+            "string": "j_latiss_ri"
+        },
+        {
+            "string": "j_levator_le_1"
+        },
+        {
+            "string": "j_levator_le_2"
+        },
+        {
+            "string": "j_levator_le_3"
+        },
+        {
+            "string": "j_levator_ri_1"
+        },
+        {
+            "string": "j_levator_ri_2"
+        },
+        {
+            "string": "j_levator_ri_3"
+        },
+        {
+            "string": "j_lip_bot"
+        },
+        {
+            "string": "j_lip_bot_le_1"
+        },
+        {
+            "string": "j_lip_bot_le_2"
+        },
+        {
+            "string": "j_lip_bot_ri_1"
+        },
+        {
+            "string": "j_lip_bot_ri_2"
+        },
+        {
+            "string": "j_lip_top"
+        },
+        {
+            "string": "j_lip_top_le_1"
+        },
+        {
+            "string": "j_lip_top_le_2"
+        },
+        {
+            "string": "j_lip_top_ri_1"
+        },
+        {
+            "string": "j_lip_top_ri_2"
+        },
+        {
+            "string": "j_lowergum"
+        },
+        {
+            "string": "j_mainroot"
+        },
+        {
+            "string": "j_mid_le_1"
+        },
+        {
+            "string": "j_mid_le_2"
+        },
+        {
+            "string": "j_mid_le_3"
+        },
+        {
+            "string": "j_mid_ri_1"
+        },
+        {
+            "string": "j_mid_ri_2"
+        },
+        {
+            "string": "j_mid_ri_3"
+        },
+        {
+            "string": "j_mouth_le"
+        },
+        {
+            "string": "j_mouth_ri"
+        },
+        {
+            "string": "j_nasolabial_le_1"
+        },
+        {
+            "string": "j_nasolabial_le_2"
+        },
+        {
+            "string": "j_nasolabial_le_3"
+        },
+        {
+            "string": "j_nasolabial_le_4"
+        },
+        {
+            "string": "j_nasolabial_ri_1"
+        },
+        {
+            "string": "j_nasolabial_ri_2"
+        },
+        {
+            "string": "j_nasolabial_ri_3"
+        },
+        {
+            "string": "j_nasolabial_ri_4"
+        },
+        {
+            "string": "j_neck"
+        },
+        {
+            "string": "j_neck_clench_bot_le"
+        },
+        {
+            "string": "j_neck_clench_bot_ri"
+        },
+        {
+            "string": "j_neck_clench_top_le"
+        },
+        {
+            "string": "j_neck_clench_top_ri"
+        },
+        {
+            "string": "j_neck_helper"
+        },
+        {
+            "string": "j_nose_bridge_le"
+        },
+        {
+            "string": "j_nose_bridge_ri"
+        },
+        {
+            "string": "j_nose_tip"
+        },
+        {
+            "string": "j_pectoral_le"
+        },
+        {
+            "string": "j_pectoral_ri"
+        },
+        {
+            "string": "j_pelvishelper_le"
+        },
+        {
+            "string": "j_pelvishelper_ri"
+        },
+        {
+            "string": "j_periorbital_le"
+        },
+        {
+            "string": "j_periorbital_ri"
+        },
+        {
+            "string": "j_pinky_le_1"
+        },
+        {
+            "string": "j_pinky_le_2"
+        },
+        {
+            "string": "j_pinky_le_3"
+        },
+        {
+            "string": "j_pinky_ri_1"
+        },
+        {
+            "string": "j_pinky_ri_2"
+        },
+        {
+            "string": "j_pinky_ri_3"
+        },
+        {
+            "string": "j_ring_le_1"
+        },
+        {
+            "string": "j_ring_le_2"
+        },
+        {
+            "string": "j_ring_le_3"
+        },
+        {
+            "string": "j_ring_ri_1"
+        },
+        {
+            "string": "j_ring_ri_2"
+        },
+        {
+            "string": "j_ring_ri_3"
+        },
+        {
+            "string": "j_septal_branch"
+        },
+        {
+            "string": "j_shoulder_le"
+        },
+        {
+            "string": "j_shoulder_ri"
+        },
+        {
+            "string": "j_shouldertwist_le"
+        },
+        {
+            "string": "j_shouldertwist_ri"
+        },
+        {
+            "string": "j_spin"
+        },
+        {
+            "string": "j_spinelower"
+        },
+        {
+            "string": "j_spineupper"
+        },
+        {
+            "string": "j_temple_le"
+        },
+        {
+            "string": "j_temple_ri"
+        },
+        {
+            "string": "j_teres_le"
+        },
+        {
+            "string": "j_teres_ri"
+        },
+        {
+            "string": "j_thumb_le_1"
+        },
+        {
+            "string": "j_thumb_le_2"
+        },
+        {
+            "string": "j_thumb_le_3"
+        },
+        {
+            "string": "j_thumb_ri_1"
+        },
+        {
+            "string": "j_thumb_ri_2"
+        },
+        {
+            "string": "j_thumb_ri_3"
+        },
+        {
+            "string": "j_tongue_1"
+        },
+        {
+            "string": "j_tongue_2"
+        },
+        {
+            "string": "j_uppergum"
+        },
+        {
+            "string": "j_wrist_le"
+        },
+        {
+            "string": "j_wrist_ri"
+        },
+        {
+            "string": "j_wristfronttwist1_le"
+        },
+        {
+            "string": "j_wristfronttwist1_ri"
+        },
+        {
+            "string": "l_back_jnt"
+        },
+        {
+            "string": "l_front_jnt"
+        },
+        {
+            "string": "leftarm_jnt"
+        },
+        {
+            "string": "main_rotor_jnt"
+        },
+        {
+            "string": "mg01"
+        },
+        {
+            "string": "origin_animate1_jnt"
+        },
+        {
+            "string": "origin_animate_jnt"
+        },
+        {
+            "string": "pelvis"
+        },
+        {
+            "string": "r_back_jnt"
+        },
+        {
+            "string": "r_front_jnt"
+        },
+        {
+            "string": "rightarm_jnt"
+        },
+        {
+            "string": "rotor_jnt"
+        },
+        {
+            "string": "rudder_l_jnt"
+        },
+        {
+            "string": "rudder_r_jnt"
+        },
+        {
+            "string": "tag"
+        },
+        {
+            "string": "tag_ai_aim_target"
+        },
+        {
+            "string": "tag_aim_animated"
+        },
+        {
+            "string": "tag_aim_pivot"
+        },
+        {
+            "string": "tag_barrel"
+        },
+        {
+            "string": "tag_barrel2"
+        },
+        {
+            "string": "tag_barrel_rotate"
+        },
+        {
+            "string": "tag_barrel_view"
+        },
+        {
+            "string": "tag_blade"
+        },
+        {
+            "string": "tag_brass"
+        },
+        {
+            "string": "tag_brass_left"
+        },
+        {
+            "string": "tag_butt"
+        },
+        {
+            "string": "tag_detach_left"
+        },
+        {
+            "string": "tag_detach_right"
+        },
+        {
+            "string": "tag_driver"
+        },
+        {
+            "string": "tag_dummy"
+        },
+        {
+            "string": "tag_explosive1"
+        },
+        {
+            "string": "tag_explosive1_attach"
+        },
+        {
+            "string": "tag_explosive2"
+        },
+        {
+            "string": "tag_explosive2_attach"
+        },
+        {
+            "string": "tag_explosive3"
+        },
+        {
+            "string": "tag_explosive3_attach"
+        },
+        {
+            "string": "tag_explosive4"
+        },
+        {
+            "string": "tag_explosive4_attach"
+        },
+        {
+            "string": "tag_fastrope_le"
+        },
+        {
+            "string": "tag_fastrope_ri"
+        },
+        {
+            "string": "tag_fire"
+        },
+        {
+            "string": "tag_flash_2"
+        },
+        {
+            "string": "tag_flash_attach"
+        },
+        {
+            "string": "tag_flash_left"
+        },
+        {
+            "string": "tag_flash_right"
+        },
+        {
+            "string": "tag_fx_1"
+        },
+        {
+            "string": "tag_fx_2"
+        },
+        {
+            "string": "tag_gun_left"
+        },
+        {
+            "string": "tag_guy01"
+        },
+        {
+            "string": "tag_guy02"
+        },
+        {
+            "string": "tag_guy03"
+        },
+        {
+            "string": "tag_guy04"
+        },
+        {
+            "string": "tag_guy05"
+        },
+        {
+            "string": "tag_guy06"
+        },
+        {
+            "string": "tag_guy07"
+        },
+        {
+            "string": "tag_guy08"
+        },
+        {
+            "string": "tag_guy1"
+        },
+        {
+            "string": "tag_guy2"
+        },
+        {
+            "string": "tag_guy3"
+        },
+        {
+            "string": "tag_guy4"
+        },
+        {
+            "string": "tag_hatch"
+        },
+        {
+            "string": "tag_inhand"
+        },
+        {
+            "string": "tag_laser"
+        },
+        {
+            "string": "tag_left_light_tail"
+        },
+        {
+            "string": "tag_left_lighta_tail"
+        },
+        {
+            "string": "tag_lid1"
+        },
+        {
+            "string": "tag_lid1_attach"
+        },
+        {
+            "string": "tag_lid2"
+        },
+        {
+            "string": "tag_lid2_attach"
+        },
+        {
+            "string": "tag_lid3"
+        },
+        {
+            "string": "tag_lid3_attach"
+        },
+        {
+            "string": "tag_lid4"
+        },
+        {
+            "string": "tag_lid4_attach"
+        },
+        {
+            "string": "tag_light_cargo01"
+        },
+        {
+            "string": "tag_light_front"
+        },
+        {
+            "string": "tag_light_tail3"
+        },
+        {
+            "string": "tag_missile_1"
+        },
+        {
+            "string": "tag_missile_2"
+        },
+        {
+            "string": "tag_missile_left"
+        },
+        {
+            "string": "tag_missile_right"
+        },
+        {
+            "string": "tag_missile_target"
+        },
+        {
+            "string": "tag_passenger"
+        },
+        {
+            "string": "tag_pilot"
+        },
+        {
+            "string": "tag_pilot1"
+        },
+        {
+            "string": "tag_pilot2"
+        },
+        {
+            "string": "tag_pivot"
+        },
+        {
+            "string": "tag_playerride"
+        },
+        {
+            "string": "tag_reflector_arm_le"
+        },
+        {
+            "string": "tag_reflector_arm_ri"
+        },
+        {
+            "string": "tag_rider"
+        },
+        {
+            "string": "tag_right_aphid_missile"
+        },
+        {
+            "string": "tag_right_archer_missile1"
+        },
+        {
+            "string": "tag_right_light_tail"
+        },
+        {
+            "string": "tag_right_lighta_tail"
+        },
+        {
+            "string": "tag_shield_back"
+        },
+        {
+            "string": "tag_stowed_back"
+        },
+        {
+            "string": "tag_stowed_hip_rear"
+        },
+        {
+            "string": "tag_sync"
+        },
+        {
+            "string": "tag_turret2"
+        },
+        {
+            "string": "tag_walker3"
+        },
+        {
+            "string": "tag_weapon_chest"
+        },
+        {
+            "string": "tag_weapon_left"
+        },
+        {
+            "string": "tag_weapon_right"
+        },
+        {
+            "string": "tag_wheel_back_left"
+        },
+        {
+            "string": "tag_wheel_back_right"
+        },
+        {
+            "string": "tag_wheel_front_left"
+        },
+        {
+            "string": "tag_wheel_front_right"
+        },
+        {
+            "string": "tag_wheel_middle_left"
+        },
+        {
+            "string": "tag_wheel_middle_right"
+        },
+        {
+            "string": "tag_wings"
+        },
+        {
+            "string": "top_rotor_jnt"
+        },
+        {
+            "string": "torso_stabilizer"
+        },
+        {
+            "string": "turret_animate_jt"
+        },
+        {
+            "string": "turret_recoil"
+        }
+    ]
+}

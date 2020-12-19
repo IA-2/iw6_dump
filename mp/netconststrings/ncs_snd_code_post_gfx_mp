@@ -1,0 +1,170 @@
+{
+    "name": "ncs_snd_code_post_gfx_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "entryCount": 54,
+    "strings": [
+        {
+            "string": "AB_1mc_boost"
+        },
+        {
+            "string": "AF_1mc_boost"
+        },
+        {
+            "string": "FR_1mc_boost"
+        },
+        {
+            "string": "GE_1mc_boost"
+        },
+        {
+            "string": "IC_1mc_boost"
+        },
+        {
+            "string": "NS_1mc_boost"
+        },
+        {
+            "string": "PC_1mc_boost"
+        },
+        {
+            "string": "PG_1mc_boost"
+        },
+        {
+            "string": "RU_1mc_boost"
+        },
+        {
+            "string": "SP_1mc_boost"
+        },
+        {
+            "string": "UK_1mc_boost"
+        },
+        {
+            "string": "US_1mc_boost"
+        },
+        {
+            "string": "action_denied"
+        },
+        {
+            "string": "consider_prestige"
+        },
+        {
+            "string": "enter_prestige"
+        },
+        {
+            "string": "exit_prestige"
+        },
+        {
+            "string": "match_countdown_tick"
+        },
+        {
+            "string": "mouse_click"
+        },
+        {
+            "string": "mouse_negative"
+        },
+        {
+            "string": "mouse_over"
+        },
+        {
+            "string": "mouse_submenu_over"
+        },
+        {
+            "string": "mp_experience_tick"
+        },
+        {
+            "string": "mp_killstreak_equip"
+        },
+        {
+            "string": "mp_killstreak_equip_done"
+        },
+        {
+            "string": "mp_player_join"
+        },
+        {
+            "string": "mp_player_leave"
+        },
+        {
+            "string": "mp_prestige_purchase"
+        },
+        {
+            "string": "music_credits_entire_scroll"
+        },
+        {
+            "string": "null"
+        },
+        {
+            "string": "other_adjust"
+        },
+        {
+            "string": "tabs_slide"
+        },
+        {
+            "string": "ui_character_slide"
+        },
+        {
+            "string": "ui_hilite"
+        },
+        {
+            "string": "ui_hilite_submenu"
+        },
+        {
+            "string": "ui_kinect_command_bad"
+        },
+        {
+            "string": "ui_kinect_command_good"
+        },
+        {
+            "string": "ui_mp_ability_deselect"
+        },
+        {
+            "string": "ui_mp_ability_select"
+        },
+        {
+            "string": "ui_mp_package_deselect"
+        },
+        {
+            "string": "ui_mp_package_select"
+        },
+        {
+            "string": "ui_mp_player_join_lobby"
+        },
+        {
+            "string": "ui_mp_player_leave_lobby"
+        },
+        {
+            "string": "ui_other_adjust"
+        },
+        {
+            "string": "ui_page_change"
+        },
+        {
+            "string": "ui_points_spent"
+        },
+        {
+            "string": "ui_screen_adjust"
+        },
+        {
+            "string": "ui_screen_change"
+        },
+        {
+            "string": "ui_screen_edge_deny"
+        },
+        {
+            "string": "ui_select_back"
+        },
+        {
+            "string": "ui_select_confirm"
+        },
+        {
+            "string": "ui_select_deny"
+        },
+        {
+            "string": "ui_slide_adjust"
+        },
+        {
+            "string": "ui_sp_minimap"
+        },
+        {
+            "string": "volume_adjust"
+        }
+    ]
+}

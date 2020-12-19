@@ -1,0 +1,42 @@
+r_glow                                "1"
+r_glowRadius0                         "7"
+r_glowBloomCutoff                     "0.99"
+r_glowBloomDesaturation               "0.65"
+r_glowBloomIntensity0                 "0.36"
+
+r_filmEnable                          "1"
+r_filmContrast                        "1"
+r_filmBrightness                      "0"
+r_filmDesaturation                    "1"
+r_filmInvert                          "0"
+r_filmLightTint                       "1 1 1"
+r_filmDarkTint                        "1 1 1"
+
+r_primaryLightUseTweaks_NG				"0"
+r_primaryLightTweakDiffuseStrength_NG	"1"
+r_primaryLightTweakSpecularStrength_NG	"1"
+r_charLightAmbient_NG			        "0 0 0"
+
+r_viewModelPrimaryLightUseTweaks_NG   "0"
+r_viewModelPrimaryLightTweakDiffuseStrength_NG    "1"
+r_viewModelPrimaryLightTweakSpecularStrength_NG   "1"
+r_viewModelLightAmbient_NG            "0 0 0"
+
+r_rimLight0Pitch_NG                   "-44.5"
+r_rimLight0Heading_NG                 "-39"
+r_rimLightDiffuseIntensity_NG         "1"
+r_rimLightSpecIntensity_NG            "1"
+r_rimLightBias_NG                     "0"
+r_rimLightPower_NG                    "1"
+r_rimLight0Color_NG                   "0.561 0.702 1"
+
+r_unlitSurfaceHDRScalar               "1"
+r_litSurfaceHDRScalar                 "1"
+r_hdrSkyIntensity                     "1"
+r_hdrSkyColorTint                     "1 1 1"
+
+colorizationSet	"thermal_mp_colorset"
+
+use_existing_dvars
+use_existing_hdr_colorization
+use_existing_tone_mapping

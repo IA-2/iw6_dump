@@ -1,0 +1,11 @@
+{
+    "name": "ncs_acl_patch_common_bots_mp",
+    "stringType": 20,
+    "sourceType": 1,
+    "entryCount": 1,
+    "strings": [
+        {
+            "string": "wolf_animclass"
+        }
+    ]
+}

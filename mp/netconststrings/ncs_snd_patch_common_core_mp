@@ -1,0 +1,20 @@
+{
+    "name": "ncs_snd_patch_common_core_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "entryCount": 4,
+    "strings": [
+        {
+            "string": "mp_dropzone_obj_lost"
+        },
+        {
+            "string": "mp_dropzone_obj_new"
+        },
+        {
+            "string": "mp_dropzone_obj_taken"
+        },
+        {
+            "string": "mp_dropzone_timer"
+        }
+    ]
+}

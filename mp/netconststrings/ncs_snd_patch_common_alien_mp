@@ -1,0 +1,20 @@
+{
+    "name": "ncs_snd_patch_common_alien_mp",
+    "stringType": 6,
+    "sourceType": 2,
+    "entryCount": 4,
+    "strings": [
+        {
+            "string": "minigun_gatling_cooldown_npc"
+        },
+        {
+            "string": "minigun_gatling_cooldown_plr"
+        },
+        {
+            "string": "weap_sentry_gun_fire_plr"
+        },
+        {
+            "string": "weap_sentry_gun_fire_plr_lyr"
+        }
+    ]
+}

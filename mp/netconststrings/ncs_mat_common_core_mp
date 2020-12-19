@@ -1,0 +1,509 @@
+{
+    "name": "ncs_mat_common_core_mp",
+    "stringType": 1,
+    "sourceType": 2,
+    "entryCount": 167,
+    "strings": [
+        {
+            "string": "ac130_overlay_grain"
+        },
+        {
+            "string": "alien_icon_ammo_explosive"
+        },
+        {
+            "string": "blitz_time_01_blue"
+        },
+        {
+            "string": "blitz_time_01_orng"
+        },
+        {
+            "string": "blitz_time_02_blue"
+        },
+        {
+            "string": "blitz_time_02_orng"
+        },
+        {
+            "string": "blitz_time_03_blue"
+        },
+        {
+            "string": "blitz_time_03_orng"
+        },
+        {
+            "string": "blitz_time_04_blue"
+        },
+        {
+            "string": "blitz_time_04_orng"
+        },
+        {
+            "string": "blitz_time_05_blue"
+        },
+        {
+            "string": "blitz_time_05_orng"
+        },
+        {
+            "string": "blitz_time_06_blue"
+        },
+        {
+            "string": "blitz_time_06_orng"
+        },
+        {
+            "string": "blitz_time_07_blue"
+        },
+        {
+            "string": "blitz_time_07_orng"
+        },
+        {
+            "string": "blitz_time_08_blue"
+        },
+        {
+            "string": "blitz_time_08_orng"
+        },
+        {
+            "string": "blitz_time_09_blue"
+        },
+        {
+            "string": "blitz_time_09_orng"
+        },
+        {
+            "string": "blitz_time_10_blue"
+        },
+        {
+            "string": "blitz_time_10_orng"
+        },
+        {
+            "string": "compass_objpoint_airstrike_busy"
+        },
+        {
+            "string": "compass_objpoint_airstrike_friendly"
+        },
+        {
+            "string": "compass_objpoint_ammo_enemy"
+        },
+        {
+            "string": "compass_objpoint_ammo_friendly"
+        },
+        {
+            "string": "compass_objpoint_deploy_ammo_friendly"
+        },
+        {
+            "string": "compass_objpoint_deploy_friendly"
+        },
+        {
+            "string": "compass_objpoint_enemy_target"
+        },
+        {
+            "string": "dpad_killstreak_guard_dog"
+        },
+        {
+            "string": "dpad_killstreak_guard_dog_inactive"
+        },
+        {
+            "string": "faction_128_delta"
+        },
+        {
+            "string": "faction_128_delta_fade"
+        },
+        {
+            "string": "faction_128_pmc"
+        },
+        {
+            "string": "faction_128_pmc_fade"
+        },
+        {
+            "string": "faction_icon_fed"
+        },
+        {
+            "string": "faction_icon_us"
+        },
+        {
+            "string": "headicon_dead"
+        },
+        {
+            "string": "headicon_fed"
+        },
+        {
+            "string": "headicon_us"
+        },
+        {
+            "string": "hud_icon_ak12"
+        },
+        {
+            "string": "hud_icon_arx160"
+        },
+        {
+            "string": "hud_icon_fp6"
+        },
+        {
+            "string": "hud_icon_kac"
+        },
+        {
+            "string": "hud_icon_m27"
+        },
+        {
+            "string": "hud_icon_magnum"
+        },
+        {
+            "string": "hud_icon_microtar"
+        },
+        {
+            "string": "hud_icon_mp443_ui"
+        },
+        {
+            "string": "hud_icon_mts255"
+        },
+        {
+            "string": "hud_icon_usr"
+        },
+        {
+            "string": "hud_icon_vepr"
+        },
+        {
+            "string": "icon_hunted"
+        },
+        {
+            "string": "icon_ks_a10_strafe_hud"
+        },
+        {
+            "string": "icon_ks_air_super_hud"
+        },
+        {
+            "string": "icon_ks_ballistic_vest_hud"
+        },
+        {
+            "string": "icon_ks_box_of_guns_hud"
+        },
+        {
+            "string": "icon_ks_dog_hud"
+        },
+        {
+            "string": "icon_ks_ground_jammer_hud"
+        },
+        {
+            "string": "icon_ks_heli_attack_hud"
+        },
+        {
+            "string": "icon_ks_heli_pilot_hud"
+        },
+        {
+            "string": "icon_ks_heli_sniper_hud"
+        },
+        {
+            "string": "icon_ks_i_m_s_hud"
+        },
+        {
+            "string": "icon_ks_jugg_hud"
+        },
+        {
+            "string": "icon_ks_jugg_recon_hud"
+        },
+        {
+            "string": "icon_ks_king_argument_hud"
+        },
+        {
+            "string": "icon_ks_level_hud"
+        },
+        {
+            "string": "icon_ks_loki_hud"
+        },
+        {
+            "string": "icon_ks_maniac_hud"
+        },
+        {
+            "string": "icon_ks_night_owl_hud"
+        },
+        {
+            "string": "icon_ks_odin_hud"
+        },
+        {
+            "string": "icon_ks_sat_com_hud"
+        },
+        {
+            "string": "icon_ks_sentry_gun_hud"
+        },
+        {
+            "string": "icon_ks_skylark_uav_hud"
+        },
+        {
+            "string": "icon_ks_squad_member_hud"
+        },
+        {
+            "string": "icon_ks_squad_support_hud"
+        },
+        {
+            "string": "icon_ks_switchblade_hud"
+        },
+        {
+            "string": "icon_ks_vanguard_hud"
+        },
+        {
+            "string": "icon_ks_vulture_hud"
+        },
+        {
+            "string": "icon_perks_agility"
+        },
+        {
+            "string": "icon_perks_blast_shield"
+        },
+        {
+            "string": "icon_perks_focus"
+        },
+        {
+            "string": "icon_perks_icu"
+        },
+        {
+            "string": "icon_perks_marathon"
+        },
+        {
+            "string": "icon_perks_on_the_go"
+        },
+        {
+            "string": "icon_perks_quickdraw"
+        },
+        {
+            "string": "icon_perks_ready_up"
+        },
+        {
+            "string": "icon_perks_reflex"
+        },
+        {
+            "string": "icon_perks_sleight_of_hand"
+        },
+        {
+            "string": "icon_perks_stalker"
+        },
+        {
+            "string": "icon_perks_steady_aim"
+        },
+        {
+            "string": "icon_perks_tac_resist"
+        },
+        {
+            "string": "icon_perks_triggerhappy"
+        },
+        {
+            "string": "killiconsuicide"
+        },
+        {
+            "string": "objpoint_flag_delta"
+        },
+        {
+            "string": "objpoint_flag_pmc"
+        },
+        {
+            "string": "odin_hud"
+        },
+        {
+            "string": "rank_1stlt1"
+        },
+        {
+            "string": "rank_1stsgt1"
+        },
+        {
+            "string": "rank_2ndlt1"
+        },
+        {
+            "string": "rank_bgen1"
+        },
+        {
+            "string": "rank_capt1"
+        },
+        {
+            "string": "rank_cmdsgtmaj1"
+        },
+        {
+            "string": "rank_col1"
+        },
+        {
+            "string": "rank_comm1"
+        },
+        {
+            "string": "rank_cpl1"
+        },
+        {
+            "string": "rank_gen1"
+        },
+        {
+            "string": "rank_ltcol1"
+        },
+        {
+            "string": "rank_ltgen1"
+        },
+        {
+            "string": "rank_maj1"
+        },
+        {
+            "string": "rank_majgen1"
+        },
+        {
+            "string": "rank_msgt1"
+        },
+        {
+            "string": "rank_pfc1"
+        },
+        {
+            "string": "rank_prestige1"
+        },
+        {
+            "string": "rank_prestige10"
+        },
+        {
+            "string": "rank_prestige2"
+        },
+        {
+            "string": "rank_prestige3"
+        },
+        {
+            "string": "rank_prestige4"
+        },
+        {
+            "string": "rank_prestige5"
+        },
+        {
+            "string": "rank_prestige6"
+        },
+        {
+            "string": "rank_prestige7"
+        },
+        {
+            "string": "rank_prestige8"
+        },
+        {
+            "string": "rank_prestige9"
+        },
+        {
+            "string": "rank_pvt1"
+        },
+        {
+            "string": "rank_sfc1"
+        },
+        {
+            "string": "rank_sgt1"
+        },
+        {
+            "string": "rank_sgtmaj1"
+        },
+        {
+            "string": "rank_spc1"
+        },
+        {
+            "string": "rank_ssgt1"
+        },
+        {
+            "string": "specialty_ammo_crate"
+        },
+        {
+            "string": "tags_hud_icon_1"
+        },
+        {
+            "string": "throw_knife_sm"
+        },
+        {
+            "string": "veh_hud_target_chopperfly"
+        },
+        {
+            "string": "waypoint_bank_a"
+        },
+        {
+            "string": "waypoint_bank_b"
+        },
+        {
+            "string": "waypoint_blitz_defend"
+        },
+        {
+            "string": "waypoint_blitz_goal"
+        },
+        {
+            "string": "waypoint_bomb"
+        },
+        {
+            "string": "waypoint_capture_a"
+        },
+        {
+            "string": "waypoint_capture_b"
+        },
+        {
+            "string": "waypoint_capture_c"
+        },
+        {
+            "string": "waypoint_captureneutral_a"
+        },
+        {
+            "string": "waypoint_captureneutral_b"
+        },
+        {
+            "string": "waypoint_captureneutral_c"
+        },
+        {
+            "string": "waypoint_contested_a"
+        },
+        {
+            "string": "waypoint_contested_b"
+        },
+        {
+            "string": "waypoint_contested_c"
+        },
+        {
+            "string": "waypoint_defend_a"
+        },
+        {
+            "string": "waypoint_defend_b"
+        },
+        {
+            "string": "waypoint_defend_c"
+        },
+        {
+            "string": "waypoint_defuse_a"
+        },
+        {
+            "string": "waypoint_defuse_b"
+        },
+        {
+            "string": "waypoint_dogtags"
+        },
+        {
+            "string": "waypoint_dogtags_friendlys"
+        },
+        {
+            "string": "waypoint_escort"
+        },
+        {
+            "string": "waypoint_losing_a"
+        },
+        {
+            "string": "waypoint_losing_b"
+        },
+        {
+            "string": "waypoint_losing_c"
+        },
+        {
+            "string": "waypoint_revive"
+        },
+        {
+            "string": "waypoint_scoring_foe_a"
+        },
+        {
+            "string": "waypoint_scoring_foe_b"
+        },
+        {
+            "string": "waypoint_scoring_friend_a"
+        },
+        {
+            "string": "waypoint_scoring_friend_b"
+        },
+        {
+            "string": "waypoint_taking_a"
+        },
+        {
+            "string": "waypoint_taking_b"
+        },
+        {
+            "string": "waypoint_taking_c"
+        },
+        {
+            "string": "waypoint_target_a"
+        },
+        {
+            "string": "waypoint_target_b"
+        }
+    ]
+}

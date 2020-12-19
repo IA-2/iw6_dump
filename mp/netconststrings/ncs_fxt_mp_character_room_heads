@@ -1,0 +1,302 @@
+{
+    "name": "ncs_fxt_mp_character_room_heads",
+    "stringType": 19,
+    "sourceType": 2,
+    "entryCount": 98,
+    "strings": [
+        {
+            "string": "j_brow_le_1"
+        },
+        {
+            "string": "j_brow_le_2"
+        },
+        {
+            "string": "j_brow_le_3"
+        },
+        {
+            "string": "j_brow_le_4"
+        },
+        {
+            "string": "j_brow_le_5"
+        },
+        {
+            "string": "j_brow_ri_1"
+        },
+        {
+            "string": "j_brow_ri_2"
+        },
+        {
+            "string": "j_brow_ri_3"
+        },
+        {
+            "string": "j_brow_ri_4"
+        },
+        {
+            "string": "j_brow_ri_5"
+        },
+        {
+            "string": "j_cheek_le_1"
+        },
+        {
+            "string": "j_cheek_le_2"
+        },
+        {
+            "string": "j_cheek_le_3"
+        },
+        {
+            "string": "j_cheek_puff_le"
+        },
+        {
+            "string": "j_cheek_puff_ri"
+        },
+        {
+            "string": "j_cheek_ri_1"
+        },
+        {
+            "string": "j_cheek_ri_2"
+        },
+        {
+            "string": "j_cheek_ri_3"
+        },
+        {
+            "string": "j_chin"
+        },
+        {
+            "string": "j_chin_1_le"
+        },
+        {
+            "string": "j_chin_1_ri"
+        },
+        {
+            "string": "j_chin_le"
+        },
+        {
+            "string": "j_chin_ri"
+        },
+        {
+            "string": "j_ear_bot_le"
+        },
+        {
+            "string": "j_ear_bot_ri"
+        },
+        {
+            "string": "j_ear_top_le"
+        },
+        {
+            "string": "j_ear_top_ri"
+        },
+        {
+            "string": "j_eye_lid_bot_le"
+        },
+        {
+            "string": "j_eye_lid_bot_ri"
+        },
+        {
+            "string": "j_eye_lid_top_le"
+        },
+        {
+            "string": "j_eye_lid_top_ri"
+        },
+        {
+            "string": "j_eyebag_le_1"
+        },
+        {
+            "string": "j_eyebag_le_2"
+        },
+        {
+            "string": "j_eyebag_le_3"
+        },
+        {
+            "string": "j_eyebag_le_4"
+        },
+        {
+            "string": "j_eyebag_ri_1"
+        },
+        {
+            "string": "j_eyebag_ri_2"
+        },
+        {
+            "string": "j_eyebag_ri_3"
+        },
+        {
+            "string": "j_eyebag_ri_4"
+        },
+        {
+            "string": "j_eyeball_le"
+        },
+        {
+            "string": "j_eyeball_ri"
+        },
+        {
+            "string": "j_forehead"
+        },
+        {
+            "string": "j_forehead_le_1"
+        },
+        {
+            "string": "j_forehead_le_2"
+        },
+        {
+            "string": "j_forehead_ri_1"
+        },
+        {
+            "string": "j_forehead_ri_2"
+        },
+        {
+            "string": "j_furrow_le"
+        },
+        {
+            "string": "j_furrow_ri"
+        },
+        {
+            "string": "j_head"
+        },
+        {
+            "string": "j_head_end"
+        },
+        {
+            "string": "j_helmet"
+        },
+        {
+            "string": "j_jaw"
+        },
+        {
+            "string": "j_levator_le_1"
+        },
+        {
+            "string": "j_levator_le_2"
+        },
+        {
+            "string": "j_levator_le_3"
+        },
+        {
+            "string": "j_levator_ri_1"
+        },
+        {
+            "string": "j_levator_ri_2"
+        },
+        {
+            "string": "j_levator_ri_3"
+        },
+        {
+            "string": "j_lip_bot"
+        },
+        {
+            "string": "j_lip_bot_le_1"
+        },
+        {
+            "string": "j_lip_bot_le_2"
+        },
+        {
+            "string": "j_lip_bot_ri_1"
+        },
+        {
+            "string": "j_lip_bot_ri_2"
+        },
+        {
+            "string": "j_lip_top"
+        },
+        {
+            "string": "j_lip_top_le_1"
+        },
+        {
+            "string": "j_lip_top_le_2"
+        },
+        {
+            "string": "j_lip_top_ri_1"
+        },
+        {
+            "string": "j_lip_top_ri_2"
+        },
+        {
+            "string": "j_lowergum"
+        },
+        {
+            "string": "j_mouth_le"
+        },
+        {
+            "string": "j_mouth_ri"
+        },
+        {
+            "string": "j_nasolabial_le_1"
+        },
+        {
+            "string": "j_nasolabial_le_2"
+        },
+        {
+            "string": "j_nasolabial_le_3"
+        },
+        {
+            "string": "j_nasolabial_le_4"
+        },
+        {
+            "string": "j_nasolabial_ri_1"
+        },
+        {
+            "string": "j_nasolabial_ri_2"
+        },
+        {
+            "string": "j_nasolabial_ri_3"
+        },
+        {
+            "string": "j_nasolabial_ri_4"
+        },
+        {
+            "string": "j_neck"
+        },
+        {
+            "string": "j_neck_clench_bot_le"
+        },
+        {
+            "string": "j_neck_clench_bot_ri"
+        },
+        {
+            "string": "j_neck_clench_top_le"
+        },
+        {
+            "string": "j_neck_clench_top_ri"
+        },
+        {
+            "string": "j_neck_helper"
+        },
+        {
+            "string": "j_nose_bridge_le"
+        },
+        {
+            "string": "j_nose_bridge_ri"
+        },
+        {
+            "string": "j_nose_tip"
+        },
+        {
+            "string": "j_periorbital_le"
+        },
+        {
+            "string": "j_periorbital_ri"
+        },
+        {
+            "string": "j_septal_branch"
+        },
+        {
+            "string": "j_spine4"
+        },
+        {
+            "string": "j_temple_le"
+        },
+        {
+            "string": "j_temple_ri"
+        },
+        {
+            "string": "j_tongue_1"
+        },
+        {
+            "string": "j_tongue_2"
+        },
+        {
+            "string": "j_uppergum"
+        },
+        {
+            "string": "tag_eye"
+        }
+    ]
+}

@@ -1,0 +1,121 @@
+body
+{
+	// Idles
+	alien_spider_idle_01
+	alien_spider_idle_02
+	alien_spider_idle_03
+	
+	// Postures
+	alien_spider_posture_01
+	alien_spider_posture_02
+	
+	// Bomb attack
+	alien_spider_attack_bomb_enter
+	alien_spider_attack_bomb_exit
+	alien_spider_attack_bomb_fire
+	
+	// Egg spawn attack
+	alien_spider_attack_egg_enter
+	alien_spider_attack_egg_exit
+	alien_spider_attack_egg_hatching
+	alien_spider_attack_egg_02_enter
+	alien_spider_attack_egg_02_exit
+	alien_spider_attack_egg_02_hatching
+	
+	// Satellite Attack
+	alien_spider_attack_satellite_enter
+	alien_spider_attack_satellite_exit
+	alien_spider_attack_satellite_fire
+	alien_spider_satellite_turn_l
+	alien_spider_satellite_turn_r
+	
+	// Swipe attack
+	alien_spider_attack_short_range_01
+	alien_spider_attack_short_range_02
+	alien_spider_attack_short_range_03
+	
+	// stomp attack
+	alien_spider_attack_stomp_FL
+	alien_spider_attack_stomp_FR
+	alien_spider_attack_stomp_RL
+	alien_spider_attack_stomp_RR
+	
+	// Recharge
+	alien_spider_recharge_enter
+	alien_spider_recharge_idle
+	alien_spider_recharge_exit
+	
+	// intro
+	alien_spider_intro
+	alien_spider_intro_loop
+	alien_spider_intro_tunnel
+	
+	// Death
+	alien_spider_death // old - don't use it
+	alien_spider_death_01
+	
+	// Pain
+	alien_spider_pain01_enter
+	alien_spider_pain01_idle
+	alien_spider_pain01_pain
+	alien_spider_pain01_exit
+	alien_spider_pain02_enter
+	alien_spider_pain02_idle
+	alien_spider_pain02_pain
+	alien_spider_pain02_exit
+	alien_spider_pain_03
+	alien_spider_pain_04
+	
+	// Move
+	alien_spider_move_forward 
+	alien_spider_move_backward
+	alien_spider_move_side_L
+	alien_spider_move_side_R
+
+	
+	// Retreat
+	alien_spider_retreat_a_exit
+	alien_spider_retreat_b_enter
+	alien_spider_retreat_b_exit
+	alien_spider_retreat_c_enter
+	alien_spider_retreat_c_rest_enter
+	alien_spider_retreat_c_rest_exit
+	
+	// Turns
+	alien_spider_turn_45_l
+	alien_spider_turn_45_r
+	alien_spider_turn_l
+	alien_spider_turn_r
+	
+	// armory intel
+	alien_armory_intel_shots_int1_spider
+	alien_armory_intel_night5_spider_01
+    alien_armory_intel_night5_spider_02
+
+	
+	// Aim
+	aim : additive
+	{
+		alien_spider_aim1
+		alien_spider_aim2
+		alien_spider_aim3
+		alien_spider_aim4
+		alien_spider_aim5
+		alien_spider_aim6
+		alien_spider_aim7
+		alien_spider_aim8
+		alien_spider_aim9
+	}	
+	satellite : additive
+	{
+		alien_spider_satellite_aim1
+		alien_spider_satellite_aim2
+		alien_spider_satellite_aim3
+		alien_spider_satellite_aim4
+		alien_spider_satellite_aim5
+		alien_spider_satellite_aim6
+		alien_spider_satellite_aim7
+		alien_spider_satellite_aim8
+		alien_spider_satellite_aim9
+	}	
+}

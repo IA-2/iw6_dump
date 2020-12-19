@@ -1,0 +1,35 @@
+{
+    "name": "ncs_tag_common_mp",
+    "stringType": 10,
+    "sourceType": 2,
+    "entryCount": 9,
+    "strings": [
+        {
+            "string": "j_spine4"
+        },
+        {
+            "string": "tag_camera"
+        },
+        {
+            "string": "tag_inhand"
+        },
+        {
+            "string": "tag_origin"
+        },
+        {
+            "string": "tag_player"
+        },
+        {
+            "string": "tag_shield_back"
+        },
+        {
+            "string": "tag_weapon"
+        },
+        {
+            "string": "tag_weapon_left"
+        },
+        {
+            "string": "tag_weapon_right"
+        }
+    ]
+}
