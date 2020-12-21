@@ -10,5 +10,6 @@
   <li>StringTable</li>
   <li>StructuredData</li>
   <li>NetConstStrings</li>
+  <li>Fonts</li>
   <li>Loaded_Sound</li>
 </ul>
